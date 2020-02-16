@@ -9,12 +9,18 @@ from bs4 import BeautifulSoup
 import re
 from nltk.corpus import stopwords
 from nltk.stem.snowball import FrenchStemmer
+from sklearn.model_selection import train_test_split
+from sklearn.pipeline import Pipeline
+from sklearn.linear_model import SGDClassifier
+from sklearn.model_selection import GridSearchCV
+from sklearn.naive_bayes import MultinomialNB
+from sklearn.ensemble import GradientBoostingClassifier
 
 
 def clean_host_texts(data, tokenizer, stpwds, punct, verbosity=5):
     cleaned_data = []
     for counter, host_text in enumerate(data):
-        host_text = host_text.lower() # converting article to lowercase
+        # converting article to lowercase already done
         temp = BeautifulSoup(host_text, 'lxml')
         text = temp.get_text() # removing HTML formatting
         text = ''.join(l for l in text if l not in punct) # removing punctuation
@@ -46,10 +52,6 @@ for row in train_data:
     train_hosts.append(host)
     y_train.append(label.lower())
 
-# Read test data
-with open("test.csv", 'r') as f:
-    test_hosts = f.read().splitlines()
-
 # Load the textual content of a set of webpages for each host into the dictionary "text". 
 # The encoding parameter is required since the majority of our text is french.
 texts = dict()
@@ -65,12 +67,73 @@ for host in train_hosts:
     else:
         train_data.append('')
 
+
 tokenizer = TweetTokenizer()
 punct = string.punctuation.replace('-', '’“”.»«')
 stpwds = stopwords.words('french')
 cleaned_train_data = clean_host_texts(data=train_data, tokenizer=tokenizer, 
                                      stpwds=stpwds, punct=punct)
 
+X_train, X_eval, Y_train, Y_eval = train_test_split(
+        cleaned_train_data, y_train, test_size=0.2, random_state=42
+        )    
+
+# ========================= SVM don't have predict_proba
+clf_svm = Pipeline([('vect', TfidfVectorizer(decode_error='ignore', ngram_range=(1, 2))),
+                    ('clf', SGDClassifier(alpha=0.0001, max_iter=1000, 
+                                          penalty='l2', random_state=42))])
+     
+clf_svm.fit(X_train, Y_train)
+print(clf_svm.score(X_eval, Y_eval))  
+        
+# ========================= NB
+
+clf_nb = Pipeline([('vect', TfidfVectorizer(decode_error='ignore', ngram_range=(1, 2))),
+                    ('clf', MultinomialNB(alpha=0.001))]) # 0.5459
+
+# ----------------- Grid Search
+#parameters = {
+#        'clf__alpha': (1.0, 1e-1, 1e-2, 1e-3, 1e-4),
+#        }
+#gs_clf = GridSearchCV(clf_nb, parameters, n_jobs=-1)
+#gs_clf = gs_clf.fit(cleaned_train_data, y_train)
+#print(gs_clf.best_score_)
+#print(gs_clf.best_params_)
+
+clf_nb.fit(X_train, Y_train)
+print(clf_nb.score(X_eval, Y_eval))
+
+# ========================= LGR
+
+clf_lgr = Pipeline([('vect', TfidfVectorizer(decode_error='ignore', min_df=10, max_df=1000)),
+                    ('clf', LogisticRegression(solver='lbfgs', multi_class='auto', max_iter=1000))])
+
+clf_lgr.fit(X_train, Y_train)
+print(clf_lgr.score(X_eval, Y_eval)) 
+
+# ========================= GB
+
+#clf_gb = Pipeline([('vect', TfidfVectorizer(decode_error='ignore', ngram_range=(1, 2))),
+#                    ('clf', GradientBoostingClassifier())])
+
+# ------------------------- Grid Search
+#parameters = {
+#        'clf__alpha': (1.0, 1e-1, 1e-2, 1e-3, 1e-4),
+#        }
+#gs_clf = GridSearchCV(clf_nb, parameters, n_jobs=-1)
+#gs_clf = gs_clf.fit(cleaned_train_data, y_train)
+#print(gs_clf.best_score_)
+#print(gs_clf.best_params_)
+
+#clf_gb.fit(X_train, Y_train)
+#print(clf_gb.score(X_eval, Y_eval))  
+
+# =========================----------- Test data
+
+# Read test data
+with open("test.csv", 'r') as f:
+    test_hosts = f.read().splitlines()
+    
 # Get textual content of web hosts of the test set
 test_data = list()
 for host in test_hosts:
@@ -82,27 +145,11 @@ for host in test_hosts:
 cleaned_test_data = clean_host_texts(data=test_data, tokenizer=tokenizer, 
                                      stpwds=stpwds, punct=punct)
 
-# Create the training matrix. Each row corresponds to a web host and each column to a word present in at least 10 web
-# hosts and at most 1000 web hosts. The value of each entry in a row is equal to the tf-idf weight of that word in the 
-# corresponding web host       
+# ========================= Choosing classifier
 
-#vec = TfidfVectorizer(decode_error='ignore', strip_accents='unicode', encoding='latin-1', min_df=10, max_df=1000)
-#X_train = vec.fit_transform(train_data)
-vec = TfidfVectorizer(decode_error='ignore', min_df=10, max_df=100)
-X_train = vec.fit_transform(cleaned_train_data)
-        
-# Create the test matrix following the same approach as in the case of the training matrix
-X_test = vec.transform(cleaned_test_data)
-
-print("Train matrix dimensionality: ", X_train.shape)
-print("Test matrix dimensionality: ", X_test.shape)
-
-# Use logistic regression to classify the webpages of the test set
-clf = LogisticRegression(solver='lbfgs', multi_class='auto', max_iter=1000)
-clf.fit(X_train, y_train)
-print(clf.score(X_train, y_train))
-
-y_pred = clf.predict_proba(X_test)
+clf = clf_nb
+clf.fit(cleaned_train_data, y_train)
+y_pred = clf.predict_proba(cleaned_test_data)
 
 # Write predictions to a file
 with open('my_baseline.csv', 'w') as csvfile:
