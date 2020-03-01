@@ -1,0 +1,274 @@
+
+   https://hal.archives-ouvertes.fr/hal-02309735
+   Contributeur : Béatrice Rayet <>
+   Soumis le : mercredi 9 octobre 2019 - 15:10:00
+   Dernière modification le : vendredi 11 octobre 2019 - 01:04:07
+
+Identifiants
+
+     * HAL Id : hal-02309735, version 1
+
+Collections
+
+   PRIMES_WP1 | PRIMES | LPC-CLERMONT | EC-LYON | INL | UNIV-LYON1 |
+   INSA-LYON | CPPM | LPSC | IPNL | PRES_CLERMONT | UNIV-AMU | INSA-GROUPE
+   | IN2P3 | UGA
+
+Citation
+
+   X. Chen, O. Allegrini, B. Carlus, C. Caplan, L. Caponetto, et al.. A
+   Time-Of-Flight Gamma Camera Data Acquisition System for Hadrontherapy
+   Monitoring. IEEE MIC 2019, Oct 2019, Manchester, United Kingdom.
+   ⟨hal-02309735⟩
+
+Exporter
+
+   BibTeX TEI DC DCterms EndNote
+
+Partager
+
+Métriques
+
+   Consultations de la notice
+
+15
+
+Contact
+
+   support.ccsd.cnrs.fr
+   hal.support@ccsd.cnrs.fr
+   Logo CCSD
+   #HAL
+
+   (BUTTON) Toggle navigation
+   CCSD
+     * HAL
+          + HAL
+          + HALSHS
+          + TEL
+          + MédiHAL
+          + Liste des portails
+          +
+          + AURéHAL
+          + API
+          + Data
+          + Documentation
+     * Episciences.org
+          + Episciences.org
+          + Revues
+          +
+          + Documentation
+     * Sciencesconf.org
+     * Support
+
+   (BUTTON)  Connexion (BUTTON)
+     * Connexion
+     * Connexion avec ORCID
+     * se connecter avec Fédération
+     *
+     * Créer un compte
+     *
+     * Mot de passe oublié ?
+     * Login oublié ?
+
+     * fr
+     * en
+
+   hal
+     * Accueil
+     * Dépôt
+     * Consultation
+          + Les derniers dépôts
+          + Par type de publication
+          + Par discipline
+          + Par année de publication
+          + Par structure de recherche
+          + Les portails de l'archive
+          + Les collections
+     * Recherche
+     * Documentation
+
+   (BUTTON) hal-02309672, version 1
+
+A μTCA back-end firmware for data acquisition and slow control of the CLaRyS
+Compton camera
+
+   C. Caplan ^1 O. Allegrini ^2 J. P. Cachemiche ^1 B. Carlus ^2 X. Chen
+   ^2 D. Dauvergne ^3 R. Della Negra ^2 M. Fontana ^2 L. Gallin-Martel ^3
+   J. Hérault ^4 D. Lambert ^5 G.-N. Lu ^6 M. Magne ^5 H. Mathez ^2 G.
+   Montarou ^5 C. Morel ^1 M. Rodo-Bordera ^1 E. Testa ^2 Y. Zoccarato ^2
+   (BUTTON) Détails
+   1 CPPM - Centre de Physique des Particules de Marseille
+   2 IPNL - Institut de Physique Nucléaire de Lyon
+   3 LPSC - Laboratoire de Physique Subatomique et de Cosmologie
+   4 LPC - Laboratoire de Physique de Clermont
+   5 LPC - Laboratoire de Physique Corpusculaire - Clermont-Ferrand
+   6 INL - Institut des Nanotechnologies de Lyon
+
+       C. Caplan ^1 AuthorId : 11147596
+     Auteur
+
+       O. Allegrini ^2 AuthorId : 11594916
+     Auteur
+
+       J. P. Cachemiche ^1 AuthorId : 412124
+     Auteur
+
+       B. Carlus ^2 AuthorId : 145420
+     Auteur
+
+       X. Chen ^2 AuthorId : 17591
+     Auteur
+
+       D. Dauvergne ^3 AuthorId : 11594870
+     Auteur
+
+       R. Della Negra ^2 AuthorId : 74475
+     Auteur
+
+       M. Fontana ^2 AuthorId : 222141
+     Auteur
+
+       L. Gallin-Martel ^3 AuthorId : 52532
+     Auteur
+
+       J. Hérault ^4 AuthorId : 270264
+     Auteur
+
+       D. Lambert ^5 AuthorId : 13542
+     Auteur
+
+       G.-N. Lu ^6 AuthorId : 313007
+     Auteur
+
+       M. Magne ^5 AuthorId : 72333
+     Auteur
+
+       H. Mathez ^2 AuthorId : 812315
+     Auteur
+
+       G. Montarou ^5 AuthorId : 1259137
+     Auteur
+
+       C. Morel ^1 AuthorId : 412410
+     Auteur
+
+       M. Rodo-Bordera ^1 AuthorId : 1319877
+     Auteur
+
+       E. Testa ^2 AuthorId : 303470
+     Auteur
+
+       Y. Zoccarato ^2 AuthorId : 146064
+     Auteur
+
+   1 CPPM - Centre de Physique des Particules de Marseille (163, avenue de
+   Luminy - Case 902 - 13288 Marseille cedex 09 - France) StructId :
+   199968
+     * CNRS - Centre National de la Recherche Scientifique : UMR7346
+       (France) StructId : 441569
+     * IN2P3 - Institut National de Physique Nucléaire et de Physique des
+       Particules du CNRS (France) StructId : 300046
+     * AMU - Aix Marseille Université : UMR7346 (Aix-Marseille Université
+       Jardins du Pharo 58 Boulevard Charles Livon 13284 Marseille cedex 7
+       - France) StructId : 198056
+
+   2 IPNL - Institut de Physique Nucléaire de Lyon (Campus LyonTech-la
+   Doua Bâtiment Paul DIRAC 4 Rue Enrico Fermi 69622 Villeurbanne Cedex -
+   France) StructId : 2
+     * UCBL - Université Claude Bernard Lyon 1 (43, boulevard du 11
+       novembre 1918, 69622 Villeurbanne cedex - France) StructId : 194495
+          + Université de Lyon (92 rue Pasteur - CS 30122, 69361 Lyon
+            Cedex 07 - France) StructId : 301088
+     * IN2P3 - Institut National de Physique Nucléaire et de Physique des
+       Particules du CNRS (France) StructId : 300046
+     * CNRS - Centre National de la Recherche Scientifique : UMR5822
+       (France) StructId : 441569
+
+   3 LPSC - Laboratoire de Physique Subatomique et de Cosmologie (53
+   avenue des Martyrs - 38026 Grenoble Cedex - France) StructId : 126
+     * UJF - Université Joseph Fourier - Grenoble 1 (BP 53 - 38041
+       Grenoble Cedex 9 - France) StructId : 51016
+     * Grenoble INP - Institut polytechnique de Grenoble - Grenoble
+       Institute of Technology (46 avenue Félix Viallet 38031 Grenoble
+       Cedex 1 - France) StructId : 89889
+     * IN2P3 - Institut National de Physique Nucléaire et de Physique des
+       Particules du CNRS (France) StructId : 300046
+     * Institut Polytechnique de Grenoble - Grenoble Institute of
+       Technology (France) StructId : 300339
+     * CNRS - Centre National de la Recherche Scientifique : UMR5821
+       (France) StructId : 441569
+     * UGA - Université Grenoble Alpes (CS 40700 - 38058 Grenoble cedex -
+       France) StructId : 445543
+
+   4 LPC - Laboratoire de Physique de Clermont (Campus Universitaire des
+   Cézeaux, 4 Avenue Blaise Pascal, TSA 60026, CS 6002, 63178 Aubière
+   Cedex - France) StructId : 481502
+     * IN2P3 - Institut National de Physique Nucléaire et de Physique des
+       Particules du CNRS (France) StructId : 300046
+     * UCA - Université Clermont Auvergne : UMR6533 (49, bd
+       François-Mitterrand / CS 60032 / 63001 Clermont-Ferrand Cedex 1 -
+       France) StructId : 422708
+     * CNRS - Centre National de la Recherche Scientifique : UMR6533
+       (France) StructId : 441569
+
+   5 LPC - Laboratoire de Physique Corpusculaire - Clermont-Ferrand
+   (Campus des Cézeaux / 24 avenue des Landais / BP 80026 / 63171 Aubière
+   Cedex - France) StructId : 131
+     * UBP - Université Blaise Pascal - Clermont-Ferrand 2 (34, avenue
+       Carnot - BP 185 / 63006 Clermont-Ferrand cedex - France) StructId :
+       205618
+     * IN2P3 - Institut National de Physique Nucléaire et de Physique des
+       Particules du CNRS (France) StructId : 300046
+     * CNRS - Centre National de la Recherche Scientifique : UMR6533
+       (France) StructId : 441569
+
+   6 INL - Institut des Nanotechnologies de Lyon (France) StructId :
+   179701
+     * ECL - École Centrale de Lyon (36 avenue Guy de Collongue - 69134
+       Ecully cedex - France) StructId : 126765
+          + Université de Lyon (92 rue Pasteur - CS 30122, 69361 Lyon
+            Cedex 07 - France) StructId : 301088
+     * CNRS - Centre National de la Recherche Scientifique : UMR5270
+       (France) StructId : 441569
+     * INSA Lyon - Institut National des Sciences Appliquées de Lyon (20
+       Avenue Albert Einstein, 69621 Villeurbanne cedex - France) StructId
+       : 219748
+          + Université de Lyon (92 rue Pasteur - CS 30122, 69361 Lyon
+            Cedex 07 - France) StructId : 301088
+          + INSA - Institut National des Sciences Appliquées (France)
+            StructId : 301232
+     * CPE - École supérieure de Chimie Physique Electronique de Lyon
+       (Domaine Scientifique de la Doua Bâtiment Hubert Curien 43
+       Boulevard du 11 Novembre 1918 69616 Villeurbanne - France) StructId
+       : 210962
+     * UCBL - Université Claude Bernard Lyon 1 (43, boulevard du 11
+       novembre 1918, 69622 Villeurbanne cedex - France) StructId : 194495
+          + Université de Lyon (92 rue Pasteur - CS 30122, 69361 Lyon
+            Cedex 07 - France) StructId : 301088
+
+   (BUTTON) Masquer les détails
+   Abstract : With the aim to build a real-time controlled time-of-flight
+   Compton camera for an improved ion-range dose delivery control on
+   hadrontherapy, as defined by the CLaRyS collaboration project, a
+   programming data acquisition and slow control back-end electronics is
+   necessary. This paper presents the FPGA based firmware architecture,
+   embedded software and associated tools for the back-end electronics of
+   CLaRyS, that is able to provide multiple 3 Gb/s optical links for data
+   acquisition, trigger distribution and slow control over its detectors.
+   Performance of the system based on simulations and analysis of the
+   results acquired during the characterization of a beam hodoscope will
+   be presented. Experiments were performed with the 65 MeV proton beam of
+   the medical cyclotron at the Mediterranean Protontherapy Institute, in
+   Nice. CLaRyS Collaboration
+   Keywords : DSP FPGA Compton camera hadrontherapy
+   Type de document :
+   Communication dans un congrès
+   Domaine :
+
+   Physique [physics] / Physique [physics] / Physique Médicale
+   [physics.med-ph]
+   Physique [physics] / Physique [physics] / Instrumentations et
+   Détecteurs [physics.ins-det]
+
+   Liste complète des métadonnées (BUTTON)  Voir (BUTTON)  Masquer

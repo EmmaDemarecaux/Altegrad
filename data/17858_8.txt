@@ -1,0 +1,13 @@
+
+   https://hal.inria.fr/hal-01793586
+   Contributeur : Marc Shapiro <>
+   Soumis le : mercredi 16 mai 2018 - 16:52:48
+   Dernière modification le : lundi 9 septembre 2019 - 11:24:02
+
+Fichier
+
+   [small]
+   CRDTs-encyclopedia.zip
+   Fichiers produits par l'(les) auteur(s)
+
+Licence

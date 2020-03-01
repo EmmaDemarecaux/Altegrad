@@ -1,0 +1,116 @@
+
+Step 4
+
+Customize Your Blog
+
+   In this section, I’ll introduce you to the WordPress Dashboard and help
+   you install a theme to increase your blog’s visual appeal.
+
+An Introduction to the WordPress Dashboard
+
+   The WordPress Dashboard can be quite overwhelming for first-time users
+   but I promise you’ll get used to it sooner than you think. For the
+   purpose of this post, I’ll cover the following items:
+     * Activating a Theme
+     * Writing Your First Post
+     * Exploring the Media Library
+     * Adding a User
+
+   Sounds good? Let’s get started.
+
+Activating a Theme
+
+   We’ll start out by installing and activating a WordPress theme to our
+   blog. By default, WordPress has its default theme activated (Twenty
+   Sixteen as of this writing). We’re going to change the default theme to
+   a more sophisticated and contemporary theme designed specifically for
+   blogging sites. Enter Activello.
+
+   Activello is a simple, multipurpose blog theme for WordPress designed
+   by our exceptionally talented team. It’s got all the right features to
+   get you started with a professional and modern-looking blog. Best of
+   all it’s free! You can download it from here.
+   Install Activello theme
+
+   Upload the theme’s .zip file and click Install Now.
+    1. From your WordPress Dashboard, hover over the Appearance menu item
+       and click on Themes in the sub-menu. (Appearance > Themes)
+    2. Once you’re at the Themes window, click the Add New button at the
+       top
+    3. Click the Upload Theme button and upload the theme’s .zip file.
+    4. Once it’s uploaded, click Install Now.
+    5. You will be redirected to a screen that notifies you of the status
+       of the installation. Click the Activate link once the theme is
+       successfully installed.
+
+   You can leave it be or tweak it if you’d like to change a design aspect
+   by navigating to Appearance > Customize. If you’re thinking of setting
+   up a niche-specific blog then be sure to check out our complete
+   collection of WordPress themes.
+
+Writing Your First Post
+
+   As a blogger, you’ll be writing a ton of posts so it’s important that
+   you pay attention to this section to get the basics down.
+   Adding a post.
+
+   Post-ception!
+    1. Hover over the Posts menu item and click Add New. (Posts > Add New)
+    2. You’ll be redirected to the Add New Post screen which looks
+       something like this:
+    3. Add a suitable title in the text box that says Enter title here.
+    4. In the big text editor below, add your post’s content. You’ll find
+       that there’s a handy dandy toolbar embedded inside to help you
+       format your post.
+    5. Click the Publish button once you’re done.
+
+   Voila! The post is published to your blog and everyone can see it now.
+   How easy was that?
+
+Exploring the Media Library
+
+   The WordPress Media Library is a powerful tool that you can leverage to
+   handle practically all of your media management. It stores all media
+   files (images, videos, audio, and documents) that you upload to your
+   WordPress blog regardless of whether it’s published or not.
+   WordPress Media Library.
+
+   The powerful Media Library.
+    1. Click the Media menu item from the WordPress Dashboard.
+    2. You will be redirected to the Media Library screen from where you
+       can manage all of your media files.
+    3. Click the Add New button at the top of the screen.
+    4. Select a media item from your drive and upload it.
+    5. The media item will be added to your Media Library and you can
+       embed it in posts and pages now.
+
+   The Media Library also lets you edit images from within WordPress —
+   cropping, resizing, scaling – you name it. A blog post isn’t complete
+   without a few relevant images to go with it!
+
+Adding a User
+
+   Seeing that you’re a dedicated blogger and are in high hopes of taking
+   your blogging site to better frontiers (after all, you have made it
+   this far down the post), there will come a time when you’ll need some
+   outside help or in other words, you’ll want to outsource some of your
+   work.
+
+   Whether it’s to manage the technical side of your website or to add a
+   few regular authors to your team, the best way to go about it is to add
+   user accounts. WordPress enables admins to add users to their site
+   which allows them restricted access to the blog’s back end (depending
+   upon the user’s role).
+   Add New User form.
+
+   Fill out the Add New User form and select a user role.
+    1. On the WordPress Dashboard, hover over Users and click Add New.
+       (Users > Add New)
+    2. The Add New User screen will appear and you will be prompted to add
+       some personal details of the user you intend to add.
+    3. Once you’ve filled out the details, select a user role from the
+       drop-down menu e.g. Admin, Author, Editor, etc.
+    4. Click Add New User.
+
+   Your new user will be added to your site and they’ll receive an
+   automated email containing their login information.

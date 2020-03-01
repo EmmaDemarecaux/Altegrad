@@ -1,0 +1,13 @@
+
+   Voici quelques exemples de la façon d'utiliser la fonction de recherche
+   avancée:
+   Saisir ceci and cela renvoie des résultats contenant ces deux mots.
+   Saisir ceci and not cela renvoie des résultats contenant le mot 'ceci'
+   mais pas 'cela'.
+   Saisir ceci or cela renvoie des résultats contenant l'un de ces deux
+   mots.
+   Saisir 'ceci et cela' entre guillemets renvoie des résultats contenant
+   cette phrase exacte.
+   Les résultats de la recherche peuvent être affinés en utilisant une
+   variété de critères, dont la sélection d'un ou plusieurs filtres
+   ci-dessous.

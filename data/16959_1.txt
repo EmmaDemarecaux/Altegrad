@@ -1,0 +1,43 @@
+   Logo D'COL
+   Bienvenue sur D'COL
+   Un espace pour les élèves et les enseignants
+   Identifiant ____________________ *
+   Mot de passe ____________________ *
+   J'ai perdu mon mot de passe
+   Connexion
+   Logo Cned
+   Logo Ere Numérique
+   Logo Ministère
+   Informations légales @ 2019 CNED
+   Logo D'COL
+   Bienvenue sur D'COL
+   Un espace pour les élèves et les enseignants
+   Identifiant ____________________ *
+   Mot de passe ____________________ *
+   J'ai perdu mon mot de passe
+   Connexion
+   Logo Cned
+   Logo Ere Numérique
+   Logo Ministère
+   Informations légales @ 2019 CNED
+   Logo D'COL
+
+Mot de passe oublié ?
+
+Je suis un élève
+
+   Il te faut demander à ton professeur pour réinitialiser ton mot de
+   passe.
+
+Je ne suis pas un élève
+
+   Saisissez le mail associé à votre compte et validez. Nous allons vous
+   envoyer vos identifants de connexion.
+   Adresse mail : __________________________________________________**
+   Code anti-spam : [CaptchaImage.ashx]
+   ____________________
+   Retour Valider
+   Logo Cned
+   Logo Ere Numérique
+   Logo Ministère
+   D'COL

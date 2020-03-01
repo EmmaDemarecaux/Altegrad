@@ -1,0 +1,8 @@
+
+   [map_arrow.png]
+
+   Cliquez sur votre région
+   pour trouver l’association
+   France Rein la plus proche
+   et découvrir son site
+   [map_icon.png]

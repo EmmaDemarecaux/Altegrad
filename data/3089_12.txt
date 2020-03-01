@@ -1,0 +1,23 @@
+
+Retroactive 64drive
+
+   At twice the price of the Everdrive 64, the 64drive doesn’t seem to
+   offer enough to justify such a hike in price, unless you’re a homebrew
+   developer.
+
+   Where it differs from the Everdrive 64 is its combination of a
+   CompactFlash and MicroSD card slot, allowing up to a maximum of 160gb
+   of storage space. Given that the entire Nintendo 64 ROM set will only
+   take up a fraction of this available space, there is little reason to
+   even think about investing in such a large memory card for use on the
+   64drive.
+
+   Clearly created with homebrew developers in mind (fast USB connectivity
+   and large storage space), those more interested in the gaming side of
+   flash cards should look towards the cheaper option.
+     * Storage: MicroSD and CompactFlash cards
+     * Pros: Great compatibility, save game writing, storage space
+       potential
+     * Cons: Very expensive
+
+   Link: Buy 64drive

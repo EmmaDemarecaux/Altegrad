@@ -1,0 +1,30 @@
+    #Théâtre-Sénart » À VOTRE ÉCOUTE ! Flux des commentaires alternate
+   alternate
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-KNNBZH
+
+   logo
+     * saisons
+     * le théâtre
+     * accès pro
+     * infos pratiques
+     * Tarifs
+     * mon compte
+     * billetterie
+
+   ____________________ (BUTTON) Rechercher
+
+   logo
+     * saisons
+     * le théâtre
+     * accès pro
+     * infos pratiques
+     * Tarifs
+     * mon compte
+     * billetterie
+
+   ____________________ (BUTTON) Rechercher
+
+À VOTRE ÉCOUTE !
+
+QUESTIONS DIVERSES - INSCRIPTION/DÉSINSCRIPTION NEWSLETTERS...

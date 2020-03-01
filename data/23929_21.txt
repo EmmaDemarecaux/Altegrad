@@ -1,0 +1,174 @@
+
+   Appel de note [fleche.gif] Astérisque, Note.
+
+   [alinea.gif] L’appel de note est une balise qui indique au lecteur
+   qu’une information complémentaire  relative au mot ou au groupe de
+   mots précédents  est située hors du texte courant (en bas de page, en
+   marge, en fin de chapitre ou de volume).
+   [alinea.gif] On dit également « renvoi de note », mais c’est introduire
+   un risque de confusion avec les vrais renvois tels que «  [fleche.gif]
+    », « Voir » ou « Cf. », qui eux n’envoient pas nécessairement le
+   lecteur vers une note mais, selon les cas, vers une zone précise du
+   texte courant ou de ses annexes, vers un autre ouvrage, une
+   publication…
+   [alinea.gif] Visuellement, l’appel de note devrait avoir deux qualités.
+   Le problème est qu’elles sont contradictoires. Il doit être discret,
+   afin de ne pas perturber la lecture de celui qui n’aime guère
+   s’interrompre pour des broutilles ; il doit être repérable, afin de
+   faciliter la tâche de celui qui, après avoir lu la note, tente de
+   retrouver le lieu où il a abandonné le texte courant. Quelle qualité
+   faut-il privilégier * ? La discrétion.
+   [alinea.gif] * Cela dépend bien sûr de la nature du texte. Ici, je
+   privilégie l’hypothèse où il doit être lu, destination qui ne semble
+   pas invraisemblable.
+   [alinea.gif] D’abord, parce que les notes sont, par nature, des
+   éléments secondaires. Il n’est donc pas opportun de les faire
+   apparaître comme des bornes majeures du texte. Si leur contenu n’est
+   pas accessoire, on voit mal ce qui justifie son bannissement hors du
+   texte courant. (Enfin… si, on le voit très bien : dans la plupart des
+   cas, c’est l’incapacité ou la renonciation * à intégrer une information
+   essentielle au bon endroit. Bien sûr, des auteurs ont su jouer de la
+   mise en note excessive avec esprit ; je n’évoque ici que les appels de
+   note « ordinairement excessifs », les plus nombreux.)
+   [alinea.gif] * Et non le renoncement.
+   [alinea.gif] L’argument du retour aisé n’est guère convaincant. Il ne
+   s’applique pleinement qu’aux notes de bas de page (sous réserve
+   qu’elles soient en nombre limité), beaucoup moins aux notes marginales
+   (en principe situées à la hauteur de l’appel), pas du tout aux notes
+   placées en fin de chapitre ou de volume (le retour sera nécessairement
+   malaisé). Inutile de pénaliser le lecteur qui refuse de rompre le fil,
+   sans réel profit pour celui qui, l’ayant brisé, ne pourra de toute
+   façon le renouer sans un petit effort et n’est plus à une fraction de
+   seconde près.
+                        ____________________________
+
+                                 1. Chiffres
+
+   [alinea.gif] Chiffres supérieurs : ^1.
+   [alinea.gif] Les chiffres supérieurs composés dans un corps inférieur
+   de 2 points à celui du texte courant sont les plus discrets des appels
+   de notes. Multipliables à loisir, ils sont recommandables dans la
+   quasi-totalité des cas.
+   [alinea.gif] Deux restrictions expliquent ce quasi :
+   [alinea.gif]  dans les ouvrages où des chiffres sont mis en exposant,
+   la confusion est inévitable ;
+   [alinea.gif]  dans les compositions en petit corps (5 ou 6 points), le
+   corps de l’appel (4 points…) est illisible pour une part non
+   négligeable des lecteurs ^23.
+   [alinea.gif] Chiffres supérieurs entre parenthèses : ^(1).
+   [alinea.gif] Le recours à ces lourds appels n’est envisageable que dans
+   les cas évoqués plus haut (confusion avec les exposants), mais les
+   lettres supérieures entre parenthèses : ^(a) sont dans ces occurrences
+   préférables, voir : § 2. Les parenthèses sont dans le corps de
+   l’appel : ^(1) et jamais dans le corps du texte : (^2).
+   [alinea.gif] Les chiffres du même corps que celui du texte courant ne
+   peuvent être employés qu’entre parenthèses : (1) ou entre
+   crochets : [1], cela se conçoit aisément. L’emploi de ces très lourds
+   appels devrait être limité aux textes composés dans un petit corps..
+                        ____________________________
+
+                                 2. Lettres
+
+   [alinea.gif] Les lettres supérieures se composent en romain : ^a.
+   [alinea.gif] Les lettres supérieures entre parenthèses se composent en
+   italique avec des parenthèses, du même corps, en romain : ^(a).
+   [alinea.gif] Les lettres du même corps que celui du texte courant se
+   composent en italique et imposent l’emploi de parenthèses
+   romaines : (a) ou de crochets : [a].
+                        ____________________________
+
+                               3. Astérisques
+
+   [alinea.gif] Ce n’est pas le plus discret mais, à petites doses, c’est
+   le plus beau des appels de notes. C’est également celui qui connaît les
+   plus sévères restrictions d’emploi…
+   [alinea.gif] ••• L’inconvénient  ou l’avantage ?  principal de
+   l’astérisque est qu’il ne peut être multiplié à loisir. Son usage est
+   ainsi limité aux textes ne présentant jamais plus de trois notes par
+   page : *, **, ***. Trois astérisques successifs ne passent pas
+   inaperçus dans le gris du texte : cette limite est donc théorique. Si
+   l’on doit retrouver ce genre de constellation à chaque page, mieux vaut
+   changer de signe d’appel. L’élégance de l’astérisque ne se manifeste
+   pas dans la profusion. C’est le signe idéal pour les appels de notes
+   d’auteur, s’ils sont rares. Au-delà de trois astérisques, on pénètre
+   sur le terrain du jeu, du burlesque ou du ridicule
+   typographique : ****. La perception du lecteur connaît des limites
+   qu’il est courtois de respecter : *****.
+   [alinea.gif] [egal.gif] Impr. nat. 1990, Vairel 1992.
+   [alinea.gif] [different.gif] Guéry 1990.
+   [alinea.gif] •• On renoncera à l’astérisque comme appel de note si l’on
+   tient à l’utiliser comme signe abréviatif ou comme symbole : [M^me
+   de B*** habitait à ***]. Il faut choisir.
+   [alinea.gif] • Même remarque pour tous les ouvrages spécialisés où
+   l’astérisque joue déjà un rôle particulier. On a longtemps préconisé
+   l’astérisque comme appel de note dans les ouvrages de mathématiques ;
+   c’est aujourd’hui discutable (produit de convolution, absence du zéro
+   dans les ensembles de nombres fondamentaux).
+   [alinea.gif] ¶ On peut tourner la difficulté en adjoignant à
+   l’astérisque des parenthèses supérieures, dans un corps inférieur à
+   celui du texte : ^(*^).
+   [alinea.gif] Attention ! d’autres difficultés surgiront, voir : § 4.
+   Hideuses dans cette occurrence, les parenthèses dans le corps du texte
+   sont très déconseillées : (*).
+   [alinea.gif] [egal.gif] Impr. nat. 1990.
+   [alinea.gif] [different.gif] Code typ. 1993.
+                        ____________________________
+
+                          4. Parenthèses, crochets
+
+   [alinea.gif] Supérieures ou non, les parenthèses sont un pis-aller.
+   [alinea.gif] Leur rencontre avec d’autres parenthèses (appel de note à
+   la fin d’une phrase mise entre parenthèses) est un spectacle peu
+   réjouissant (n’est-ce pas ? ^(*^)). (Certainement (**)).
+   [alinea.gif] Impr. nat. 1990 suggère de les transformer alors en
+   crochets (comme ça ? [^1]). À mon sens, cela n’arrange rien pour le
+   lecteur, troublé par un changement inopiné de code. Pis, cela introduit
+   une confusion supplémentaire dans les ouvrages où les crochets
+   encadrent une autre catégorie d’appels de notes. Si l’on tient
+   absolument à les isoler du texte courant par des parenthèses ou des
+   crochets, autant appliquer aux appels de notes une règle par ailleurs
+   bien établie, en réservant les crochets pour les renvois
+   bibliographiques ou les notes de l’éditeur. Cela n’évitera pas pour
+   autant les rencontres malheureuses, car, au sein d’un commentaire de
+   l’éditeur [entre crochets], on imagine mal la présence d’un appel de
+   note dû à l’auteur… donc [commentaire [*]]… C’est sans issue. Sauf à
+   supprimer sans pitié parenthèses et crochets dans les appels de notes.
+   [alinea.gif] [evidence.gif] Jadis, les typographes (Dumont 1915,
+   Lefevre 1855) plaçaient l’appel après la phrase ou le membre de phrase
+   entre parenthèses : ceci est un exemple (à ne pas suivre) (*).
+   [alinea.gif] Cette façon de faire n’est pas meilleure :
+   [alinea.gif]  elle enfreint la règle qui proscrit avec raison deux
+   mises entre parenthèses immédiatement successives ;
+   [alinea.gif]  dans la plupart des cas, il est impossible de déterminer
+   si l’appel de note concerne le texte entre parenthèses ou l’ensemble de
+   la phrase ;
+   [alinea.gif]  l’appel ne peut jamais s’appliquer à un seul mot.
+   [alinea.gif] L’élimination des parenthèses de l’appel permet ces
+   distinctions : ceci est un exemple (à suivre *) ; ceci est un autre
+   exemple (à suivre) ** ; ceci est encore un exemple (à suivre ***, lui
+   aussi).
+                        ____________________________
+
+                             5. ¶ Autres signes
+
+   [alinea.gif] •• Les logiciels de traitement de texte permettent de
+   choisir n’importe quel signe comme appel de note. Les vignettes, les
+   symboles, les pictogrammes sont parfois de la fête. Il est prudent de
+   renoncer à cette liberté et de se contenter des signes qui
+   traditionnellement remplissent ce rôle.
+   [alinea.gif] • Toutefois, dans certains ouvrages scientifiques, une
+   entorse à l’orthodoxie typographique sera toujours préférable à un
+   risque de confusion.
+   [alinea.gif] [evidence.gif] Jadis, l’astérisque, la croix et le
+   pied-de-mouche étaient utilisés dans cet ordre comme appels : * ** † ¶.
+   [alinea.gif] Cette façon de faire est heureusement oubliée… L’usage
+   anglais était (est…) un peu différent, mais pas meilleur : * † ‡ ¶.
+   [alinea.gif] Si ça ne suffit pas, on double la dose : ** †† ‡‡ ¶¶. (La
+   croix est ici un poignard, dagger.)
+   [alinea.gif] [egal.gif] Leclerc 1939.
+                        ____________________________
+
+                                6. Conclusion
+
+   [alinea.gif] Quelle que soit sa forme, l’appel de note se place avant
+   la ponctuation. Il est précédé par une espace fine insécable.

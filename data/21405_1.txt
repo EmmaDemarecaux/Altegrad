@@ -1,0 +1,63 @@
+Signaler une publication
+
+   (BUTTON)
+
+   Les administrateurs de RIFFX examinent les contenus avant de valider
+   les publications des utilisateurs afin de déterminer s'ils enfreignent
+   les consignes de la communauté. Les comptes sont pénalisés pour les
+   violations de ces consignes et peuvent être résiliés en cas de
+   répétition. Ne faites pas de fausses déclarations. L'utilisation
+   abusive de cette procédure peut entraîner la suspension de votre compte
+   ou des poursuites judiciaires.
+   Cause de signalement * [_________________________________________]
+   ____________________ Nom / Prénom
+   ____________________ Adresse email
+   ____________________ URL de la publication
+   Description
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   500 caractères maximum 0/500
+   ____________________
+   (BUTTON) Annuler Envoyer
+
+Partager un contenu
+
+   (BUTTON)
+     * Facebook
+     * Twitter
+     * Email
+     * Gmail
+     * SMS
+     * Copier l'url de la publication
+
+   (BUTTON)
+
+   Attention !
+
+   Pour aimer un son, vous devez soit avoir un compte sur RIFFX.fr ou
+   alors aimer via votre numéro de mobile.
+   Me connecter Aimer avec mon téléphone
+
+   (BUTTON)
+
+   Like par SMS
+
+   Pour aimer le son "", veuillez entrer ici votre numéro de téléphone
+   mobile :
+   ____________________ Numéro de téléphone *
+   Valider
+
+   Accueil Qui sommes-nous Actus Concours Conseils Mur du son Talents
+   Évènements Billetterie
+
+   Billetterie
+   Radio RIFFX
+   Se connecter
+
+   ____________________
+
+   Navigation
+   Accueil Qui sommes-nous Actus Concours Conseils Mur du son Talents
+   Évènements Billetterie

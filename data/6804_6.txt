@@ -1,0 +1,28 @@
+
+   NrFFE Nom et Prénom Niveau Validité Club
+   V14354 ARICAT Mauricette Educateur Le Roi Saléen
+   W04608 ARTHUS Dany-Yolene Animateur Arsenal
+   D06765 BERNARD Paul-Henry Animateur Echecs Club de Terreville
+   X05183 BOURGEOIS Patrice Educateur Club D'Echecs-Cercle du Gros Morne
+   J00004 CEPISUL Desire Educateur Le Roi Saléen
+   A60227 DANGLADES Jacqueline Educateur Le Roi Saléen
+   P03467 DEBLAY Marlene Animateur Arsenal
+   G08291 EDMOND Yves Educateur Le Roi Saléen
+   D06762 GOUAIT Raymond Professeur Echecs Club de Terreville
+   V06179 JUPITER Fabrice Animateur Arsenal
+   W06917 LESDEMA Edgard Animateur Arsenal
+   B04304 MARIE-MAGDELEINE Patrice Educateur Arsenal
+   S08186 MEDEUF Jonhel Animateur Le Cavalier de Bronze
+   S08190 MEDEUF Yonhel Animateur 2021-22 Le Cavalier de Bronze
+   J11279 MONTABORD Manuel Animateur Arsenal
+   K14302 RIAM Roger Educateur Club D'Echecs-Cercle du Gros Morne
+   J10952 SUEZ-PANAMA Gilles Animateur 2021-22 Arsenal
+   D01279 VALEY Joseph Animateur Arsenal
+
+   Copyright © 2015 FFE | Mentions légales | Protection des données
+   Fédération Française des Echecs | 6 rue de l'Eglise | 92600 ASNIERES
+   SUR SEINE
+   tél : 01 39 44 65 80 | fax : 01 30 69 93 15 | webmestre :
+   erick.mouret@echecs.asso.fr
+
+   [logo-ffe.png]

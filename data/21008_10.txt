@@ -1,0 +1,10 @@
+
+   Daniel Llewellyn Moins de 10 installations actives Testé avec 4.9.11
+   Mise à jour il y a 1 an
+
+WPAlerts
+
+   (2 notes en tout)
+
+   WPAlerts is a web-based software (http://wp-alerts.com/) that allows
+   one person to update multiple WordPress web sites from one dashboard.

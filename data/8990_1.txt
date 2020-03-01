@@ -1,0 +1,370 @@
+   #alternate alternate alternate
+
+     * [picto-amis.png] Liens amis
+     * [picto-presse.png] Accès presse
+     * [picto-boutique.png] e-boutique
+     * [picto-youtube.png] Vidéos
+     * [picto-mail.png] Nous contacter
+     *
+          + FR
+          + EN
+
+   [banniere-leanature.png]
+   [img-leanature-small.png] [img-forplanet-large.png]
+
+   (BUTTON) Toggle navigation
+     * Nous connaître
+          + Découvrez LÉA NATURE
+               o Fabricant de produits bio et naturels
+               o Nos sites de fabrication en France
+               o Nos valeurs guident nos actions
+               o Prix et distinctions
+               o Notre histoire
+          + Notre Pôle Recherche et Développement
+               o Recherche, développement et innovations chez LÉA NATURE
+               o Paroles de chercheurs
+          + Notre gouvernance
+               o Charles Kloboukoff : le président fondateur
+               o Les comités de direction
+               o Le groupement BIOLÉA
+               o La holding : LÉA COMPAGNIE BIODIVERSITÉ
+          + BiO'Pôle de Léa
+     * Engagements
+          + La démarche RSE de LÉA NATURE
+               o Mise en place de notre Démarche et Stratégie RSE
+               o RSE et Norme ISO 26000 : Notre Exemple et Définition
+               o Labels et certifications
+          + Le Bio made in France
+               o Développement des filières bio françaises
+               o L’agriculture bio : une filière créatrice d’emplois
+          + Environnement
+               o Bilan Carbone & Emissions de gaz à effet de serre : nos
+                 actions
+               o Éco-conception des emballages et recyclage
+               o Un siège social éco-conçu
+          + Notre politique sociale
+               o Politique RH de Léa Nature
+               o Nos actions pour favoriser & améliorer le bien-être au
+                 travail
+               o Favoriser les actions solidaires dans l'entreprise
+          + Engagement sociétal
+               o Le comité éthique de LÉA NATURE
+               o Soutiens aux associations locales
+          + LÉA NATURE vous dit tout (F.A.Q.)
+               o Détox... ou intox ? oui les plantes ont des vertus
+               o Agriculture biologique : cahiers des charges et
+                 certifications
+               o Des produits alimentaires sans huile de palme
+               o Ingrédients cosmétiques et perturbateurs endocriniens
+               o Les sulfates dans les cosmétiques
+               o LÉA NATURE s'engage contre les tests sur les animaux
+     * Nos marques
+          + Alimentation
+               o Jardin BiO
+               o Carte Nature
+               o Vitamont
+               o Mamie Bio
+               o Bioviver
+          + Santé & Diététique
+               o Karéléa
+               o Floressance
+               o BIOSENS
+               o BIOPUR
+          + Beauté & Hygiène
+               o SO'BiO étic®
+               o Floressance
+               o I love Bio
+               o Dentavie®
+               o Eau Thermale Jonzac
+               o Natessance
+          + Entretien de la maison
+               o Biovie
+     * Fondation & Mécénat
+          + Adhésion au collectif 1% for the Planet
+          + La Fondation LÉA NATURE / JARDIN BiO
+          + Soutiens aux associations environnementales
+               o Demande de financement 1% for the Planet
+               o Appels à projets de la Fondation
+               o Les projets de reforestation
+          + Les campagnes engagées
+          + La conférence environnement
+          + Le Festival Notes en Vert
+     * Actualités
+          + Toute l'actualité LÉA NATURE
+          + Brochures et publications
+          + Événements
+          + Les médias parlent de nous
+     * Carrières
+
+   (BUTTON) Toggle navigation
+     * Nous connaître
+     * Engagements
+     * Nos marques
+     * Fondation & Mécénat
+     * Actualités
+     * Carrières
+       ____________________
+       (BUTTON)
+
+     * Découvrez LÉA NATURE
+     * Notre Pôle Recherche et Développement
+     * Notre gouvernance
+     * BiO’Pôle de Léa
+
+     * Fabricant de produits bio et naturels
+     * Nos sites de fabrication en France
+     * Nos valeurs guident nos actions
+     * Prix et distinctions
+     * Notre histoire
+
+     * Recherche, développement et innovations chez LÉA NATURE
+     * Paroles de chercheurs
+
+     * Charles Kloboukoff : le président fondateur
+     * Les comités de direction
+     * Le groupement BIOLÉA
+     * La holding : LÉA COMPAGNIE BIODIVERSITÉ
+
+     * La démarche RSE de LÉA NATURE
+     * Le Bio made in France
+     * Environnement
+     * Notre politique sociale
+     * Engagement sociétal
+     * LÉA NATURE vous dit tout (F.A.Q.)
+
+     * Mise en place de notre Démarche et Stratégie RSE
+     * RSE et Norme ISO 26000 : Notre Exemple et Définition
+     * Labels et certifications
+
+     * Développement des filières bio françaises
+     * L’agriculture bio : une filière créatrice d’emplois
+
+     * Bilan Carbone & Emissions de gaz à effet de serre : nos actions
+     * Éco-conception des emballages et recyclage
+     * Un siège social éco-conçu
+
+     * Politique RH de Léa Nature
+     * Nos actions pour favoriser & améliorer le bien-être au travail
+     * Favoriser les actions solidaires dans l’entreprise
+
+     * Le comité éthique de LÉA NATURE
+     * Soutiens aux associations locales
+
+     * Détox… ou intox ? oui les plantes ont des vertus
+     * Agriculture biologique : cahiers des charges et certifications
+     * Des produits alimentaires sans huile de palme
+     * Ingrédients cosmétiques et perturbateurs endocriniens
+     * Les sulfates dans les cosmétiques
+     * LÉA NATURE s’engage contre les tests sur les animaux
+
+     * Alimentation
+     * Santé & Diététique
+     * Beauté & Hygiène
+     * Entretien de la maison
+
+     * Jardin BiO
+     * Carte Nature
+     * Vitamont
+     * Mamie Bio
+     * Bioviver
+
+   Jardin BiO | alimentaire bio | Léa Nature
+   Carte Nature | Traiteur bio | Léa Nature
+   Vitamont | Jus & Boissons 100% bio | Léa Nature
+   Mamie Bio | épicerie sucrée | Léa Nature
+   Bioviver | Conserves biologiques | Léa Nature
+     * Karéléa
+     * Floressance
+     * BIOSENS
+     * BIOPUR
+
+   Karéléa | Diététique & Contrôle des sucres | Léa Nature
+   Floressance | phytocompléments & cosmétique | Léa Nature
+   Biosens | Compléments alimentaires bio et vegan | Léa Nature
+   Biopur | Compléments alimentaire | Léa Nature
+     * SO’BiO étic®
+     * Floressance
+     * I love Bio
+     * Dentavie®
+     * Eau Thermale Jonzac
+     * Natessance
+
+   SO'BiO étic | cosmétique biologique | Léa Nature
+   Floressance | phytocompléments & cosmétique | Léa Nature
+   I love Bio | Hygiène bio et vegan | Léa Nature
+   Dentavie | Hygiène et sois bucco dentaires | Léa Nature
+   Eau thermale Jonzac | soins cosmétiques bio hypoallergéniques | Léa
+   Nature
+   Natessance |Hygiène et soins bio | Léa Nature
+     * Biovie
+
+   Biovie | produits d'entretien | Léa Nature
+     * Adhésion au collectif 1% for the Planet
+     * La Fondation LÉA NATURE / JARDIN BiO
+     * Soutiens aux associations environnementales
+     * Les campagnes engagées
+     * La conférence environnement
+     * Le Festival Notes en Vert
+
+     * Demande de financement 1% for the Planet
+     * Appels à projets de la Fondation
+     * Les projets de reforestation
+
+     * Toute l’actualité LÉA NATURE
+     * Brochures et publications
+     * Événements
+     * Les médias parlent de nous
+
+     *
+
+Mini-Transat La Boulangère 2019 : un partenariat solidaire et écologique
+
+       LÉA NATURE, sa Fondation et sa marque Jardin BiO sont partenaires
+       pour la deuxième fois de la Mini-Transat La Boulangère 2019.
+       Un partenariat humain, sportif sous le signe de la sensibilisation
+       à l’environnement !
+
+       En savoir +
+
+Mini-Transat La Boulangère 2019 : un partenariat solidaire et écologique
+
+       LÉA NATURE, sa Fondation et sa marque Jardin BiO sont partenaires
+       pour la deuxième fois de la Mini-Transat La Boulangère 2019.
+       Un partenariat humain, sportif sous le signe de la sensibilisation
+       à l’environnement !
+
+       En savoir +
+     *
+
+SO’BiO étic® et Lucie Lucas : un engagement éthique
+
+       Lucie Lucas s’associe à notre marque cosmétique SO’BiO étic ®. Car
+       pour Lucie Lucas, la protection de la planète passe par tous les
+       gestes du quotidien !
+       En savoir +
+
+SO’BiO étic® et Lucie Lucas : un engagement éthique
+
+       Lucie Lucas s’associe à notre marque cosmétique SO’BiO étic ®. Car
+       pour Lucie Lucas, la protection de la planète passe par tous les
+       gestes du quotidien !
+       En savoir +
+     *
+
+LÉA NATURE s’engage pour la reforestation
+
+       Depuis 2012, nous sommes engagés dans un programme de reforestation
+       et de conservation de la forêt. Découvrez les projets soutenus par
+       LÉA NATURE, sa Fondation et ses marques.
+       En savoir +
+
+LÉA NATURE s’engage pour la reforestation
+
+       Depuis 2012, nous sommes engagés dans un programme de reforestation
+       et de conservation de la forêt. Découvrez les projets soutenus par
+       LÉA NATURE, sa Fondation et ses marques.
+       En savoir +
+     *
+
+LÉA NATURE, fabricant français de produits bio et naturels
+
+       LÉA NATURE s’engage pour une agriculture bio au bénéfice des
+       producteurs locaux et des filières françaises. Partez à la
+       découverte de nos 9 sites de fabrication en France.
+       En savoir +
+
+LÉA NATURE, fabricant français de produits bio et naturels
+
+       LÉA NATURE s’engage pour une agriculture bio au bénéfice des
+       producteurs locaux et des filières françaises. Partez à la
+       découverte de nos 9 sites de fabrication en France.
+       En savoir +
+     *
+
+LÉA NATURE et le 1% pour la Planète
+
+       Depuis 2007, les marques bio de LÉA NATURE adhèrent au 1% for
+       Planet : un collectif mondial d’entreprises qui versent 1% de leur
+       chiffre d’affaires à des associations environnementales.
+       En savoir +
+
+LÉA NATURE et le 1% pour la Planète
+
+       Depuis 2007, les marques bio de LÉA NATURE adhèrent au 1% for
+       Planet : un collectif mondial d’entreprises qui versent 1% de leur
+       chiffre d’affaires à des associations environnementales.
+       En savoir +
+
+Découvrez nos engagements
+
+   [picto-feuille-left.png]
+   LE DÉVELOPPEMENT des filières bio françaises
+   [picto-feuille-left.png]
+   LA MAÎTRISE de notre empreinte écologique
+   [picto-feuille-left.png]
+   LA REFORESTATION des zones fragilisées
+   [picto-feuille-left.png]
+   LA SENSIBILISATION à l'environnement
+   [picto-feuille-left.png]
+   LE BIEN-ÊTRE des collaborateurs
+   [picto-feuille-left.png]
+   LES SOUTIENS solidaires, sportifs et culturels
+   Découvrir notre démarche RSE
+   Les Actualités Léa Nature
+   16/09/2019-Coup de projecteur
+   Mini-transat La Boulangère 2019 : Le Groupe, la Fondation et la marque
+   Jardin BiO s’engagent
+   12/08/2019-Le Groupe
+   LÉA COMPAGNIE BIODIVERSITÉ a investi 75M€ en 2 ans dans ses outils de
+   production bio et prévoit 45 M€ supplémentaires d’ici 2020 !
+   Toutes les actualités
+   [counter.png]
+
+   En 2019
+   Léa Nature a cumulé
+   1 350 407 €
+
+   pour la planète
+   (reversés en 2020)
+   Découvrir le 1% pour la planète
+
+Les activités léa nature
+
+   [activite_alimentation.jpg]
+   ALIMENTATION
+   [activite_sante.jpg]
+   Santé/diététique
+   [activite_cosmetique_v2.png]
+   Cosmétique
+   [activite_maison_v2.png]
+   Entretien de la Maison
+   [Logo-Carte-Nature.png]
+   [LOGO-JB-2015-e1513259735295.png]
+   [Logo-Vitamont-web1.png]
+   [LOGO-BIOVIVER-web.png]
+   [logo-mamie-bio.jpg]
+   [logo-biovie-2018.png]
+   [Logo-BIOPUR-COM-Carre-Fd_Blc-2017-RVB.jpg]
+   [logo-floressance-2017-PNG.png]
+   [logo_karelea_PNG.png]
+   [biosens.jpg]
+   [Eau-Thermale-Jonzac.jpg]
+   [logo-floressance-2017-PNG.png]
+   [Logo-Natessance-2017-ombre-COM-Carre.jpg]
+   [Logo-DENTAVIE-LABO.png]
+   [LEA2382_LOGO_I_LOVE_BIO_RVB_LG.png]
+   [SO-BiO1.png]
+   Découvrez toutes nos marques
+
+   ﻿
+
+   (BUTTON) Tri par (BUTTON) Tous (BUTTON) Twitter (BUTTON) Youtube
+
+   Rejoignez Léa Nature sur les réseaux sociaux !
+   Il y a 4 mois
+
+   IFRAME:
+   https://www.youtube.com/embed/4DXr7gsaiUU?rel=0&controls=0&showinfo=0
+
+   Perturbateurs endocriniens, Q&R : quelles avancées ? Quelles
+   résistances aux changements ?

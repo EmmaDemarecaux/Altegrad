@@ -1,0 +1,37 @@
+
+   https://hal.inria.fr/hal-00776589
+   Contributeur : Benedikt Bollig <>
+   Soumis le : mardi 15 janvier 2013 - 17:28:06
+   Dernière modification le : jeudi 21 mars 2019 - 14:20:55
+
+Lien texte intégral
+
+   openaccess
+
+Identifiants
+
+     * HAL Id : hal-00776589, version 1
+     * DOI : 10.1007/978-3-642-32940-1_5
+
+Collections
+
+   INRIA | ENS-CACHAN | LIP6 | UPMC | SORBONNE-UNIVERSITE | SU-SCIENCES
+
+Citation
+
+   Béatrice Bérard, Serge Haddad, Mathieu Sassolas, Nathalie Sznajder.
+   Concurrent Games on VASS with Inhibition. 23rd International Conference
+   on Concurrency Theory (CONCUR'12), Sep 2012, Newcastle upon Tyne,
+   United Kingdom. pp.39-52, ⟨10.1007/978-3-642-32940-1_5⟩. ⟨hal-00776589⟩
+
+Exporter
+
+   BibTeX TEI DC DCterms EndNote
+
+Partager
+
+Métriques
+
+   Consultations de la notice
+
+291

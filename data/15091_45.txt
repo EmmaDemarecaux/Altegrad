@@ -1,0 +1,28 @@
+
+Enseignant-Chercheurs
+
+   Civilité Prenom Nom Université d'origine Invité par
+   M Federico Ardila
+   San Francisco State University & Universidad de los Andes Arnau Padrol
+
+   Tianxiao WANG Sichuan University 22 juillet au 22 août 2019
+   Haisen ZHANG Sichuan Normal University 22 juillet au 12 août 2019
+   Alberto BRESSAN Penn State University 4 - 10 avril 2018
+   Piermarco CANNARSA U. Roma Tor Vergata 5 septembre - 15 décembre 2018
+   Elsa Maria MARCHINI Politecnico di Milano 6 - 9 novembre 2018
+   Gioconda MOSCARIELLO Università degli Studi di Napoli
+   Federico II 9 - 16 novembre 2018
+   Xu ZHANG Sichuan University 3 - 10 décembre 2018
+   Qi LU Sichuan University 3 - 10 décembre 2018
+
+Collaborateurs
+
+   Eitan ALTMAN [INRIA]
+   Paul CAMION
+   Jean-Claude FOURNIER
+   Rida LARAKI [CNRS, LAMSADE, Université Paris Dauphine]
+   Frédéric MEUNIER [ENPC]
+   Alain PLAGNE [École polytechnique]
+   Jean-Pierre TACCHI [IGN/CNRS]
+   Vincent PILAUD [LIX, École polytechnique]
+   Bruno ZILIOTTO [CNRS, CEREMADE, Université Paris Dauphine]

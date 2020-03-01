@@ -1,0 +1,20 @@
+
+   If you want to read and submit feedbacks
+   Visit the AWStats Developer FORUM (for developers, hosted by
+   sourceforge).
+   Visit the AWStats General FORUM (for other, hosted by sourceforge).
+   If you found a bug or want to read known bugs.
+   You should use the AWStats BUG TRACKER (hosted by GitHub).
+   If you want to be informed about new AWStats versions
+   You can register to the AWStats-public mailing list (new version
+   announcements only).
+   EMail: __________________   Subscribe
+   For developer who wants to work on AWStats project
+   You can find current version of development and submit your
+   contributions on official source repository hosted by GitHub:
+   https://github.com/eldy/awstats
+   About my other Open-Source projects:
+   AWBot, an easy to use Perl tool to test a web site.
+   AWStats, this one.
+   CVSChangelogBuilder, a friendly CVS ChangeLog Builder with various
+   outputs.

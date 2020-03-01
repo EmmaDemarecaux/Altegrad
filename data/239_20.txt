@@ -1,0 +1,13 @@
+
+3. ALERTE PUSH être informé en temps réel
+
+   © Politis
+
+   Les détenteurs de l’application mobile de Politis (abonnés ou non)
+   peuvent désormais recevoir une sélection d’alertes Push afin de les
+   informer de la mise en ligne d’un article sélectionné par la rédaction
+   et de la mise en ligne du nouveau numéro. Ce système nécessite
+   d'accepter l'authentification sur vos appareils mobiles. Politis
+   n'accède ni ne conserve aucune donnée de ses utilisateurs. L'accès à
+   votre téléphone portable est nécessaire pour l'authentification des
+   envois Push.

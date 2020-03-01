@@ -1,0 +1,13 @@
+   Aligner [Aucun(e)]
+   [ ] Lecture automatique
+
+   Instructions
+
+   Insert a 3rd party video from one of the following providers; this list
+   may vary depending on the text format being used.
+
+   Annuler Insérer
+   Instructions
+
+   Insert a 3rd party video from one of the following providers; this list
+   may vary depending on the text format being used.

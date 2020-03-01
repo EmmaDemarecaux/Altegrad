@@ -1,0 +1,5325 @@
+   #alternate Fastmag » Flux Fastmag » Flux des commentaires
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-PGGJR6Z
+
+   (BUTTON)
+     * [svg%3E] [facebook..png]
+     * [svg%3E] [linkedin_logo.png]
+     * ____________________ Rechercher
+     * [svg%3E] [call.png] Appelez-nous au 01 55 26 08 10
+     * Nous Contacter
+     * FR
+          + EN
+
+   Fastmag
+
+   (BUTTON)
+     * Logiciels
+          + fastmag Habillement fastmag Habillement
+            Fastmag Boutique
+          + fastmag Habillement fastmag Habillement
+            Fastmag E-Commerce
+          + fastmag Habillement fastmag Habillement
+            Fastmag Négoce
+          + fastmag Habillement fastmag Habillement
+            Fastmag Production
+          + fastmag Habillement fastmag Habillement
+            Fastmag In-Shop
+          + fastmag Habillement fastmag Habillement
+            Fastmag Copilot
+          + fastmag Habillement fastmag Habillement
+            Fastmag Connect
+     * Solutions
+          +
+               o
+                    # PAR SECTEUR D’ACTIVITÉ
+               o
+                    # PAR FONCTION
+          +
+               o
+                    # PAR SECTEUR D’ACTIVITÉ
+                    # fastmag Habillement fastmag Habillement
+                      Textile Habillement
+                      Chaussures Chaussures
+                      Chaussures
+                      Bijouterie Bijouterie
+                      Bijouterie
+                      Maroquinerie Maroquinerie
+                      Maroquinerie
+               o
+                    # Beauté Beauté
+                      Beauté
+                      Décoration, ameublement Décoration, ameublement
+                      Décoration Ameublement
+                      Corner Alimentaire Corner Alimentaire
+                      Corner Alimentaire GMS
+               o
+                    # PAR FONCTION
+                    #
+                         @ Gestion des points de Vente
+                         @ Gestion Commerciale B2B
+                         @ Vente en ligne
+                         @ CRM & Fidélisation
+                         @ Gestion des stocks en temps réel
+                         @ Gestion de production
+     * Tarifs
+     * Matériel
+          + fastmag Habillement fastmag Habillement
+            Terminal de point de vente
+          + fastmag Habillement fastmag Habillement
+            Scanners de caisse
+          + fastmag Habillement fastmag Habillement
+            Scanners D'inventaire
+          + fastmag Habillement fastmag Habillement
+            Imprimantes
+     * Ressources
+          +
+               o
+                    #
+               o
+                    #
+          +
+               o
+                    # Actualité Actualité Actualités
+                      Assistance 7/7 Assistance 7/7 Assistance 7/7
+                      Documentation technique Documentation technique
+                      Documentation Technique
+               o
+                    # Formation Formation Formation
+                      Manuel utilisateur Manuel utilisateur Manuels
+                      Utilisateurs
+               o
+                    # Le Guide du commerçant
+                    #
+                         @ Comptabilité et Fiscalité
+                         @ Gestion des stocks
+                         @ Inventaire
+                         @ Logiciel de caisse
+     * A propos de Fastmag
+
+   Sélectionner une page
+   ____________________
+
+   Accueil > La gestion des stocks pour l’e-commerce
+
+Le guide du commerçant – La gestion des stocks
+
+La gestion des stocks pour l’e-commerce
+
+   Particulièrement compliquée à mettre en place sur un site e-commerce,
+   la gestion des stocks est réellement le point de l’activité qui peut
+   ruiner votre business si vous le négligez. Il est donc essentiel que
+   vous mettiez en place une organisation bien structurée pour optimiser
+   vos approvisionnements et vos sorties de stock. Fastmag vous présente
+   les fondamentaux d’une bonne gestion de stock pour l’e-commerce : des
+   différentes méthodes utilisées pour s’approvisionner et sortir ses
+   produits, aux problèmes les plus fréquemment rencontrés, sans oublier
+   les meilleures solutions pour les contourner.
+
+Les différentes méthodes de gestion de stock : des approvisionnements aux
+sorties
+
+   Que l’on ait un commerce physique ou une activité en ligne, il est des
+   constantes : des produits entrent en stock quand d’autres sortent. Ce
+   sont ces flux continus qu’une bonne gestion de stock s’évertue de
+   réguler afin de répondre à la demande en tenant compte de différents
+   éléments, comme les tendances du marché et les délais
+   d’approvisionnements et de fabrication des fournisseurs.
+
+Bien gérer les entrées en stock
+
+   Quand on parle d’approvisionnement, on parle d’acheter différents
+   produits, pour divers usages, et ce, que l’on ait un magasin, une
+   entreprise de services ou une usine :
+
+   matières premières pour produire des biens,
+   produits finis à distribuer,
+   consommables couvrant les besoins de production et de vente.
+
+   Dans le cas du e-commerce, on ne s’intéresse à acheter que pour
+   distribuer. Cependant, comme pour une activité classique, la
+   rentabilité du site tiendra en partie dans le fait de bien acheter et
+   au bon moment. Il faut donc s’appuyer sur une stratégie d’achats
+   pertinente et une méthode précise d’approvisionnement.
+
+Adopter une stratégie d’achat efficace
+
+   Il existe deux types de stratégie d’achat.
+   La première s’appuie sur une vision factuelle de sa gestion des
+   approvisionnements : l’historique des ventes est analysé pour dégager
+   une moyenne de vente par articles, ce qui permet d’évaluer ceux qui
+   marchent ou non pour décider des futurs approvisionnements.
+   La seconde stratégie s’appuie sur une vision prévisionnelle qui
+   conjugue le factuel à une analyse 360 ° de toutes les données (contexte
+   économique, évolution de la demande…).
+   Selon les produits mis en vente sur votre boutique en ligne, à vous de
+   décider de la stratégie qui convient le mieux à votre gestion de stock.
+
+Adopter la méthode d’approvisionnement la plus pertinente
+
+   Comme les stratégies d’achat, il existe diverses méthodes pour procéder
+   à son approvisionnement.
+
+La méthode Juste-à-temps (JAT)
+
+   Les approvisionnements dépendent de la demande, réduisant ainsi
+   considérablement le stockage.
+
+La méthode calendaire
+
+   Elle consiste à s’approvisionner à une date fixe une quantité fixe, en
+   appliquant la formule de Wilson ou QEC.
+
+La méthode Kanban
+
+   Un stock minimum est défini et les achats suivants sont réalisés en
+   fonction des commandes.
+
+La méthode point de commande
+
+   Un stock minimum est fixé. Quand ce dernier est atteint, un
+   approvisionnement de quantité égale est automatiquement déclenché, peu
+   importe la date.
+
+   Quelle que soit la méthode retenue pour votre e-commerce, elle doit
+   favoriser une gestion de stock optimale afin d’éviter la rupture de
+   stock ou le sur-stockage.
+
+Bien gérer les sorties de stock
+
+   Les sorties des stocks se gèrent également selon différentes méthodes
+   éprouvées. Elles doivent être adaptées au type de commerce en ligne que
+   vous avez. Rien ne vous empêche de les mixer selon les familles de
+   produits que vous commercialisez.
+
+Méthode FIFO
+
+   La méthode First In First Out, utilisée dans les outils FASTMAG,
+   consiste à enlever du stock les matières ou produits en procédant du
+   plus ancien au plus récent. Son intérêt est qu’elle favorise une bonne
+   gestion des denrées périssables et évite les problèmes d’obsolescence
+   ou de dégradation.
+
+Méthode LIFO
+
+   La méthode Last In First Out est l’opposé de la FIFO. Utilisée pour les
+   produits sans DLC, elle permet de faire sortir du stock ce qui vient de
+   rentrer. Son intérêt réside dans le gain de temps et la simplification
+   des tâches des opérationnels.
+
+Méthode FEFO
+
+   La méthode First Expired First Out s’utilise principalement dans le
+   domaine de l’agroalimentaire où il est nécessaire de faire sortir les
+   produits aux DLC les plus proches en premier.
+
+Les particularités d’une gestion de stock pour l’e-commerce
+
+   Quelles que soient votre activité e-commerce, votre stratégie d’achat
+   et de sorties de vos stocks, il est indispensable de vous doter d’un
+   système de gestion des stocks automatisé.
+
+Pourquoi s’équiper d’un système de gestion des stocks centralisé ?
+
+   Contrairement à un magasin physique où l’on peut se rendre pour
+   échanger avec l’équipe de vente qui peut proposer un autre article, une
+   réservation sur un prochain arrivage, etc. l’e-commerce propose une
+   relation complètement dématérialisée de l’acte d’achat. Si le
+   « consum’acteur » du web ne trouve pas ce qu’il souhaite sur votre
+   boutique, il peut en un clic aller voir ailleurs sans bouger de son
+   canapé. Il vaut mieux donc mettre en place un système de gestion des
+   stocks qui permet de ne pas trop le décevoir.
+
+   Un système centralisé de gestion des stocks vous évite donc l’écueil de
+   la rupture, mais aussi :
+
+   les sur-stockages qui mangent la place dans vos entrepôts et vous
+   coûtent cher en immobilisation ;
+   les erreurs d’inventaires plus difficiles à gérer lorsqu’on n’a pas le
+   stock physique sous la main, mais dans un entrepôt externalisé.
+
+   Oubliez donc les carnets, les spreadsheet et les tableaux Excel remplis
+   manuellement. Et passez votre gestion de stock en mode agile.
+
+Les différents types de systèmes de gestion des stocks automatisés
+
+   Lorsque l’on se lance dans le e-commerce, on n’a guère le retour
+   d’expérience nécessaire pour faire les bons choix en matière de système
+   de gestion de stock automatisé. Cela est d’autant plus vrai qu’ils sont
+   multiples.
+
+Système conçu pour les commerces physiques
+
+   Si ce système montre toutes ses preuves pour la gestion d’un stock
+   physique, il montre aussi ses limites dans le cadre du commerce en
+   ligne. En effet, si théoriquement il est possible de mettre en place
+   une gestion centralisée des stocks, cela est chronophage, voire
+   extrêmement difficile.
+
+Système via le site avec plateforme e-commerce intégrée
+
+   Il existe de nombreuses plateformes e-commerce hébergées sur SaaS,
+   comme WordPress, Shopify ou Weebly, pour ne citer qu’eux. La gestion
+   est très simple à condition de ne vendre que sur un seul site. Dès lors
+   que vous souhaitez vendre sur plusieurs plateformes comme les
+   marketplaces (Amazon, Cdiscount, eBay, PriceMinister…), le problème de
+   centralisation se pose.
+
+Système automatisé d’un logiciel e-commerce
+
+   C’est la meilleure solution pour optimiser votre gestion de stock dans
+   un contexte e-commerce. Ce type de logiciel, comme celui de FASTMAG,
+   permet de traiter automatiquement les commandes et effectue en temps
+   réel les mises à jour du stock, quelles que soient les plateformes qui
+   vendent vos produits : votre site, les sites partenaires, les
+   marketplaces.
+   Par ailleurs, si vous avez différents points de vente physique, vous
+   pouvez aussi intégrer leurs stocks en connectant leurs flux de données.
+   Ainsi, vous avez une vision élargie de vos stocks, dont la gestion
+   permet de distinguer : les stocks des magasins et ceux dédiés au
+   e-commerce. En cas de rupture proche, il vous est ainsi possible de
+   transférer des stocks du magasin pour satisfaire une demande en ligne
+   et vice versa.
+
+La gestion logistique de l’e-commerce
+
+   Outre la gestion des stocks, le commerce en ligne a ses propres
+   particularités en matière de logistique : des particularités qui
+   amènent d’ailleurs le modèle de l’immobilier tertiaire à se repenser.
+
+Une gestion d’entrepôt optimisée
+
+   Que l’on soit industriel ou commerçant, notamment en ligne, il y a des
+   principes de base immuables comme la prise en compte du nombre de
+   commandes à traiter et du nombre des articles à stocker. Ainsi, plus
+   les commandes sont nombreuses, plus il faut augmenter le nombre de
+   collaborateurs et la surface des entrepôts.
+
+Les différentes méthodes de stockage
+
+   Les zones d’entreposage sont difficiles à déterminer. Cette difficulté
+   s’accroît avec une activité e-commerce où la méthode de stockage doit
+   impérativement être pensée en fonction des volumes à traiter.
+
+Picking à la commande (moins de 50 commandes à traiter par jour)
+
+   Cette méthode ne nécessite pas de règles strictes régissant
+   l’organisation de la zone de stockage, si ce n’est celle de bons sens
+   facilitant les inventaires : classement par familles et sous-familles
+   de produits…
+
+Picking par lot (entre 50 et 1 000 commandes/jour environ)
+
+   Cette méthode exige une professionnalisation de la zone de stockage en
+   respectant les normes édictées par le Ministère du Travail.
+
+Traitement industrialisé (au-delà de 1 000 commandes/jour)
+
+   Ce dernier s’appuie sur un logiciel de gestion d’entrepôt et des
+   chaînes de convoyage robotisées.
+
+L’externalisation de ses stocks
+
+   En e-commerce, si les volumes sont importants, l’externalisation et la
+   mutualisation de l’ensemble des moyens et des outils de la chaîne
+   logistique (solutions logicielles, locaux…) sont souvent plus
+   avantageuses qu’un traitement industrialisé. Mais, pour les petites
+   structures équipées d’un logiciel adapté, une bonne gestion de stock
+   exige simplement de bien négocier les loyers de ses locaux et les
+   volumes de marchandises auprès des fournisseurs.
+
+Les astuces d’une logistique agile
+
+   Si la méthode de stockage est essentielle, certains points non
+   bloquants dans une gestion d’entrepôt classique peuvent rapidement
+   handicaper l’essor d’un commerce en ligne. Il est donc essentiel de les
+   lever au plus vite pour gagner en efficacité, en rapidité et en
+   satisfaction client :
+
+   Maximiser l’ergonomie du site en le pensant de façon à limiter les
+   déplacements inutiles à vos collaborateurs et le port de charges
+   lourdes
+   Structurer correctement votre espace de stockage, en plaçant les stocks
+   à forte rotation près des tables de colisage, par exemple
+   Ranger correctement tous vos rayonnages par la mise en place d’un
+   adressage
+   Spécialiser vos collaborateurs (réception, envoi, vérification,
+   rangement, picking, colisage, affranchissement…)
+   Intégrer aux commandes en attente les produits tout juste réceptionnés
+   avant même de les ranger pour les expédier au plus vite
+   Procéder au picking, colisage et affranchissement d’un même produit de
+   façon simultanée pour préparer rapidement toutes les commandes qui le
+   contiennent
+
+   En conclusion, la gestion des stocks pour le e-commerce adapte les
+   grands sujets stratégiques et opérationnels de la gestion aux réalités
+   de l’Internet. En effet, plus qu’ailleurs sans doute, le temps et
+   l’optimisation de l’espace sont de vrais enjeux et leviers de
+   compétitivité qui ne peuvent être efficients qu’au moyen d’un logiciel
+   de gestion centralisé.
+
+En résumé
+
+     * Développer des stratégies d’achat en accord avec ses méthodes
+       d’entrée et de sortie de stock
+     * Mettre en place un système de gestion automatisé au moyen d’un
+       logiciel e-commerce
+
+     * Développer une vision 360 ° de sa logistique
+
+Articles sur la gestion des stocks
+
+Les règles de stockage
+
+Méthodes d’une bonne gestion des approvisionnements
+
+Une vision 360 ° de son activité
+
+Les clés pour éviter la rupture de stock
+
+Comment gérer ses sorties de stock ?
+
+Comment éviter les stocks dormants ?
+
+Que faire des invendus ?
+
+Quels sont les risques d’une mauvaise gestion de stock ?
+
+Où et comment stocker ses produits ?
+
+   APPLI
+   Clipad
+   DEB
+   Détaxe
+   E-Business
+   Extranet Fournisseur
+   Logistique
+   Mobile Sales
+   Manager
+   Négoce Analytique
+   SMS
+   Sondage en magasin
+
+   Modules
+   Gestion de la déclaration d'échange de bien
+   Détaxe en magasin
+   Site internet B2B
+   Gestion des commandes et livraisons
+   Gestion de la logistique
+   Gestion de la comptabilité
+   Campagne SMS
+   Sondage auprès de vos clients
+
+   Produits
+
+   Fastmag Boutique
+   Fastmag Connect
+   Fastmag Copilot
+   Fastmag E-Commerce
+   Fastmag In Shop
+   Fastmag Négoce
+   Fastmag Production
+
+   Société
+   Actualités
+   Conditions générales de vente
+   Formation
+   Mentions Légales
+   Normes et conformités
+   Nos Clients
+   Qui Sommes-Nous
+   RGPD et confidentialité des données
+
+   Support
+   Auto-Formation
+   Assistance téléphonique 7 jours sur 7
+   Documentations Techniques
+   Manuel utilisateur
+   Matériel
+   Fastmag - Tous droits réservés - Mentions légales - Conditions
+   générales de vente - RGPD - Une société du groupe DL Software
+     * Suivre
+     * Suivre
+
+MÉTIERS
+
+   Mode-Chaussures-Accessoires
+   Décoration-Ameublement
+   Restauration
+   Magasins Spécialisés
+   Entreprises De Négoce
+   Corner En Supermarché
+
+SERVICES
+
+   Formation
+   Assistance 7 Jours Sur 7
+   Migration De Donnees
+   Sauvegarde En Ligne
+   Paiement En Ligne
+   Fastmag Lease
+   Fastmag Communication
+
+SOCIÉTÉ
+
+   Qui Sommes-Nous
+   Nos Clients
+   Nos Partenaires
+   Carrières
+   Actualités
+   Communiqués De Presse
+   Parrainage
+     * Twitter
+     * Google
+     * Instagram
+
+   Design de Elegant Themes | Propulsé par WordPress
+   #alternate Fastmag » Flux Fastmag » Flux des commentaires
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-PGGJR6Z
+
+   (BUTTON)
+     * [svg%3E] [facebook..png]
+     * [svg%3E] [linkedin_logo.png]
+     * ____________________ Rechercher
+     * [svg%3E] [call.png] Appelez-nous au 01 55 26 08 10
+     * Nous Contacter
+     * FR
+          + EN
+
+   Fastmag
+
+   (BUTTON)
+     * Logiciels
+          + fastmag Habillement fastmag Habillement
+            Fastmag Boutique
+          + fastmag Habillement fastmag Habillement
+            Fastmag E-Commerce
+          + fastmag Habillement fastmag Habillement
+            Fastmag Négoce
+          + fastmag Habillement fastmag Habillement
+            Fastmag Production
+          + fastmag Habillement fastmag Habillement
+            Fastmag In-Shop
+          + fastmag Habillement fastmag Habillement
+            Fastmag Copilot
+          + fastmag Habillement fastmag Habillement
+            Fastmag Connect
+     * Solutions
+          +
+               o
+                    # PAR SECTEUR D’ACTIVITÉ
+               o
+                    # PAR FONCTION
+          +
+               o
+                    # PAR SECTEUR D’ACTIVITÉ
+                    # fastmag Habillement fastmag Habillement
+                      Textile Habillement
+                      Chaussures Chaussures
+                      Chaussures
+                      Bijouterie Bijouterie
+                      Bijouterie
+                      Maroquinerie Maroquinerie
+                      Maroquinerie
+               o
+                    # Beauté Beauté
+                      Beauté
+                      Décoration, ameublement Décoration, ameublement
+                      Décoration Ameublement
+                      Corner Alimentaire Corner Alimentaire
+                      Corner Alimentaire GMS
+               o
+                    # PAR FONCTION
+                    #
+                         @ Gestion des points de Vente
+                         @ Gestion Commerciale B2B
+                         @ E-commerce
+                         @ CRM & Fidélisation
+                         @ Gestion des stocks en temps réel
+                         @ Gestion de production
+     * Tarifs
+     * Matériel
+          + fastmag Habillement fastmag Habillement
+            Terminal de point de vente
+          + fastmag Habillement fastmag Habillement
+            Scanners de caisse
+          + fastmag Habillement fastmag Habillement
+            Scanners D'inventaire
+          + fastmag Habillement fastmag Habillement
+            Imprimantes
+     * Ressources
+          +
+               o
+                    #
+               o
+                    #
+          +
+               o
+                    # Actualité Actualité Actualités
+                      Assistance 7/7 Assistance 7/7 Assistance 7/7
+                      Documentation technique Documentation technique
+                      Documentation Technique
+               o
+                    # Formation Formation Formation
+                      Manuel utilisateur Manuel utilisateur Manuels
+                      Utilisateurs
+               o
+                    # Le Guide du commerçant
+                    #
+                         @ Comptabilité et Fiscalité
+                         @ Gestion des stocks
+                         @ Inventaire
+                         @ Logiciel de caisse
+     * A propos de Fastmag
+
+   Sélectionner une page
+   ____________________
+
+   Accueil > Notre Entreprise
+
+Le partenaire pour la gestion évolutive de votre business
+
+   Fastmag est composé d’une équipe de 40 personnes, dont des
+   développeurs, des ingénieurs commerciaux experts du retail, des
+   consultants formateurs, des hotliners. Nos équipes sont réparties en
+   France (à Paris), en Israël et en Afrique du nord.
+
+Fastmag en 30 ans
+
+   1989
+
+   Serge Chelli crée ACE Informatique, éditeur de logiciels informatiques
+   pour les commerçants.
+
+   1997
+
+   Ace informatique devient Fastmag Group.
+
+   1999
+
+   Fastmag développe un logiciel de gestion commerciale et un logiciel de
+   commerce de détail.
+
+   2003
+
+   La suite logicielle Fastmag devient Full Web et est disponible en mode
+   SaaS. Dans la continuité de son développement, Fastmag étoffe son
+   écosystème avec le lancement d’un logiciel de production, une solution
+   de vente en ligne BtoB et BotC, un logiciel de négoce.
+
+   2004
+
+   Fastmag exporte ses services hors de la France et s’implante en Afrique
+   du Nord.
+
+   2005
+
+   Ouverture d’une filiale sur la côte Est des États-Unis, en association
+   avec un partenaire local.
+
+   2006
+
+   Fastmag étend ses partenariats. 3DTech et le logisticien C-log
+   deviennent des acteurs complémentaires à Fastmag pour développer des
+   opportunités commerciales.
+
+   2007
+
+   Fastmag s’implante en Israël.
+
+   2013
+
+   196e place des éditeurs et créateurs de logiciels français.
+
+   2016
+
+   Fastmag se distingue par sa capacité à décliner ses produits pour des
+   secteurs de métiers différents tels que la mode, les chaussures, les
+   accessoires, la décoration, l’ameublement, l’électroménager, les
+   ecigarettiers, la parapharmacie, les cavistes.
+
+   2017
+
+   Fastmag intègre DL Software, le groupe d’éditeurs d’ERP (spécialisés
+   sur les marchés spécifiques).
+
+   2018
+
+   2019
+
+   Fastmag est le premier logiciel de caisse aux normes légales imposées
+   par l’état
+
+   Grâce à l’ouverture de son API et de ses connecteurs EDI initiée
+   quelques années plus tôt, Fastmag étends ses possibilités de connection
+   à de nouveaux services tiers; entre autres : Edicom, Prestashop,
+   Shopify, Magento, Iziflux, Le New Black, Joor, Digitaleo, Global blue…
+   [svg%3E] [logo.svg]
+
+   Fastmag est au service des commerçants depuis 30 ans. Spécialisé dans
+   le négoce et le domaine du prêt à porter à sa création, Fastmag fut la
+   première entreprise française à créer une solution Saas de logiciel de
+   caisse.
+   [svg%3E] [legislation-francaise.png]
+
+   Fastmag est conforme à la législation 2018. Logiciel de caisse qui
+   respecte la législation française et en particulier l’article 2.86 du
+   CGI sur les systèmes de caisse sécurisés. Vous pouvez demander auprès
+   de notre ingénieur commercial l’attestation de conformité.
+   [svg%3E] [Logo-DL-Software.png]
+
+   Fastmag fait partie du groupe DL software, Editeur de logiciels métiers
+   destinés aux petites et moyennes entreprises. DL Software propose une
+   solution globale intégrée couvrant l’ensemble des besoins informatiques
+   de ses clients.
+
+   APPLI
+   Aplication CRM en magasin
+   Encaissement en Magasin
+   Appli de gestion de boutique
+
+   Modules
+
+   Gestion de la déclaration d'échange de bien (DEB)
+   Détaxe en magasin
+   Site internet B2B
+   Gestion des commandes et livraisons
+   Gestion de la logistique
+   Gestion de la comptabilité
+   Campagne SMS
+   Sondage auprès de vos clients
+
+   Produits
+
+   Logiciel de caisse
+   Connecteurs
+   Logiciel de Business Intelligence
+   CMS Site Internet
+   Logiciel de gestion de corner
+   Logiciel de gestion BtoB
+   Logiciel pour la production
+
+   Société
+   Conditions générales de vente
+   Documentations techniques
+   Mentions légales
+   Nos clients
+   RGPD et confidentialité des données
+
+   Support
+   Auto-Formation
+   Parrainage
+   Fastmag - Tous droits réservés - Mentions légales - Conditions
+   générales de vente - RGPD - Une société du groupe DL Software
+     * Suivre
+     * Suivre
+
+MÉTIERS
+
+   Mode-Chaussures-Accessoires
+   Décoration-Ameublement
+   Restauration
+   Magasins Spécialisés
+   Entreprises De Négoce
+   Corner En Supermarché
+
+SERVICES
+
+   Formation
+   Assistance 7 Jours Sur 7
+   Migration De Donnees
+   Sauvegarde En Ligne
+   Paiement En Ligne
+   Fastmag Lease
+   Fastmag Communication
+
+SOCIÉTÉ
+
+   Qui Sommes-Nous
+   Nos Clients
+   Nos Partenaires
+   Carrières
+   Actualités
+   Communiqués De Presse
+   Parrainage
+     * Twitter
+     * Google
+     * Instagram
+
+   Design de Elegant Themes | Propulsé par WordPress
+   #alternate Fastmag » Flux Fastmag » Flux des commentaires
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-PGGJR6Z
+
+   (BUTTON)
+     * [svg%3E] [facebook..png]
+     * [svg%3E] [linkedin_logo.png]
+     * ____________________ Rechercher
+     * [svg%3E] [call.png] Appelez-nous au 01 55 26 08 10
+     * Nous Contacter
+     * FR
+          + EN
+
+   Fastmag
+
+   (BUTTON)
+     * Logiciels
+          + fastmag Habillement fastmag Habillement
+            Fastmag Boutique
+          + fastmag Habillement fastmag Habillement
+            Fastmag E-Commerce
+          + fastmag Habillement fastmag Habillement
+            Fastmag Négoce
+          + fastmag Habillement fastmag Habillement
+            Fastmag Production
+          + fastmag Habillement fastmag Habillement
+            Fastmag In-Shop
+          + fastmag Habillement fastmag Habillement
+            Fastmag Copilot
+          + fastmag Habillement fastmag Habillement
+            Fastmag Connect
+     * Solutions
+          +
+               o
+                    # PAR SECTEUR D’ACTIVITÉ
+               o
+                    # PAR FONCTION
+          +
+               o
+                    # PAR SECTEUR D’ACTIVITÉ
+                    # fastmag Habillement fastmag Habillement
+                      Textile Habillement
+                      Chaussures Chaussures
+                      Chaussures
+                      Bijouterie Bijouterie
+                      Bijouterie
+                      Maroquinerie Maroquinerie
+                      Maroquinerie
+               o
+                    # Beauté Beauté
+                      Beauté
+                      Décoration, ameublement Décoration, ameublement
+                      Décoration Ameublement
+                      Corner Alimentaire Corner Alimentaire
+                      Corner Alimentaire GMS
+               o
+                    # PAR FONCTION
+                    #
+                         @ Gestion des points de Vente
+                         @ Gestion Commerciale B2B
+                         @ E-commerce
+                         @ CRM & Fidélisation
+                         @ Gestion des stocks en temps réel
+                         @ Gestion de production
+     * Tarifs
+     * Matériel
+          + fastmag Habillement fastmag Habillement
+            Terminal de point de vente
+          + fastmag Habillement fastmag Habillement
+            Scanners de caisse
+          + fastmag Habillement fastmag Habillement
+            Scanners D'inventaire
+          + fastmag Habillement fastmag Habillement
+            Imprimantes
+     * Ressources
+          +
+               o
+                    #
+               o
+                    #
+          +
+               o
+                    # Actualité Actualité Actualités
+                      Assistance 7/7 Assistance 7/7 Assistance 7/7
+                      Documentation technique Documentation technique
+                      Documentation Technique
+               o
+                    # Formation Formation Formation
+                      Manuel utilisateur Manuel utilisateur Manuels
+                      Utilisateurs
+               o
+                    # Le Guide du commerçant
+                    #
+                         @ Comptabilité et Fiscalité
+                         @ Gestion des stocks
+                         @ Inventaire
+                         @ Logiciel de caisse
+     * A propos de Fastmag
+
+   Sélectionner une page
+   ____________________
+
+   Accueil > Fastmag Négoce
+
+Logiciel de gestion commerciale BtoB
+
+   Demander une démo
+
+   Demander une démo
+
+   [svg%3E] [logo.svg]
+   Négoce
+
+   Accueil Négoce5
+
+   Fonctionnalités5
+
+   Modules complémentaires
+   Compta Analytique 5
+   DEB 5
+   E-Business 5
+   Extranet fournisseur 5
+
+   Connecteurs services tiers5
+
+   Pilotez votre activité B2B avec la solution de gestion commerciale et
+   comptable Fastmag Négoce, logiciel intuitif et ergonomique qui permet
+   de développer vos ventes en gros.
+   [svg%3E] [list-bullet@2x.png]
+
+Gestion facile et possibilités décuplées
+
+     * Une interface commune
+       Connecté au logiciel de caisse pour une base de données unique.
+     * Gestion de votre annuaire client
+       Suivi des encours clients et accords de crédit.
+     * Multi dépots et multi-enseignes
+       Interrogation temps réel des stocks en multi-magasin, et
+       communiquez grâce à la messagerie inter-magasins.
+
+   [svg%3E] [lock-portrait@2x.png]
+
+En ligne et sécurisé
+
+     * Bases de données sécurisées
+       Vos données sont sécurisées et hébergées dans le cloud en temps
+       réel.
+     * Accessible depuis n’importe quel device
+       Connectez vous et accédez à vos chiffres sur ordinateur, tablette
+       ou smartphone.
+     * Logiciels interconnectés
+       Automatiser vos demandes de réassort vers vos boutiques.
+
+   [svg%3E] [refresh-02@2x.png]
+
+Logiciel évolutif
+
+     * Possibilité de développements
+       Le service de recherche et développement est à l’écoute des
+       demandes de nos clients.
+     * Connectez vous vers l’extérieur
+       Exploitez l’API et nos connecteurs pour utiliser des services
+       extérieurs.
+     * Segmentation des performances
+       Analysez les performances sur chacun comme sur l’ensemble de vos
+       clients.
+
+Pour toute demande, un seul numéro
+
+   [svg%3E] [phone-call.png] 01 55 26 08 10
+
+2 solutions pour diffuser votre showroom sur le web
+
+E-Business BtoB
+
+     * La vente en gros peut aussi se faire via le web : utilisez l’outil
+       de création de site BtoB pour vendre en ligne.
+     * Centralisez votre pilotage de vos stocks et produits depuis la
+       plateforme Fastmag.
+     * Vérouillez l’accès ou proposez votre catalogue en lecture libre.
+
+   OU
+
+Connect
+
+     * Utilisez nos solutions EDI afin de vous connecter à des services
+       tiers de vente en gros.
+     * Votre catalogue peut ainsi être diffusé sur des plateformes comme
+       Joor, Le New Black et d’autres leviers, autant d’opportunités de
+       croissance pour votre business.
+     * Connect vous permet de récupérer vos données depuis une base tierce
+       et de les intégrer dans Fastmag.
+
+   Contacter un ingénieur commercial
+
+Ils utilisent Fastmag Négoce
+
+   boutiques indépendantes
+
+   Grands réseaux
+   [svg%3E] [Maison-sarah.png]
+   [svg%3E] [Gasbijoux.png]
+   [svg%3E] [AA.png]
+   [svg%3E] [Optical-discount.png]
+   [svg%3E] [Izac.png]
+   [svg%3E] [Cacharel.png]
+
+   boutiques indépendantes
+   [svg%3E] [Maison-sarah.png]
+   [svg%3E] [AA.png]
+   [svg%3E] [Gasbijoux.png]
+
+   Grands réseaux
+   [svg%3E] [Optical-discount.png]
+   [svg%3E] [Cacharel.png]
+   [svg%3E] [Izac.png]
+   [svg%3E] [raymondberrebi.png]
+
+   « Une plateforme intuitive qui m’a donnée une meilleure visibilité sur
+   mes stocks et l’ensemble de mon activité multi-magasins »
+
+   Raymond Berrebi
+   Co Founder / PauseClopes.com
+
+Remplissez ce formulaire pour bénéficier d’une démo gratuite
+
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   Les champs marqués d'un astérisque * sont obligatoires
+   Envoyer
+
+Vous vous posez la question
+
+Puis-je prendre mes commandes clients lorsque je suis dans un salon ou à
+l'étranger ?
+
+   Fastmag Négoce est accessible partout dans le monde depuis n’importe
+   quelle connexion internet. Vous pouvez y accéder depuis un appareil
+   Desktop, tout comme sur une tablette ou un smartphone.
+
+Pouvez-vous vous interfacer à un logisticien?
+
+   Fastmag a établi des partenariats avec des logisticiens. Nos
+   passerelles EDI permettent de nous connecter avec leurs propres
+   solutions de gestion logistique.
+
+Comment puis-je être tenu informé des performances de mon business?
+
+   La synthèse client permet d’avoir un visuel et un apercu d’ou on en est
+   avec une société en particulier (CA, contacts, )
+
+Le paramétrage de Fastmag Négoce est-il optimisé?
+
+   La gestion automatique du processus commercial wholesales permet de ne
+   pas avoir de resaisie d’informations sur chaque étape du processus.
+
+Ai-je la possiibilité de créer un book de collection?
+
+   Oui, Fastmag Négoce propose la possibilité d’extraire vos fiches
+   produits pour en constituer un book.
+
+   APPLI
+   Aplication CRM en magasin
+   Encaissement en Magasin
+   Appli de gestion de boutique
+
+   Modules
+
+   Gestion de la déclaration d'échange de bien (DEB)
+   Détaxe en magasin
+   Site internet B2B
+   Gestion des commandes et livraisons
+   Gestion de la logistique
+   Gestion de la comptabilité
+   Campagne SMS
+   Sondage auprès de vos clients
+
+   Produits
+
+   Logiciel de caisse
+   Connecteurs
+   Logiciel de Business Intelligence
+   CMS Site Internet
+   Logiciel de gestion de corner
+   Logiciel de gestion BtoB
+   Logiciel pour la production
+
+   Société
+   Conditions générales de vente
+   Documentations techniques
+   Mentions légales
+   Nos clients
+   RGPD et confidentialité des données
+
+   Support
+   Auto-Formation
+   Parrainage
+   Fastmag - Tous droits réservés - Mentions légales - Conditions
+   générales de vente - RGPD - Une société du groupe DL Software
+     * Suivre
+     * Suivre
+
+MÉTIERS
+
+   Mode-Chaussures-Accessoires
+   Décoration-Ameublement
+   Restauration
+   Magasins Spécialisés
+   Entreprises De Négoce
+   Corner En Supermarché
+
+SERVICES
+
+   Formation
+   Assistance 7 Jours Sur 7
+   Migration De Donnees
+   Sauvegarde En Ligne
+   Paiement En Ligne
+   Fastmag Lease
+   Fastmag Communication
+
+SOCIÉTÉ
+
+   Qui Sommes-Nous
+   Nos Clients
+   Nos Partenaires
+   Carrières
+   Actualités
+   Communiqués De Presse
+   Parrainage
+     * Twitter
+     * Google
+     * Instagram
+
+   Design de Elegant Themes | Propulsé par WordPress
+   #alternate Fastmag » Flux Fastmag » Flux des commentaires
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-PGGJR6Z
+
+   (BUTTON)
+     * [svg%3E] [facebook..png]
+     * [svg%3E] [linkedin_logo.png]
+     * ____________________ Rechercher
+     * [svg%3E] [call.png] Appelez-nous au 01 55 26 08 10
+     * Nous Contacter
+     * FR
+          + EN
+
+   Fastmag
+
+   (BUTTON)
+     * Logiciels
+          + fastmag Habillement fastmag Habillement
+            Fastmag Boutique
+          + fastmag Habillement fastmag Habillement
+            Fastmag E-Commerce
+          + fastmag Habillement fastmag Habillement
+            Fastmag Négoce
+          + fastmag Habillement fastmag Habillement
+            Fastmag Production
+          + fastmag Habillement fastmag Habillement
+            Fastmag In-Shop
+          + fastmag Habillement fastmag Habillement
+            Fastmag Copilot
+          + fastmag Habillement fastmag Habillement
+            Fastmag Connect
+     * Solutions
+          +
+               o
+                    # PAR SECTEUR D’ACTIVITÉ
+               o
+                    # PAR FONCTION
+          +
+               o
+                    # PAR SECTEUR D’ACTIVITÉ
+                    # fastmag Habillement fastmag Habillement
+                      Textile Habillement
+                      Chaussures Chaussures
+                      Chaussures
+                      Bijouterie Bijouterie
+                      Bijouterie
+                      Maroquinerie Maroquinerie
+                      Maroquinerie
+               o
+                    # Beauté Beauté
+                      Beauté
+                      Décoration, ameublement Décoration, ameublement
+                      Décoration Ameublement
+                      Corner Alimentaire Corner Alimentaire
+                      Corner Alimentaire GMS
+               o
+                    # PAR FONCTION
+                    #
+                         @ Gestion des points de Vente
+                         @ Gestion Commerciale B2B
+                         @ E-commerce
+                         @ CRM & Fidélisation
+                         @ Gestion des stocks en temps réel
+                         @ Gestion de production
+     * Tarifs
+     * Matériel
+          + fastmag Habillement fastmag Habillement
+            Terminal de point de vente
+          + fastmag Habillement fastmag Habillement
+            Scanners de caisse
+          + fastmag Habillement fastmag Habillement
+            Scanners D'inventaire
+          + fastmag Habillement fastmag Habillement
+            Imprimantes
+     * Ressources
+          +
+               o
+                    #
+               o
+                    #
+          +
+               o
+                    # Actualité Actualité Actualités
+                      Assistance 7/7 Assistance 7/7 Assistance 7/7
+                      Documentation technique Documentation technique
+                      Documentation Technique
+               o
+                    # Formation Formation Formation
+                      Manuel utilisateur Manuel utilisateur Manuels
+                      Utilisateurs
+               o
+                    # Le Guide du commerçant
+                    #
+                         @ Comptabilité et Fiscalité
+                         @ Gestion des stocks
+                         @ Inventaire
+                         @ Logiciel de caisse
+     * A propos de Fastmag
+
+   Sélectionner une page
+   ____________________
+
+   Accueil > Fastmag Production
+
+Automatisez vos processus de production
+
+   Demander une démo
+
+   Demander une démo
+
+   Ce logiciel métier de gestion de la production performant est
+   conçu pour les fabricants et créateurs de bien de consommation. Gagnez
+   du temps en automatisant vos processus de production et en connectant
+   votre plateforme à vos outils de vente. Déterminez vos besoins en
+   matières premières, fournitures, ordres de fabrication et vos besoins
+   en produits finis sur des commandes clients ou ordres de
+   fabrication. Gérez vos produits finis, modèle / matière en tailles et
+   coloris, photos, croquis, dessins techniques et symboles de lavage.
+   Elaborez vos fiches techniques avec consommation matières, fournitures,
+   façon et frais divers.
+   [svg%3E] [list-bullet@2x.png]
+
+Suivi de production
+
+     * Détermination des besoins
+    Fastmag Production calcule pour vous les quantités de matières
+       premières et autres outils dont vous avez besoin.
+     * Ordres de fabrication
+       Les ordres de fabrication sont automatiquement générés pour vos
+       employés ou vos sous-traitants.
+     * Facile et intuitif
+       L’interface ergonomique de Fastmag vous permet une prise en main en
+       quelques minutes.
+
+   [svg%3E] [box-3d-50@2x.png]
+
+Gestion des produits
+
+     * Gestion des caractéristiques produits
+       Gérez l’ensemble des caractéristiques de vos produits : tailles,
+       couleurs, matières, consignes de lavage, etc.
+     * Élaboration de fiches techniques
+       Simplifiez vos ordres de fabrication avec l’élaboration de fiches
+       techniques en quelques clics.
+     * Gestion des approvisionnements
+       Visualisez l’ensemble de vos approvisionnements automatiquement
+       proposés par Fastmag à partir de vos besoins.
+
+   [svg%3E] [laptop-72@2x.png]
+
+Restez à la pointe de l'innovation
+
+     * Calcul du Prix de Revient Industriel
+       Obtenez automatiquement :
+       – Calcul du coût d’achat
+       – Calcul du coût d’approvisionnement
+       – Calcul du coût de la production
+       – Calcul du coût de la distribution
+       – Calcul du coût administratif
+     * Synchronisation avec les logiciels Fastmag
+       Les commandes clients saisies dans Négoce sont synchronisées avec
+       Production pour connaitre en temps réel vos besoins.
+     * Automatisation de votre comptabilité
+       Vos opérations de production sont directement enregistrées comme
+       des commandes fournisseurs miroirs dans le module commercial.
+
+Pour toute, demande un seul numéro
+
+   [svg%3E] [phone-call.png] 01 55 26 08 10
+   [svg%3E] [Production.png]
+
+Production optimisée
+
+Process optimisé
+
+     * Fastmag boutique intègre la gestion des intervenants dans la
+       création de vos produits.
+     * En fonction de vos produits à créer, vous établirez les
+       paramétrages du logiciel qui vous permettra d’établir des
+       automatismes sur vos besoins en matières premières, fournitures,
+       ordres de fabrication.
+
+   ET
+
+… Automatisé
+
+     * Fastmag Production est une solution logicielle pour vous
+       accompagner dans votre métier de fabricants, mais aussi pour vous
+       simplifier la gestion de toute la chaîne depuis la création du
+       produit jusqu’à la vente.
+
+Process optimisé
+
+     * Fastmag boutique intègre la gestion des intervenants dans la
+       création de vos produits.
+     * En fonction de vos produits à créer, vous établirez les
+       paramétrages du logiciel qui vous permettra d’établir des
+       automatismes sur vos besoins en matières premières, fournitures,
+       ordres de fabrication.
+
+   ET
+
+… Automatisé
+
+     * Fastmag Production est une solution logicielle pour vous
+       accompagner dans votre métier de fabricants, mais aussi pour vous
+       simplifier la gestion de toute la chaîne depuis la création du
+       produit jusqu’à la vente.
+
+   Contacter un ingénieur commercial
+
+Ils utilisent Fastmag Production
+
+   boutiques indépendantes
+
+   Grands réseaux
+   [svg%3E] [Roseanna.png]
+   [svg%3E] [Olympia-le-tan.png]
+   [svg%3E] [Antoine-et-lili.png]
+   [svg%3E] [Maxmoi.png]
+   [svg%3E] [JMP.png]
+   [svg%3E] [Cacharel.png]
+
+   boutiques indépendantes
+   [svg%3E] [Roseanna.png]
+   [svg%3E] [Antoine-et-lili.png]
+   [svg%3E] [Olympia-le-tan.png]
+
+   Grands réseaux
+   [svg%3E] [Maxmoi.png]
+   [svg%3E] [Cacharel.png]
+   [svg%3E] [JMP.png]
+   [svg%3E] [racheguerin.png]
+
+   “Le logiciel convient parfaitement par rapport à la taille de mon
+   entreprise. Le logiciel est intuitif et a été facilement et unanimement
+   adopté par l’équipe.�
+
+   Rachel Guérin
+   Créatrice / Une A Une
+
+Remplissez ce formulaire pour bénéficier d’une démo gratuite
+
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   Les champs marqués d'un astérisque * sont obligatoires
+   Envoyer
+
+Vous vous posez la question
+
+Pouvez-vous calculer les matières premières nécessaires pour les lancements
+de mes produits?
+
+   Fastmag Production permet de déterminer vos besoins en matières
+   premières en fonction de votre portefeuille de commandes clients de
+   votre activité BtoB depuis Négoce.
+   Le logiciel s’appuie pour cela sur la fiche technique du produit fini.
+
+Pouvez-vous me calculer le prix de revient industrialisé ?
+
+   Oui, Fastmag Production vous permet de calculer et d’optimiser votre
+   prix de revient.
+   Le PRI, est calculé depuis la fiche technique du produit fini, en
+   tenant compte des exceptions par taille, et des liaisons des
+   composants.
+   Le logiciel détermine ainsi le PRI, et calcule à la demande le Prix de
+   revient à la taille couleur.
+
+Comment puis-je organiser mes produits finis (modèle + matière) dans
+l'interface Fastmag ?
+
+   Fastmag production propose une nomenclature bien définie grâce aux
+   composants, aux matières premières nécessaires à sa fabrication que
+   vous paramétrerez dans l’interface. Vous trouverez 5 type de composants
+   qui permettent de qualifier vos produits : seuls les 2 premiers seront
+   pris dans le calcul des besoins.
+   les tissus, les fournitures, les divers (toutes sortes de frais:
+   transport, douane, logistique,…), la façon (Prix du montage), les
+   intervenants (coût d’une action: pressing, délavage,…).
+
+Comment calculer mes besoins en matières premières en fonction de mes
+commandes clients?
+
+   Le logiciel analyse le portefeuille de commande client avec les fiches
+   techniques, et pourra déterminer 3 besoins:
+   Le besoin en produits finis, le besoins en tissus, le besoin en
+   fournitures. Avant chaque calcul de besoin il est conseillé de
+   synchroniser les commandes Négoce.
+   Le système va déterminer le besoin, ainsi que le nécessaire, qui
+   tiendra compte du stock de composant, des commandes fournisseurs…
+   Le nécessaire pourra être lancé en approvisionnement, afin de lancer
+   les commandes fournisseurs d’approvisionnements.
+
+Comment puis-je gérer les relations avec mon façonnier?
+
+   Le logiciel peut passer automatiquement en fabrication les commandes
+   client en fonction de plusieurs critères (date de commande, de
+   livraison, famille client). Ces demandes de fabrication sont
+   directement envoyées auprès de vos façonniers. Fastmag Production
+   dispose d’une passerelle pour regrouper les commandes clients afin de
+   générer des ordres de fabrication (OF).
+
+Prenez-vous en charge la découpe?
+
+   Le logiciel permet de générer des coupes, ce qui consomme directement
+   le tissu, et permet un suivi du stock des matières premières. Lorsque
+   le façonnier signale une anomalie dans une pièce de tissu, Fastmag
+   Production, permet de gérer l’emploi matière. Lorsque le façonnier
+   signale une anomalie dans une pièce de tissu, Fastmag Production permet
+   de gérer l’emploi matière.
+
+Comment suivre mon encours de montage?
+
+   Fastmag Production, permet de sortir par article, ou par façonnier, par
+   date de réceptions, les produits lancés en fabrication.
+
+Comment suivre le compte de mon façonnier?
+
+   À chaque réception de produit fini, le logiciel génère une ligne de
+   mouvement dans le compte façonnier, valorisée avec la quantité reçue
+   multipliée par le prix de façon, de la fiche technique
+
+Peut-on suivre le stock de composants chez nos différents façonniers?
+
+   Le logiciel permet de détailler les mouvements de stock, ainsi que le
+   stock de composant chez chaque façonnier.
+
+Comment sont gérés les défauts?
+
+   Fastmag Production permet de gérer 3 niveaux de défauts: Payer la façon
+   (cas d’un défaut dans le tissu), Ne pas payer la façon (cas d’un défaut
+   de montage), Ne pas payer la façon et déduire la matière (cas de pièces
+   manquantes).
+
+Comment démarrer un nouveau dossier de production sans tout ressaisir?
+
+   Le logiciel permet d’importer : La base des composants depuis un
+   fichier Excel, les fiches produits depuis un fichier Excel
+
+   APPLI
+   Aplication CRM en magasin
+   Encaissement en Magasin
+   Appli de gestion de boutique
+
+   Modules
+
+   Gestion de la déclaration d'échange de bien (DEB)
+   Détaxe en magasin
+   Site internet B2B
+   Gestion des commandes et livraisons
+   Gestion de la logistique
+   Gestion de la comptabilité
+   Campagne SMS
+   Sondage auprès de vos clients
+
+   Produits
+
+   Logiciel de caisse
+   Connecteurs
+   Logiciel de Business Intelligence
+   CMS Site Internet
+   Logiciel de gestion de corner
+   Logiciel de gestion BtoB
+   Logiciel pour la production
+
+   Société
+   Conditions générales de vente
+   Documentations techniques
+   Mentions légales
+   Nos clients
+   RGPD et confidentialité des données
+
+   Support
+   Auto-Formation
+   Parrainage
+   Fastmag - Tous droits réservés - Mentions légales - Conditions
+   générales de vente - RGPD - Une société du groupe DL Software
+     * Suivre
+     * Suivre
+
+MÉTIERS
+
+   Mode-Chaussures-Accessoires
+   Décoration-Ameublement
+   Restauration
+   Magasins Spécialisés
+   Entreprises De Négoce
+   Corner En Supermarché
+
+SERVICES
+
+   Formation
+   Assistance 7 Jours Sur 7
+   Migration De Donnees
+   Sauvegarde En Ligne
+   Paiement En Ligne
+   Fastmag Lease
+   Fastmag Communication
+
+SOCIÉTÉ
+
+   Qui Sommes-Nous
+   Nos Clients
+   Nos Partenaires
+   Carrières
+   Actualités
+   Communiqués De Presse
+   Parrainage
+     * Twitter
+     * Google
+     * Instagram
+
+   Design de Elegant Themes | Propulsé par WordPress
+   #alternate Fastmag » Flux Fastmag » Flux des commentaires alternate
+   alternate
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-PGGJR6Z
+
+   (BUTTON)
+     * [facebook..png]
+     * [linkedin_logo.png]
+     * ____________________ Rechercher
+     * [call.png] Appelez-nous au 01 55 26 08 10
+     * Nous Contacter
+     * FR
+          + EN
+
+   Fastmag
+
+   (BUTTON)
+     * Logiciels
+          + fastmag Habillement
+            Fastmag Boutique
+          + fastmag Habillement
+            Fastmag E-Commerce
+          + fastmag Habillement
+            Fastmag Négoce
+          + fastmag Habillement
+            Fastmag Production
+          + fastmag Habillement
+            Fastmag In-Shop
+          + fastmag Habillement
+            Fastmag Copilot
+          + fastmag Habillement
+            Fastmag Connect
+     * Solutions
+          +
+               o
+                    # PAR SECTEUR D’ACTIVITÉ
+               o
+                    # PAR FONCTION
+          +
+               o
+                    # PAR SECTEUR D’ACTIVITÉ
+                    # fastmag Habillement
+                      Textile Habillement
+                      Chaussures
+                      Chaussures
+                      Bijouterie
+                      Bijouterie
+                      Maroquinerie
+                      Maroquinerie
+               o
+                    # Beauté
+                      Beauté
+                      Décoration, ameublement
+                      Décoration Ameublement
+                      Corner Alimentaire
+                      Corner Alimentaire GMS
+               o
+                    # PAR FONCTION
+                    #
+                         @ Gestion des points de Vente
+                         @ Gestion Commerciale B2B
+                         @ E-commerce
+                         @ CRM & Fidélisation
+                         @ Gestion des stocks en temps réel
+                         @ Gestion de production
+     * Tarifs
+     * Matériel
+          + fastmag Habillement
+            Terminal de point de vente
+          + fastmag Habillement
+            Scanners de caisse
+          + fastmag Habillement
+            Scanners D'inventaire
+          + fastmag Habillement
+            Imprimantes
+     * Ressources
+          +
+               o
+                    #
+               o
+                    #
+          +
+               o
+                    # Actualité Actualités
+                      Assistance 7/7 Assistance 7/7
+                      Documentation technique Documentation Technique
+               o
+                    # Formation Formation
+                      Manuel utilisateur Manuels Utilisateurs
+               o
+                    # Le Guide du commerçant
+                    #
+                         @ Comptabilité et Fiscalité
+                         @ Gestion des stocks
+                         @ Inventaire
+                         @ Logiciel de caisse
+     * A propos de Fastmag
+
+   Sélectionner une page
+   ____________________
+
+Demander une démo
+
+   ________________________________________
+   ________________________________________
+
+   ________________________________________
+   ________________________________________
+   ________________________________________
+
+   [ ] S'abonner aux actualités Fastmag
+   Envoyer
+
+   APPLI
+   Aplication CRM en magasin
+   Encaissement en Magasin
+   Appli de gestion de boutique
+
+   Modules
+
+   Gestion de la déclaration d'échange de bien (DEB)
+   Détaxe en magasin
+   Site internet B2B
+   Gestion des commandes et livraisons
+   Gestion de la logistique
+   Gestion de la comptabilité
+   Campagne SMS
+   Sondage auprès de vos clients
+
+   Produits
+
+   Logiciel de caisse
+   Connecteurs
+   Logiciel de Business Intelligence
+   CMS Site Internet
+   Logiciel de gestion de corner
+   Logiciel de gestion BtoB
+   Logiciel pour la production
+
+   Société
+   Conditions générales de vente
+   Documentations techniques
+   Mentions légales
+   Nos clients
+   RGPD et confidentialité des données
+
+   Support
+   Auto-Formation
+   Parrainage
+   Fastmag - Tous droits réservés - Mentions légales - Conditions
+   générales de vente - RGPD - Une société du groupe DL Software
+     * Suivre
+     * Suivre
+
+MÉTIERS
+
+   Mode-Chaussures-Accessoires
+   Décoration-Ameublement
+   Restauration
+   Magasins Spécialisés
+   Entreprises De Négoce
+   Corner En Supermarché
+
+SERVICES
+
+   Formation
+   Assistance 7 Jours Sur 7
+   Migration De Donnees
+   Sauvegarde En Ligne
+   Paiement En Ligne
+   Fastmag Lease
+   Fastmag Communication
+
+SOCIÉTÉ
+
+   Qui Sommes-Nous
+   Nos Clients
+   Nos Partenaires
+   Carrières
+   Actualités
+   Communiqués De Presse
+   Parrainage
+     * Twitter
+     * Google
+     * Instagram
+
+   Design de Elegant Themes | Propulsé par WordPress
+   #alternate Fastmag » Flux Fastmag » Flux des commentaires
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-PGGJR6Z
+
+   (BUTTON)
+     * [svg%3E] [facebook..png]
+     * [svg%3E] [linkedin_logo.png]
+     * ____________________ Rechercher
+     * [svg%3E] [call.png] Appelez-nous au 01 55 26 08 10
+     * Nous Contacter
+     * FR
+          + EN
+
+   Fastmag
+
+   (BUTTON)
+     * Logiciels
+          + fastmag Habillement fastmag Habillement
+            Fastmag Boutique
+          + fastmag Habillement fastmag Habillement
+            Fastmag E-Commerce
+          + fastmag Habillement fastmag Habillement
+            Fastmag Négoce
+          + fastmag Habillement fastmag Habillement
+            Fastmag Production
+          + fastmag Habillement fastmag Habillement
+            Fastmag In-Shop
+          + fastmag Habillement fastmag Habillement
+            Fastmag Copilot
+          + fastmag Habillement fastmag Habillement
+            Fastmag Connect
+     * Solutions
+          +
+               o
+                    # PAR SECTEUR D’ACTIVITÉ
+               o
+                    # PAR FONCTION
+          +
+               o
+                    # PAR SECTEUR D’ACTIVITÉ
+                    # fastmag Habillement fastmag Habillement
+                      Textile Habillement
+                      Chaussures Chaussures
+                      Chaussures
+                      Bijouterie Bijouterie
+                      Bijouterie
+                      Maroquinerie Maroquinerie
+                      Maroquinerie
+               o
+                    # Beauté Beauté
+                      Beauté
+                      Décoration, ameublement Décoration, ameublement
+                      Décoration Ameublement
+                      Corner Alimentaire Corner Alimentaire
+                      Corner Alimentaire GMS
+               o
+                    # PAR FONCTION
+                    #
+                         @ Gestion des points de Vente
+                         @ Gestion Commerciale B2B
+                         @ Vente en ligne
+                         @ CRM & Fidélisation
+                         @ Gestion des stocks en temps réel
+                         @ Gestion de production
+     * Tarifs
+     * Matériel
+          + fastmag Habillement fastmag Habillement
+            Terminal de point de vente
+          + fastmag Habillement fastmag Habillement
+            Scanners de caisse
+          + fastmag Habillement fastmag Habillement
+            Scanners D'inventaire
+          + fastmag Habillement fastmag Habillement
+            Imprimantes
+     * Ressources
+          +
+               o
+                    #
+               o
+                    #
+          +
+               o
+                    # Actualité Actualité Actualités
+                      Assistance 7/7 Assistance 7/7 Assistance 7/7
+                      Documentation technique Documentation technique
+                      Documentation Technique
+               o
+                    # Formation Formation Formation
+                      Manuel utilisateur Manuel utilisateur Manuels
+                      Utilisateurs
+               o
+                    # Le Guide du commerçant
+                    #
+                         @ Comptabilité et Fiscalité
+                         @ Gestion des stocks
+                         @ Inventaire
+                         @ Logiciel de caisse
+     * A propos de Fastmag
+
+   Sélectionner une page
+   ____________________
+
+   Accueil > La gestion des stocks pour l’e-commerce
+
+Le guide du commerçant – La gestion des stocks
+
+La gestion des stocks pour l’e-commerce
+
+   Particulièrement compliquée à mettre en place sur un site e-commerce,
+   la gestion des stocks est réellement le point de l’activité qui peut
+   ruiner votre business si vous le négligez. Il est donc essentiel que
+   vous mettiez en place une organisation bien structurée pour optimiser
+   vos approvisionnements et vos sorties de stock. Fastmag vous présente
+   les fondamentaux d’une bonne gestion de stock pour l’e-commerce : des
+   différentes méthodes utilisées pour s’approvisionner et sortir ses
+   produits, aux problèmes les plus fréquemment rencontrés, sans oublier
+   les meilleures solutions pour les contourner.
+
+Les différentes méthodes de gestion de stock : des approvisionnements aux
+sorties
+
+   Que l’on ait un commerce physique ou une activité en ligne, il est des
+   constantes : des produits entrent en stock quand d’autres sortent. Ce
+   sont ces flux continus qu’une bonne gestion de stock s’évertue de
+   réguler afin de répondre à la demande en tenant compte de différents
+   éléments, comme les tendances du marché et les délais
+   d’approvisionnements et de fabrication des fournisseurs.
+
+Bien gérer les entrées en stock
+
+   Quand on parle d’approvisionnement, on parle d’acheter différents
+   produits, pour divers usages, et ce, que l’on ait un magasin, une
+   entreprise de services ou une usine :
+
+   matières premières pour produire des biens,
+   produits finis à distribuer,
+   consommables couvrant les besoins de production et de vente.
+
+   Dans le cas du e-commerce, on ne s’intéresse à acheter que pour
+   distribuer. Cependant, comme pour une activité classique, la
+   rentabilité du site tiendra en partie dans le fait de bien acheter et
+   au bon moment. Il faut donc s’appuyer sur une stratégie d’achats
+   pertinente et une méthode précise d’approvisionnement.
+
+Adopter une stratégie d’achat efficace
+
+   Il existe deux types de stratégie d’achat.
+   La première s’appuie sur une vision factuelle de sa gestion des
+   approvisionnements : l’historique des ventes est analysé pour dégager
+   une moyenne de vente par articles, ce qui permet d’évaluer ceux qui
+   marchent ou non pour décider des futurs approvisionnements.
+   La seconde stratégie s’appuie sur une vision prévisionnelle qui
+   conjugue le factuel à une analyse 360 ° de toutes les données (contexte
+   économique, évolution de la demande…).
+   Selon les produits mis en vente sur votre boutique en ligne, à vous de
+   décider de la stratégie qui convient le mieux à votre gestion de stock.
+
+Adopter la méthode d’approvisionnement la plus pertinente
+
+   Comme les stratégies d’achat, il existe diverses méthodes pour procéder
+   à son approvisionnement.
+
+La méthode Juste-à-temps (JAT)
+
+   Les approvisionnements dépendent de la demande, réduisant ainsi
+   considérablement le stockage.
+
+La méthode calendaire
+
+   Elle consiste à s’approvisionner à une date fixe une quantité fixe, en
+   appliquant la formule de Wilson ou QEC.
+
+La méthode Kanban
+
+   Un stock minimum est défini et les achats suivants sont réalisés en
+   fonction des commandes.
+
+La méthode point de commande
+
+   Un stock minimum est fixé. Quand ce dernier est atteint, un
+   approvisionnement de quantité égale est automatiquement déclenché, peu
+   importe la date.
+
+   Quelle que soit la méthode retenue pour votre e-commerce, elle doit
+   favoriser une gestion de stock optimale afin d’éviter la rupture de
+   stock ou le sur-stockage.
+
+Bien gérer les sorties de stock
+
+   Les sorties des stocks se gèrent également selon différentes méthodes
+   éprouvées. Elles doivent être adaptées au type de commerce en ligne que
+   vous avez. Rien ne vous empêche de les mixer selon les familles de
+   produits que vous commercialisez.
+
+Méthode FIFO
+
+   La méthode First In First Out, utilisée dans les outils FASTMAG,
+   consiste à enlever du stock les matières ou produits en procédant du
+   plus ancien au plus récent. Son intérêt est qu’elle favorise une bonne
+   gestion des denrées périssables et évite les problèmes d’obsolescence
+   ou de dégradation.
+
+Méthode LIFO
+
+   La méthode Last In First Out est l’opposé de la FIFO. Utilisée pour les
+   produits sans DLC, elle permet de faire sortir du stock ce qui vient de
+   rentrer. Son intérêt réside dans le gain de temps et la simplification
+   des tâches des opérationnels.
+
+Méthode FEFO
+
+   La méthode First Expired First Out s’utilise principalement dans le
+   domaine de l’agroalimentaire où il est nécessaire de faire sortir les
+   produits aux DLC les plus proches en premier.
+
+Les particularités d’une gestion de stock pour l’e-commerce
+
+   Quelles que soient votre activité e-commerce, votre stratégie d’achat
+   et de sorties de vos stocks, il est indispensable de vous doter d’un
+   système de gestion des stocks automatisé.
+
+Pourquoi s’équiper d’un système de gestion des stocks centralisé ?
+
+   Contrairement à un magasin physique où l’on peut se rendre pour
+   échanger avec l’équipe de vente qui peut proposer un autre article, une
+   réservation sur un prochain arrivage, etc. l’e-commerce propose une
+   relation complètement dématérialisée de l’acte d’achat. Si le
+   « consum’acteur » du web ne trouve pas ce qu’il souhaite sur votre
+   boutique, il peut en un clic aller voir ailleurs sans bouger de son
+   canapé. Il vaut mieux donc mettre en place un système de gestion des
+   stocks qui permet de ne pas trop le décevoir.
+
+   Un système centralisé de gestion des stocks vous évite donc l’écueil de
+   la rupture, mais aussi :
+
+   les sur-stockages qui mangent la place dans vos entrepôts et vous
+   coûtent cher en immobilisation ;
+   les erreurs d’inventaires plus difficiles à gérer lorsqu’on n’a pas le
+   stock physique sous la main, mais dans un entrepôt externalisé.
+
+   Oubliez donc les carnets, les spreadsheet et les tableaux Excel remplis
+   manuellement. Et passez votre gestion de stock en mode agile.
+
+Les différents types de systèmes de gestion des stocks automatisés
+
+   Lorsque l’on se lance dans le e-commerce, on n’a guère le retour
+   d’expérience nécessaire pour faire les bons choix en matière de système
+   de gestion de stock automatisé. Cela est d’autant plus vrai qu’ils sont
+   multiples.
+
+Système conçu pour les commerces physiques
+
+   Si ce système montre toutes ses preuves pour la gestion d’un stock
+   physique, il montre aussi ses limites dans le cadre du commerce en
+   ligne. En effet, si théoriquement il est possible de mettre en place
+   une gestion centralisée des stocks, cela est chronophage, voire
+   extrêmement difficile.
+
+Système via le site avec plateforme e-commerce intégrée
+
+   Il existe de nombreuses plateformes e-commerce hébergées sur SaaS,
+   comme WordPress, Shopify ou Weebly, pour ne citer qu’eux. La gestion
+   est très simple à condition de ne vendre que sur un seul site. Dès lors
+   que vous souhaitez vendre sur plusieurs plateformes comme les
+   marketplaces (Amazon, Cdiscount, eBay, PriceMinister…), le problème de
+   centralisation se pose.
+
+Système automatisé d’un logiciel e-commerce
+
+   C’est la meilleure solution pour optimiser votre gestion de stock dans
+   un contexte e-commerce. Ce type de logiciel, comme celui de FASTMAG,
+   permet de traiter automatiquement les commandes et effectue en temps
+   réel les mises à jour du stock, quelles que soient les plateformes qui
+   vendent vos produits : votre site, les sites partenaires, les
+   marketplaces.
+   Par ailleurs, si vous avez différents points de vente physique, vous
+   pouvez aussi intégrer leurs stocks en connectant leurs flux de données.
+   Ainsi, vous avez une vision élargie de vos stocks, dont la gestion
+   permet de distinguer : les stocks des magasins et ceux dédiés au
+   e-commerce. En cas de rupture proche, il vous est ainsi possible de
+   transférer des stocks du magasin pour satisfaire une demande en ligne
+   et vice versa.
+
+La gestion logistique de l’e-commerce
+
+   Outre la gestion des stocks, le commerce en ligne a ses propres
+   particularités en matière de logistique : des particularités qui
+   amènent d’ailleurs le modèle de l’immobilier tertiaire à se repenser.
+
+Une gestion d’entrepôt optimisée
+
+   Que l’on soit industriel ou commerçant, notamment en ligne, il y a des
+   principes de base immuables comme la prise en compte du nombre de
+   commandes à traiter et du nombre des articles à stocker. Ainsi, plus
+   les commandes sont nombreuses, plus il faut augmenter le nombre de
+   collaborateurs et la surface des entrepôts.
+
+Les différentes méthodes de stockage
+
+   Les zones d’entreposage sont difficiles à déterminer. Cette difficulté
+   s’accroît avec une activité e-commerce où la méthode de stockage doit
+   impérativement être pensée en fonction des volumes à traiter.
+
+Picking à la commande (moins de 50 commandes à traiter par jour)
+
+   Cette méthode ne nécessite pas de règles strictes régissant
+   l’organisation de la zone de stockage, si ce n’est celle de bons sens
+   facilitant les inventaires : classement par familles et sous-familles
+   de produits…
+
+Picking par lot (entre 50 et 1 000 commandes/jour environ)
+
+   Cette méthode exige une professionnalisation de la zone de stockage en
+   respectant les normes édictées par le Ministère du Travail.
+
+Traitement industrialisé (au-delà de 1 000 commandes/jour)
+
+   Ce dernier s’appuie sur un logiciel de gestion d’entrepôt et des
+   chaînes de convoyage robotisées.
+
+L’externalisation de ses stocks
+
+   En e-commerce, si les volumes sont importants, l’externalisation et la
+   mutualisation de l’ensemble des moyens et des outils de la chaîne
+   logistique (solutions logicielles, locaux…) sont souvent plus
+   avantageuses qu’un traitement industrialisé. Mais, pour les petites
+   structures équipées d’un logiciel adapté, une bonne gestion de stock
+   exige simplement de bien négocier les loyers de ses locaux et les
+   volumes de marchandises auprès des fournisseurs.
+
+Les astuces d’une logistique agile
+
+   Si la méthode de stockage est essentielle, certains points non
+   bloquants dans une gestion d’entrepôt classique peuvent rapidement
+   handicaper l’essor d’un commerce en ligne. Il est donc essentiel de les
+   lever au plus vite pour gagner en efficacité, en rapidité et en
+   satisfaction client :
+
+   Maximiser l’ergonomie du site en le pensant de façon à limiter les
+   déplacements inutiles à vos collaborateurs et le port de charges
+   lourdes
+   Structurer correctement votre espace de stockage, en plaçant les stocks
+   à forte rotation près des tables de colisage, par exemple
+   Ranger correctement tous vos rayonnages par la mise en place d’un
+   adressage
+   Spécialiser vos collaborateurs (réception, envoi, vérification,
+   rangement, picking, colisage, affranchissement…)
+   Intégrer aux commandes en attente les produits tout juste réceptionnés
+   avant même de les ranger pour les expédier au plus vite
+   Procéder au picking, colisage et affranchissement d’un même produit de
+   façon simultanée pour préparer rapidement toutes les commandes qui le
+   contiennent
+
+   En conclusion, la gestion des stocks pour le e-commerce adapte les
+   grands sujets stratégiques et opérationnels de la gestion aux réalités
+   de l’Internet. En effet, plus qu’ailleurs sans doute, le temps et
+   l’optimisation de l’espace sont de vrais enjeux et leviers de
+   compétitivité qui ne peuvent être efficients qu’au moyen d’un logiciel
+   de gestion centralisé.
+
+En résumé
+
+     * Développer des stratégies d’achat en accord avec ses méthodes
+       d’entrée et de sortie de stock
+     * Mettre en place un système de gestion automatisé au moyen d’un
+       logiciel e-commerce
+
+     * Développer une vision 360 ° de sa logistique
+
+Articles sur la gestion des stocks
+
+Les règles de stockage
+
+Méthodes d’une bonne gestion des approvisionnements
+
+Une vision 360 ° de son activité
+
+Les clés pour éviter la rupture de stock
+
+Comment gérer ses sorties de stock ?
+
+Comment éviter les stocks dormants ?
+
+Que faire des invendus ?
+
+Quels sont les risques d’une mauvaise gestion de stock ?
+
+Où et comment stocker ses produits ?
+
+   APPLI
+   Clipad
+   DEB
+   Détaxe
+   E-Business
+   Extranet Fournisseur
+   Logistique
+   Mobile Sales
+   Manager
+   Négoce Analytique
+   SMS
+   Sondage en magasin
+
+   Modules
+   Gestion de la déclaration d'échange de bien
+   Détaxe en magasin
+   Site internet B2B
+   Gestion des commandes et livraisons
+   Gestion de la logistique
+   Gestion de la comptabilité
+   Campagne SMS
+   Sondage auprès de vos clients
+
+   Produits
+
+   Fastmag Boutique
+   Fastmag Connect
+   Fastmag Copilot
+   Fastmag E-Commerce
+   Fastmag In Shop
+   Fastmag Négoce
+   Fastmag Production
+
+   Société
+   Actualités
+   Conditions générales de vente
+   Formation
+   Mentions Légales
+   Normes et conformités
+   Nos Clients
+   Qui Sommes-Nous
+   RGPD et confidentialité des données
+
+   Support
+   Auto-Formation
+   Assistance téléphonique 7 jours sur 7
+   Documentations Techniques
+   Manuel utilisateur
+   Matériel
+   Fastmag - Tous droits réservés - Mentions légales - Conditions
+   générales de vente - RGPD - Une société du groupe DL Software
+     * Suivre
+     * Suivre
+
+MÉTIERS
+
+   Mode-Chaussures-Accessoires
+   Décoration-Ameublement
+   Restauration
+   Magasins Spécialisés
+   Entreprises De Négoce
+   Corner En Supermarché
+
+SERVICES
+
+   Formation
+   Assistance 7 Jours Sur 7
+   Migration De Donnees
+   Sauvegarde En Ligne
+   Paiement En Ligne
+   Fastmag Lease
+   Fastmag Communication
+
+SOCIÉTÉ
+
+   Qui Sommes-Nous
+   Nos Clients
+   Nos Partenaires
+   Carrières
+   Actualités
+   Communiqués De Presse
+   Parrainage
+     * Twitter
+     * Google
+     * Instagram
+
+   Design de Elegant Themes | Propulsé par WordPress
+   #alternate Fastmag » Flux Fastmag » Flux des commentaires
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-PGGJR6Z
+
+   (BUTTON)
+     * [svg%3E] [facebook..png]
+     * [svg%3E] [linkedin_logo.png]
+     * ____________________ Rechercher
+     * [svg%3E] [call.png] Appelez-nous au 01 55 26 08 10
+     * Nous Contacter
+     * FR
+          + EN
+
+   Fastmag
+
+   (BUTTON)
+     * Logiciels
+          + fastmag Habillement fastmag Habillement
+            Fastmag Boutique
+          + fastmag Habillement fastmag Habillement
+            Fastmag E-Commerce
+          + fastmag Habillement fastmag Habillement
+            Fastmag Négoce
+          + fastmag Habillement fastmag Habillement
+            Fastmag Production
+          + fastmag Habillement fastmag Habillement
+            Fastmag In-Shop
+          + fastmag Habillement fastmag Habillement
+            Fastmag Copilot
+          + fastmag Habillement fastmag Habillement
+            Fastmag Connect
+     * Solutions
+          +
+               o
+                    # PAR SECTEUR D’ACTIVITÉ
+               o
+                    # PAR FONCTION
+          +
+               o
+                    # PAR SECTEUR D’ACTIVITÉ
+                    # fastmag Habillement fastmag Habillement
+                      Textile Habillement
+                      Chaussures Chaussures
+                      Chaussures
+                      Bijouterie Bijouterie
+                      Bijouterie
+                      Maroquinerie Maroquinerie
+                      Maroquinerie
+               o
+                    # Beauté Beauté
+                      Beauté
+                      Décoration, ameublement Décoration, ameublement
+                      Décoration Ameublement
+                      Corner Alimentaire Corner Alimentaire
+                      Corner Alimentaire GMS
+               o
+                    # PAR FONCTION
+                    #
+                         @ Gestion des points de Vente
+                         @ Gestion Commerciale B2B
+                         @ E-commerce
+                         @ CRM & Fidélisation
+                         @ Gestion des stocks en temps réel
+                         @ Gestion de production
+     * Tarifs
+     * Matériel
+          + fastmag Habillement fastmag Habillement
+            Terminal de point de vente
+          + fastmag Habillement fastmag Habillement
+            Scanners de caisse
+          + fastmag Habillement fastmag Habillement
+            Scanners D'inventaire
+          + fastmag Habillement fastmag Habillement
+            Imprimantes
+     * Ressources
+          +
+               o
+                    #
+               o
+                    #
+          +
+               o
+                    # Actualité Actualité Actualités
+                      Assistance 7/7 Assistance 7/7 Assistance 7/7
+                      Documentation technique Documentation technique
+                      Documentation Technique
+               o
+                    # Formation Formation Formation
+                      Manuel utilisateur Manuel utilisateur Manuels
+                      Utilisateurs
+               o
+                    # Le Guide du commerçant
+                    #
+                         @ Comptabilité et Fiscalité
+                         @ Gestion des stocks
+                         @ Inventaire
+                         @ Logiciel de caisse
+     * A propos de Fastmag
+
+   Sélectionner une page
+   ____________________
+
+   Accueil > Notre Entreprise
+
+Le partenaire pour la gestion évolutive de votre business
+
+   Fastmag est composé d’une équipe de 40 personnes, dont des
+   développeurs, des ingénieurs commerciaux experts du retail, des
+   consultants formateurs, des hotliners. Nos équipes sont réparties en
+   France (à Paris), en Israël et en Afrique du nord.
+
+Fastmag en 30 ans
+
+   1989
+
+   Serge Chelli crée ACE Informatique, éditeur de logiciels informatiques
+   pour les commerçants.
+
+   1997
+
+   Ace informatique devient Fastmag Group.
+
+   1999
+
+   Fastmag développe un logiciel de gestion commerciale et un logiciel de
+   commerce de détail.
+
+   2003
+
+   La suite logicielle Fastmag devient Full Web et est disponible en mode
+   SaaS. Dans la continuité de son développement, Fastmag étoffe son
+   écosystème avec le lancement d’un logiciel de production, une solution
+   de vente en ligne BtoB et BotC, un logiciel de négoce.
+
+   2004
+
+   Fastmag exporte ses services hors de la France et s’implante en Afrique
+   du Nord.
+
+   2005
+
+   Ouverture d’une filiale sur la côte Est des États-Unis, en association
+   avec un partenaire local.
+
+   2006
+
+   Fastmag étend ses partenariats. 3DTech et le logisticien C-log
+   deviennent des acteurs complémentaires à Fastmag pour développer des
+   opportunités commerciales.
+
+   2007
+
+   Fastmag s’implante en Israël.
+
+   2013
+
+   196e place des éditeurs et créateurs de logiciels français.
+
+   2016
+
+   Fastmag se distingue par sa capacité à décliner ses produits pour des
+   secteurs de métiers différents tels que la mode, les chaussures, les
+   accessoires, la décoration, l’ameublement, l’électroménager, les
+   ecigarettiers, la parapharmacie, les cavistes.
+
+   2017
+
+   Fastmag intègre DL Software, le groupe d’éditeurs d’ERP (spécialisés
+   sur les marchés spécifiques).
+
+   2018
+
+   2019
+
+   Fastmag est le premier logiciel de caisse aux normes légales imposées
+   par l’état
+
+   Grâce à l’ouverture de son API et de ses connecteurs EDI initiée
+   quelques années plus tôt, Fastmag étends ses possibilités de connection
+   à de nouveaux services tiers; entre autres : Edicom, Prestashop,
+   Shopify, Magento, Iziflux, Le New Black, Joor, Digitaleo, Global blue…
+   [svg%3E] [logo.svg]
+
+   Fastmag est au service des commerçants depuis 30 ans. Spécialisé dans
+   le négoce et le domaine du prêt à porter à sa création, Fastmag fut la
+   première entreprise française à créer une solution Saas de logiciel de
+   caisse.
+   [svg%3E] [legislation-francaise.png]
+
+   Fastmag est conforme à la législation 2018. Logiciel de caisse qui
+   respecte la législation française et en particulier l’article 2.86 du
+   CGI sur les systèmes de caisse sécurisés. Vous pouvez demander auprès
+   de notre ingénieur commercial l’attestation de conformité.
+   [svg%3E] [Logo-DL-Software.png]
+
+   Fastmag fait partie du groupe DL software, Editeur de logiciels métiers
+   destinés aux petites et moyennes entreprises. DL Software propose une
+   solution globale intégrée couvrant l’ensemble des besoins informatiques
+   de ses clients.
+
+   APPLI
+   Aplication CRM en magasin
+   Encaissement en Magasin
+   Appli de gestion de boutique
+
+   Modules
+
+   Gestion de la déclaration d'échange de bien (DEB)
+   Détaxe en magasin
+   Site internet B2B
+   Gestion des commandes et livraisons
+   Gestion de la logistique
+   Gestion de la comptabilité
+   Campagne SMS
+   Sondage auprès de vos clients
+
+   Produits
+
+   Logiciel de caisse
+   Connecteurs
+   Logiciel de Business Intelligence
+   CMS Site Internet
+   Logiciel de gestion de corner
+   Logiciel de gestion BtoB
+   Logiciel pour la production
+
+   Société
+   Conditions générales de vente
+   Documentations techniques
+   Mentions légales
+   Nos clients
+   RGPD et confidentialité des données
+
+   Support
+   Auto-Formation
+   Parrainage
+   Fastmag - Tous droits réservés - Mentions légales - Conditions
+   générales de vente - RGPD - Une société du groupe DL Software
+     * Suivre
+     * Suivre
+
+MÉTIERS
+
+   Mode-Chaussures-Accessoires
+   Décoration-Ameublement
+   Restauration
+   Magasins Spécialisés
+   Entreprises De Négoce
+   Corner En Supermarché
+
+SERVICES
+
+   Formation
+   Assistance 7 Jours Sur 7
+   Migration De Donnees
+   Sauvegarde En Ligne
+   Paiement En Ligne
+   Fastmag Lease
+   Fastmag Communication
+
+SOCIÉTÉ
+
+   Qui Sommes-Nous
+   Nos Clients
+   Nos Partenaires
+   Carrières
+   Actualités
+   Communiqués De Presse
+   Parrainage
+     * Twitter
+     * Google
+     * Instagram
+
+   Design de Elegant Themes | Propulsé par WordPress
+   #alternate Fastmag » Flux Fastmag » Flux des commentaires
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-PGGJR6Z
+
+   (BUTTON)
+     * [svg%3E] [facebook..png]
+     * [svg%3E] [linkedin_logo.png]
+     * ____________________ Rechercher
+     * [svg%3E] [call.png] Appelez-nous au 01 55 26 08 10
+     * Nous Contacter
+     * FR
+          + EN
+
+   Fastmag
+
+   (BUTTON)
+     * Logiciels
+          + fastmag Habillement fastmag Habillement
+            Fastmag Boutique
+          + fastmag Habillement fastmag Habillement
+            Fastmag E-Commerce
+          + fastmag Habillement fastmag Habillement
+            Fastmag Négoce
+          + fastmag Habillement fastmag Habillement
+            Fastmag Production
+          + fastmag Habillement fastmag Habillement
+            Fastmag In-Shop
+          + fastmag Habillement fastmag Habillement
+            Fastmag Copilot
+          + fastmag Habillement fastmag Habillement
+            Fastmag Connect
+     * Solutions
+          +
+               o
+                    # PAR SECTEUR D’ACTIVITÉ
+               o
+                    # PAR FONCTION
+          +
+               o
+                    # PAR SECTEUR D’ACTIVITÉ
+                    # fastmag Habillement fastmag Habillement
+                      Textile Habillement
+                      Chaussures Chaussures
+                      Chaussures
+                      Bijouterie Bijouterie
+                      Bijouterie
+                      Maroquinerie Maroquinerie
+                      Maroquinerie
+               o
+                    # Beauté Beauté
+                      Beauté
+                      Décoration, ameublement Décoration, ameublement
+                      Décoration Ameublement
+                      Corner Alimentaire Corner Alimentaire
+                      Corner Alimentaire GMS
+               o
+                    # PAR FONCTION
+                    #
+                         @ Gestion des points de Vente
+                         @ Gestion Commerciale B2B
+                         @ E-commerce
+                         @ CRM & Fidélisation
+                         @ Gestion des stocks en temps réel
+                         @ Gestion de production
+     * Tarifs
+     * Matériel
+          + fastmag Habillement fastmag Habillement
+            Terminal de point de vente
+          + fastmag Habillement fastmag Habillement
+            Scanners de caisse
+          + fastmag Habillement fastmag Habillement
+            Scanners D'inventaire
+          + fastmag Habillement fastmag Habillement
+            Imprimantes
+     * Ressources
+          +
+               o
+                    #
+               o
+                    #
+          +
+               o
+                    # Actualité Actualité Actualités
+                      Assistance 7/7 Assistance 7/7 Assistance 7/7
+                      Documentation technique Documentation technique
+                      Documentation Technique
+               o
+                    # Formation Formation Formation
+                      Manuel utilisateur Manuel utilisateur Manuels
+                      Utilisateurs
+               o
+                    # Le Guide du commerçant
+                    #
+                         @ Comptabilité et Fiscalité
+                         @ Gestion des stocks
+                         @ Inventaire
+                         @ Logiciel de caisse
+     * A propos de Fastmag
+
+   Sélectionner une page
+   ____________________
+
+   Accueil > Fastmag Négoce
+
+Logiciel de gestion commerciale BtoB
+
+   Demander une démo
+
+   Demander une démo
+
+   [svg%3E] [logo.svg]
+   Négoce
+
+   Accueil Négoce5
+
+   Fonctionnalités5
+
+   Modules complémentaires
+   Compta Analytique 5
+   DEB 5
+   E-Business 5
+   Extranet fournisseur 5
+
+   Connecteurs services tiers5
+
+   Pilotez votre activité B2B avec la solution de gestion commerciale et
+   comptable Fastmag Négoce, logiciel intuitif et ergonomique qui permet
+   de développer vos ventes en gros.
+   [svg%3E] [list-bullet@2x.png]
+
+Gestion facile et possibilités décuplées
+
+     * Une interface commune
+       Connecté au logiciel de caisse pour une base de données unique.
+     * Gestion de votre annuaire client
+       Suivi des encours clients et accords de crédit.
+     * Multi dépots et multi-enseignes
+       Interrogation temps réel des stocks en multi-magasin, et
+       communiquez grâce à la messagerie inter-magasins.
+
+   [svg%3E] [lock-portrait@2x.png]
+
+En ligne et sécurisé
+
+     * Bases de données sécurisées
+       Vos données sont sécurisées et hébergées dans le cloud en temps
+       réel.
+     * Accessible depuis n’importe quel device
+       Connectez vous et accédez à vos chiffres sur ordinateur, tablette
+       ou smartphone.
+     * Logiciels interconnectés
+       Automatiser vos demandes de réassort vers vos boutiques.
+
+   [svg%3E] [refresh-02@2x.png]
+
+Logiciel évolutif
+
+     * Possibilité de développements
+       Le service de recherche et développement est à l’écoute des
+       demandes de nos clients.
+     * Connectez vous vers l’extérieur
+       Exploitez l’API et nos connecteurs pour utiliser des services
+       extérieurs.
+     * Segmentation des performances
+       Analysez les performances sur chacun comme sur l’ensemble de vos
+       clients.
+
+Pour toute demande, un seul numéro
+
+   [svg%3E] [phone-call.png] 01 55 26 08 10
+
+2 solutions pour diffuser votre showroom sur le web
+
+E-Business BtoB
+
+     * La vente en gros peut aussi se faire via le web : utilisez l’outil
+       de création de site BtoB pour vendre en ligne.
+     * Centralisez votre pilotage de vos stocks et produits depuis la
+       plateforme Fastmag.
+     * Vérouillez l’accès ou proposez votre catalogue en lecture libre.
+
+   OU
+
+Connect
+
+     * Utilisez nos solutions EDI afin de vous connecter à des services
+       tiers de vente en gros.
+     * Votre catalogue peut ainsi être diffusé sur des plateformes comme
+       Joor, Le New Black et d’autres leviers, autant d’opportunités de
+       croissance pour votre business.
+     * Connect vous permet de récupérer vos données depuis une base tierce
+       et de les intégrer dans Fastmag.
+
+   Contacter un ingénieur commercial
+
+Ils utilisent Fastmag Négoce
+
+   boutiques indépendantes
+
+   Grands réseaux
+   [svg%3E] [Maison-sarah.png]
+   [svg%3E] [Gasbijoux.png]
+   [svg%3E] [AA.png]
+   [svg%3E] [Optical-discount.png]
+   [svg%3E] [Izac.png]
+   [svg%3E] [Cacharel.png]
+
+   boutiques indépendantes
+   [svg%3E] [Maison-sarah.png]
+   [svg%3E] [AA.png]
+   [svg%3E] [Gasbijoux.png]
+
+   Grands réseaux
+   [svg%3E] [Optical-discount.png]
+   [svg%3E] [Cacharel.png]
+   [svg%3E] [Izac.png]
+   [svg%3E] [raymondberrebi.png]
+
+   « Une plateforme intuitive qui m’a donnée une meilleure visibilité sur
+   mes stocks et l’ensemble de mon activité multi-magasins »
+
+   Raymond Berrebi
+   Co Founder / PauseClopes.com
+
+Remplissez ce formulaire pour bénéficier d’une démo gratuite
+
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   Les champs marqués d'un astérisque * sont obligatoires
+   Envoyer
+
+Vous vous posez la question
+
+Puis-je prendre mes commandes clients lorsque je suis dans un salon ou à
+l'étranger ?
+
+   Fastmag Négoce est accessible partout dans le monde depuis n’importe
+   quelle connexion internet. Vous pouvez y accéder depuis un appareil
+   Desktop, tout comme sur une tablette ou un smartphone.
+
+Pouvez-vous vous interfacer à un logisticien?
+
+   Fastmag a établi des partenariats avec des logisticiens. Nos
+   passerelles EDI permettent de nous connecter avec leurs propres
+   solutions de gestion logistique.
+
+Comment puis-je être tenu informé des performances de mon business?
+
+   La synthèse client permet d’avoir un visuel et un apercu d’ou on en est
+   avec une société en particulier (CA, contacts, )
+
+Le paramétrage de Fastmag Négoce est-il optimisé?
+
+   La gestion automatique du processus commercial wholesales permet de ne
+   pas avoir de resaisie d’informations sur chaque étape du processus.
+
+Ai-je la possiibilité de créer un book de collection?
+
+   Oui, Fastmag Négoce propose la possibilité d’extraire vos fiches
+   produits pour en constituer un book.
+
+   APPLI
+   Aplication CRM en magasin
+   Encaissement en Magasin
+   Appli de gestion de boutique
+
+   Modules
+
+   Gestion de la déclaration d'échange de bien (DEB)
+   Détaxe en magasin
+   Site internet B2B
+   Gestion des commandes et livraisons
+   Gestion de la logistique
+   Gestion de la comptabilité
+   Campagne SMS
+   Sondage auprès de vos clients
+
+   Produits
+
+   Logiciel de caisse
+   Connecteurs
+   Logiciel de Business Intelligence
+   CMS Site Internet
+   Logiciel de gestion de corner
+   Logiciel de gestion BtoB
+   Logiciel pour la production
+
+   Société
+   Conditions générales de vente
+   Documentations techniques
+   Mentions légales
+   Nos clients
+   RGPD et confidentialité des données
+
+   Support
+   Auto-Formation
+   Parrainage
+   Fastmag - Tous droits réservés - Mentions légales - Conditions
+   générales de vente - RGPD - Une société du groupe DL Software
+     * Suivre
+     * Suivre
+
+MÉTIERS
+
+   Mode-Chaussures-Accessoires
+   Décoration-Ameublement
+   Restauration
+   Magasins Spécialisés
+   Entreprises De Négoce
+   Corner En Supermarché
+
+SERVICES
+
+   Formation
+   Assistance 7 Jours Sur 7
+   Migration De Donnees
+   Sauvegarde En Ligne
+   Paiement En Ligne
+   Fastmag Lease
+   Fastmag Communication
+
+SOCIÉTÉ
+
+   Qui Sommes-Nous
+   Nos Clients
+   Nos Partenaires
+   Carrières
+   Actualités
+   Communiqués De Presse
+   Parrainage
+     * Twitter
+     * Google
+     * Instagram
+
+   Design de Elegant Themes | Propulsé par WordPress
+   #alternate Fastmag » Flux Fastmag » Flux des commentaires
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-PGGJR6Z
+
+   (BUTTON)
+     * [svg%3E] [facebook..png]
+     * [svg%3E] [linkedin_logo.png]
+     * ____________________ Rechercher
+     * [svg%3E] [call.png] Appelez-nous au 01 55 26 08 10
+     * Nous Contacter
+     * FR
+          + EN
+
+   Fastmag
+
+   (BUTTON)
+     * Logiciels
+          + fastmag Habillement fastmag Habillement
+            Fastmag Boutique
+          + fastmag Habillement fastmag Habillement
+            Fastmag E-Commerce
+          + fastmag Habillement fastmag Habillement
+            Fastmag Négoce
+          + fastmag Habillement fastmag Habillement
+            Fastmag Production
+          + fastmag Habillement fastmag Habillement
+            Fastmag In-Shop
+          + fastmag Habillement fastmag Habillement
+            Fastmag Copilot
+          + fastmag Habillement fastmag Habillement
+            Fastmag Connect
+     * Solutions
+          +
+               o
+                    # PAR SECTEUR D’ACTIVITÉ
+               o
+                    # PAR FONCTION
+          +
+               o
+                    # PAR SECTEUR D’ACTIVITÉ
+                    # fastmag Habillement fastmag Habillement
+                      Textile Habillement
+                      Chaussures Chaussures
+                      Chaussures
+                      Bijouterie Bijouterie
+                      Bijouterie
+                      Maroquinerie Maroquinerie
+                      Maroquinerie
+               o
+                    # Beauté Beauté
+                      Beauté
+                      Décoration, ameublement Décoration, ameublement
+                      Décoration Ameublement
+                      Corner Alimentaire Corner Alimentaire
+                      Corner Alimentaire GMS
+               o
+                    # PAR FONCTION
+                    #
+                         @ Gestion des points de Vente
+                         @ Gestion Commerciale B2B
+                         @ E-commerce
+                         @ CRM & Fidélisation
+                         @ Gestion des stocks en temps réel
+                         @ Gestion de production
+     * Tarifs
+     * Matériel
+          + fastmag Habillement fastmag Habillement
+            Terminal de point de vente
+          + fastmag Habillement fastmag Habillement
+            Scanners de caisse
+          + fastmag Habillement fastmag Habillement
+            Scanners D'inventaire
+          + fastmag Habillement fastmag Habillement
+            Imprimantes
+     * Ressources
+          +
+               o
+                    #
+               o
+                    #
+          +
+               o
+                    # Actualité Actualité Actualités
+                      Assistance 7/7 Assistance 7/7 Assistance 7/7
+                      Documentation technique Documentation technique
+                      Documentation Technique
+               o
+                    # Formation Formation Formation
+                      Manuel utilisateur Manuel utilisateur Manuels
+                      Utilisateurs
+               o
+                    # Le Guide du commerçant
+                    #
+                         @ Comptabilité et Fiscalité
+                         @ Gestion des stocks
+                         @ Inventaire
+                         @ Logiciel de caisse
+     * A propos de Fastmag
+
+   Sélectionner une page
+   ____________________
+
+   Accueil > Fastmag Production
+
+Automatisez vos processus de production
+
+   Demander une démo
+
+   Demander une démo
+
+   Ce logiciel métier de gestion de la production performant est
+   conçu pour les fabricants et créateurs de bien de consommation. Gagnez
+   du temps en automatisant vos processus de production et en connectant
+   votre plateforme à vos outils de vente. Déterminez vos besoins en
+   matières premières, fournitures, ordres de fabrication et vos besoins
+   en produits finis sur des commandes clients ou ordres de
+   fabrication. Gérez vos produits finis, modèle / matière en tailles et
+   coloris, photos, croquis, dessins techniques et symboles de lavage.
+   Elaborez vos fiches techniques avec consommation matières, fournitures,
+   façon et frais divers.
+   [svg%3E] [list-bullet@2x.png]
+
+Suivi de production
+
+     * Détermination des besoins
+    Fastmag Production calcule pour vous les quantités de matières
+       premières et autres outils dont vous avez besoin.
+     * Ordres de fabrication
+       Les ordres de fabrication sont automatiquement générés pour vos
+       employés ou vos sous-traitants.
+     * Facile et intuitif
+       L’interface ergonomique de Fastmag vous permet une prise en main en
+       quelques minutes.
+
+   [svg%3E] [box-3d-50@2x.png]
+
+Gestion des produits
+
+     * Gestion des caractéristiques produits
+       Gérez l’ensemble des caractéristiques de vos produits : tailles,
+       couleurs, matières, consignes de lavage, etc.
+     * Élaboration de fiches techniques
+       Simplifiez vos ordres de fabrication avec l’élaboration de fiches
+       techniques en quelques clics.
+     * Gestion des approvisionnements
+       Visualisez l’ensemble de vos approvisionnements automatiquement
+       proposés par Fastmag à partir de vos besoins.
+
+   [svg%3E] [laptop-72@2x.png]
+
+Restez à la pointe de l'innovation
+
+     * Calcul du Prix de Revient Industriel
+       Obtenez automatiquement :
+       – Calcul du coût d’achat
+       – Calcul du coût d’approvisionnement
+       – Calcul du coût de la production
+       – Calcul du coût de la distribution
+       – Calcul du coût administratif
+     * Synchronisation avec les logiciels Fastmag
+       Les commandes clients saisies dans Négoce sont synchronisées avec
+       Production pour connaitre en temps réel vos besoins.
+     * Automatisation de votre comptabilité
+       Vos opérations de production sont directement enregistrées comme
+       des commandes fournisseurs miroirs dans le module commercial.
+
+Pour toute, demande un seul numéro
+
+   [svg%3E] [phone-call.png] 01 55 26 08 10
+   [svg%3E] [Production.png]
+
+Production optimisée
+
+Process optimisé
+
+     * Fastmag boutique intègre la gestion des intervenants dans la
+       création de vos produits.
+     * En fonction de vos produits à créer, vous établirez les
+       paramétrages du logiciel qui vous permettra d’établir des
+       automatismes sur vos besoins en matières premières, fournitures,
+       ordres de fabrication.
+
+   ET
+
+… Automatisé
+
+     * Fastmag Production est une solution logicielle pour vous
+       accompagner dans votre métier de fabricants, mais aussi pour vous
+       simplifier la gestion de toute la chaîne depuis la création du
+       produit jusqu’à la vente.
+
+Process optimisé
+
+     * Fastmag boutique intègre la gestion des intervenants dans la
+       création de vos produits.
+     * En fonction de vos produits à créer, vous établirez les
+       paramétrages du logiciel qui vous permettra d’établir des
+       automatismes sur vos besoins en matières premières, fournitures,
+       ordres de fabrication.
+
+   ET
+
+… Automatisé
+
+     * Fastmag Production est une solution logicielle pour vous
+       accompagner dans votre métier de fabricants, mais aussi pour vous
+       simplifier la gestion de toute la chaîne depuis la création du
+       produit jusqu’à la vente.
+
+   Contacter un ingénieur commercial
+
+Ils utilisent Fastmag Production
+
+   boutiques indépendantes
+
+   Grands réseaux
+   [svg%3E] [Roseanna.png]
+   [svg%3E] [Olympia-le-tan.png]
+   [svg%3E] [Antoine-et-lili.png]
+   [svg%3E] [Maxmoi.png]
+   [svg%3E] [JMP.png]
+   [svg%3E] [Cacharel.png]
+
+   boutiques indépendantes
+   [svg%3E] [Roseanna.png]
+   [svg%3E] [Antoine-et-lili.png]
+   [svg%3E] [Olympia-le-tan.png]
+
+   Grands réseaux
+   [svg%3E] [Maxmoi.png]
+   [svg%3E] [Cacharel.png]
+   [svg%3E] [JMP.png]
+   [svg%3E] [racheguerin.png]
+
+   “Le logiciel convient parfaitement par rapport à la taille de mon
+   entreprise. Le logiciel est intuitif et a été facilement et unanimement
+   adopté par l’équipe.�
+
+   Rachel Guérin
+   Créatrice / Une A Une
+
+Remplissez ce formulaire pour bénéficier d’une démo gratuite
+
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   Les champs marqués d'un astérisque * sont obligatoires
+   Envoyer
+
+Vous vous posez la question
+
+Pouvez-vous calculer les matières premières nécessaires pour les lancements
+de mes produits?
+
+   Fastmag Production permet de déterminer vos besoins en matières
+   premières en fonction de votre portefeuille de commandes clients de
+   votre activité BtoB depuis Négoce.
+   Le logiciel s’appuie pour cela sur la fiche technique du produit fini.
+
+Pouvez-vous me calculer le prix de revient industrialisé ?
+
+   Oui, Fastmag Production vous permet de calculer et d’optimiser votre
+   prix de revient.
+   Le PRI, est calculé depuis la fiche technique du produit fini, en
+   tenant compte des exceptions par taille, et des liaisons des
+   composants.
+   Le logiciel détermine ainsi le PRI, et calcule à la demande le Prix de
+   revient à la taille couleur.
+
+Comment puis-je organiser mes produits finis (modèle + matière) dans
+l'interface Fastmag ?
+
+   Fastmag production propose une nomenclature bien définie grâce aux
+   composants, aux matières premières nécessaires à sa fabrication que
+   vous paramétrerez dans l’interface. Vous trouverez 5 type de composants
+   qui permettent de qualifier vos produits : seuls les 2 premiers seront
+   pris dans le calcul des besoins.
+   les tissus, les fournitures, les divers (toutes sortes de frais:
+   transport, douane, logistique,…), la façon (Prix du montage), les
+   intervenants (coût d’une action: pressing, délavage,…).
+
+Comment calculer mes besoins en matières premières en fonction de mes
+commandes clients?
+
+   Le logiciel analyse le portefeuille de commande client avec les fiches
+   techniques, et pourra déterminer 3 besoins:
+   Le besoin en produits finis, le besoins en tissus, le besoin en
+   fournitures. Avant chaque calcul de besoin il est conseillé de
+   synchroniser les commandes Négoce.
+   Le système va déterminer le besoin, ainsi que le nécessaire, qui
+   tiendra compte du stock de composant, des commandes fournisseurs…
+   Le nécessaire pourra être lancé en approvisionnement, afin de lancer
+   les commandes fournisseurs d’approvisionnements.
+
+Comment puis-je gérer les relations avec mon façonnier?
+
+   Le logiciel peut passer automatiquement en fabrication les commandes
+   client en fonction de plusieurs critères (date de commande, de
+   livraison, famille client). Ces demandes de fabrication sont
+   directement envoyées auprès de vos façonniers. Fastmag Production
+   dispose d’une passerelle pour regrouper les commandes clients afin de
+   générer des ordres de fabrication (OF).
+
+Prenez-vous en charge la découpe?
+
+   Le logiciel permet de générer des coupes, ce qui consomme directement
+   le tissu, et permet un suivi du stock des matières premières. Lorsque
+   le façonnier signale une anomalie dans une pièce de tissu, Fastmag
+   Production, permet de gérer l’emploi matière. Lorsque le façonnier
+   signale une anomalie dans une pièce de tissu, Fastmag Production permet
+   de gérer l’emploi matière.
+
+Comment suivre mon encours de montage?
+
+   Fastmag Production, permet de sortir par article, ou par façonnier, par
+   date de réceptions, les produits lancés en fabrication.
+
+Comment suivre le compte de mon façonnier?
+
+   À chaque réception de produit fini, le logiciel génère une ligne de
+   mouvement dans le compte façonnier, valorisée avec la quantité reçue
+   multipliée par le prix de façon, de la fiche technique
+
+Peut-on suivre le stock de composants chez nos différents façonniers?
+
+   Le logiciel permet de détailler les mouvements de stock, ainsi que le
+   stock de composant chez chaque façonnier.
+
+Comment sont gérés les défauts?
+
+   Fastmag Production permet de gérer 3 niveaux de défauts: Payer la façon
+   (cas d’un défaut dans le tissu), Ne pas payer la façon (cas d’un défaut
+   de montage), Ne pas payer la façon et déduire la matière (cas de pièces
+   manquantes).
+
+Comment démarrer un nouveau dossier de production sans tout ressaisir?
+
+   Le logiciel permet d’importer : La base des composants depuis un
+   fichier Excel, les fiches produits depuis un fichier Excel
+
+   APPLI
+   Aplication CRM en magasin
+   Encaissement en Magasin
+   Appli de gestion de boutique
+
+   Modules
+
+   Gestion de la déclaration d'échange de bien (DEB)
+   Détaxe en magasin
+   Site internet B2B
+   Gestion des commandes et livraisons
+   Gestion de la logistique
+   Gestion de la comptabilité
+   Campagne SMS
+   Sondage auprès de vos clients
+
+   Produits
+
+   Logiciel de caisse
+   Connecteurs
+   Logiciel de Business Intelligence
+   CMS Site Internet
+   Logiciel de gestion de corner
+   Logiciel de gestion BtoB
+   Logiciel pour la production
+
+   Société
+   Conditions générales de vente
+   Documentations techniques
+   Mentions légales
+   Nos clients
+   RGPD et confidentialité des données
+
+   Support
+   Auto-Formation
+   Parrainage
+   Fastmag - Tous droits réservés - Mentions légales - Conditions
+   générales de vente - RGPD - Une société du groupe DL Software
+     * Suivre
+     * Suivre
+
+MÉTIERS
+
+   Mode-Chaussures-Accessoires
+   Décoration-Ameublement
+   Restauration
+   Magasins Spécialisés
+   Entreprises De Négoce
+   Corner En Supermarché
+
+SERVICES
+
+   Formation
+   Assistance 7 Jours Sur 7
+   Migration De Donnees
+   Sauvegarde En Ligne
+   Paiement En Ligne
+   Fastmag Lease
+   Fastmag Communication
+
+SOCIÉTÉ
+
+   Qui Sommes-Nous
+   Nos Clients
+   Nos Partenaires
+   Carrières
+   Actualités
+   Communiqués De Presse
+   Parrainage
+     * Twitter
+     * Google
+     * Instagram
+
+   Design de Elegant Themes | Propulsé par WordPress
+   #alternate Fastmag » Flux Fastmag » Flux des commentaires alternate
+   alternate
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-PGGJR6Z
+
+   (BUTTON)
+     * [facebook..png]
+     * [linkedin_logo.png]
+     * ____________________ Rechercher
+     * [call.png] Appelez-nous au 01 55 26 08 10
+     * Nous Contacter
+     * FR
+          + EN
+
+   Fastmag
+
+   (BUTTON)
+     * Logiciels
+          + fastmag Habillement
+            Fastmag Boutique
+          + fastmag Habillement
+            Fastmag E-Commerce
+          + fastmag Habillement
+            Fastmag Négoce
+          + fastmag Habillement
+            Fastmag Production
+          + fastmag Habillement
+            Fastmag In-Shop
+          + fastmag Habillement
+            Fastmag Copilot
+          + fastmag Habillement
+            Fastmag Connect
+     * Solutions
+          +
+               o
+                    # PAR SECTEUR D’ACTIVITÉ
+               o
+                    # PAR FONCTION
+          +
+               o
+                    # PAR SECTEUR D’ACTIVITÉ
+                    # fastmag Habillement
+                      Textile Habillement
+                      Chaussures
+                      Chaussures
+                      Bijouterie
+                      Bijouterie
+                      Maroquinerie
+                      Maroquinerie
+               o
+                    # Beauté
+                      Beauté
+                      Décoration, ameublement
+                      Décoration Ameublement
+                      Corner Alimentaire
+                      Corner Alimentaire GMS
+               o
+                    # PAR FONCTION
+                    #
+                         @ Gestion des points de Vente
+                         @ Gestion Commerciale B2B
+                         @ E-commerce
+                         @ CRM & Fidélisation
+                         @ Gestion des stocks en temps réel
+                         @ Gestion de production
+     * Tarifs
+     * Matériel
+          + fastmag Habillement
+            Terminal de point de vente
+          + fastmag Habillement
+            Scanners de caisse
+          + fastmag Habillement
+            Scanners D'inventaire
+          + fastmag Habillement
+            Imprimantes
+     * Ressources
+          +
+               o
+                    #
+               o
+                    #
+          +
+               o
+                    # Actualité Actualités
+                      Assistance 7/7 Assistance 7/7
+                      Documentation technique Documentation Technique
+               o
+                    # Formation Formation
+                      Manuel utilisateur Manuels Utilisateurs
+               o
+                    # Le Guide du commerçant
+                    #
+                         @ Comptabilité et Fiscalité
+                         @ Gestion des stocks
+                         @ Inventaire
+                         @ Logiciel de caisse
+     * A propos de Fastmag
+
+   Sélectionner une page
+   ____________________
+
+Demander une démo
+
+   ________________________________________
+   ________________________________________
+
+   ________________________________________
+   ________________________________________
+   ________________________________________
+
+   [ ] S'abonner aux actualités Fastmag
+   Envoyer
+
+   APPLI
+   Aplication CRM en magasin
+   Encaissement en Magasin
+   Appli de gestion de boutique
+
+   Modules
+
+   Gestion de la déclaration d'échange de bien (DEB)
+   Détaxe en magasin
+   Site internet B2B
+   Gestion des commandes et livraisons
+   Gestion de la logistique
+   Gestion de la comptabilité
+   Campagne SMS
+   Sondage auprès de vos clients
+
+   Produits
+
+   Logiciel de caisse
+   Connecteurs
+   Logiciel de Business Intelligence
+   CMS Site Internet
+   Logiciel de gestion de corner
+   Logiciel de gestion BtoB
+   Logiciel pour la production
+
+   Société
+   Conditions générales de vente
+   Documentations techniques
+   Mentions légales
+   Nos clients
+   RGPD et confidentialité des données
+
+   Support
+   Auto-Formation
+   Parrainage
+   Fastmag - Tous droits réservés - Mentions légales - Conditions
+   générales de vente - RGPD - Une société du groupe DL Software
+     * Suivre
+     * Suivre
+
+MÉTIERS
+
+   Mode-Chaussures-Accessoires
+   Décoration-Ameublement
+   Restauration
+   Magasins Spécialisés
+   Entreprises De Négoce
+   Corner En Supermarché
+
+SERVICES
+
+   Formation
+   Assistance 7 Jours Sur 7
+   Migration De Donnees
+   Sauvegarde En Ligne
+   Paiement En Ligne
+   Fastmag Lease
+   Fastmag Communication
+
+SOCIÉTÉ
+
+   Qui Sommes-Nous
+   Nos Clients
+   Nos Partenaires
+   Carrières
+   Actualités
+   Communiqués De Presse
+   Parrainage
+     * Twitter
+     * Google
+     * Instagram
+
+   Design de Elegant Themes | Propulsé par WordPress
+   #alternate Fastmag » Flux Fastmag » Flux des commentaires
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-PGGJR6Z
+
+   (BUTTON)
+     * [svg%3E] [facebook..png]
+     * [svg%3E] [linkedin_logo.png]
+     * ____________________ Rechercher
+     * [svg%3E] [call.png] Appelez-nous au 01 55 26 08 10
+     * Nous Contacter
+     * FR
+          + EN
+
+   Fastmag
+
+   (BUTTON)
+     * Logiciels
+          + fastmag Habillement fastmag Habillement
+            Fastmag Boutique
+          + fastmag Habillement fastmag Habillement
+            Fastmag E-Commerce
+          + fastmag Habillement fastmag Habillement
+            Fastmag Négoce
+          + fastmag Habillement fastmag Habillement
+            Fastmag Production
+          + fastmag Habillement fastmag Habillement
+            Fastmag In-Shop
+          + fastmag Habillement fastmag Habillement
+            Fastmag Copilot
+          + fastmag Habillement fastmag Habillement
+            Fastmag Connect
+     * Solutions
+          +
+               o
+                    # PAR SECTEUR D’ACTIVITÉ
+               o
+                    # PAR FONCTION
+          +
+               o
+                    # PAR SECTEUR D’ACTIVITÉ
+                    # fastmag Habillement fastmag Habillement
+                      Textile Habillement
+                      Chaussures Chaussures
+                      Chaussures
+                      Bijouterie Bijouterie
+                      Bijouterie
+                      Maroquinerie Maroquinerie
+                      Maroquinerie
+               o
+                    # Beauté Beauté
+                      Beauté
+                      Décoration, ameublement Décoration, ameublement
+                      Décoration Ameublement
+                      Corner Alimentaire Corner Alimentaire
+                      Corner Alimentaire GMS
+               o
+                    # PAR FONCTION
+                    #
+                         @ Gestion des points de Vente
+                         @ Gestion Commerciale B2B
+                         @ Vente en ligne
+                         @ CRM & Fidélisation
+                         @ Gestion des stocks en temps réel
+                         @ Gestion de production
+     * Tarifs
+     * Matériel
+          + fastmag Habillement fastmag Habillement
+            Terminal de point de vente
+          + fastmag Habillement fastmag Habillement
+            Scanners de caisse
+          + fastmag Habillement fastmag Habillement
+            Scanners D'inventaire
+          + fastmag Habillement fastmag Habillement
+            Imprimantes
+     * Ressources
+          +
+               o
+                    #
+               o
+                    #
+          +
+               o
+                    # Actualité Actualité Actualités
+                      Assistance 7/7 Assistance 7/7 Assistance 7/7
+                      Documentation technique Documentation technique
+                      Documentation Technique
+               o
+                    # Formation Formation Formation
+                      Manuel utilisateur Manuel utilisateur Manuels
+                      Utilisateurs
+               o
+                    # Le Guide du commerçant
+                    #
+                         @ Comptabilité et Fiscalité
+                         @ Gestion des stocks
+                         @ Inventaire
+                         @ Logiciel de caisse
+     * A propos de Fastmag
+
+   Sélectionner une page
+   ____________________
+
+   Accueil > Les clés pour éviter la rupture de stock
+
+Le guide du commerçant – La gestion des stocks
+
+Les clés pour éviter la rupture de stock
+
+   On pense souvent à tort qu’une rupture de stock signifie forcément que
+   l’entreprise tourne à plein régime. Or, si cela peut être vrai en cas
+   de succès inattendu d’un produit, elle peut également refléter une
+   mauvaise gestion des stocks pouvant susciter des pertes financières non
+   négligeables, le mécontentement de la clientèle, voire des ruptures de
+   contrats. Il est donc essentiel de l’anticiper au maximum pour éviter
+   que vos clients ne s’orientent vers des produits de substitution.
+
+Qu’est-ce qu’une rupture de stock ?
+
+   Avant de comprendre comment il est possible d’éviter une rupture grâce
+   à une bonne gestion de stock, il est nécessaire de définir précisément
+   ce qu’est une rupture de stock et quelles en sont les raisons
+   principales.
+
+
+Rupture de stock : définition
+
+   Une rupture de stock est un épuisement provisoire ou définitif (dans le
+   cas de l’arrêt d’une production) d’un produit et/ou d’une marque. Il
+   n’est donc pas possible, dans ce cas, de répondre à la demande. Le
+   risque majeur d’une rupture est la perte potentielle de chiffre
+   d’affaires pour le distributeur et le producteur. En effet, si un
+   acheteur peut décider de rester fidèle à son produit et sa marque en
+   attendant le réapprovisionnement, il peut aussi réorienter son choix.
+
+Raisons principales d’une rupture de stock
+
+   Les raisons principales occasionnant une rupture de stock sont de
+   diverses natures :
+
+     * Croissance imprévue et brutale de la demande
+     * Écart entre les données du stock informatique et le stock physique
+     * Lenteur dans le traitement des approvisionnements
+     * Estimation erronée des commandes
+     * Manque de réactivité ou de fiabilité des fournisseurs
+     * Volonté de produire ou acheter en flux très tendus
+
+Comment prévenir une rupture de stock ?
+
+   À moins d’une faute professionnelle née d’une négligence volontaire, la
+   rupture de stock n’est pas une fatalité si votre entreprise a mis en
+   place une gestion de stock efficiente. Cela est d’autant plus vrai si
+   elle dispose d’une excellente visibilité à long terme.
+
+L’anticipation pour devise
+
+   Votre entreprise n’a pas la maitrise de tous les facteurs externes à
+   son organisation, notamment les fournisseurs qu’elle ne peut pas
+   contrôler. Ces acteurs importants dans votre chaine logistique peuvent
+   être une source de retards dans vos livraisons entrainant une perte
+   d’argent pour votre entreprise.
+   La seule solution pour ne pas être pénalisé est d’anticiper tout
+   retard, erreur, ou croissance d’activité. Cela n’est possible qu’en
+   vous dotant d’outils informatiques performants et d’une gestion des
+   stocks qui favorise un suivi de leur niveau en temps réel. S’agissant
+   de la croissance de votre entreprise ou d’une hausse de la demande,
+   votre activité doit vous permettre de vous donner quelques signes à
+   analyser, comme les soldes, les fêtes (Saint-Valentin, fête des mères
+   et des pères), les journées internationales, les anniversaires… En
+   dehors de ces périodes, rien n’empêche également de booster les ventes
+   avec des promotions. Dans ce cas, il est évident qu’il faudra commander
+   sur le ou les articles promotionnels afin de répondre à la demande
+   créée, mais également augmenter sensiblement le volume de commande des
+   autres références afin de réaliser des ventes additionnelles.
+
+Des volumes de stock étudiés
+
+   Définir des seuils d’approvisionnement et des quantités à commander
+   favorise une bonne gestion de stock et évite les ruptures et le
+   surstockage. C’est l’une des manières les plus efficaces pour anticiper
+   efficacement l’un ou l’autre. Ces seuils peuvent être établis,
+   notamment en fonction des délais de livraison des fournisseurs, et ce,
+   quelle que soit la famille de produits.
+
+     * Stocks de sécurité pour éviter les ruptures et autres aléas
+     * Stocks de découplage afin de disposer d’une alternative en cas de
+       rupture malgré la constitution d’un stock de sécurité
+     * Stocks pool, littéralement stocks poumons, permettant d’absorber
+       les légères variations de commande
+
+Une communication transparente
+
+   Selon que vous êtes commerçant ou industriel, doté d’un point de vente
+   physique ou d’un site de vente en ligne, il est impératif de préserver
+   votre relation client pour minimiser l’impact d’une rupture de stock.
+   Vous pouvez ainsi mettre en place un système de réservation de vos
+   produits en cas de rupture, par exemple. Mais, dans tous les cas, il
+   faut privilégier une communication transparente afin de renforcer votre
+   crédibilité et bénéficier de retombées positives plutôt que de
+   commentaires particulièrement impactants pour votre identité de marque.
+
+   Rupture de stock et surstockage doivent absolument être évités par une
+   entreprise. Pour y parvenir, la seule solution est de veiller à la mise
+   en place d’une gestion de stock à forte valeur ajoutée favorisant
+   l’équilibre.
+
+Rappel des points inhérents à une bonne gestion de stock
+
+   Pour gérer avec efficacité les entrées et les sorties d’un espace de
+   stockage, il est essentiel de définir une stratégie de gestion de stock
+   qui tienne compte à la fois de votre activité et des éléments
+   extérieurs à votre entreprise : tendances du marché, demande, éléments
+   externes à votre entreprise (fournisseurs, transporteurs, passages en
+   douanes et transit….). Ces derniers permettent de déterminer :
+
+     * un seuil d’approvisionnement,
+     * les volumes à commander
+     * les quantités permettant de « tenir » en attendant le
+       réapprovisionnement.
+
+Les tendances du marché
+
+   Peu importe votre domaine d’activité, il est essentiel de mettre en
+   place une veille continue pour analyser les tendances de consommation
+   de votre clientèle. Cela permet d’ajuster en temps réel votre stratégie
+   de gestion de stock.
+
+La demande
+
+   La demande est également un précieux critère pour évaluer les quantités
+   à commander, notamment en croisant ces données avec les tendances de
+   votre marché.
+
+Les données externes
+
+   Délais de fabrication, de livraison, temps de transit — si vos produits
+   sont importés — sont autant d’informations à connaître sur le bout de
+   doigts pour performer votre gestion des stocks et fixer les moments les
+   plus opportuns pour passer vos commandes afin de ne pas rester sans
+   stock durant cette période.
+
+   Pour conclure, mettre en place une gestion de stock efficace permet
+   d’éviter les ruptures de stock préjudiciables pour votre chiffre
+   d’affaires. Cela est possible si vous développez une vision élargie qui
+   permet d’anticiper ce risque.
+
+En résumé
+
+     * Identifiez vos stocks dormants grâce à des inventaires réguliers
+     * Réduisez vos stocks dormants en adoptant une stratégie de flux
+       tendus, en anticipant la demande et/ou en vendant vos stocks
+     * Adoptez une excellente gestion de vos stocks tant au niveau des
+       approvisionnements que des sorties
+
+     * Veillez à vos rotations de stock
+     * Investissez dans un logiciel de gestion pour développer une gestion
+       agile
+
+Articles sur la gestion des stocks
+
+Les règles de stockage
+
+Méthodes d’une bonne gestion des approvisionnements
+
+Une vision 360 ° de son activité
+
+La gestion des stocks pour l’e-commerce
+
+Comment gérer ses sorties de stock ?
+
+Comment éviter les stocks dormants ?
+
+Que faire des invendus ?
+
+Quels sont les risques d’une mauvaise gestion de stock ?
+
+Où et comment stocker ses produits ?
+
+   APPLI
+   Clipad
+   DEB
+   Détaxe
+   E-Business
+   Extranet Fournisseur
+   Logistique
+   Mobile Sales
+   Manager
+   Négoce Analytique
+   SMS
+   Sondage en magasin
+
+   Modules
+   Gestion de la déclaration d'échange de bien
+   Détaxe en magasin
+   Site internet B2B
+   Gestion des commandes et livraisons
+   Gestion de la logistique
+   Gestion de la comptabilité
+   Campagne SMS
+   Sondage auprès de vos clients
+
+   Produits
+
+   Fastmag Boutique
+   Fastmag Connect
+   Fastmag Copilot
+   Fastmag E-Commerce
+   Fastmag In Shop
+   Fastmag Négoce
+   Fastmag Production
+
+   Société
+   Actualités
+   Conditions générales de vente
+   Formation
+   Mentions Légales
+   Normes et conformités
+   Nos Clients
+   Qui Sommes-Nous
+   RGPD et confidentialité des données
+
+   Support
+   Auto-Formation
+   Assistance téléphonique 7 jours sur 7
+   Documentations Techniques
+   Manuel utilisateur
+   Matériel
+   Fastmag - Tous droits réservés - Mentions légales - Conditions
+   générales de vente - RGPD - Une société du groupe DL Software
+     * Suivre
+     * Suivre
+
+MÉTIERS
+
+   Mode-Chaussures-Accessoires
+   Décoration-Ameublement
+   Restauration
+   Magasins Spécialisés
+   Entreprises De Négoce
+   Corner En Supermarché
+
+SERVICES
+
+   Formation
+   Assistance 7 Jours Sur 7
+   Migration De Donnees
+   Sauvegarde En Ligne
+   Paiement En Ligne
+   Fastmag Lease
+   Fastmag Communication
+
+SOCIÉTÉ
+
+   Qui Sommes-Nous
+   Nos Clients
+   Nos Partenaires
+   Carrières
+   Actualités
+   Communiqués De Presse
+   Parrainage
+
+     * Twitter
+     * Google
+     * Instagram
+
+   Design de Elegant Themes | Propulsé par WordPress
+   #alternate Fastmag » Flux Fastmag » Flux des commentaires
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-PGGJR6Z
+
+   (BUTTON)
+     * [svg%3E] [facebook..png]
+     * [svg%3E] [linkedin_logo.png]
+     * ____________________ Rechercher
+     * [svg%3E] [call.png] Appelez-nous au 01 55 26 08 10
+     * Nous Contacter
+     * FR
+          + EN
+
+   Fastmag
+
+   (BUTTON)
+     * Logiciels
+          + fastmag Habillement fastmag Habillement
+            Fastmag Boutique
+          + fastmag Habillement fastmag Habillement
+            Fastmag E-Commerce
+          + fastmag Habillement fastmag Habillement
+            Fastmag Négoce
+          + fastmag Habillement fastmag Habillement
+            Fastmag Production
+          + fastmag Habillement fastmag Habillement
+            Fastmag In-Shop
+          + fastmag Habillement fastmag Habillement
+            Fastmag Copilot
+          + fastmag Habillement fastmag Habillement
+            Fastmag Connect
+     * Solutions
+          +
+               o
+                    # PAR SECTEUR D’ACTIVITÉ
+               o
+                    # PAR FONCTION
+          +
+               o
+                    # PAR SECTEUR D’ACTIVITÉ
+                    # fastmag Habillement fastmag Habillement
+                      Textile Habillement
+                      Chaussures Chaussures
+                      Chaussures
+                      Bijouterie Bijouterie
+                      Bijouterie
+                      Maroquinerie Maroquinerie
+                      Maroquinerie
+               o
+                    # Beauté Beauté
+                      Beauté
+                      Décoration, ameublement Décoration, ameublement
+                      Décoration Ameublement
+                      Corner Alimentaire Corner Alimentaire
+                      Corner Alimentaire GMS
+               o
+                    # PAR FONCTION
+                    #
+                         @ Gestion des points de Vente
+                         @ Gestion Commerciale B2B
+                         @ E-commerce
+                         @ CRM & Fidélisation
+                         @ Gestion des stocks en temps réel
+                         @ Gestion de production
+     * Tarifs
+     * Matériel
+          + fastmag Habillement fastmag Habillement
+            Terminal de point de vente
+          + fastmag Habillement fastmag Habillement
+            Scanners de caisse
+          + fastmag Habillement fastmag Habillement
+            Scanners D'inventaire
+          + fastmag Habillement fastmag Habillement
+            Imprimantes
+     * Ressources
+          +
+               o
+                    #
+               o
+                    #
+          +
+               o
+                    # Actualité Actualité Actualités
+                      Assistance 7/7 Assistance 7/7 Assistance 7/7
+                      Documentation technique Documentation technique
+                      Documentation Technique
+               o
+                    # Formation Formation Formation
+                      Manuel utilisateur Manuel utilisateur Manuels
+                      Utilisateurs
+               o
+                    # Le Guide du commerçant
+                    #
+                         @ Comptabilité et Fiscalité
+                         @ Gestion des stocks
+                         @ Inventaire
+                         @ Logiciel de caisse
+     * A propos de Fastmag
+
+   Sélectionner une page
+   ____________________
+
+   Accueil > Comment gérer ses sorties de stock ?
+   Le guide du commerçant – La gestion des stocks
+
+Comment gérer ses sorties de stock ?
+
+   Les sorties de stock font partie des opérations enregistrées à
+   l’occasion des mouvements de stock qui recensent également les
+   approvisionnements. Les entrées comme les sorties participent à une
+   bonne gestion des stocks, véritable levier de compétitivité et de
+   rentabilité de toutes les entreprises, quelle que soit leur taille.
+   Découvrez avec Fastmag les différentes méthodes pour enregistrer vos
+   sorties de stocks et valoriser vos produits.
+   [svg%3E] [vetements.jpeg]
+
+Principes de la gestion des sorties de stock
+
+   Avant même d’aborder les méthodes permettant de sortir des éléments du
+   stock, il est essentiel de bien définir ce qu’on entend par sorties de
+   stock.
+
+Définition d’une sortie de stock
+
+   Une sortie de stock consiste à retirer de son relevé de stock des
+   matières premières ou des produits finis suite à :
+     * une revente ;
+     * une utilisation dans le cadre de la fabrication d’un bien ;
+     * un don ;
+     * une destruction.
+
+   Du bon enregistrement des sorties, comme des entrées, dépend la
+   justesse des inventaires et la bonne valorisation, ou dévalorisation,
+   des produits stockés.
+
+Les enjeux d’une bonne gestion de stock
+
+   La gestion de stock doit répondre aux enjeux forts et continus d’une
+   entreprise qui doit pouvoir compter sur une excellente gestion des
+   approvisionnements et des sorties pour :
+
+   Répondre efficacement à la demande de sa clientèle
+   Optimiser ses charges fixes et ses espaces de stockage
+
+Adopter la bonne méthode de sorties de stock
+
+   Trois méthodes de sorties des stocks sont utilisées par les
+   entreprises. Elles changent selon le core business et la taille des
+   entités qui n’hésitent pas à les mixer au besoin d’une famille de
+   produits à une autre.
+
+La méthode FIFO
+
+   La méthode First In First Out (FIFO), que l’on peut traduire par
+   « premier entré premier sorti », réside dans le prélèvement du plus
+   ancien élément de stock au plus récent. Elle prend donc en compte la
+   chronologie des entrées pour déterminer la date de sortie : une méthode
+   imparable pour gérer efficacement les denrées périssables et prévenir
+   les dégradations ou l’obsolescence des marchandises stockées.
+
+La méthode LIFO
+
+   La méthode Last In First Out (LIFO), que l’on peut traduire par
+   « dernier entré premier sorti » est l’exact opposé de la première. Elle
+   fait sortir en priorité les derniers approvisionnements. Utilisée dans
+   le cadre de stocks qui n’ont aucune date limite de consommation, cette
+   méthode est pertinente pour faciliter la tâche et optimiser le temps
+   des opérationnels.
+
+La méthode FEFO
+
+   La méthode First Expired First Out (FEFO), que l’on peut traduire par
+   « premier expiré, premier sorti » fait sortir le produit dont la date
+   d’expiration est la plus proche en premier. Elle est donc surtout
+   employée dans le secteur de l’agroalimentaire où les DLC revêtent une
+   importance particulière.
+
+   Lorsqu’une bonne gestion de stock parvient à trouver l’équilibre entre
+   les approvisionnements et les sorties, l’entreprise parvient à
+   entretenir une rotation de stocks élevée, ce qui revient à en diminuer
+   son coût du fait de la vitesse de son renouvellement : un plus grand
+   nombre de marchandises se répartissant les frais fixes.
+   [svg%3E] [stocks-matiere-premiere.jpeg]
+
+La valorisation des stocks
+
+   Tous les produits ont un coût d’acquisition. Quand ils sortent du stock
+   de l’entreprise ou lorsqu’ils sont intégrés à la fabrication
+   d’articles, il est nécessaire de les sortir à la fois physiquement de
+   votre zone de stockage, mais aussi de votre comptabilité en lui
+   attribuant une valeur. Celle-ci correspond à la valeur de l’élément à
+   sa date de sortie. Il existe trois façons de la calculer.
+
+Valorisation au moyen du Coût unitaire moyen pondéré (CUMP)
+
+   Cette méthode de valorisation CUMP consiste à définir la valeur de
+   sortie par le calcul d’une moyenne de la valeur des entrées et du stock
+   initial.
+
+Valorisation au coût réel d’acquisition
+
+   Cette méthode de valorisation se décline en plusieurs variantes selon
+   le modèle FIFO, LIFO ou de prélèvement de lot spécifique. La valeur
+   totale du stock correspond toujours à la somme des valeurs de stock de
+   chaque lot.
+
+Valorisation au moyen de la valeur de remplacement
+
+   Cette méthode, également appelée NIFO pour Next-In, First-Out, consiste
+   à estimer la valeur des sorties à leurs valeurs de remplacement. Ainsi,
+   la valeur de référence peut être le prix de la dernière facture, par
+   exemple.
+
+   Pour conclure, une gestion des sorties de stocks s’effectue de
+   différentes façons selon son cœur de métier. Associée à une bonne
+   stratégie d’approvisionnements, elle constitue un maillon fort de la
+   chaîne de gestion des stocks.
+
+   storage-unit storage-unit Les logiciels de gestion de sortie des stocks
+   Fastmag
+
+   Les logiciels de gestion des stocks Fastmag proposent différentes
+   sous-parties, notamment pour gérer les approvisionnements et les
+   sorties, dont chaque mouvement est enregistré et conservé dans
+   l’historique. Ce dernier est consultable à l’envi ainsi que les
+   graphiques statistiques qui vous permettent de bénéficier d’une vision
+   détaillée d’un article : de son entrée jusqu’à sa vente.
+
+Articles sur la gestion des stocks
+
+Les règles de stockage
+
+   ...
+
+Méthodes d’une bonne gestion des approvisionnements
+
+   ...
+
+Une vision 360 ° de son activité
+
+   ...
+
+Les clés pour éviter la rupture de stock
+
+   ...
+
+La gestion des stocks pour l’e-commerce
+
+   ...
+
+Comment éviter les stocks dormants ?
+
+   ...
+
+Que faire des invendus ?
+
+   ...
+
+Quels sont les risques d’une mauvaise gestion de stock ?
+
+   ...
+
+Où et comment stocker ses produits ?
+
+   ...
+
+   APPLI
+   Aplication CRM en magasin
+   Encaissement en Magasin
+   Appli de gestion de boutique
+
+   Modules
+
+   Gestion de la déclaration d'échange de bien (DEB)
+   Détaxe en magasin
+   Site internet B2B
+   Gestion des commandes et livraisons
+   Gestion de la logistique
+   Gestion de la comptabilité
+   Campagne SMS
+   Sondage auprès de vos clients
+
+   Produits
+
+   Logiciel de caisse
+   Connecteurs
+   Logiciel de Business Intelligence
+   CMS Site Internet
+   Logiciel de gestion de corner
+   Logiciel de gestion BtoB
+   Logiciel pour la production
+
+   Société
+   Conditions générales de vente
+   Documentations techniques
+   Mentions légales
+   Nos clients
+   RGPD et confidentialité des données
+
+   Support
+   Auto-Formation
+   Parrainage
+   Fastmag - Tous droits réservés - Mentions légales - Conditions
+   générales de vente - RGPD - Une société du groupe DL Software
+     * Suivre
+     * Suivre
+
+MÉTIERS
+
+   Mode-Chaussures-Accessoires
+   Décoration-Ameublement
+   Restauration
+   Magasins Spécialisés
+   Entreprises De Négoce
+   Corner En Supermarché
+
+SERVICES
+
+   Formation
+   Assistance 7 Jours Sur 7
+   Migration De Donnees
+   Sauvegarde En Ligne
+   Paiement En Ligne
+   Fastmag Lease
+   Fastmag Communication
+
+SOCIÉTÉ
+
+   Qui Sommes-Nous
+   Nos Clients
+   Nos Partenaires
+   Carrières
+   Actualités
+   Communiqués De Presse
+   Parrainage
+     * Twitter
+     * Google
+     * Instagram
+
+   Design de Elegant Themes | Propulsé par WordPress
+   #alternate Fastmag » Flux Fastmag » Flux des commentaires
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-PGGJR6Z
+
+   (BUTTON)
+     * [svg%3E] [facebook..png]
+     * [svg%3E] [linkedin_logo.png]
+     * ____________________ Rechercher
+     * [svg%3E] [call.png] Appelez-nous au 01 55 26 08 10
+     * Nous Contacter
+     * FR
+          + EN
+
+   Fastmag
+
+   (BUTTON)
+     * Logiciels
+          + fastmag Habillement fastmag Habillement
+            Fastmag Boutique
+          + fastmag Habillement fastmag Habillement
+            Fastmag E-Commerce
+          + fastmag Habillement fastmag Habillement
+            Fastmag Négoce
+          + fastmag Habillement fastmag Habillement
+            Fastmag Production
+          + fastmag Habillement fastmag Habillement
+            Fastmag In-Shop
+          + fastmag Habillement fastmag Habillement
+            Fastmag Copilot
+          + fastmag Habillement fastmag Habillement
+            Fastmag Connect
+     * Solutions
+          +
+               o
+                    # PAR SECTEUR D’ACTIVITÉ
+               o
+                    # PAR FONCTION
+          +
+               o
+                    # PAR SECTEUR D’ACTIVITÉ
+                    # fastmag Habillement fastmag Habillement
+                      Textile Habillement
+                      Chaussures Chaussures
+                      Chaussures
+                      Bijouterie Bijouterie
+                      Bijouterie
+                      Maroquinerie Maroquinerie
+                      Maroquinerie
+               o
+                    # Beauté Beauté
+                      Beauté
+                      Décoration, ameublement Décoration, ameublement
+                      Décoration Ameublement
+                      Corner Alimentaire Corner Alimentaire
+                      Corner Alimentaire GMS
+               o
+                    # PAR FONCTION
+                    #
+                         @ Gestion des points de Vente
+                         @ Gestion Commerciale B2B
+                         @ E-commerce
+                         @ CRM & Fidélisation
+                         @ Gestion des stocks en temps réel
+                         @ Gestion de production
+     * Tarifs
+     * Matériel
+          + fastmag Habillement fastmag Habillement
+            Terminal de point de vente
+          + fastmag Habillement fastmag Habillement
+            Scanners de caisse
+          + fastmag Habillement fastmag Habillement
+            Scanners D'inventaire
+          + fastmag Habillement fastmag Habillement
+            Imprimantes
+     * Ressources
+          +
+               o
+                    #
+               o
+                    #
+          +
+               o
+                    # Actualité Actualité Actualités
+                      Assistance 7/7 Assistance 7/7 Assistance 7/7
+                      Documentation technique Documentation technique
+                      Documentation Technique
+               o
+                    # Formation Formation Formation
+                      Manuel utilisateur Manuel utilisateur Manuels
+                      Utilisateurs
+               o
+                    # Le Guide du commerçant
+                    #
+                         @ Comptabilité et Fiscalité
+                         @ Gestion des stocks
+                         @ Inventaire
+                         @ Logiciel de caisse
+     * A propos de Fastmag
+
+   Sélectionner une page
+   ____________________
+
+   Accueil > Comment éviter les stocks dormants ?
+   Le guide du commerçant – La gestion des stocks
+
+Comment éviter les stocks dormants ?
+
+   Dans l’industrie comme dans le commerce, l’un des enjeux de la gestion
+   de stock est l’optimisation des coûts. Pour y parvenir, elle s’appuie
+   sur le choix d’un modèle de gestion pertinent — garant d’un taux de
+   rotation élevé, donc d’une bonne rentabilité —, mais aussi sur de très
+   faibles volumes de stocks dormants. Explications.
+
+Qu’est-ce qu’un stock dormant ?
+
+   Les stocks dormants sont le cauchemar de toutes les entreprises
+   industrielles et commerciales, leur gestion un vrai casse-tête. Du
+   prévisionnel de ventes aux matières premières, en passant par les
+   tendances marché, sans compter les ressources internes pour produire ou
+   le réseau de distribution, toutes les entreprises se retrouvent
+   confrontées à des stocks dormants.
+
+Définition des stocks dormants
+
+   Les stocks dormants ne tournent pas. Ils dépérissent au fond d’un
+   entrepôt, occasionnant ainsi des coûts de gestion trop élevés. Ils
+   peuvent être de nature très diverse.
+
+Avant production
+
+   Matières premières : matières métalliques (tôles en aluminium, barres
+   de fer, platine…), matières minérales (sable, gravier, argile…),
+   matières végétales (coton, bois, algues, caoutchouc…), matières
+   animales (peaux, laine…), etc.
+   Composants électroniques (câbles, résistances, LED, condos…)
+   Fournitures industrielles (baguettes de soudure, vis, fraises
+   d’usinages…)
+   Emballages (cartons, pochettes, sacs, bacs plastiques…)
+
+Après production
+
+   Tous les produits finis ou semi-finis destinés à la vente, quel que
+   soit leur type : produits agricoles non emballés, produits manufacturés
+   semi-finis ou finis…
+
+   Immobilisés logistiquement et financièrement, tous ces stocks sont la
+   plupart du temps la conséquence d’une faille dans la chaîne logistique
+   (erreur de commande, logiciel de gestion n’intégrant pas les DLC…).
+   Mais, ils peuvent aussi résulter :
+   de retours clients,
+   l’effondrement d’un marché et des ventes,
+   d’un changement de seuil de commande chez un fournisseur,
+   d’un changement de nomenclature.
+
+Identifier ses stocks dormants
+
+   Avant de mettre en place une batterie de process pour supprimer ses
+   stocks dormants, il est essentiel de bien les identifier et de
+   comprendre les raisons qui les ont amenés à dépérir. En ce sens, une
+   méthode d’inventaire fréquente, à l’instar du permanent ou du tournant,
+   garantit une photographie juste des stocks, dont les dormants qui
+   génèrent un coût logistique inutile. En procédant de cette façon, il
+   est ainsi possible de réagir rapidement et de limiter considérablement
+   leur accumulation.
+   [svg%3E] [stock-dormant.jpeg]
+
+Comment réduire ses stocks dormants ?
+
+   Nous l’avons vu, si les stocks dormants sont souvent le fruit d’un
+   problème dans la chaîne logistique que l’on peut résoudre en modifiant
+   son organisation interne, il est aussi de nombreux cas où une
+   excellente gestion des stocks n’a pas suffi à les supprimer
+   complètement. Alors, comment les réduire de façon drastique et perdre
+   le moins d’argent possible ? Trois solutions existent.
+
+La stratégie des flux tendus
+
+   C’est le modèle anti-stocks dormants par excellence. S’il ne prémunit
+   pas des potentiels retours clients ou des réévaluations de seuils de
+   commande des fournisseurs, il impose la production d’un produit
+   uniquement lorsque ce dernier est commandé.
+   Cependant, en cas de demande plus forte que la capacité de production,
+   cela peut entrainer des ruptures et coûter plus cher à l’entreprise :
+   l’insatisfaction des clients étant plus dommageable qu’un petit stock
+   tampon.
+
+L’anticipation de la demande
+
+   Peu importe le modèle de gestion de stock retenu par l’entreprise, il
+   lui est possible de diminuer considérablement ses stocks dormants en
+   anticipant la demande grâce à son suivi en direct. Ainsi, on gagne en
+   réactivité grâce à une grande souplesse de gestion. On peut interrompre
+   ou ralentir les commandes ou de la production en cas de baisse de la
+   demande. À l’inverse, on peut anticiper les ruptures de stock en cas de
+   forte demande.
+
+La vente de ses stocks dormants
+
+   Dès la connaissance de stocks dormants, l’entreprise peut limiter la
+   perte financière qu’ils génèrent en les déstockant en magasin ou les
+   cédant à une plateforme de valorisation ayant pour mission de la mettre
+   en relation avec des acheteurs potentiels.
+   [svg%3E] [Gestion-des-stocks-dormants.jpeg]
+
+Comment bien gérer ses stocks ?
+
+   Qu’il s’agisse des approvisionnements ou des sorties de stock,
+   différentes méthodes existent pour bien gérer la vie d’une marchandise
+   au sein d’une entreprise. Cependant, elles sont à choisir en fonction
+   de l’activité et de la stratégie de l’entité pour être réellement
+   efficaces.
+   Si la stratégie puise plutôt son inspiration dans le factuel, on
+   analyse l’historique des ventes pour commander. Si la stratégie repose
+   sur le prévisionnel on analyse en plus de l’historique toutes les
+   tendances du marché pour les anticiper et être force de proposition
+   auprès de sa clientèle.
+
+
+Méthodes d’approvisionnement
+
+   On dénombre quatre méthodes d’approvisionnement.
+
+Le Juste-à-temps (JAT)
+
+   Les achats se font selon la demande, ce qui permet de réduire à
+   quasi-néant le stockage. Il est très prisé dans le cadre de l’entente
+   parfaite entre l’entreprise qui le met en place, ses clients et
+   fournisseurs.
+
+Le réapprovisionnement
+
+   Également connu sous le nom de « méthode calendaire », il consiste à
+   passer en commande une quantité fixe à une date fixe, selon la formule
+   de Wilson ou QEC.
+
+Le Kanban
+
+   Cette méthode instaure un stock tampon minimum à partir duquel les
+   achats sont effectués de façon progressive, selon les volumes commandés
+   par la clientèle.
+
+Le point de commande
+
+   Comme le Kanban, le point de commande consiste à mettre en place un
+   stock minimum. Mais, quand ce dernier est atteint, un approvisionnement
+   est déclenché automatiquement, quelle que soit la date.
+   [svg%3E] [Commandes.jpeg]
+
+Méthodes de sorties de stock
+
+   Les sorties, comme les entrées, peuvent être gérées selon des méthodes
+   différentes. Elles varient toujours en fonction de l’activité, de la
+   taille et des besoins de l’entreprise.
+
+Méthode FIFO
+
+   La méthode FIFO ou « premier entré premier sorti » consiste à suivre un
+   ordre chronologique dans les retraits de marchandises : des plus
+   anciennes au plus récentes. C’est une méthode appréciée des métiers qui
+   utilisent des denrées périssables ou font face à des problématiques
+   d’obsolescence ou de dégradation.
+
+Méthode LIFO
+
+   La méthode LIFO ou « dernier entré premier sorti » repose sur le
+   principe inverse de la précédente. Utilisée par les entreprises qui
+   n’ont pas de produits ayant une DLC, elle est appréciée des
+   opérationnels qui ont le souci de faciliter leur tâche et d’optimiser
+   leur temps.
+
+
+Méthode FEFO
+
+   La méthode FEFO ou « premier expiré, premier sorti » accorde une
+   importance capitale aux DLC. Elle fait donc sortir en priorité les
+   marchandises aux proches dates d’expiration.
+
+Rotations de stocks
+
+   La rotation des stocks d’une entreprise doit être élevée pour assurer
+   une bonne rentabilité. En effet, plus les marchandises entrent et
+   sortent, plus elles sont nombreuses à supporter les frais fixes, donc à
+   amortir rapidement le stock.
+
+Indicateurs de performance
+
+   Le taux de rotation aide à estimer le nombre de fois où le stock doit
+   être intégralement renouvelé pour réaliser un certain chiffre
+   d’affaires sur une période précise.
+
+   La durée moyenne de stockage établit une moyenne du nombre de jours de
+   stockage d’un article.
+
+   Pour conclure, les stocks dormants ne sont pas une fatalité. Il est
+   possible d’en réduire drastiquement le volume en mettant en place une
+   gestion agile de ses stocks, notamment grâce à une stratégie
+   d’approvisionnements et de sorties des stocks étudiée.
+
+En résumé
+
+     * Identifiez vos stocks dormants grâce à des inventaires réguliers
+     * Réduisez vos stocks dormants en adoptant une stratégie de flux
+       tendus, en anticipant la demande et/ou en vendant vos stocks
+
+     * Adoptez une excellente gestion de vos stocks tant au niveau des
+       approvisionnements que des sorties
+     * Veillez à vos rotations de stock
+     * Investissez dans un logiciel de gestion pour développer une gestion
+       agile
+
+Articles sur la gestion des stocks
+
+Les règles de stockage
+
+   ...
+
+Méthodes d’une bonne gestion des approvisionnements
+
+   ...
+
+Une vision 360 ° de son activité
+
+   ...
+
+Les clés pour éviter la rupture de stock
+
+   ...
+
+La gestion des stocks pour l’e-commerce
+
+   ...
+
+Comment gérer ses sorties de stock ?
+
+   ...
+
+Que faire des invendus ?
+
+   ...
+
+Quels sont les risques d’une mauvaise gestion de stock ?
+
+   ...
+
+Où et comment stocker ses produits ?
+
+   ...
+
+   APPLI
+   Aplication CRM en magasin
+   Encaissement en Magasin
+   Appli de gestion de boutique
+
+   Modules
+
+   Gestion de la déclaration d'échange de bien (DEB)
+   Détaxe en magasin
+   Site internet B2B
+   Gestion des commandes et livraisons
+   Gestion de la logistique
+   Gestion de la comptabilité
+   Campagne SMS
+   Sondage auprès de vos clients
+
+   Produits
+
+   Logiciel de caisse
+   Connecteurs
+   Logiciel de Business Intelligence
+   CMS Site Internet
+   Logiciel de gestion de corner
+   Logiciel de gestion BtoB
+   Logiciel pour la production
+
+   Société
+   Conditions générales de vente
+   Documentations techniques
+   Mentions légales
+   Nos clients
+   RGPD et confidentialité des données
+
+   Support
+   Auto-Formation
+   Parrainage
+   Fastmag - Tous droits réservés - Mentions légales - Conditions
+   générales de vente - RGPD - Une société du groupe DL Software
+     * Suivre
+     * Suivre
+
+MÉTIERS
+
+   Mode-Chaussures-Accessoires
+   Décoration-Ameublement
+   Restauration
+   Magasins Spécialisés
+   Entreprises De Négoce
+   Corner En Supermarché
+
+SERVICES
+
+   Formation
+   Assistance 7 Jours Sur 7
+   Migration De Donnees
+   Sauvegarde En Ligne
+   Paiement En Ligne
+   Fastmag Lease
+   Fastmag Communication
+
+SOCIÉTÉ
+
+   Qui Sommes-Nous
+   Nos Clients
+   Nos Partenaires
+   Carrières
+   Actualités
+   Communiqués De Presse
+   Parrainage
+     * Twitter
+     * Google
+     * Instagram
+
+   Design de Elegant Themes | Propulsé par WordPress
+   #alternate Fastmag » Flux Fastmag » Flux des commentaires
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-PGGJR6Z
+
+   (BUTTON)
+     * [svg%3E] [facebook..png]
+     * [svg%3E] [linkedin_logo.png]
+     * ____________________ Rechercher
+     * [svg%3E] [call.png] Appelez-nous au 01 55 26 08 10
+     * Nous Contacter
+     * FR
+          + EN
+
+   Fastmag
+
+   (BUTTON)
+     * Logiciels
+          + fastmag Habillement fastmag Habillement
+            Fastmag Boutique
+          + fastmag Habillement fastmag Habillement
+            Fastmag E-Commerce
+          + fastmag Habillement fastmag Habillement
+            Fastmag Négoce
+          + fastmag Habillement fastmag Habillement
+            Fastmag Production
+          + fastmag Habillement fastmag Habillement
+            Fastmag In-Shop
+          + fastmag Habillement fastmag Habillement
+            Fastmag Copilot
+          + fastmag Habillement fastmag Habillement
+            Fastmag Connect
+     * Solutions
+          +
+               o
+                    # PAR SECTEUR D’ACTIVITÉ
+               o
+                    # PAR FONCTION
+          +
+               o
+                    # PAR SECTEUR D’ACTIVITÉ
+                    # fastmag Habillement fastmag Habillement
+                      Textile Habillement
+                      Chaussures Chaussures
+                      Chaussures
+                      Bijouterie Bijouterie
+                      Bijouterie
+                      Maroquinerie Maroquinerie
+                      Maroquinerie
+               o
+                    # Beauté Beauté
+                      Beauté
+                      Décoration, ameublement Décoration, ameublement
+                      Décoration Ameublement
+                      Corner Alimentaire Corner Alimentaire
+                      Corner Alimentaire GMS
+               o
+                    # PAR FONCTION
+                    #
+                         @ Gestion des points de Vente
+                         @ Gestion Commerciale B2B
+                         @ E-commerce
+                         @ CRM & Fidélisation
+                         @ Gestion des stocks en temps réel
+                         @ Gestion de production
+     * Tarifs
+     * Matériel
+          + fastmag Habillement fastmag Habillement
+            Terminal de point de vente
+          + fastmag Habillement fastmag Habillement
+            Scanners de caisse
+          + fastmag Habillement fastmag Habillement
+            Scanners D'inventaire
+          + fastmag Habillement fastmag Habillement
+            Imprimantes
+     * Ressources
+          +
+               o
+                    #
+               o
+                    #
+          +
+               o
+                    # Actualité Actualité Actualités
+                      Assistance 7/7 Assistance 7/7 Assistance 7/7
+                      Documentation technique Documentation technique
+                      Documentation Technique
+               o
+                    # Formation Formation Formation
+                      Manuel utilisateur Manuel utilisateur Manuels
+                      Utilisateurs
+               o
+                    # Le Guide du commerçant
+                    #
+                         @ Comptabilité et Fiscalité
+                         @ Gestion des stocks
+                         @ Inventaire
+                         @ Logiciel de caisse
+     * A propos de Fastmag
+
+   Sélectionner une page
+   ____________________
+
+   Accueil > Que faire des invendus ?
+   Le guide du commerçant – La gestion des stocks
+
+Que faire des invendus ?
+
+   S’il existe une pléthore de solutions pour écouler ses invendus en B to
+   C, qu’en est-il pour le commerce B to B ? Comment ne pas déstabiliser
+   son réseau de distribution tout en vidant ses stocks afin de limiter
+   les coûts ? FASTMAG vous présente les solutions existantes pour vider
+   vos stocks et optimiser vos coûts de stockage.
+
+Préparer son déstockage
+
+   Dans certains domaines d’activité, comme l’agroalimentaire, le textile
+   et l’habillement, les rotations de produits sont si nombreuses qu’il
+   est difficile de ne pas avoir d’invendus, et ce, malgré une excellente
+   gestion des stocks. Pour éviter au maximum les immobilisations et les
+   stocks dormants, il est donc essentiel de procéder à de réguliers
+   déstockages qu’il est indispensable de bien préparer.
+
+Les invendus : leur place dans la stratégie commerciale
+
+   Pour bien amortir les invendus, il est nécessaire de les intégrer dans
+   sa stratégie commerciale, donc de les anticiper, notamment en tenant
+   compte de la provision et/ou de la dépréciation de vos actifs réalisées
+   lors du précédent exercice comptable. Ainsi, comme pour les seuils en
+   gestion de stock, il est nécessaire de fixer un niveau de maturité des
+   stocks qui permet de fixer à quel moment on considère une marchandise
+   comme un invendue ou invendable.
+
+Invendus ou invendables : deux concepts différents
+
+   Un produit invendu sur une période, pour un usage et à un endroit donné
+   ne l’est peut-être pas ailleurs ou pour un autre usage. Parmi tous vos
+   invendus, il convient donc de distinguer les produits qui peuvent
+   encore intéresser les circuits classiques de ceux qui ne trouveront
+   aucun preneur, les invendables, dont certains sont pourtant encore
+   consommables et pouvant intégrer des filières de redistribution.
+
+Valeur des invendus : soyez stratège
+
+   La distinction faite entre invendu et invendable permet de bien évaluer
+   la valeur des invendus et de limiter les pertes financières. Pour
+   optimiser au mieux la valeur de vos invendus, qui dépend de son volume,
+   définissez une stratégie rentable, notamment en diversifiant vos
+   solutions de déstockage.
+
+
+   [svg%3E] [invendus.jpeg]
+
+Invendus : préserver votre réseau
+
+   Les solutions de déstockage sont diverses : promotions, soldes,
+   déstockage auprès de prestataires en vue d’un recyclage ou d’une
+   destruction… Quelle que soit celle que vous avez choisi d’adopter, il
+   est essentiel qu’elle ne perturbe pas votre circuit de distribution.
+   Ainsi, préférez des déstockages hors de France si ce dernier n’a pas
+   écoulé tous vos produits.
+
+Les différentes solutions de déstockage
+
+   Nous l’avons vu, il existe différentes solutions pour faire de la place
+   dans vos entrepôts. Dans le commerce B to C, on profite généralement de
+   la période de soldes pour faire le vide. Mais, miser sur des prix
+   cassés en B to B n’est guère possible, car les entreprises n’achètent
+   pas de la même façon qu’un particulier. Cependant, différents types de
+   déstockage sont envisageables.
+
+Une politique de prix dynamique
+
+   Pour les produits au cycle de vie très court, comme les smartphones,
+   les ordinateurs fixes ou mobiles, il est envisageable de procéder à des
+   ajustements tarifaires en fonction des résultats des ventes afin de
+   favoriser une dynamique d’achat, relayée sur tous vos canaux de
+   communication. Cette stratégie de vente n’est gagnante que si vous
+   évaluez bien les niveaux de maturité de vos produits. Ces niveaux
+   doivent être confrontés à vos ventes.
+   Sur un produit donné, si les deux indicateurs sont en zone rouge, optez
+   pour une remise importante. Si le produit est en milieu de vie, les
+   ventes peuvent ne pas être catastrophiques, opérez alors une remise
+   faible.
+
+Le déstockage auprès de spécialistes
+
+   Si l’on ne peut traiter son déstockage ou si toutes les offres
+   promotionnelles n’ont pas permis de déstocker complètement, il est
+   possible de sous-traiter son déstockage d’invendus.
+
+Les plateformes de mises en relation
+
+   Il existe des sites d’annonces qui mettent en relation les vendeurs
+   d’invendus et des acheteurs. Certains de ces sites sont généralistes ou
+   spécialisés en fonction des secteurs d’activité.
+
+Les sociétés de déstockage
+
+   Comme les sites d’annonces, ces sociétés peuvent être généralistes ou
+   spécialisées. Dans tous les cas, sachez qu’elles sont réellement
+   pertinentes pour les stocks anciens ou les produits qu’il n’est plus
+   possible d’écouler sur les circuits traditionnels.
+
+Les sociétés d’échanges inter-entreprises
+
+   Expertes en troc en B to B, ces sociétés rachètent les stocks
+   d’invendus au moyen de crédits d’achats convertibles en produits ou
+   services. Les invendus sont ensuite rétrocédés à d’autres clients selon
+   le même principe.
+   [svg%3E] [AdobeStock_114525973.jpg]
+
+Les solutions anti-gaspillage
+
+   Depuis quelques années, on assiste à l’émergence de plateformes qui
+   permettent aux entreprises de déstocker tout en intégrant la démarche
+   vertueuse de l’anti-gaspillage plutôt que de la destruction. Ces
+   nouvelles solutions s’inscrivent dans un mouvement beaucoup plus large
+   qui puise son inspiration dans le désir de plus en plus affirmé de
+   sortir de la surconsommation. Que vos produits invendus soient
+   alimentaires ou non, il vous est donc possible de déstocker auprès de
+   filières spécialisées dans le recyclage et la valorisation vos invendus
+   et vos déchets, tout en optimisant vos coûts, notamment grâce aux
+   déductions fiscales.
+
+   Quelle que soit la solution retenue, gardez à l’esprit qu’il faut
+   qu’elle soit rapide, sans coûts imprévus et sans risque de perte
+   d’image pour votre entreprise.
+
+Déstockage et réglementation
+
+   Il est toujours possible de déstocker, même en dehors des soldes, et
+   ce, sans déclaration préalable. En effet, selon l’article 1, « toute
+   annonce de réduction de prix est licite sous réserve qu’elle ne
+   constitue pas une pratique commerciale déloyale au sens de l’article L.
+   120-1 du code de la consommation et qu’elle soit conforme aux exigences
+   du présent arrêté. »
+
+Les déstockages ne sont pas des soldes
+
+   La circulaire du 7 juillet 2009 indique qu’« une promotion, une
+   liquidation et un solde constituent trois opérations commerciales
+   distinctes » (article IV paragraphe 4). De fait, un même prix de
+   référence ne peut pas être maintenu au cours de soldes et d’une
+   opération promotionnelle de déstockage se suivant immédiatement, peu
+   importe la durée des deux opérations. Ainsi, le prix sur un invendu
+   pratiqué au cours d’une opération promotionnelle de déstockage devient
+   le prix de référence du même produit au cours des soldes et vice versa.
+
+Spécificités du déstockage
+
+   Contrairement aux marchandises soldées qui peuvent être vendues à
+   perte, les invendus faisant l’objet d’une opération promotionnelle de
+   déstockage ne peuvent être revendus à perte que dans certains cas (art.
+   L. 442-4, I du Code du Commerce), dont :
+
+   1. cessation ou le changement d’une activité commerciale ;
+
+   2. vente à caractère saisonnier marqué, pendant la période terminale de
+   la saison des ventes et dans l’intervalle compris entre deux saisons de
+   vente ;
+
+   3. produits ne répondant plus « à la demande générale en raison de
+   l’évolution de la mode ou de l’apparition de perfectionnements
+   techniques ».
+
+En résumé
+
+     * Pour vendre ses invendus, ce qui libère de l’espace de stockage de
+       vos entrepôts et optimise votre
+       trésorerie, vous devez :
+          + préparer vos opérations en intégrant dès le début de votre
+            exercice une part d’invendus dans
+            votre stratégie commerciale et en évaluant correctement leur
+            prix ;
+          + déstocker en respectant conformément à la loi ;
+          + choisir un canal de déstockage approprié et mixer les
+            solutions.
+
+Articles sur la gestion des stocks
+
+Les règles de stockage
+
+   ...
+
+Méthodes d’une bonne gestion des approvisionnements
+
+   ...
+
+Une vision 360 ° de son activité
+
+   ...
+
+Les clés pour éviter la rupture de stock
+
+   ...
+
+La gestion des stocks pour l’e-commerce
+
+   ...
+
+Comment gérer ses sorties de stock ?
+
+   ...
+
+Comment éviter les stocks dormants ?
+
+   ...
+
+Quels sont les risques d’une mauvaise gestion de stock ?
+
+   ...
+
+Où et comment stocker ses produits ?
+
+   ...
+
+   APPLI
+   Aplication CRM en magasin
+   Encaissement en Magasin
+   Appli de gestion de boutique
+
+   Modules
+
+   Gestion de la déclaration d'échange de bien (DEB)
+   Détaxe en magasin
+   Site internet B2B
+   Gestion des commandes et livraisons
+   Gestion de la logistique
+   Gestion de la comptabilité
+   Campagne SMS
+   Sondage auprès de vos clients
+
+   Produits
+
+   Logiciel de caisse
+   Connecteurs
+   Logiciel de Business Intelligence
+   CMS Site Internet
+   Logiciel de gestion de corner
+   Logiciel de gestion BtoB
+   Logiciel pour la production
+
+   Société
+   Conditions générales de vente
+   Documentations techniques
+   Mentions légales
+   Nos clients
+   RGPD et confidentialité des données
+
+   Support
+   Auto-Formation
+   Parrainage
+   Fastmag - Tous droits réservés - Mentions légales - Conditions
+   générales de vente - RGPD - Une société du groupe DL Software
+     * Suivre
+     * Suivre
+
+MÉTIERS
+
+   Mode-Chaussures-Accessoires
+   Décoration-Ameublement
+   Restauration
+   Magasins Spécialisés
+   Entreprises De Négoce
+   Corner En Supermarché
+
+SERVICES
+
+   Formation
+   Assistance 7 Jours Sur 7
+   Migration De Donnees
+   Sauvegarde En Ligne
+   Paiement En Ligne
+   Fastmag Lease
+   Fastmag Communication
+
+SOCIÉTÉ
+
+   Qui Sommes-Nous
+   Nos Clients
+   Nos Partenaires
+   Carrières
+   Actualités
+   Communiqués De Presse
+   Parrainage
+     * Twitter
+     * Google
+     * Instagram
+
+   Design de Elegant Themes | Propulsé par WordPress
+   #alternate Fastmag » Flux Fastmag » Flux des commentaires
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-PGGJR6Z
+
+   (BUTTON)
+     * [svg%3E] [facebook..png]
+     * [svg%3E] [linkedin_logo.png]
+     * ____________________ Rechercher
+     * [svg%3E] [call.png] Appelez-nous au 01 55 26 08 10
+     * Nous Contacter
+     * FR
+          + EN
+
+   Fastmag
+
+   (BUTTON)
+     * Logiciels
+          + fastmag Habillement fastmag Habillement
+            Fastmag Boutique
+          + fastmag Habillement fastmag Habillement
+            Fastmag E-Commerce
+          + fastmag Habillement fastmag Habillement
+            Fastmag Négoce
+          + fastmag Habillement fastmag Habillement
+            Fastmag Production
+          + fastmag Habillement fastmag Habillement
+            Fastmag In-Shop
+          + fastmag Habillement fastmag Habillement
+            Fastmag Copilot
+          + fastmag Habillement fastmag Habillement
+            Fastmag Connect
+     * Solutions
+          +
+               o
+                    # PAR SECTEUR D’ACTIVITÉ
+               o
+                    # PAR FONCTION
+          +
+               o
+                    # PAR SECTEUR D’ACTIVITÉ
+                    # fastmag Habillement fastmag Habillement
+                      Textile Habillement
+                      Chaussures Chaussures
+                      Chaussures
+                      Bijouterie Bijouterie
+                      Bijouterie
+                      Maroquinerie Maroquinerie
+                      Maroquinerie
+               o
+                    # Beauté Beauté
+                      Beauté
+                      Décoration, ameublement Décoration, ameublement
+                      Décoration Ameublement
+                      Corner Alimentaire Corner Alimentaire
+                      Corner Alimentaire GMS
+               o
+                    # PAR FONCTION
+                    #
+                         @ Gestion des points de Vente
+                         @ Gestion Commerciale B2B
+                         @ E-commerce
+                         @ CRM & Fidélisation
+                         @ Gestion des stocks en temps réel
+                         @ Gestion de production
+     * Tarifs
+     * Matériel
+          + fastmag Habillement fastmag Habillement
+            Terminal de point de vente
+          + fastmag Habillement fastmag Habillement
+            Scanners de caisse
+          + fastmag Habillement fastmag Habillement
+            Scanners D'inventaire
+          + fastmag Habillement fastmag Habillement
+            Imprimantes
+     * Ressources
+          +
+               o
+                    #
+               o
+                    #
+          +
+               o
+                    # Actualité Actualité Actualités
+                      Assistance 7/7 Assistance 7/7 Assistance 7/7
+                      Documentation technique Documentation technique
+                      Documentation Technique
+               o
+                    # Formation Formation Formation
+                      Manuel utilisateur Manuel utilisateur Manuels
+                      Utilisateurs
+               o
+                    # Le Guide du commerçant
+                    #
+                         @ Comptabilité et Fiscalité
+                         @ Gestion des stocks
+                         @ Inventaire
+                         @ Logiciel de caisse
+     * A propos de Fastmag
+
+   Sélectionner une page
+   ____________________
+
+   Accueil > Quels sont les risques d’une mauvaise gestion de stock ?
+   Le guide du commerçant – La gestion des stocks
+
+Quels sont les risques d’une mauvaise gestion de stock ?
+
+   En cas de mauvaise gestion de stock, votre entreprise s’expose à
+   différents risques qui concourent à la perte de rentabilité et de
+   chiffre d’affaires. Découvrez avec Fastmag comment il vous est possible
+   de les contourner pour pérenniser au mieux votre activité.
+
+La rupture de stock, un risque commercial à ne pas négliger
+
+   Une rupture de stock est une absence temporaire ou définitive (en cas
+   d’arrêt de production) d’un produit et/ou d’une marque. Elle ne permet
+   donc pas de répondre à la demande.
+
+Quelles sont les causes d’une rupture de stock ?
+
+   Les raisons expliquant une rupture peuvent être très variées allant de
+   la croissance brutale à la lenteur des approvisionnements en passant
+   par la volonté affichée de fonctionner en flux très tendus.
+
+Quels sont les risques encourus en cas de rupture de stock ?
+
+   Une entreprise en rupture de stock encourt deux risques imbriqués :
+   l’insatisfaction de sa clientèle qui peut perdre confiance en elle ;
+   la perte de chiffre d’affaires, les clients pouvant décider de porter
+   leur choix sur un autre produit ou une marque.
+
+Quelles sont les solutions pour éviter la rupture de stock
+
+   Selon la méthode de réapprovisionnement de rigueur dans votre
+   entreprise, vous pouvez opter pour la création :
+     * d’un stock de sécurité minimum ;
+     * d’un pool stock pour absorber les petites variations journalières
+       en matière de commandes ;
+     * d’un stock de découplage permettant d’offrir une alternative proche
+       du produit initial.
+
+   [svg%3E] [rupture-des-stocks.jpg]
+
+Le surstockage, une immobilisation inutile
+
+   Le surstockage consiste à stocker en quantité trop importante une ou
+   plusieurs références-produits. Sans action rapide, ce surplus devient
+   une immobilisation coûteuse.
+
+Comment s’explique un surstockage ?
+
+   Le plus souvent, le surstockage est le résultat d’une erreur de
+   commande ou d’une mauvaise estimation des ventes en interne. Il peut
+   aussi provenir d’une erreur de livraison de votre fournisseur, erreur
+   qui n’a pas été soulevée lors du contrôle ni transmise à la
+   comptabilité.
+
+Quels sont les risques encourus en cas de rupture de stock ?
+
+   Lorsque l’on subit un surstockage, l’entreprise perd de l’argent et de
+   l’espace de stockage qui permet d’optimiser les rotations. Cela accroit
+   donc les charges fixes (locaux, les machines, les rangements) et
+   variables, les frais de personnel qui ne sont pas répartis sur un
+   volume favorisant un bon amortissement des immobilisations.
+
+Quelles sont les solutions permettant d’éviter le surstockage
+
+   En cas de surstockage, il est essentiel de :
+   repenser sa gestion des approvisionnements ;
+   augmenter son taux de rotation grâce à des opérations de déstockage.
+   [svg%3E] [stocks-dormants.jpg]
+
+Les stocks dormants, la hantise des comptables
+
+   Les stocks dormants sont des stocks de différente nature – matières
+   premières, composants électroniques, fournitures industrielles,
+   emballages, produits finis ou semi-finis, produits agricoles -souvent
+   remisés au fond d’un entrepôt et qui ne sortent pas.
+
+Comment se créent les stocks dormants ?
+
+   Généralement, ils résultent d’une faille dans la chaîne logistique :
+   erreur de commande, DLC dépassées, obsolescence… Mais, ils peuvent
+   aussi être créés par des retours clients, l’effondrement des ventes, un
+   changement externe (seuils de commande chez un fournisseur,
+   nomenclature).
+
+
+Quels sont les risques inhérents aux stocks dormants ?
+
+   Les stocks dormants occasionnent principalement des coûts de gestion
+   trop élevés puisqu’ils restent immobilisés.
+
+Quelles sont les solutions pour diminuer les stocks dormants ?
+
+   Pour diminuer, voire supprimer complètement les stocks dormants, il est
+   possible de :
+   fonctionner en flux tendus en créant un stock de sécurité pour éviter
+   les ruptures ;
+   anticiper la demande en la suivant comme le lait sur le feu ;
+   destocker à travers une plateforme de valorisation, notamment à
+   l’étranger pour éviter de mettre en péril le CA de son réseau de
+   distribution.
+
+Les principes d’une gestion de stock équilibrée
+
+   À moins d’une faute intentionnelle, une bonne gestion de stock interne
+   ne connaît ni rupture, ni surstockage, ni stocks dormants. Cependant,
+   une entreprise n’est pas à l’abri des changements extérieurs sur
+   lesquels elle n’a aucune emprise. Elle peut donc être amenée à
+   connaître des variations de stock plus ou moins contraignantes qu’elle
+   se doit de réguler rapidement grâce à la mise en place de stratégies et
+   de méthodes les plus adaptées à son activité.
+
+L’anticipation, l’alliée d’une gestion de stock agile
+
+   Pour développer l’agilité de votre gestion de stock, il est nécessaire
+   avant toute chose de vous équiper d’un logiciel performant pour suivre
+   le niveau de vos stocks en temps réel. Ainsi, vous pouvez repérer, au
+   jour le jour, les produits qui marchent, ceux qui ne marchent pas, les
+   retours et adapter votre politique d’achat en fonction de ces données
+   et des évènements qui se profilent (soldes, fêtes diverses…).
+
+Bien choisir ses méthodes d’entrées et de sorties en stock
+
+   Entrées comme sorties de stock peuvent se gérer de différentes façons
+   selon votre cœur de métier. À vous de choisir celles qui vous
+   correspondent le mieux.
+
+Entrées en stock
+
+   Les entrées en stock (approvisionnements) peuvent se gérer selon quatre
+   méthodes.
+
+1. Méthode Juste-à-temps (JAT)
+
+   Les achats sont effectués en fonction de la demande.
+
+2. Méthode calendaire
+
+   Les achats d’une quantité fixe sont réalisés à une date fixe, selon la
+   formule QEC ou Wilson.
+
+3. Méthode Kanban
+
+   Les achats sont faits en fonction des commandes après avoir fixé un
+   stock minimum.
+
+4. Méthode point de commande
+
+   Un approvisionnement, de quantité égale au stock minimum, fixé se
+   déclenche automatiquement dès que ce dernier est atteint.
+   [svg%3E] [entrees-et-sorties-des-stocks.jpg]
+
+Sorties du stock
+
+   Les sorties des stocks se gèrent selon trois méthodes éprouvées qui
+   peuvent être mixées.
+
+Méthode FIFO
+
+   Utilisée par les outils FASTMAG, elle consiste à enlever du stock les
+   matières ou produits de manière chronologique : du plus ancien au plus
+   récent.
+
+Méthode LIFO
+
+   Elle s’utilise pour les produits sans DLC et consiste à faire sortir ce
+   qui vient de rentrer.
+
+Méthode FEFO
+
+   Elle s’utilise principalement dans l’agroalimentaire où il faut sortir
+   les produits aux DLC les plus proches en premier.
+
+Définir des seuils d’approvisionnement
+
+   Ces seuils sont résolument les moyens les plus efficaces pour anticiper
+   les ruptures de stock et le surstockage. Ils peuvent être définis en
+   fonction des délais de livraison des fournisseurs, par exemple.
+
+Veiller aux rotations de stocks
+
+   Une rotation des stocks à fréquence élevée amortit rapidement les
+   stocks puisque les frais fixes se répartissent sur un plus grand nombre
+   de marchandises. La rentabilité de l’entreprise est donc optimale. Son
+   taux doit être calculé et analysé en fonction de paramètres divers,
+   comme la durée du cycle d’exploitation et la saisonnalité de
+   l’activité.
+
+Effectuer de fréquents réassorts
+
+   Un réassort est différent du réapprovisionnement. Il consiste à
+   compléter des produits absents d’un rayonnage de magasin pour ne pas
+   laisser d’espaces vides. Cela permet de faire tourner les produits et
+   donner l’image d’un magasin où il ne manque rien.
+
+   Pour conclure, il existe trois facteurs de risques dans la gestion de
+   stock : la rupture de stock, le surstockage, les stocks dormants. Tous
+   conduisent à une perte de chiffre d’affaires, voire à une dégradation
+   de l’image de marque. Il est donc essentiel d’optimiser sa gestion de
+   stock qui exige une surveillance de tous les instants.
+
+En résumé
+
+     * S’équiper d’un logiciel de gestion de stock pertinent pour
+       développer son agilité
+     * Bien choisir sa méthode d’approvisionnement
+     * Opter pour une méthode de sortie de stock efficace
+
+     * Définir des seuils de réapprovisionnement
+     * Veiller sur ses rotations de stocks
+     * Bien gérer ses réassorts
+
+Articles sur la gestion des stocks
+
+Les règles de stockage
+
+   ...
+
+Méthodes d’une bonne gestion des approvisionnements
+
+   ...
+
+Une vision 360 ° de son activité
+
+   ...
+
+Les clés pour éviter la rupture de stock
+
+   ...
+
+La gestion des stocks pour l’e-commerce
+
+   ...
+
+Comment gérer ses sorties de stock ?
+
+   ...
+
+Comment éviter les stocks dormants ?
+
+   ...
+
+Que faire des invendus ?
+
+   ...
+
+Où et comment stocker ses produits ?
+
+   ...
+
+   APPLI
+   Aplication CRM en magasin
+   Encaissement en Magasin
+   Appli de gestion de boutique
+
+   Modules
+
+   Gestion de la déclaration d'échange de bien (DEB)
+   Détaxe en magasin
+   Site internet B2B
+   Gestion des commandes et livraisons
+   Gestion de la logistique
+   Gestion de la comptabilité
+   Campagne SMS
+   Sondage auprès de vos clients
+
+   Produits
+
+   Logiciel de caisse
+   Connecteurs
+   Logiciel de Business Intelligence
+   CMS Site Internet
+   Logiciel de gestion de corner
+   Logiciel de gestion BtoB
+   Logiciel pour la production
+
+   Société
+   Conditions générales de vente
+   Documentations techniques
+   Mentions légales
+   Nos clients
+   RGPD et confidentialité des données
+
+   Support
+   Auto-Formation
+   Parrainage
+   Fastmag - Tous droits réservés - Mentions légales - Conditions
+   générales de vente - RGPD - Une société du groupe DL Software
+     * Suivre
+     * Suivre
+
+MÉTIERS
+
+   Mode-Chaussures-Accessoires
+   Décoration-Ameublement
+   Restauration
+   Magasins Spécialisés
+   Entreprises De Négoce
+   Corner En Supermarché
+
+SERVICES
+
+   Formation
+   Assistance 7 Jours Sur 7
+   Migration De Donnees
+   Sauvegarde En Ligne
+   Paiement En Ligne
+   Fastmag Lease
+   Fastmag Communication
+
+SOCIÉTÉ
+
+   Qui Sommes-Nous
+   Nos Clients
+   Nos Partenaires
+   Carrières
+   Actualités
+   Communiqués De Presse
+   Parrainage
+     * Twitter
+     * Google
+     * Instagram
+
+   Design de Elegant Themes | Propulsé par WordPress

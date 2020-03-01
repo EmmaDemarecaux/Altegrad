@@ -1,0 +1,1741 @@
+
+
+   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-KJ4H3Q
+
+   Configurateur Réservez un essai Réseau Rendez-vous Service Aide en
+   ligne Ask Ford
+
+   Home
+
+   Nous utilisons des cookies sur notre site pour vous proposer une
+   navigation optimale et vous offrir les meilleurs services et offres
+   adaptés à vos centres d’intérêts. Ils nous permettent de personnaliser
+   le contenu et les annonces, d'offrir des fonctionnalités relatives aux
+   médias sociaux et d'analyser le trafic. Nous partageons également des
+   informations sur l'utilisation de notre site avec nos partenaires de
+   médias sociaux, de publicité et d'analyse, qui peuvent combiner
+   celles-ci avec d'autres informations que vous leur avez fournies ou
+   qu'ils ont collectées lors de votre utilisation de leurs services.
+
+   En poursuivant votre navigation, vous acceptez l’utilisation des
+   cookies.
+
+   Vous pouvez en savoir plus sur les cookies et la manière de les
+   désactiver via notre guide.
+
+   Pour en savoir plus et paramétrer vos cookies.
+   Ford Go Further - Home
+   Skip to content
+     *
+     * Véhicules
+     * Achat
+     * Financement
+     * Services
+
+Véhicules
+
+   ^
+     * Tous
+       {{::vehicle.name}} {{::vehicle.name}}
+
+{{::vehicle.name}}
+       {{::attr.prefix}} {{::attr.suffix}}
+       {{hev.label}}
+       Offres du mois Véhicules neufs en stock Occasions Tous nos
+       véhicules
+     * SUV & Crossover
+       {{::vehicle.name}} {{::vehicle.name}}
+
+{{::vehicle.name}}
+       {{::attr.prefix}} {{::attr.suffix}}
+       {{hev.label}}
+       Offres du mois Véhicules neufs en stock Occasions Tous nos
+       véhicules
+     * Hybride et électrique
+       {{::vehicle.name}} {{::vehicle.name}}
+
+{{::vehicle.name}}
+       {{::attr.prefix}} {{::attr.suffix}}
+       {{hev.label}}
+       Offres du mois Véhicules neufs en stock Occasions Tous nos
+       véhicules
+     * Familiales et Ludospaces
+       {{::vehicle.name}} {{::vehicle.name}}
+
+{{::vehicle.name}}
+       {{::attr.prefix}} {{::attr.suffix}}
+       {{hev.label}}
+       Offres du mois Véhicules neufs en stock Occasions Tous nos
+       véhicules
+     * Performance
+       {{::vehicle.name}} {{::vehicle.name}}
+
+{{::vehicle.name}}
+       {{::attr.prefix}} {{::attr.suffix}}
+       {{hev.label}}
+       Offres du mois Véhicules neufs en stock Occasions Tous nos
+       véhicules
+     * Véhicules Utilitaires
+       {{::vehicle.name}} {{::vehicle.name}}
+
+{{::vehicle.name}}
+       {{::attr.prefix}} {{::attr.suffix}}
+       {{hev.label}}
+       Véhicules Carrossés Offres du mois Transit Centers Tous nos
+       véhicules
+     * Futurs Véhicules
+       {{::vehicle.name}} {{::vehicle.name}}
+
+{{::vehicle.name}}
+       {{::attr.prefix}} {{::attr.suffix}}
+       {{hev.label}}
+       Véhicules neufs en stock Futurs Véhicules Occasions Tous nos
+       véhicules
+
+Achat
+
+S'informer
+
+   Véhicules Particuliers
+
+   Véhicules Utilitaires
+
+   Véhicules Hybrides et Électriques
+
+   Occasions Véhicules Particuliers
+
+   Occasions Véhicules Utilitaires
+
+   Technologies
+
+   Futurs Véhicules
+
+   FordStores
+
+Poursuivre l'expérience
+
+   Offres du mois
+
+   Configurateur
+
+   Réservez un essai
+
+   Téléchargez une eBrochure
+
+   Trouvez votre concessionnaire
+
+   Financez votre Ford
+
+   Tenez-moi informé
+
+   Contactez-nous
+
+Services & Accessoires
+
+   Accessoires
+
+   Garanties
+
+   Ford Assurance
+
+   Ford Protect
+
+   Ford Lifestyle Collection
+
+Ventes aux professionnels
+
+   Ford Entreprise
+
+   Ford Rent
+
+   Mobileasy
+
+   Transit Centers
+
+Financement
+
+Financement
+
+   Ford Credit
+
+   Financement aux particuliers
+
+   Financement aux professionnels
+
+   Assurances
+
+Aide et Contacts
+
+   FAQs Financement et Assurance
+
+   Contactez-nous
+
+Financez votre Ford
+
+   Calculez votre financement
+
+   Comment financer votre Ford ?
+
+   Offres du mois
+
+Espace Client
+
+   Gérez votre compte
+
+Services
+
+Mon Véhicule
+
+   Rendez-vous Service
+
+   Téléchargez le manuel conducteur
+
+   Accessoires
+
+   Garanties, Assistance et Entretien
+
+   Campagnes de rappel
+
+Nos Services
+
+   FordPass
+
+   Ford BlueService
+
+   Ford Transit24
+
+   Ford Video Check
+
+   Ford Express Service
+
+   Promesse client
+
+   Carte Exclusiv'Ford
+
+
+Entretien
+
+   Offres Ford Service
+
+   Ford Motorcraft
+
+   Entretien & Réparations
+
+   Ford Assistance
+
+   Ford Entretien +
+
+   Ford Protect
+
+Informations
+
+   Ford SYNC & Bluetooth®
+
+   Ford et l'Environnement
+
+   Nouvelles normes de tests
+
+   Homologation
+
+   Astuces Ford
+
+   FAQ
+
+   Ask Ford
+
+   Contactez-nous
+   Plus
+     * Configurateur
+     * Réservez un essai
+     * Réseau
+
+     * Offres du mois
+     * Ford Reprise
+     * Occasions
+     * Se connecter / Créer un compte FordPass
+     * Votre compte
+     * Recherche
+     * Voir plus de liens
+          + Téléchargez l'eBrochure
+          + Accessoires
+          + Technologies
+          + Véhicules Utilitaires
+          + Futurs Véhicules
+          + Ford Entreprise
+          + FordPass
+          + Rendez-vous Service
+          + Espace Client Ford Credit
+          + Contactez-nous
+
+Contactez-nous
+
+   Information générales
+
+   0 800 005 005
+
+   Ford Assistance
+
+   0 800 005 005 puis tapez 1
+   Ford Focus Active parked in front of beach
+
+Nouvelle Focus Active
+
+Configurez-la
+
+   Ford Summerdeals
+
+Découvrez les offres d’été
+
+   Ford Kuga
+
+Découvrez l'offre
+
+   Ford Fiesta
+
+Découvrez l'offre
+
+   Ford Transit Van
+
+Découvrez-le
+
+   Focus ST Line Promotion
+
+Un véhicule pour chaque style de vie
+
+Découvrez notre gamme.
+
+     * Tous
+     * SUV & Crossover
+     * Hybride et électrique
+     * Familiales et Ludospaces
+     * Performance
+     * Véhicules Utilitaires
+
+   {{model.name}} {{model.name}}
+
+{{model.name}}
+
+   {{attribute.attributePrefix}} {{attribute.attributeSuffix}}
+   ^{{attribute.attributeDisclosure}}
+   {{model.name}} {{model.name}}
+
+{{model.name}}
+
+   {{attribute.attributePrefix}} {{attribute.attributeSuffix}}
+   ^{{attribute.attributeDisclosure}}
+   {{model.name}} {{model.name}}
+
+{{model.name}}
+
+   {{attribute.attributePrefix}} {{attribute.attributeSuffix}}
+   ^{{attribute.attributeDisclosure}}
+   {{model.name}} {{model.name}}
+
+{{model.name}}
+
+   {{attribute.attributePrefix}} {{attribute.attributeSuffix}}
+   ^{{attribute.attributeDisclosure}}
+   {{model.name}} {{model.name}}
+
+{{model.name}}
+
+   {{attribute.attributePrefix}} {{attribute.attributeSuffix}}
+   ^{{attribute.attributeDisclosure}}
+   {{model.name}} {{model.name}}
+
+{{model.name}}
+
+   {{attribute.attributePrefix}} {{attribute.attributeSuffix}}
+   ^{{attribute.attributeDisclosure}}
+   Ford Webstore
+
+Découvrez les véhicules neufs Ford près de chez vous
+
+Ford Webstore
+
+   Ford grey Edge running in the nigh
+
+Configurez le véhicule qui est fait pour vous
+
+Personnalisez votre véhicule
+
+Trouver le concessionnaire
+le plus proche
+
+   (*) Par ville
+   ( ) Par concessionnaire
+   ____________________ (BUTTON) Chercher des concessionnaires
+   (BUTTON) Utilisez ma position actuelle
+
+   Essayez avec l'orthographe…
+     *
+     *
+     *
+
+   {{ mainCtrl.errorMessage }}
+
+   Besoin d'une prestation en particulier ?
+   Utilisez le formulaire de recherche avancée
+
+   Aucun concessionnaire trouvé. Veuillez réessayer en élargissant votre
+   recherche.
+
+   Aucun lieu trouvé
+
+   La zone de recherche est vide
+
+   Une erreur critique s'est produite lors de votre demande.
+
+   Il semblerait .que vous soyez déconnecté
+
+   Le partage de localisation est désactivé dans votre navigateur,
+   veuillez l'activer pour prendre en compte votre position actuelle.
+
+   Le partage de localisation est désactivé.
+
+   Le service de localisation ne parvient pas à vous localiser.
+
+   Le service de localisation ne parvient pas à vous localiser.
+
+   Erreur inconnue.
+   Une erreur s'est produite, veuillez réessayer.
+   {{ vm.dealer.index + 1 }}
+
+{{ vm.dealer.DealerName }}
+
+   {{ vm.dealer.distance / (1000 * config.distance.distanceConversion) |
+   utilFormatter:'distance' }}
+
+   {{ vm.dealer.directDistance / (1000 *
+   config.distance.distanceConversion) | utilFormatter:'distance' }}
+     * Ventes
+       {{ vm.dealer.CustomerRatingsSales }}
+       {{vm.dealer.CustomerRespondentsSales}} Évaluations
+     * Entretien
+       {{ vm.dealer.CustomerRatingsService }}
+       {{vm.dealer.CustomerRespondentsService}} Évaluations
+
+   [CVP_logo_blue.png]
+     * Ventes
+     * Entretien
+
+   Aucune évaluation des ventes disponible
+     * {{salesReview.authorNickname}} - {{salesReview.vehicleMake}}
+       {{salesReview.vehicleModel}}
+       {{vm.parseDate(salesReview.submittedAt)}}
+       {{salesReview.body}}
+       {{vm.dealer.DealerName}}
+       {{salesReview.response}}
+
+   Une erreur s'est produite, veuillez réessayer.
+
+   Affichage {{vm.salesElLen}} de {{vm.salesAll}} commentaires
+   (BUTTON) En voir plus
+   Aucune évaluation relative à l'entretien disponible
+     * {{serviceReview.authorNickname}} - {{serviceReview.vehicleMake}}
+       {{serviceReview.vehicleModel}}
+       {{vm.parseDate(serviceReview.submittedAt)}}
+       {{serviceReview.body}}
+       {{vm.dealer.DealerName}}
+       {{serviceReview.response}}
+
+   Une erreur s'est produite, veuillez réessayer.
+
+   Affichage {{vm.serviceElLen}} de {{vm.serviceAll}} commentaires
+   (BUTTON) En voir plus
+
+{{dealer.DealerName}}
+
+   {{ dealer.CustomerRatingsCombined }} {{
+   dealer.CustomerRespondentsCombined }} Évaluations
+   [CVP_logo_blue.png]
+
+   {{dealer.serviceList}}
+
+   {{ addressLine }}
+
+   Ouvert ce jour jusqu’à {{dealer.todayClosingTime}}
+
+   Pièces ouvert ce jour jusqu’à {{dealer.todayPartsClosingTime}}
+
+   Service ouvert ce jour jusqu’à {{dealer.todayServiceClosingTime}}
+
+   {{dealer.formattedDistance}}
+   APPELEZ
+   ITINÉRAIRE
+   Chercher
+   Rechercher
+
+   Besoin d'une prestation en particulier ?
+   Utilisez le formulaire de recherche avancée
+   (BUTTON) {{$index + 1}}
+
+{{dealer.DealerName}}
+
+   {{ dealer.CustomerRatingsCombined }} {{
+   dealer.CustomerRespondentsCombined }} Évaluations
+   [CVP_logo_blue.png]
+
+   {{dealer.serviceList}}
+
+   {{ addressLine }}
+
+   Ouvert ce jour jusqu’à {{dealer.todayClosingTime}}
+
+   Pièces ouvert ce jour jusqu’à {{dealer.todayPartsClosingTime}}
+
+   Service ouvert ce jour jusqu’à {{dealer.todayServiceClosingTime}}
+
+   {{dealer.formattedDistance}}
+
+   {{dealer.PrimaryPhone}}
+
+   ITINÉRAIRE
+
+   Voir les détails
+   (BUTTON) {{$index + 1}}
+
+{{dealer.DealerName}}
+
+   {{ dealer.CustomerRatingsCombined }} {{
+   dealer.CustomerRespondentsCombined }} Évaluations
+   [CVP_logo_blue.png]
+
+   {{dealer.serviceList}}
+
+   Ouvert ce jour jusqu’à {{dealer.todayClosingTime}}
+
+   Pièces ouvert ce jour jusqu’à {{dealer.todayPartsClosingTime}}
+
+   Service ouvert ce jour jusqu’à {{dealer.todayServiceClosingTime}}
+
+   {{dealer.formattedDistance}}
+
+   Voir les détails
+
+
+
+<%-DealerName%>
+
+   <% if (CustomerRatingsCombined) { %>
+   <%- CustomerRatingsCombined %> <%- CustomerRespondentsCombined %>
+   Évaluations
+   [CVP_logo_blue.png]
+   <% } %> <% if (serviceList) { %>
+
+   <%- serviceList %>
+   <% } %> <% if (todayClosingTime) { %>
+
+   Ouvert ce jour jusqu’à <%-todayClosingTime%>
+   <% } %> <% if (todayPartsClosingTime) { %>
+
+   Pièces ouvert ce jour jusqu’à <%-todayPartsClosingTime%>
+   <% } %> <% if (todayServiceClosingTime) { %>
+
+   Service ouvert ce jour jusqu’à <%-todayServiceClosingTime%>
+   <% } %>
+   <% _.forEach(formattedAddress, function(addressLine) { %>
+
+   <%- addressLine %>
+   <% }); %>
+   <% if (PrimaryPhone) { %>
+
+   <%- PrimaryPhone %>
+   <% } %>
+
+     ITINÉRAIRE
+
+     Voir les détails
+   FordPass App
+
+La mobilité en toute simplicité.
+
+   Découvrez FordPass Téléchargez l'application
+
+Découvrir plus, explorer plus
+
+   Ecopass
+
+   Découvrez l’offre
+   Véhicules Hybrides
+
+   Découvrez l’hybride et l’électrique
+   Two blue Ford cars against each other
+
+   Estimez votre voiture
+   Two men in front of the building
+
+   Découvrir Ford Service
+   Ford Focus blue embraced by a man
+
+   Découvrir Ford Motorcraft
+   Teddy Riner
+
+   Découvrez les films !
+   Voir plus Voir moins
+   Top
+
+Mentions Légales
+
+   Les informations apparaissant sur ce site sont mentionnées à titre
+   indicatif dans la limite des stocks disponibles. Malgré sa mise à jour
+   régulière et toute l’attention qui y est portée, certaines informations
+   peuvent néanmoins se révéler obsolètes en raison de l’évolution des
+   produits. Ainsi, Ford se réserve le droit de modifier à tout moment les
+   spécifications, les options, les couleurs et les prix de ses modèles
+   décrits sur le site. Pour obtenir les informations les plus récentes
+   sur les caractéristiques et les tarifs de nos produits et services, il
+   convient de vous adresser à votre concessionnaire.
+
+   ____________________ Recherche
+
+Les + recherchés
+
+     * Mustang
+     * Ford Fiesta
+     * KA+
+     * SUV Ford
+
+Véhicules
+
+     * Véhicules Particuliers
+     * Véhicules Utilitaires
+     * Futurs Véhicules
+     * Citadines Ford
+     * Familiales Ford
+     * Monospaces Ford
+     * Ford Performance
+     * Gamme ST-Line
+     * SUV Ford
+     * Gamme Active
+     * Reprise véhicule
+     * Véhicules Hybrides et Électriques
+
+Achat
+
+     * Configurateur
+     * Véhicules neufs en stock
+     * Téléchargez une eBrochure
+     * Voir les offres du mois
+     * Réservez un essai
+     * Occasions Ford Sélection Privilèges
+     * Tenez-moi informé
+     * Ford Entreprise
+
+Financement
+
+     * Financement aux particuliers
+     * Financement aux professionnels
+     * Comment financer votre Ford?
+     * Espace Client Ford Credit
+     * Assurances et services
+
+Service
+
+     * FordPass
+     * Rendez-vous Service
+     * Manuel du conducteur
+     * Offre Ford Service
+     * Campagne de rappel
+     * Ford Motorcraft
+     * Ford Transit24
+     * Ford Assistance
+     * Catalogue AppLink
+     * FAQ
+     * Ask Ford
+
+Expérience Ford
+
+     * Univers Ford
+     * Histoire & Héritage
+     * Carrières
+     * La Mustang en détails
+
+   alt
+   Tenez-moi informé
+
+   Suivez-nous
+   facebook
+   twitter
+   youtube
+   instagram
+   ford social
+     * © 2019 Ford Motor Company
+     * Contactez-nous
+     * Plan du site
+     * Politique de Confidentialité et Termes et Conditions
+
+
+   Ford Go Further
+   Ford Logo
+
+Votre navigateur n'est plus compatible.
+
+   Cliquez sur une des icônes pour télécharger un nouveau navigateur
+   Internet.
+   Chrome icon
+   Firefox icon
+   Safari icon
+
+
+   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-KJ4H3Q
+
+   Configurateur Réservez un essai Réseau Rendez-vous Service Aide en
+   ligne Ask Ford
+
+   Home > Voitures Neuves > KUGA
+
+   Nous utilisons des cookies sur notre site pour vous proposer une
+   navigation optimale et vous offrir les meilleurs services et offres
+   adaptés à vos centres d’intérêts. Ils nous permettent de personnaliser
+   le contenu et les annonces, d'offrir des fonctionnalités relatives aux
+   médias sociaux et d'analyser le trafic. Nous partageons également des
+   informations sur l'utilisation de notre site avec nos partenaires de
+   médias sociaux, de publicité et d'analyse, qui peuvent combiner
+   celles-ci avec d'autres informations que vous leur avez fournies ou
+   qu'ils ont collectées lors de votre utilisation de leurs services.
+
+   En poursuivant votre navigation, vous acceptez l’utilisation des
+   cookies.
+
+   Vous pouvez en savoir plus sur les cookies et la manière de les
+   désactiver via notre guide.
+
+   Pour en savoir plus et paramétrer vos cookies.
+   Ford Go Further - Home
+   Skip to content
+     *
+     * Véhicules
+     * Achat
+     * Financement
+     * Services
+
+Véhicules
+
+   ^
+     * Tous
+       {{::vehicle.name}} {{::vehicle.name}}
+
+{{::vehicle.name}}
+       {{::attr.prefix}} {{::attr.suffix}}
+       {{hev.label}}
+       Offres du mois Véhicules neufs en stock Occasions Tous nos
+       véhicules
+     * SUV & Crossover
+       {{::vehicle.name}} {{::vehicle.name}}
+
+{{::vehicle.name}}
+       {{::attr.prefix}} {{::attr.suffix}}
+       {{hev.label}}
+       Offres du mois Véhicules neufs en stock Occasions Tous nos
+       véhicules
+     * Hybride et électrique
+       {{::vehicle.name}} {{::vehicle.name}}
+
+{{::vehicle.name}}
+       {{::attr.prefix}} {{::attr.suffix}}
+       {{hev.label}}
+       Offres du mois Véhicules neufs en stock Occasions Tous nos
+       véhicules
+     * Familiales et Ludospaces
+       {{::vehicle.name}} {{::vehicle.name}}
+
+{{::vehicle.name}}
+       {{::attr.prefix}} {{::attr.suffix}}
+       {{hev.label}}
+       Offres du mois Véhicules neufs en stock Occasions Tous nos
+       véhicules
+     * Performance
+       {{::vehicle.name}} {{::vehicle.name}}
+
+{{::vehicle.name}}
+       {{::attr.prefix}} {{::attr.suffix}}
+       {{hev.label}}
+       Offres du mois Véhicules neufs en stock Occasions Tous nos
+       véhicules
+     * Véhicules Utilitaires
+       {{::vehicle.name}} {{::vehicle.name}}
+
+{{::vehicle.name}}
+       {{::attr.prefix}} {{::attr.suffix}}
+       {{hev.label}}
+       Véhicules Carrossés Offres du mois Transit Centers Tous nos
+       véhicules
+     * Futurs Véhicules
+       {{::vehicle.name}} {{::vehicle.name}}
+
+{{::vehicle.name}}
+       {{::attr.prefix}} {{::attr.suffix}}
+       {{hev.label}}
+       Véhicules neufs en stock Futurs Véhicules Occasions Tous nos
+       véhicules
+
+Achat
+
+S'informer
+
+   Véhicules Particuliers
+
+   Véhicules Utilitaires
+
+   Véhicules Hybrides et Électriques
+
+   Occasions Véhicules Particuliers
+
+   Occasions Véhicules Utilitaires
+
+   Technologies
+
+   Futurs Véhicules
+
+   FordStores
+
+Poursuivre l'expérience
+
+   Offres du mois
+
+   Configurateur
+
+   Réservez un essai
+
+   Téléchargez une eBrochure
+
+   Trouvez votre concessionnaire
+
+   Financez votre Ford
+
+   Tenez-moi informé
+
+   Contactez-nous
+
+Services & Accessoires
+
+   Accessoires
+
+   Garanties
+
+   Ford Assurance
+
+   Ford Protect
+
+   Ford Lifestyle Collection
+
+Ventes aux professionnels
+
+   Ford Entreprise
+
+   Ford Rent
+
+   Mobileasy
+
+   Transit Centers
+
+Financement
+
+Financement
+
+   Ford Credit
+
+   Financement aux particuliers
+
+   Financement aux professionnels
+
+   Assurances
+
+Aide et Contacts
+
+   FAQs Financement et Assurance
+
+   Contactez-nous
+
+Financez votre Ford
+
+   Calculez votre financement
+
+   Comment financer votre Ford ?
+
+   Offres du mois
+
+Espace Client
+
+   Gérez votre compte
+
+Services
+
+Mon Véhicule
+
+   Rendez-vous Service
+
+   Téléchargez le manuel conducteur
+
+   Accessoires
+
+   Garanties, Assistance et Entretien
+
+   Campagnes de rappel
+
+Nos Services
+
+   FordPass
+
+   Ford BlueService
+
+   Ford Transit24
+
+   Ford Video Check
+
+   Ford Express Service
+
+   Promesse client
+
+   Carte Exclusiv'Ford
+
+
+Entretien
+
+   Offres Ford Service
+
+   Ford Motorcraft
+
+   Entretien & Réparations
+
+   Ford Assistance
+
+   Ford Entretien +
+
+   Ford Protect
+
+Informations
+
+   Ford SYNC & Bluetooth®
+
+   Ford et l'Environnement
+
+   Nouvelles normes de tests
+
+   Homologation
+
+   Astuces Ford
+
+   FAQ
+
+   Ask Ford
+
+   Contactez-nous
+   Plus
+     * Configurateur
+     * Réservez un essai
+     * Réseau
+
+     * Offres du mois
+     * Ford Reprise
+     * Occasions
+     * Se connecter / Créer un compte FordPass
+     * Votre compte
+     * Recherche
+     * Voir plus de liens
+          + Téléchargez l'eBrochure
+          + Accessoires
+          + Technologies
+          + Véhicules Utilitaires
+          + Futurs Véhicules
+          + Ford Entreprise
+          + FordPass
+          + Rendez-vous Service
+          + Espace Client Ford Credit
+          + Contactez-nous
+
+Contactez-nous
+
+   Information générales
+
+   0 800 005 005
+
+   Ford Assistance
+
+   0 800 005 005 puis tapez 1
+
+FORD KUGA
+
+     * Introduction
+     * Design
+     * Caractéristiques
+          + Introduction
+          + Expérience de conduite
+          + Confort
+          + Performance et efficacité
+          + Sécurité
+          + Pratique
+     * Offres
+          + Offres Véhicules Particuliers
+          + Offres Véhicules Professionnels
+     * Modèles
+          + Introduction
+          + Trend
+          + Titanium
+          + ST-Line
+          + ST-Line Black & Silver
+          + Vignale
+
+   Continuer
+     * Configurez votre Kuga
+     * Réservez un essai
+
+   Gold Ford Kuga Vignale
+
+Le monde vous appartient.
+
+FORD KUGA VIGNALE
+
+   Mondeo présenté : Kuga Vignale avec options.
+   Dark grey Ford Kuga driving on a curved road in the hills
+
+Prenez le volant, prenez les commandes.
+
+FORD KUGA
+
+   Modèle présenté : Kuga ST-Line avec options.
+   Dark grey Ford Kuga cruising on a highway
+
+Chaque jour une nouvelle aventure.
+
+FORD KUGA
+
+   Modèle présenté : Kuga ST-Line avec options.
+   Grey Ford Kuga parked on the beach with people swimming in the lake in
+   background
+
+Roulez deux fois moins cher
+
+FORD KUGA
+
+   Modèle présenté : Kuga ST-Line
+   Prix à partir de : ^Nouveau Kuga vehicle attribute
+
+   Découvrir les autres offres
+
+   En savoir plus sur Ford Credit
+   Consommation mixte ^Declared Fuel Consumption
+   Emissions (CO2) ^Declared Fuel Consumption
+   Puissance Max
+
+Le SUV intelligent à la pointe de la technologie
+
+   Gold Ford Kuga Vignale parked near a modern office building
+   A detail of Ford Kuga steering wheel
+   Gold Ford Kuga alloy wheel detail
+   Ford Kuga front seats side view
+   Ford PowerShift in detail
+   Front view of a dark Ford Kuga in motion
+   Ford SYNC in detail
+   Ford Kuga Deep, moulded contours
+
+   Design
+
+Un nouveau challenge ….
+
+   Sélectionner une couleur est simple, la choisir est plus délicat.
+     * {{category.name}}
+
+     *
+
+   Le modèle présenté est un Trend
+   Configurez votre Kuga
+   Ford Kuga interior in black with dashboard and steering wheel detail
+   Grey Ford Kuga on a road above a lake front side view
+
+Un régulateur de vitesse qui s'adapte automatiquement.
+
+   Le Régulateur Adaptatif vous permet de sélectionner et de maintenir la
+   vitesse à laquelle vous souhaitez rouler. Le capteur radar intégré
+   maintient automatiquement la distance entre votre véhicule et le
+   véhicule qui vous précède en agissant sur le freinage. Une fois la
+   route dégagée, le système revient à la vitesse préalablement
+   sélectionnée.
+
+   Expérience de conduite
+
+Hayon mains-libres.
+
+   Depuis son introduction, le système d’ouverture de hayon mains-libres
+   de Ford connaît un succès retentissant, notamment auprès de ceux qui
+   mènent une vie active. Si vos mains sont prises, et que vous avez votre
+   clé KeyFree sur vous, il vous suffit de passer votre pied sous le
+   bouclier arrière pour que le hayon s’ouvre automatiquement. Vous pouvez
+   également utiliser le bouton de commande à l'intérieur du Kuga, avec la
+   possibilité de limiter sa hauteur d’ouverture, comme dans un parking.
+
+   Confort
+   Woman in white dress uses hands free tailgate opening while standing
+   behind grey Ford Kuga
+   Red Ford Kuga cornering in a city
+
+Économisez du carburant grâce au système Stop & Start.
+
+   Lorsque vous vous arrêtez à un feu ou lorsque votre voiture tourne au
+   ralenti dans un embouteillage, cette technologie coupe automatiquement
+   le moteur tout en continuant d'alimenter les systèmes essentiels comme
+   les phares, la climatisation, la radio et le système Ford SYNC. Dès que
+   vous êtes prêt à repartir, il vous suffit d'appuyer sur l'embrayage et
+   de passer la première, comme d'habitude, ou de relâcher la pédale de
+   frein sur une automatique, et le système redémarre. Le système Stop &
+   Start est particulièrement efficace pour la conduite en ville, où il
+   peut permettre de réaliser une économie de carburant allant jusqu'à 10
+   % (cycle urbain).
+
+   Performance et efficacité
+
+Assistant de pré-collision avec détection des piétons
+
+   Cette technologie analyse la route afin de détecter les véhicules et
+   les piétons qui se trouvent devant vous, et elle vous avertit de leur
+   présence. Si vous ne réagissez pas, le système freine automatiquement,
+   ce qui diminue au minimum la gravité des accidents, et peut également
+   vous aider à les éviter complètement.
+
+   Sécurité
+   White Ford Kuga driving behind blue Ford Focus using Active City Stop
+   Kugas boot space
+
+Un attelage rétractable: disponible lorsque vous en avez besoin.
+
+   Les attelages sont généralement fixes et, par conséquent, dépassent de
+   manière permanente de l'arrière de votre véhicule. Disponible en
+   option, l’attelage rétractable du nouveau Kuga s’efface facilement
+   derrière le pare-chocs, lorsqu'il n'est pas utilisé.
+
+   Pratique
+
+Découvrez les finitions KUGA
+
+   Comparer les modèles (PDF)
+   {{model.name}} {{model.name}}
+
+{{model.name}}
+
+   {{attribute.attributePrefix}} {{attribute.attributeSuffix}}
+   ^{{attribute.attributeDisclosure}}
+   New Ford Kuga Promotions
+
+Trouver le concessionnaire
+le plus proche
+
+   (*) Par ville
+   ( ) Par concessionnaire
+   ____________________ (BUTTON) Chercher des concessionnaires
+   (BUTTON) Utilisez ma position actuelle
+
+   Essayez avec l'orthographe…
+     *
+     *
+     *
+
+   {{ mainCtrl.errorMessage }}
+
+   Besoin d'une prestation en particulier ?
+   Utilisez le formulaire de recherche avancée
+
+   Aucun concessionnaire trouvé. Veuillez réessayer en élargissant votre
+   recherche.
+
+   Aucun lieu trouvé
+
+   La zone de recherche est vide
+
+   Une erreur critique s'est produite lors de votre demande.
+
+   Il semblerait .que vous soyez déconnecté
+
+   Le partage de localisation est désactivé dans votre navigateur,
+   veuillez l'activer pour prendre en compte votre position actuelle.
+
+   Le partage de localisation est désactivé.
+
+   Le service de localisation ne parvient pas à vous localiser.
+
+   Le service de localisation ne parvient pas à vous localiser.
+
+   Erreur inconnue.
+   Une erreur s'est produite, veuillez réessayer.
+   {{ vm.dealer.index + 1 }}
+
+{{ vm.dealer.DealerName }}
+
+   {{ vm.dealer.distance / (1000 * config.distance.distanceConversion) |
+   utilFormatter:'distance' }}
+
+   {{ vm.dealer.directDistance / (1000 *
+   config.distance.distanceConversion) | utilFormatter:'distance' }}
+     * Ventes
+       {{ vm.dealer.CustomerRatingsSales }}
+       {{vm.dealer.CustomerRespondentsSales}} Évaluations
+     * Entretien
+       {{ vm.dealer.CustomerRatingsService }}
+       {{vm.dealer.CustomerRespondentsService}} Évaluations
+
+   [CVP_logo_blue.png]
+     * Ventes
+     * Entretien
+
+   Aucune évaluation des ventes disponible
+     * {{salesReview.authorNickname}} - {{salesReview.vehicleMake}}
+       {{salesReview.vehicleModel}}
+       {{vm.parseDate(salesReview.submittedAt)}}
+       {{salesReview.body}}
+       {{vm.dealer.DealerName}}
+       {{salesReview.response}}
+
+   Une erreur s'est produite, veuillez réessayer.
+
+   Affichage {{vm.salesElLen}} de {{vm.salesAll}} commentaires
+   (BUTTON) En voir plus
+   Aucune évaluation relative à l'entretien disponible
+     * {{serviceReview.authorNickname}} - {{serviceReview.vehicleMake}}
+       {{serviceReview.vehicleModel}}
+       {{vm.parseDate(serviceReview.submittedAt)}}
+       {{serviceReview.body}}
+       {{vm.dealer.DealerName}}
+       {{serviceReview.response}}
+
+   Une erreur s'est produite, veuillez réessayer.
+
+   Affichage {{vm.serviceElLen}} de {{vm.serviceAll}} commentaires
+   (BUTTON) En voir plus
+
+{{dealer.DealerName}}
+
+   {{ dealer.CustomerRatingsCombined }} {{
+   dealer.CustomerRespondentsCombined }} Évaluations
+   [CVP_logo_blue.png]
+
+   {{dealer.serviceList}}
+
+   {{ addressLine }}
+
+   Ouvert ce jour jusqu’à {{dealer.todayClosingTime}}
+
+   Pièces ouvert ce jour jusqu’à {{dealer.todayPartsClosingTime}}
+
+   Service ouvert ce jour jusqu’à {{dealer.todayServiceClosingTime}}
+
+   {{dealer.formattedDistance}}
+   APPELEZ
+   ITINÉRAIRE
+   Chercher
+   Rechercher
+
+   Besoin d'une prestation en particulier ?
+   Utilisez le formulaire de recherche avancée
+   (BUTTON) {{$index + 1}}
+
+{{dealer.DealerName}}
+
+   {{ dealer.CustomerRatingsCombined }} {{
+   dealer.CustomerRespondentsCombined }} Évaluations
+   [CVP_logo_blue.png]
+
+   {{dealer.serviceList}}
+
+   {{ addressLine }}
+
+   Ouvert ce jour jusqu’à {{dealer.todayClosingTime}}
+
+   Pièces ouvert ce jour jusqu’à {{dealer.todayPartsClosingTime}}
+
+   Service ouvert ce jour jusqu’à {{dealer.todayServiceClosingTime}}
+
+   {{dealer.formattedDistance}}
+
+   {{dealer.PrimaryPhone}}
+
+   ITINÉRAIRE
+
+   Voir les détails
+   (BUTTON) {{$index + 1}}
+
+{{dealer.DealerName}}
+
+   {{ dealer.CustomerRatingsCombined }} {{
+   dealer.CustomerRespondentsCombined }} Évaluations
+   [CVP_logo_blue.png]
+
+   {{dealer.serviceList}}
+
+   Ouvert ce jour jusqu’à {{dealer.todayClosingTime}}
+
+   Pièces ouvert ce jour jusqu’à {{dealer.todayPartsClosingTime}}
+
+   Service ouvert ce jour jusqu’à {{dealer.todayServiceClosingTime}}
+
+   {{dealer.formattedDistance}}
+
+   Voir les détails
+
+
+
+<%-DealerName%>
+
+   <% if (CustomerRatingsCombined) { %>
+   <%- CustomerRatingsCombined %> <%- CustomerRespondentsCombined %>
+   Évaluations
+   [CVP_logo_blue.png]
+   <% } %> <% if (serviceList) { %>
+
+   <%- serviceList %>
+   <% } %> <% if (todayClosingTime) { %>
+
+   Ouvert ce jour jusqu’à <%-todayClosingTime%>
+   <% } %> <% if (todayPartsClosingTime) { %>
+
+   Pièces ouvert ce jour jusqu’à <%-todayPartsClosingTime%>
+   <% } %> <% if (todayServiceClosingTime) { %>
+
+   Service ouvert ce jour jusqu’à <%-todayServiceClosingTime%>
+   <% } %>
+   <% _.forEach(formattedAddress, function(addressLine) { %>
+
+   <%- addressLine %>
+   <% }); %>
+   <% if (PrimaryPhone) { %>
+
+   <%- PrimaryPhone %>
+   <% } %>
+
+     ITINÉRAIRE
+
+     Voir les détails
+   request a test drive icon
+
+Réservez un essai
+
+   build and price icon
+
+Configurez votre Kuga
+
+   download a brochure icon
+
+Téléchargez l'eBrochure
+
+Vous pourriez aimer aussi…
+
+   {{vehicle.name}}
+
+{{vehicle.name}}
+
+   Top
+
+Mentions Légales
+
+   Les informations apparaissant sur ce site sont mentionnées à titre
+   indicatif dans la limite des stocks disponibles. Malgré sa mise à jour
+   régulière et toute l’attention qui y est portée, certaines informations
+   peuvent néanmoins se révéler obsolètes en raison de l’évolution des
+   produits. Ainsi, Ford se réserve le droit de modifier à tout moment les
+   spécifications, les options, les couleurs et les prix de ses modèles
+   décrits sur le site. Pour obtenir les informations les plus récentes
+   sur les caractéristiques et les tarifs de nos produits et services, il
+   convient de vous adresser à votre concessionnaire.
+
+   ____________________ Recherche
+
+Les + recherchés
+
+     * Mustang
+     * Ford Fiesta
+     * KA+
+     * SUV Ford
+
+FORD KUGA
+
+     * Introduction
+     * Design
+     * Caractéristiques
+     * Offres
+     * Modèles
+     * ST-Line
+     * Vignale
+
+Achat
+
+     * Configurateur
+     * Véhicules neufs en stock
+     * Téléchargez une eBrochure
+     * Voir les offres du mois
+     * Réservez un essai
+     * Occasions Ford Sélection Privilèges
+     * Tenez-moi informé
+     * Ford Entreprise
+
+Financement
+
+     * Financement aux particuliers
+     * Financement aux professionnels
+     * Comment financer votre Ford?
+     * Espace Client Ford Credit
+     * Assurances et services
+
+Service
+
+     * FordPass
+     * Rendez-vous Service
+     * Manuel du conducteur
+     * Offre Ford Service
+     * Campagne de rappel
+     * Ford Motorcraft
+     * Ford Transit24
+     * Ford Assistance
+     * Catalogue AppLink
+     * FAQ
+     * Ask Ford
+
+Expérience Ford
+
+     * Univers Ford
+     * Histoire & Héritage
+     * Carrières
+     * La Mustang en détails
+
+   alt
+   Tenez-moi informé
+
+   Suivez-nous
+   facebook
+   twitter
+   youtube
+   instagram
+   ford social
+     * © 2019 Ford Motor Company
+     * Contactez-nous
+     * Plan du site
+     * Politique de Confidentialité et Termes et Conditions
+
+
+   Ford Go Further
+   Ford Logo
+
+Votre navigateur n'est plus compatible.
+
+   Cliquez sur une des icônes pour télécharger un nouveau navigateur
+   Internet.
+   Chrome icon
+   Firefox icon
+   Safari icon
+
+
+   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-KJ4H3Q
+
+   Home > Achat > Poursuivre l'expérience > Réservez un essai
+
+   Nous utilisons des cookies sur notre site pour vous proposer une
+   navigation optimale et vous offrir les meilleurs services et offres
+   adaptés à vos centres d’intérêts. Ils nous permettent de personnaliser
+   le contenu et les annonces, d'offrir des fonctionnalités relatives aux
+   médias sociaux et d'analyser le trafic. Nous partageons également des
+   informations sur l'utilisation de notre site avec nos partenaires de
+   médias sociaux, de publicité et d'analyse, qui peuvent combiner
+   celles-ci avec d'autres informations que vous leur avez fournies ou
+   qu'ils ont collectées lors de votre utilisation de leurs services.
+
+   En poursuivant votre navigation, vous acceptez l’utilisation des
+   cookies.
+
+   Vous pouvez en savoir plus sur les cookies et la manière de les
+   désactiver via notre guide.
+
+   Pour en savoir plus et paramétrer vos cookies.
+   Ford Go Further - Home
+   Skip to content
+     *
+     * Véhicules
+     * Achat
+     * Financement
+     * Services
+
+Véhicules
+
+   ^
+     * Tous
+       {{::vehicle.name}} {{::vehicle.name}}
+
+{{::vehicle.name}}
+       {{::attr.prefix}} {{::attr.suffix}}
+       {{hev.label}}
+       Offres du mois Véhicules neufs en stock Occasions Tous nos
+       véhicules
+     * SUV & Crossover
+       {{::vehicle.name}} {{::vehicle.name}}
+
+{{::vehicle.name}}
+       {{::attr.prefix}} {{::attr.suffix}}
+       {{hev.label}}
+       Offres du mois Véhicules neufs en stock Occasions Tous nos
+       véhicules
+     * Hybride et électrique
+       {{::vehicle.name}} {{::vehicle.name}}
+
+{{::vehicle.name}}
+       {{::attr.prefix}} {{::attr.suffix}}
+       {{hev.label}}
+       Offres du mois Véhicules neufs en stock Occasions Tous nos
+       véhicules
+     * Familiales et Ludospaces
+       {{::vehicle.name}} {{::vehicle.name}}
+
+{{::vehicle.name}}
+       {{::attr.prefix}} {{::attr.suffix}}
+       {{hev.label}}
+       Offres du mois Véhicules neufs en stock Occasions Tous nos
+       véhicules
+     * Performance
+       {{::vehicle.name}} {{::vehicle.name}}
+
+{{::vehicle.name}}
+       {{::attr.prefix}} {{::attr.suffix}}
+       {{hev.label}}
+       Offres du mois Véhicules neufs en stock Occasions Tous nos
+       véhicules
+     * Véhicules Utilitaires
+       {{::vehicle.name}} {{::vehicle.name}}
+
+{{::vehicle.name}}
+       {{::attr.prefix}} {{::attr.suffix}}
+       {{hev.label}}
+       Véhicules Carrossés Offres du mois Transit Centers Tous nos
+       véhicules
+     * Futurs Véhicules
+       {{::vehicle.name}} {{::vehicle.name}}
+
+{{::vehicle.name}}
+       {{::attr.prefix}} {{::attr.suffix}}
+       {{hev.label}}
+       Véhicules neufs en stock Futurs Véhicules Occasions Tous nos
+       véhicules
+
+Achat
+
+S'informer
+
+   Véhicules Particuliers
+
+   Véhicules Utilitaires
+
+   Véhicules Hybrides et Électriques
+
+   Occasions Véhicules Particuliers
+
+   Occasions Véhicules Utilitaires
+
+   Technologies
+
+   Futurs Véhicules
+
+   FordStores
+
+Poursuivre l'expérience
+
+   Offres du mois
+
+   Configurateur
+
+   Réservez un essai
+
+   Téléchargez une eBrochure
+
+   Trouvez votre concessionnaire
+
+   Financez votre Ford
+
+   Tenez-moi informé
+
+   Contactez-nous
+
+Services & Accessoires
+
+   Accessoires
+
+   Garanties
+
+   Ford Assurance
+
+   Ford Protect
+
+   Ford Lifestyle Collection
+
+Ventes aux professionnels
+
+   Ford Entreprise
+
+   Ford Rent
+
+   Mobileasy
+
+   Transit Centers
+
+Financement
+
+Financement
+
+   Ford Credit
+
+   Financement aux particuliers
+
+   Financement aux professionnels
+
+   Assurances
+
+Aide et Contacts
+
+   FAQs Financement et Assurance
+
+   Contactez-nous
+
+Financez votre Ford
+
+   Calculez votre financement
+
+   Comment financer votre Ford ?
+
+   Offres du mois
+
+Espace Client
+
+   Gérez votre compte
+
+Services
+
+Mon Véhicule
+
+   Rendez-vous Service
+
+   Téléchargez le manuel conducteur
+
+   Accessoires
+
+   Garanties, Assistance et Entretien
+
+   Campagnes de rappel
+
+Nos Services
+
+   FordPass
+
+   Ford BlueService
+
+   Ford Transit24
+
+   Ford Video Check
+
+   Ford Express Service
+
+   Promesse client
+
+   Carte Exclusiv'Ford
+
+
+Entretien
+
+   Offres Ford Service
+
+   Ford Motorcraft
+
+   Entretien & Réparations
+
+   Ford Assistance
+
+   Ford Entretien +
+
+   Ford Protect
+
+Informations
+
+   Ford SYNC & Bluetooth®
+
+   Ford et l'Environnement
+
+   Nouvelles normes de tests
+
+   Homologation
+
+   Astuces Ford
+
+   FAQ
+
+   Ask Ford
+
+   Contactez-nous
+   Plus
+     * Configurateur
+     * Réservez un essai
+     * Réseau
+
+     * Offres du mois
+     * Ford Reprise
+     * Occasions
+     * Se connecter / Créer un compte FordPass
+     * Votre compte
+     * Recherche
+     * Voir plus de liens
+          + Téléchargez l'eBrochure
+          + Accessoires
+          + Technologies
+          + Véhicules Utilitaires
+          + Futurs Véhicules
+          + Ford Entreprise
+          + FordPass
+          + Rendez-vous Service
+          + Espace Client Ford Credit
+          + Contactez-nous
+
+Contactez-nous
+
+   Information générales
+
+   0 800 005 005
+
+   Ford Assistance
+
+   0 800 005 005 puis tapez 1
+
+Réservez un essai
+
+     * {{step.stepTitle}}
+
+Merci de votre intérêt.
+
+Sélectionnez le véhicule de votre choix et cliquez sur Continuer en bas de
+page.
+
+     * {{group.name}}
+
+{{group.name}}
+
+   {{nameplate.imageAltText}} [ ] {{nameplate.desc}}
+
+Sélectionnez le véhicule de votre choix et cliquez sur Continuer en bas de
+page.
+
+   {{vehicle.imageAltText}}
+
+{{vehicle.desc}}
+
+   {{::labels.change}} {{::labels.remove}}
+   Concessionnaire pour {{vehicle.desc}}
+   {{selectedDealerName}}
+   {{::labels.add}}
+
+   Afin de répondre au mieux à votre demande nous utiliserons les
+   informations ci-dessous et les communiquerons à votre concessionnaire.
+
+   Pour plus de détails concernant nos clauses de confidentialité, cliquer
+   ici.
+   Titre [Veuillez sélectionnerr]
+   Prénom ____________________
+   Nom ____________________
+   Téléphone [Veuillez sélectionnerr]
+   ____________________
+   ____________________
+   ____________________
+   Email ____________________
+   Adresse ____________________
+   Ville ____________________
+   Code postal ____________________

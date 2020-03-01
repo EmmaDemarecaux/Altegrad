@@ -1,0 +1,86 @@
+
+   Astérisque [fleche.gif] Abréviation, Appel de note, Ponctuation.
+
+             « Les astérisques étaient connus du temps d’Aristophane,
+           d’Origène, de saint Jérôme et de saint Grégoire, dans les
+       manuscrits grecs et latins. Ils étaient figurés en petite étoile
+ou en [croix.gif] cantonné de quatre points. Ils servaient à différents
+           usages : marque d’omission ou de restitution de texte ; signe
+          d’un sens tronqué ; signe de phrases dérangées ; indice des
+             maximes, des sentences les plus remarquables d’un ouvrage ;
+                                          indice d’addition au texte. »
+                             Francis THIBAUDEAU, la Lettre d’imprimerie.
+
+   [alinea.gif] ••• Un astérisque (masculin comme risque) est un signe en
+   forme d’étoile : *. ¶ Le nombre de branches et le dessin varient selon
+   la police employée : [asterisques.gif] .
+                        ____________________________
+
+                Appel de note, renvoi (voir : Appel de note)
+
+   [alinea.gif] Comme appel de note ou comme renvoi à une entrée,
+   l’astérisque se place toujours après l’élément concerné, l’espace fine
+   insécable est obligatoire : mot *.
+                        ____________________________
+
+                                Abréviation
+
+   [alinea.gif] Concurrents des points de suspension, trois astérisques en
+   ligne sont une marque de l’abréviation de discrétion dans les
+   dénominations propres (personnages, lieux), plus rarement dans les
+   dates : le manoir de *** ; M^me B*** est née en 1903 ; M^me Bertin est
+   née le 3 juillet ***.
+   [alinea.gif] « La femme résista, *** insista. Ça me gêne dans mon récit
+   de ne pas avoir de nom pour l’homme en question : appelons-le Jean. » 
+   Alphonse KARR, Une poignée de vérités.
+   [alinea.gif] Si l’initiale de la dénomination est conservée, aucune
+   espace ne la sépare du premier astérique : M. M***, M^me N***.
+   [alinea.gif] Si l’initiale n’est pas exprimée, une espace insécable
+   doit isoler les astérisques du mot qui les précède : M. ***, M^me ***
+   (voir : Abréviation, Points de suspension).
+   [alinea.gif] [evidence.gif] Jadis, on faisait parfois suivre l’initiale
+   par un nombre d’astérisques égal au nombre de syllabes du nom celé (à
+   l’exception de la première, représentée par l’initiale) : Henri > H*,
+   Philibert > P**, Maximilien > M***. Engendrant une exception pour les
+   noms monosyllabiques (Jean > J. ou J*… comme Joseph), cette tradition
+   est heureusement tombée en désuétude. Quant à celle qui attribuait un
+   nombre d’astérisques égal au nombre de lettres celées…
+                        ____________________________
+
+                                 Paragraphe
+
+   [alinea.gif] En soliste * ou, de préférence, en trio  [asterisme.gif] ,
+   l’astérisque peut marquer le début d’un paragraphe (à condition que
+   celui-ci soit dépourvu de titre ou de sous-titre). Il est donc naturel
+   de rencontrer l’astérisque en haut de page. C’est en revanche un
+   contresens grave (hélas fréquent) de le placer comme dernier signe en
+   bas de page.
+   [alinea.gif] [egal.gif] Impr. nat. 1990.
+   [alinea.gif] Le trio d’astérisques  [asterisme.gif] (ou astérisme…)
+   n’est pas un cul-de-lampe (dont la « pointe » est toujours dirigée vers
+   le bas). Impr. nat. 1990 le définit très bien en lui attribuant une
+   valeur de chapeau.
+   [alinea.gif] [different.gif] Guéry 1996.
+   [alinea.gif] On peut l’utiliser en début de ligne, par exemple pour les
+   maximes ou les aphorismes. Procédé rare et élégant, peut-être un peu
+   précieux :
+   [alinea.gif] [asterisme.gif] Tout le règne actuel peut se réduire à
+   quinze ans de faiblesse et à un jour de force mal employée.
+   Antoine de RIVAROL, Mémoires relatifs à la Révolution française.
+   [alinea.gif] [asterisme.gif] Le philosophe qui veut éteindre ses
+   passions ressemble au chimiste qui voudrait éteindre son feu.
+   Nicolas de CHAMFORT, Maximes et Pensées.
+   [alinea.gif] Emplois spécialisés.
+   [alinea.gif] Selon la nature du texte, on peut attribuer à l’astérisque
+   une signification particulière (qui devra dans ce cas être précisée
+   dans la table des abréviations ou dans une note liminaire). Il peut
+   s’agir d’une entrée nouvelle, d’une forme non attestée, inexistante ou
+   fautive, de la marque du h aspiré, etc.
+   [alinea.gif] Lorsqu’il signale une particularité, l’astérisque se place
+   généralement devant le mot ou le groupe de mots concerné. L’espace
+   insécable est recommandée dans les entrées : * mot ; déconseillée dans
+   le corps du texte : *mot.
+   [alinea.gif] Incompatibilités.
+   [alinea.gif] Dans un ouvrage donné, il est très déconseillé de confier
+   deux rôles à l’astérisque. Seul celui de séparateur de paragraphes est
+   compatible avec l’un des autres.

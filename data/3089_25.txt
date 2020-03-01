@@ -1,0 +1,23 @@
+
+Mega Everdrive
+
+   As mentioned previously, flash cartridge maestro Krikzz has a fond
+   place in his heart for the Sega Mega Drive. This is in turn saw the
+   hardware tinkerer return to the 16-bit console to create an even more
+   powerful flash cartridge that’s yet to be bettered.
+
+   The Mega Everdrive does everything the Everdrive MD can do, along with
+   plenty more thanks to its overpowered (for the job) FPGA chip. Simply
+   put, the prior 7MBit ROM size limit has been increased to 16MBit, games
+   load within a second or two, save state functionality is introduced
+   too, and the cartridge can be used as Mega CD Backup RAM cart too.
+
+   It might be a bit more expensive, but the Mega Everdrive is all you’ll
+   ever need when it comes to 16-bit Sega flash cartridges.
+     * Storage: SD Cards
+     * Pros: Compatible with nearly all games, Master System & 32X ROM
+       functionality, Sega CD BIOS Options, Game Genie Cheat Codes, Sega
+       CD Backup RAM functionality, Save States, Quick Loading
+     * Cons: None
+
+   Link: Buy Mega Everdrive Mega Drive Flash Cartridge

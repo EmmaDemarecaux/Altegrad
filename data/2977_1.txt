@@ -1,0 +1,27 @@
+   Oath, A Verizon company Oath, A Verizon company (BUTTON)
+
+   (BUTTON)
+     * AGB
+     * Datenschutzcenter
+       (BUTTON) Back
+          + Datenschutzcenter
+          + Themen
+          + Produkte
+          + Einstellungen
+          + Dashboard
+          + Relevante Werbung
+     * Urheberrecht
+
+     * AGB
+     * Datenschutzcenter
+          + Themen
+          + Produkte
+          + Einstellungen
+          + Dashboard
+          + Relevante Werbung
+     * Urheberrecht
+
+Ihr Datenschutz-Dashboard
+
+   Wir nehmen den Schutz Ihrer Daten ernst. Wählen Sie eine Marke aus, um
+   die Nutzung Ihrer Daten durch Oath anzusehen und zu kontrollieren.

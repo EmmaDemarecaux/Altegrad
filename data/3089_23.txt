@@ -1,0 +1,28 @@
+
+
+Sega Master System Flash Cartridges
+
+   Sega-Master-System-SD-Card-Cartridge
+
+Master Everdrive
+
+   Once again the Ukrainian mastermind Krikzz has provided an all-in-one
+   solution to enjoying Master System ROMs on the original hardware. The
+   Master Everdrive is compatible with just about every title from the
+   Master System library, allowing games as big as 8MBit to be loaded into
+   memory.
+
+   Further adding to the features, the Master Everdrive can also boot up
+   SG-1000 games on the Master System too, however, it is not compatible
+   with SC-3000 ROMs. The only downside to the Master Everdrive is that
+   some of the more obscure Korean ROMs struggle to load. Regardless, this
+   is still the ultimate - and only - answer to flash cartridges on the
+   Master System.
+     * Storage: SD Cards
+     * Pros: Compatible with nearly all games, SG-1000 functionality,
+       works on Game Gear too with adapter
+     * Cons: Some Korean games are incompatible
+
+   Link: Buy Master Everdrive Master System Flash Cartridge
+
+   Link: Find Master Everdrive Master System Flash Cartridge on eBay

@@ -1,0 +1,6 @@
+
+   Avertissement
+
+   [alinea.gif] Note explicative placée en tête d’un ouvrage.
+   [alinea.gif] L’avertissement est rédigé par l’auteur ou par l’éditeur.
+   Dans ce dernier cas, il est nécessairement composé en italique.

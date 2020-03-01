@@ -1,0 +1,9 @@
+
+   Prix dégressifs
+   A partir de Remise² Prix /u
+   2           -5%     37,91 €
+   3           -7%     37,11 €
+   5           -10%    35,91 €
+   10          -12%    35,11 €
+   ² Le pourcentage de remise s'applique sur le prix d'origine du produit
+   avant toute réduction et n'est pas cumulable.

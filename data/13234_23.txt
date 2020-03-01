@@ -1,0 +1,41 @@
+
+Step 1
+
+Choose a Blogging Platform
+
+   The first thing you’ll have to do is select a content management system
+   (CMS) that will serve as the underlying platform for your blog. Now
+   you’ve probably heard of a few of the major blogging platforms out
+   there – WordPress, Blogger, Joomla, Drupal, etc.
+
+WordPress All The Way
+
+   I’m a huge advocate of WordPress and I wholeheartedly recommend it to
+   anyone who wants to start their own blog. Here are a few simple reasons
+   why:
+     * It’s massive. As of the writing of this article, WordPress powers
+       nearly 74.6 million websites.
+     * It’s absolutely free. WordPress was essentially designed to be an
+       open source project.
+
+     * It’s secure and reliable. The dedicated team of developers behind
+       WordPress, Automattic, is always updating the CMS to ensure maximum
+       safety. If it’s safe enough for NASA, chances are it’s safe enough
+       for you.
+     * It’s scalable. Whether you want to launch a personal blog or are in
+       hopes of a much bigger, CNN-sized site (yes, CNN runs on WordPress,
+       too!), you can rest assured that it’ll operate without any
+       glitches.
+
+   Those of you who are launching their first blog and probably don’t have
+   a ton of potential traffic lined up are far better off opting for
+   WordPress. Aside from the platform-specific benefits the CMS offers,
+   it’ll save you a ton of time, effort, and money.
+
+   Hosting with WordPress is low-cost and installation takes 5 minutes.
+   The best part, however, is and will always be that you don’t need to be
+   exceptionally skilled in a web programming language (or even know the
+   ABC’s of it) to launch and operate a successful WordPress-based blog.
+
+   If you’re convinced that WordPress really is the best CMS out there,
+   let’s move on to the next section.

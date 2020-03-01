@@ -1,0 +1,48 @@
+
+   Copyright 2019 - Mentions Légales - Conception : [arduinnova.png]
+   [Logo.png]
+
+Institut de formation René Miquel
+
+   Formation en soins infirmiers : IFSI
+
+   Formation aide-soignant(e) : IFAS
+   Espace étudiant
+
+     * Accueil
+     * Présentation
+          + Notre Institut
+          + Historique
+          + Les locaux
+          + Notre équipe
+     * Formations
+          + Devenir infirmier(e)
+               o Le metier
+               o La formation
+                    # Théorique
+                    # Pratique / Stage
+                    # Stages à l'étranger
+               o Coûts et Aides Financières
+          + Devenir Aide-soignant(e)
+               o Le metier
+               o La formation
+                    # Théorique
+                    # Pratique / Stage
+               o Coûts et Aides Financières
+          + ERASMUS
+     * Admissions
+          + Admission formation infirmière
+          + ADMISSION FORMATION AIDE-SOIGNANTE
+          + Résultats
+     * Actualités
+     * Offres d'emploi
+     * Contact
+
+   Vous êtes ici : Accueil
+
+Espace étudiant
+
+   Déconnexion
+     *
+
+   [ght.jpg] [urca.jpg] [grand_est.jpg] [erasmus.jpg]

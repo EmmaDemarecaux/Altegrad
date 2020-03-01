@@ -1,0 +1,213 @@
+
+Description
+
+   Le dioxyde de titane sous forme nanométrique est de plus en plus
+   utilisé. Cette utilisation croissante est à l’origine d’une exposition
+   permanente des populations aussi bien professionnelle que via
+   l’environnement. Les caractéristiques différentes de chaque forme de
+   nanoparticule de TiO2 sont à l’origine d’une variabilité des effets
+   observés et ne permettent pas dans l’état actuel de déterminer une
+   Valeur Toxicologique de Référence avec une incertitude raisonnable.
+   Dans un but de prévention et à des fins exploratoires, il est proposé
+   dans le présent rapport d’élaborer une valeur repère qui n’est pas une
+   valeur toxicologique de référence mais une estimation pouvant aider le
+   gestionnaire de risque.
+
+   Pour les expositions par voie respiratoire, l’analyse des données
+   disponibles montre que le principal effet décrit est une atteinte
+   pulmonaire de type inflammatoire avec des effets cytotoxiques et
+   prolifératifs à l’origine de lésions histopathologiques généralement
+   réversibles mais pouvant conduire à la formation de tumeurs en cas
+   d’exposition prolongée. Ces effets induits par les nanoparticules sont
+   plus marqués qu’avec les particules fines. Il est cependant à noter que
+   plusieurs études, notamment celles réalisées par voie intranasale, ont
+   mis en évidence d’autres types d’effets, en particulier des effets
+   neurologiques.
+
+   Pour les effets à seuil de dose, la valeur proposée est 0,1 μg/m3.
+
+   Elle est développée à partir de l’étude de Bermudez et al., 2004 en
+   retenant comme effet critique une augmentation du nombre de
+   neutrophiles, une prolifération progressive de l’épithélium et une
+   cytotoxicité pulmonaire. La dose critique est une NOAEC de 0,5 mg/m3.
+   Un facteur d’incertitude de 900 est appliqué.
+
+   Compte tenu des effets cancérogènes pour des expositions par
+   inhalation, une valeur pour des effets sans seuil de dose devrait être
+   envisagée mais elle n’a pas pu être développée.
+
+   Pour les expositions par voie orale, des effets hépatiques, rénaux,
+   cardiaques et neurologiques correspondant à des altérations de
+   biomarqueurs précoces répondant de manière dose dépendante sont
+   rapportés.
+
+   Pour les effets à seuil de dose, la valeur proposée est 3 μg/kg/j.
+
+   Elle est élaborée à partir de deux études Gui et al., 2011 et Ze et
+   al., 2014a en retenant comme effet critique les effets neurologiques et
+   rénaux et comme dose critique le NOAEL de 2,5 mg/kg/j. Un facteur
+   d’incertitude de 900 est appliqué.
+
+   En l’absence de données rapportant la survenue de cancer par cette voie
+   d’exposition aucune valeur sans seuil n’a été envisagée.
+   Téléchargement
+
+   Partager
+     * Facebook
+     * Twitter
+     * Linkedin
+     * Viadeo
+     * Addtoany
+
+   Accueil
+     * Accueil
+     * L'Ineris
+     * Les risques
+     * Recherche & Appui
+     * Prestations & Formations
+     * Base documentaire
+
+     * Nos implantations et plans d’accès
+     * Liens utiles
+     * Contactez-nous
+     * Recrutement
+     * MENTIONS LÉGALES
+     * CONDITIONS GÉNÉRALES
+
+   Abonnez-vous à la lettre d'actualités
+
+   IFRAME: https://app.mailjet.com/widget/iframe/2xDQ/4oy
+
+   Ineris 2019. Tous droits réservés.
+     * Suivez-nous:
+     * Facebook
+     * Twitter
+     * YouTube
+     * LinkedIn
+     * Flux RSS
+     * Back to top
+   #alternate
+
+   Aller au contenu principal
+
+   JavaScript désactivé - Ce site requiert l'activation de JavaScript.
+   JavaScript is deactivated - This site requires JavaScript.
+     * Aller au contenu
+     * Aller au menu
+     * Aller au pied de page
+
+   Ineris | Institut national de l'environnement industriel et des risques
+
+   Search on website
+
+   Rechercher ______________________________ (BUTTON) Rechercher
+
+     * FR
+     * EN
+
+   (BUTTON) Menu
+
+     * Accueil
+     * L'Ineris
+       (BUTTON) Fermer
+       L'Ineris
+          + L'Institut en bref
+               o L’expert public pour la maîtrise des risques
+               o Nos implantations et plans d’accès
+               o Nos partenariats
+               o Engagement qualité
+               o Historique
+               o La cellule d'appui aux situations d'urgence (CASU)
+               o Rapports annuels
+               o Les guides
+          + Missions
+               o Recherche
+               o Appui aux politiques publiques
+               o Prestations
+          + Organisation et gouvernance
+               o Organigramme
+               o Conseil d'administration
+               o Conseil scientifique
+               o Commissions scientifiques spécialisées
+               o Commission d'orientation de la recherche et de
+                 l'expertise (CORE)
+               o Comité de suivi de la charte de déontologie
+          + Ouverture à la société
+               o Notre démarche d'ouverture
+               o Les réunions avec les parties prenantes
+               o La collection Ineris Références
+          + Actualités
+          + Agenda
+          + Presse
+          + Documents de référence
+     * Les risques
+       (BUTTON) Fermer
+       Les risques
+          + Dossiers thématiques
+               o Ozone
+               o Tous nos dossiers thématiques
+          + Qu'est-ce que le risque ?
+               o Définition
+               o La typologie des risques
+               o Politiques environnementales & risques
+               o Aux frontières des risques liés à l'environnement
+               o Quelques grands accidents depuis le XXe siècle
+          + L'Ineris et les risques
+               o La genèse de l'expertise
+               o Les métiers de l’Institut
+               o L'Ineris dans la chaîne de maîtrise des risques
+               o Risque et enjeu climatique
+     * Recherche & Appui
+       (BUTTON) Fermer
+       Recherche & Appui
+          + Risques accidentels
+               o Présentation
+               o Sécurité industrielle
+               o Transport de matières dangereuses et canalisations
+               o Barrières de sécurité
+               o Sécurité des substances et procédés industriels
+               o Incendie / explosion / dispersion toxique et impact sur
+                 les structures
+               o Malveillance
+               o Nouvelles filières énergétiques
+          + Risques chroniques
+               o Présentation
+               o Mesure et prévision de la qualité de l'air
+               o Pollution des milieux aquatiques
+               o Substances chimiques et agents physiques
+               o Risques sanitaires
+               o Economie circulaire et déchets
+               o Sites et sols pollués
+               o Le logiciel MODULERS
+          + Risques sols sous-sols
+               o Présentation
+               o Mines, après-mines et industries extractives
+               o Ouvrages géotechniques, barrages et géostructures
+               o Stockages souterrains, réservoirs et forages profonds
+               o Cavités de dissolution, fronts rocheux et pentes
+                 instables
+          + Certification
+               o L’activité de certification
+               o CLATEX - Comité de liaison des équipements ATEX
+          + Focus
+               o Méthanisation
+               o Nanomatériaux
+          + Normalisation
+          + Nos plateformes d'essais en grand
+          + Veille et assistance réglementaire
+     * Prestations & Formations
+       (BUTTON) Fermer
+       Prestations & Formations
+          + Ineris formation
+          + Nos prestations
+     * Base documentaire
+     *
+     *
+
+     * Accueil
+
+Proposition d’un repère toxicologique préliminaire pour le dioxyde de cérium
+nanométrique pour des expositions environnementales par voie respiratoire ou
+orale
+
+   Rapports d'appui / guides .pdf 26 septembre 2017 5.09 Mo

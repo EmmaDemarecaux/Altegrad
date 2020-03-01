@@ -1,0 +1,50 @@
+
+   ?Préférences
+   (BUTTON) Here - Route (BUTTON) Here - Satellite (BUTTON) Bing - Route
+   (BUTTON) Bing - Vue aérienne (BUTTON) OpenStreetMap
+   Lieu non reconnu
+   Lieu non reconnu ou hors périmètre du site. Veuillez choisir un autre
+   lieu.
+   (BUTTON) Ok
+   Haut de page
+
+   Contactez-nous
+   Par voie postale
+   Transisère Services
+   11 place de la gare
+   38000 Grenoble
+   @
+   Par courriel
+   via le formulaire
+   de contact
+   Dans nos points<br />de vente
+   Dans nos points
+   de vente
+   Allo Transisère
+   0 820 08 38 38 0,12 € / min Ouverture de la centrale téléphonique
+   Du lundi au samedi de 7h à 19h
+
+   Haut de page
+
+   Suivez-nous
+     * Facebook
+     * Flux RSS
+
+   Partagez le site
+     * Facebook
+     * Twitter
+
+   Donner son avis
+     * Donner son avis
+
+   Plus d'infos
+     * FAQ
+     * Nos partenaires
+     * Plan du site
+     * Aide et accessibilité
+
+     * Mentions légales
+     * Version 2.1.0.0
+     * © 2019 Transisère
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WSCF9J4

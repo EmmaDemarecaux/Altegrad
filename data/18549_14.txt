@@ -1,0 +1,81 @@
+
+Intitulé: Introduction à la macroéconomie
+
+Identifiant: AE1C2
+
+Heures de cours: 24
+
+Pré-requis:
+
+Crédits ECTS: 2.5
+
+Enseignant: Edouard Challe
+
+Heures de TD: 24
+
+Nombre de suivis: 0
+
+Objectif
+
+   Ce cours a pour objectif de présenter les principaux faits étudiés par
+   la macroéconomie et fondements de l’analyse économique contemporaine.
+
+   A l’issue de ce cours, les étudiants auront analysé les principaux
+   problèmes de la macroéconomie, concernant les cycles, la croissance en
+   incluant des aspects de politique économique.
+
+   Evaluation de la matière : 2/3 examen final + 1/3 contrôle continu
+
+Plan
+
+   Chapitre 1: Faits et définitions
+
+   Partie 1 : L’économie à long terme
+
+   Chapitre 2 : Le revenu national et la répartition salaire profit
+
+   Chapitre 3 : Monnaie et inflation
+
+   Chapitre 4 : L’économie ouverte
+
+   Chapitre 5 : Chômage
+
+   Partie 2 : L’économie à très long-terme
+
+   Chapitre 6 : La croissance : le rôle de l’accumulation du capital et de
+   la croissance de la population
+
+   Chapitre 7 : Croissance, éducation, et progrès technique
+
+   Partie 3 : Fluctuations et cycles
+
+   Chapitre 8 : Fluctuations économiques et rigidité des prix
+
+   Chapitre 9 : La demande agrégée et l’équilibre macroéconomique de court
+   terme en économie fermée. ISLM
+
+   Chapitre 10 : La demande agrégée et l’équilibre macroéconomique de
+   court terme en économie ouverte. ISLMFE
+
+   Chapitre 11 : Du court terme au moyen terme : le modèle OGDG
+
+   Chapitre 12 : Dette publique et équilibre budgétaire
+
+Références
+
+   Blanchard, O., Cohen, D., Macroéconomie, Pearsons, 2013.
+
+   Challe, E., Fluctuations et Politiques Macroéconomiques, Economica,
+   2016.
+
+   Hairault, J.O. (éditeur) Analyse Macroéconomique (Tomes 1 et 2)   La
+   Découverte. 2000.
+
+   Mankiw, G. Macroéconomie, De Boeck, 2016.
+
+   [EChalle-150x200.jpeg]
+
+Edouard Challe
+
+   Professeur d'économie
+   CREST, Pôle économie

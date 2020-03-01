@@ -1,0 +1,22 @@
+
+Drag ‘N Derp
+
+   Removing the need for bundled software and horrific drivers, the Drag
+   ‘N Derp does exactly what it says on the tin. Simply connect the
+   cartridge to your PC with a USB cable, it will appear as a removable
+   drive, drop the Game Boy ROM you want (and .SAV file) onto the device,
+   disconnect and go play. Simple.
+
+   Although offering the most straightforward and admirable form of
+   writing ROMs to a Game Boy cartridge we’ve seen to date, the Drag ‘N
+   Derp cartridge is limited to a single Game Boy ROM at any one time.
+
+   If you don’t mind connecting up and loading different ROMs on each time
+   you want to play then the Drag ‘N Derp is for you. Those wanting a
+   larger selection of games for long journeys and convenience will need
+   to look elsewhere.
+     * Storage: On-board memory (24MBit) for one game
+     * Pros: Very easy to use
+     * Cons: Expensive, lack of ability to store and run multiple games
+
+   Link: Buy Drag ‘N Derp

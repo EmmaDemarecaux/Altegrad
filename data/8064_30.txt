@@ -1,0 +1,129 @@
+
+     *
+     *
+     *
+     *
+
+     *
+     *
+     *
+     *
+
+   Mon profil
+     * Gérer mon profil
+     * Mon compte
+     * Déconnexion
+
+   (BUTTON) Se connecter
+
+   Que recherchez-vous ?
+   ____________________ (BUTTON) Lancer la recherche
+
+     * Actu
+          + News actu
+          + Société
+          + Dossiers people
+          + Vidéos actu
+          + Tops Actu
+     * Beauté
+          + News Beauté
+          + Maquillage
+          + Coiffure
+          + Soins
+          + Parfums
+          + Vidéos beauté
+          + Tops Beauté
+     * Cuisine
+          + News cuisine
+          + Recettes
+          + Idées recettes
+          + Tendance food
+          + Astuces cuisine
+          + Cuisine des chefs
+          + Vin, cocktail, jus...
+          + Vidéos cuisine
+          + Tops Cuisine
+     * Santé
+          + News Santé
+          + Santé pratique
+          + Médecine douce
+          + Nutrition
+          + Forme
+          + Psycho
+          + Vidéos santé
+          + Tops Santé
+     * Horoscope
+          + Vos prévisions astro
+          + Horoscope amoureux
+          + Tarot
+          + Numérologie
+          + Vidéos horoscope
+          + Tops Horoscope
+     * Mode
+          + News Mode
+          + Tendance mode
+          + Conseils mode
+          + Accessoires mode
+          + Vidéos mode
+          + Tops Mode
+     * Enfant
+          + News enfant
+          + Prénom
+          + Grossesse
+          + Bébé
+          + Enfants
+          + Vidéos enfant
+          + Tops Enfant
+     * Minceur
+          + News minceur
+          + Recettes minceur
+          + Astuces minceur
+          + Régimes
+          + Vidéos Minceur
+          + Tops Minceur
+     * Déco & maison
+          + News déco & maison
+          + Tendance déco
+          + DIY
+          + Maison pratique
+          + Arts de la table
+          + Jardin
+          + Vidéos déco & maison
+          + Tops Déco & maison
+     * Vie pratique
+          + Voyage
+          + Travail
+          + Famille
+          + Argent
+          + High Tech
+     * Amour
+          + News amour
+          + Couple
+          + Mariage
+          + Sexo
+          + Divorce rupture
+          + Vidéos amour
+          + Tops Amour
+     * Senior
+     * Jeux
+          + Jeux de lettres
+          + Jeux de chiffres
+          + Coloriages
+          + Concours
+          + Tests de personnalité
+          + Quiz
+     * Animaux
+          + News animaux
+          + Animaux pratique
+          + Chiens et chats de race
+          + Vidéos animaux
+          + Tops Animaux
+     *
+
+   image magazine S'abonner au magazine
+   Je m'abonne
+     *
+     *
+     *
+
+   Naviguez dans l'univers

@@ -1,0 +1,13 @@
+
+   ERP : le dernier bastion du « on-premise » va-t-il céder au Cloud ?
+
+ERP : le dernier bastion du « on-premise » va-t-il céder au Cloud ?
+
+   Déployés à prix d’or dans les années 1990/2000, les grands ERP
+   semblaient un îlot de stabilité dans des systèmes d’information
+   bousculés par la transformation digitale. Pourtant, la migration vers
+   le Cloud semble inéluctable. Les éditeurs sont prêts, les DSI aussi. Il
+   reste sans doute à convaincre les directions générales. Article paru
+   dans L'Informaticien n°179. [Lire l'article...]
+   Publié le 16 septembre 2019 22:54 - Autres infos Solutions, Cloud,
+   Logiciel

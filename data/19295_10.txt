@@ -1,0 +1,39 @@
+
+     * Mon véhicule est-il concerné ? (*)
+     * Prendre rendez-vous pour mettre à jour le logiciel de mon véhicule.
+       ( )
+     * Recevoir par email l'attestation de réalisation de l'action. ( )
+
+   Afin d'identifier si votre véhicule est concerné et si vous pouvez dès
+   à présent prendre rendez-vous, veuillez renseigner les informations
+   suivantes :
+   Numéro de châssis ____________________ informations
+
+   Votre numéro de châssis est indiqué sur votre carte grise, il
+   correspond au champ "E." Vous pouvez également le trouver sur le
+   pare-brise de votre véhicule.
+   Clic de sécurité : cochez la case
+   informations
+
+   Pour des raisons de sécurité, cocher cette case confirme que vous êtes
+   une personne physique
+
+   Les informations renseignées ne sont pas correctes ou incomplètes,
+   veuillez les vérifier.
+   (BUTTON) Valider
+
+   Téléphone
+   Nous sommes à votre disposition
+   du lundi au vendredi de 8h30 à 19h.
+   Volkswagen0969 368 641 AUDI0969 368 612 SEAT0969 368 353 Volkswagen
+   Véhicules Utilitaires0969 368 565 SKODA0969 390 904
+   Service & appel gratuits
+   Email
+   Ou par email en cliquant sur le logo de votre marque
+     * Volkswagen
+     * Audi
+     * Seat
+     * Skoda
+     * Volkswagen Véhicules Utilitaires
+
+Mesure de restauration de la confiance client.

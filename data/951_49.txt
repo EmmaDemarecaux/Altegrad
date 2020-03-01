@@ -1,0 +1,40 @@
+
+     * Calculer la « force » d’un mot de passe
+
+   [icon_toppage.png]
+
+     * L'ANSSI
+          + [icon_anssiBlanc_mini.png]
+          + Missions
+          + Organisation
+          + La cybersécurité en France
+          + Rayonnement scientifique
+          + Contacts
+     * Administration
+          + [icon_administrationBlanc_mini.png]
+          + Principales menaces
+          + Réglementation
+          + Visa de sécurité
+          + Bonnes pratiques
+          + Services sécurisés
+          + Formations
+          + Management du risque
+          + Glossaire
+     * Entreprise
+          + [icon_entrepriseBlanc_mini.png]
+          + Principales menaces
+          + Précautions élémentaires
+          + Réglementation
+          + Visa de sécurité
+          + Bonnes pratiques
+          + Formations
+          + Management du risque
+          + Glossaire
+     * Particulier
+          + [icon_particulierBlanc_mini.png]
+          + Principales menaces
+          + Précautions élémentaires
+          + Bonnes pratiques
+          + Logiciels préconisés par l’ANSSI
+          + Formations
+          + Glossaire

@@ -1,0 +1,256 @@
+
+     * Toutes les marques
+     * Toutes les boutiques
+
+Parcourir : Vêtements
+
+     * Chemises
+     * Costumes
+     * Jeans
+     * Manteaux
+     * Pantalons
+     * Plage
+     * Pulls et maille
+     * Shorts
+     * Sous-vêtements
+     * Sport
+     * T-shirts
+     * Vestes, blousons, blazers
+     * Vêtements de nuit
+     * Voir l’ensemble des Vêtements
+
+Parcourir : Chaussures
+
+     * Baskets
+     * Bottes
+     * Chaussures à lacets
+     * Chaussures sans lacets
+     * Sandales
+     * Voir l’ensemble des Chaussures
+
+Parcourir : Accessoires
+
+     * Boutons de manchette
+     * Ceintures
+     * Chapeaux
+     * Cravates
+     * Gants
+     * Lunettes de soleil
+     * Montres
+     * Portefeuilles
+     * Écharpes et foulards
+     * Voir l’ensemble des Accessoires
+
+Parcourir : Sacs
+
+     * Bananes
+     * Cabas et sacs de sport
+     * Sacoches et porte-documents
+     * Sacs de voyage et valises
+     * Sacs messager
+     * Sacs à dos
+     * Étuis et coques
+     * Voir l’ensemble des Sacs
+
+Parcourir : Bijoux
+
+     * Bagues
+     * Bracelets
+     * Colliers
+     * Voir l’ensemble des Bijoux
+
+Parcourir les boutiques
+
+     * Propriété intellectuelle
+     * Conditions générales
+     * Politique de confidentialité
+     * Politique relatives aux cookies
+     * Nous contacter
+
+Politique relatives aux cookies
+
+   Ce document établit la Politique de Lyst en matière de cookies.
+   « Lyst » désigne LYST LTD (société immatriculée en Angleterre et au
+   pays de Galles, sous le numéro de société 07132083, dont le siège
+   social est situé à The Minster Building 7th Floor, 21 Mincing Lane,
+   Londres, EC3R 7AG, Royaume-Uni). Les termes « nous », « nous-mêmes »,
+   « notre » et « le nôtre » sont également utilisés par la présente
+   Politique en matière de cookies pour désigner Lyst.
+
+   La présente Politique en matière de cookies est applicable à l’ensemble
+   de nos Services ainsi qu’aux autres pages ou blogs assortis d’un lien,
+   fonctionnalités, contenus (incluant les informations, les textes, les
+   graphiques, les photographies, les listes d’articles que vous avez
+   compilées, les commentaires, les critiques, les liens ou les autres
+   documents chargés sur les Services, téléchargés à partir de ces
+   derniers, y figurant ou y étant reliés par un lien) ou applications
+   occasionnellement proposées par Lyst dans le cadre de ces derniers
+   (collectivement désignés « Contenu »).
+
+   La présente Politique en matière de cookies fait partie de nos
+   Conditions générales et de notre Politique de protection de la vie
+   privée applicables aux Services et y est intégrée.
+
+   Les modifications apportées à la présente politique seront affichées
+   sur cette page. Nous nous réservons le droit d’apporter
+   occasionnellement des modifications à la présente Politique en matière
+   de cookies, étant précisé que ces modifications prennent effet dès le
+   moment où elles sont affichées.
+
+Que sont les « Cookies » ?
+
+   Un cookie est un petit fichier texte sauvegardé sur l’ordinateur d’un
+   utilisateur à des fins de suivi et de sauvegarde. Les cookies ne
+   peuvent pas à eux seuls vous identifier car ils ne contiennent jamais
+   d’informations personnelles comme un nom et une adresse électronique. À
+   moins que vous n’ayez ajusté les paramètres de votre navigateur afin
+   qu’il refuse les cookies, nous déposons des cookies dès que vous
+   consultez les Services ou dès que vous êtes dirigé vers un article
+   particulier qui figure sur le site internet d’un commerçant tiers
+   (« Partenaire de Lyst »). Les cookies persistants nous permettent de
+   suivre et de cibler vos centres d’intérêt afin d’améliorer les visites
+   que vous faites sur notre site internet. Par exemple, nous utilisons
+   ces données pour comprendre de quelle manière vous utilisez les
+   Services, ce qui nous permet d’améliorer les informations et la
+   conception des Services. Dès lors que vous acceptez les modalités de la
+   présente Politique en matière de cookies, vous acceptez que les cookies
+   mentionnés ci-dessus soient déposés sur votre appareil.
+
+Quel type de cookies utilisons-nous et pourquoi ?
+
+   Lorsque vous consultez les sites Internet et les applications mobiles
+   de Lyst ainsi que les autres plateformes que Lyst détient ou contrôle
+   et met à votre disposition (collectivement désignés « Services »), il
+   se peut que nous utilisions des cookies ou d’autres technologies
+   similaires et courantes dans tout le secteur, afin de recueillir et de
+   stocker certaines informations sur votre ordinateur. Par la prise de
+   telles dispositions, nous serons en mesure de vous distinguer des
+   autres utilisateurs de nos Services et de procéder à l’activation
+   automatique de certaines fonctions pour améliorer votre expérience
+   d’utilisateur (par exemple, pour mémoriser le contenu de votre panier
+   en ligne pour vous éviter d’avoir à le remplir une nouvelle fois). La
+   modification des paramètres de vos cookies est une démarche facile à
+   réaliser. La plupart des navigateurs vous permettent de supprimer les
+   cookies présents sur le disque dur de votre ordinateur, de bloquer
+   l’acceptation des cookies ou de recevoir un avertissement avant qu’un
+   cookie ne soit stocké. Cependant, si vous bloquez ou supprimez des
+   cookies, l’usage des Services en ligne pourrait s’en voir affecté.
+
+   Nous avons recours aux catégories de cookies suivantes :
+     * Les cookies strictement nécessaires. Ces cookies sont
+       indispensables pour l’utilisation de nos Services. Ils comprennent,
+       par exemple, les cookies vous permettant de vous connecter sur les
+       espaces sécurisés de nos Services, d’utiliser un panier d’achats ou
+       d’avoir recours aux services de facturation électronique. Sans ces
+       cookies, il se peut que nous ne soyons pas en mesure de vous
+       fournir les services que vous demandez, comme nous souvenir de vos
+       coordonnées de connexion ou de votre panier d‘achats.
+     * Les cookies analytiques/de performance. Ceux-ci nous permettent de
+       reconnaître et de compter le nombre de visiteurs et de collecter
+       des informations sur la manière dont ces derniers utilisent nos
+       Services. Cette méthode nous aide à améliorer la manière dont nos
+       Services fonctionnent en veillant, par exemple, à ce que les
+       utilisateurs trouvent facilement ce qu’ils recherchent. Ces cookies
+       ne recueillent que des informations anonymes et ne montrent pas des
+       coordonnées personnelles.
+     * Les cookies de fonctionnalité. Ceux-ci sont utilisés pour vous
+       reconnaître lorsque vous revenez utiliser nos Services et pour se
+       souvenir des choix que vous avez effectués (par exemple, la langue
+       que vous avez choisie ou votre région). Ils nous permettent de
+       personnaliser notre Contenu pour vous, de vous proposer un accueil
+       nominatif et d’enregistrer vos préférences.
+     * Les cookies de ciblage. Ces cookies enregistrent la visite de nos
+       Services que vous avez effectuée, les pages que vous avez
+       consultées et les liens sur lesquels vous avez cliqué. Bien que ces
+       cookies suivent vos visites sur Internet, ils ne savent pas qui
+       vous êtes. Nous utilisons ces informations pour rendre nos Services
+       et les publicités y figurant plus pertinents en fonction de vos
+       centres d’intérêt. Pour cela, il est possible que nous partagions
+       ces informations avec des tiers.
+
+   Nous utilisons également des cookies pour assurer le suivi des articles
+   sauvegardés dans le panier de vos achats et exécuter vos commandes.
+   Nous avons également recours à des cookies pour réaliser les
+   diagnostics permettant d’améliorer le Contenu, les produits et les
+   Services de Lyst, lutter contre la fraude et renforcer la sécurité.
+
+   Nous utilisons à la fois des cookies identificateurs de session et des
+   cookies persistants pour que vous puissiez consulter notre site plus
+   facilement. Un cookie identificateur de session expire lorsque vous
+   fermez votre navigateur. Un cookie persistant reste sur votre disque
+   dur pendant une longue durée. Vous pouvez supprimer les cookies
+   persistants grâce à la fonction « suppression des cookies » de votre
+   navigateur. Pour en savoir plus sur le blocage de cookies déposés sur
+   votre navigateur internet particulier, veuillez consulter le site
+   www.allaboutcookies.org.
+
+   Veuillez noter que des tiers (incluant, par exemple, des réseaux
+   publicitaires et des prestataires de services externes comme des
+   services internet d’analyse du trafic) peuvent eux aussi être amenés à
+   utiliser des cookies vis-à-vis desquels nous n’avons aucun contrôle.
+   Ces cookies sont susceptibles d’être des cookies analytiques/de
+   performance ou des cookies de ciblage.
+
+   Les exemples de cookies que nous utilisons sont les suivants :
+     * analytics1 (analytique - il identifie les navigateurs individuels
+       Internet visitant Lyst et est utilisé pour les analyses internes)
+     * backend_web (interne – obsolète - ce cookie était utilisé pour
+       webnext)
+     * domain_request (interne – obsolète - était utilisé pour la
+       banderole de renvoi à un pays)
+     * sessionid (strictement nécessaire - concerne l’authentification
+       d’accès au site Internet)
+     * csrftoken (strictement nécessaire - protection par rapport aux abus
+       par l’envoi de données erronées)
+     * country (fonctionnalité - nous l’utilisons pour sauvegarder le pays
+       que vous avez choisi, si vous décidez de le modifier)
+     * withfonts (fonctionnalité - nous l’utilisons pour vous indiquer que
+       vos polices de caractères sont activées)
+     * fbm_* (ciblage - en lien avec Facebook)
+     * __cfduid (performances - protection par rapport aux abus via leCDN
+       de Cloudflare)
+     * _uetsid (ciblage - en lien avec Microsoft Bing)
+     * __atuvc (fonctionnalité - Cookie widget AddThis de partage social…à
+       partir de www.lyst.com/news)
+     * _ga (analytique - Google Analytics)
+     * _gat (performances - Google Analytics – il est utilisé pour
+       acheminer le taux de demandes vers GA – il limite la collecte de
+       données opérée sur des sites dont le trafic est élevé)
+     * _gid (analytique - Google Analytics)
+
+   Vous pouvez vous désinscrire de la collecte des données ou de leur
+   utilisation par certains prestataires de services d’analyse en cliquant
+   sur les liens suivants :
+     * Adsymptotic (à travers la page de désinscription LinkedIn)
+     * Bing
+     * Criteo
+     * Doubleclick (à travers la page de désinscription Google)
+     * Facebook
+     * Krux Digital (à travers la page de désinscription SalesForce)
+
+Comment contrôler mes cookies ?
+
+   Vous pouvez bloquer des cookies en activant les paramètres de votre
+   navigateur pour refuser la pose de tous les cookies ou de certains
+   d’entre eux. Consultez la fonction « Aide » de la plupart des
+   navigateurs pour savoir comment empêcher votre navigateur d’accepter de
+   nouveaux cookies. Vous y trouverez aussi des informations pour
+   configurer votre navigateur afin qu’il vous avise à chaque fois que
+   vous recevez un nouveau cookie et comment faire pour désactiver
+   complètement les cookies. En outre, vous pouvez désactiver ou supprimer
+   les données similaires qui sont utilisées par des modules
+   complémentaires du navigateur, comme les cookies flash, en modifiant
+   les paramètres du module concerné ou en consultant le site internet de
+   son fabricant. Cependant, si vous utilisez les paramètres de votre
+   navigateur pour bloquer tous les cookies (y compris les cookies
+   essentiels), il se peut alors que vous ne soyez pas en mesure d’accéder
+   à l’ensemble ou des parties de notre site ou d’utiliser le panier
+   d’achats du service Caisse Intégrée. Pour en savoir plus sur la manière
+   de bloquer les cookies déposés sur votre navigateur, veuillez consulter
+   le site www.allaboutcookies.org.
+
+   Cet Accord a été rédigé en anglais. En cas de divergence entre toute
+   traduction du présent Accord et sa version anglaise, la version
+   anglaise prévaut.
+
+   Date d’entrée en vigueur : 10 mai 2018

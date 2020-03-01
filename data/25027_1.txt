@@ -1,0 +1,268 @@
+   #publisher
+
+   (BUTTON) France
+     * France
+     * France (English)
+     * Espagne
+     * Italie
+     * Belgique
+     * Autriche
+     * Portugal
+     * Japon
+     * Turquie
+     * Bulgarie
+     * Royaume-Uni
+
+   (BUTTON) Particulier
+     * Particulier
+     * Professionnel
+     * Le Groupe Selectra
+
+     *
+     *
+     *
+     *
+
+   09 74 59 43 80
+
+   Selectra
+
+     * Électricité & gaz
+          + Électricité & gaz
+          + Vous informer
+               o Vous informer
+               o Guides pratiques
+               o Actualités
+               o Fournisseurs
+          + Vos démarches
+               o Vos démarches
+               o Déménagement
+               o Résilier un contrat en ligne
+               o Estimer sa consommation
+          +
+               o Comparer les offres d'énergie
+               o Participer à un achat groupé
+          + Déménagement / Changement de fournisseur
+            l-v 8h-21h ; s 8h30-18h30 ; d 9h-13h
+            09 73 72 73 00OURappel gratuit
+     * Box & mobile
+          + Box & mobile
+          + Vous informer
+               o Vous informer
+               o Guides pratiques
+               o Actualités
+               o Fournisseurs
+          + Vos démarches
+               o Vos démarches
+               o Déménagement
+               o Résilier un contrat en ligne
+               o Test d'éligibilité
+          +
+               o Comparer les forfaits
+               o Test de débit
+          + Ouverture de ligne / Changement d'opérateur
+            du lundi au vendredi de 9h à 21h, le samedi de 10h à 19h
+            09 75 18 33 47OURappel gratuit
+     * Propane
+          + Propane
+          + Vous informer
+               o Vous informer
+               o Citernes
+               o Bouteilles
+               o Usages
+               o Fournisseurs
+          + Vos démarches
+               o Vos démarches
+               o Déménager
+               o Résilier votre contrat
+               o Négocier ou renégocier
+          +
+               o Comparer les citernes
+               o Comparer les bouteilles
+          + Devis citerne / Livraison de bouteilles
+            l-v 8h-21h ; s 8h30-18h30 ; d 9h-13h
+            09 74 59 33 30OURappel gratuit
+     * Assurance
+          + Assurance
+          + Vous informer
+               o Vous informer
+               o Guides pratiques
+               o Actualités
+               o Assureurs
+          + Vos démarches
+               o Vos démarches
+               o Déménagement
+               o Résilier votre contrat
+               o Économiser sur vos contrats
+          +
+               o Comparer les assurances auto
+               o Comparer les assurances habitation
+          + Devis gratuits d'assurances
+            du lundi au vendredi de 8h à 21h, le samedi de 8h30 à 18h30
+            09 75 18 51 28OURappel gratuit
+     * Finance
+          + Finance
+          + Vous informer
+               o Vous informer
+               o Guides pratiques
+               o Actualités
+               o Banques
+          + Vos démarches
+               o Vos démarches
+               o Changer de banque
+               o Ouvrir un compte bancaire
+               o Choisir une banque en ligne
+          +
+               o Comparer les banques en ligne
+          + Comparatif des banques en ligne.
+            Démarche en ligne gratuite et sans engagement.
+            En savoir plus
+     * Domotique
+          + Domotique
+          + Vous informer
+               o Vous informer
+               o Guides pratiques
+               o Actualités
+               o Marques
+          + Vos démarches
+               o Vos démarches
+               o Sécuriser un logement
+               o Contrôler votre chauffage
+          +
+               o Sélection d'objets connectés
+          + Devis gratuits domotique
+            du lundi au vendredi de 11h à 18h30
+            09 87 67 95 60OURappel gratuit
+     * Déménagement
+          + Déménagement
+          + Vous informer
+               o Vous informer
+               o Ouvrir son compteur d’électricité / gaz
+               o Déménagement et propane
+               o Souscrire une assurance habitation
+               o S'abonner à Internet
+               o Choisissez votre formule déménagement
+          + Vos démarches
+               o Vos démarches
+               o Imprimer un état des lieux
+               o Editer un contrat de bail
+               o Résilier ses contrats
+               o Télécharger la checklist
+               o Consulter l'annuaire
+          +
+               o Mise en service électricité et gaz
+               o Installer l'accès à Internet
+          + Déménagez vos contrats en un coup de fil !
+            l-v 8h-21h ; s 8h30-18h30 ; d 9h-13h
+            09 74 59 43 80OURappel gratuit
+     * ParticulierChanger
+          + Particulier
+          + Professionnel
+          + Le Groupe Selectra
+     * FranceChanger
+          + France
+          + France (English)
+          + Espagne
+          + Italie
+          + Belgique
+          + Autriche
+          + Portugal
+          + Japon
+          + Turquie
+          + Bulgarie
+          + Royaume-Uni
+     *
+          +
+          +
+          +
+          +
+     * 09 74 59 43 80
+
+   (BUTTON) Menu
+
+Achat groupé d'énergie
+
+   IFRAME: https://www.youtube.com/embed/tdERqkniZjc
+
+   Un achat groupé consiste à mobiliser un maximum de personnes puis à
+   négocier, pour elles, des tarifs avantageux sur les prix de l'énergie
+   avec les fournisseurs.
+
+   La pré-inscription est gratuite et sans engagement : elle vous permet
+   seulement d'indiquer être intéressé pour recevoir les offres des
+   fournisseurs qui auront été négociées. Vous serez complètement libre
+   d'y souscrire ou non.
+
+   Je me préinscris Plus d'informations
+   Partager l'information sur :
+     *
+     *
+     *
+
+Comment ça marche ?
+
+     * 1
+
+Préinscription
+       Préinscriptions gratuites et sans engagement.
+     * 2
+
+Mise en concurrence
+       Nous négocions les meilleurs prix pour les inscrits. Plus vous êtes
+       nombreux, plus nous négocierons des tarifs avantageux!
+     * 3
+
+Communication de l'offre
+       Vous recevrez le détail de l'offre lauréate par mail. Nous serons à
+       l'écoute pour toutes vos questions.
+     * 4
+
+Souscription
+       Naturellement, vous êtes libre d'en bénéficier ou d'y renoncer.
+
+Foire aux questions
+
+Qu’est-ce qu’un achat groupé d’énergie ? Quels sont les avantages ?
+
+Comment ça marche ? A quoi m'engage la pré-inscription ?
+
+L'histoire de l’achat groupé d’électricité et de gaz en France
+
+Qui peut s'inscrire à un achat groupé d'électricité et de gaz ?
+
+A quoi m’engage la préinscription à un achat groupé d'énergie ? La
+souscription ?
+
+   Plus de questions
+
+Des questions ?
+Contactez-nous au :
+
+   09 87 67 38 39 Ou achatgroupe@selectra.info
+
+Nos opérations passées
+
+   Nous avons réalisé des achats groupés d'énergie avec les partenaires
+   suivants :
+     *
+     *
+     *
+     *
+     *
+
+   Voir tous les partenariats Consulter les témoignages
+   200€/an
+   déconomies
+   en moyenne réalisées
+   par
+   0 4 2 6 0 0 8
+   participants à nos opérations
+   d'achats groupés depuis 2015
+
+Nos opérations
+
+   Nos opérations d'achat groupé d'énergie en cours :
+   Voir tous nos achats groupés
+
+   Hop ! J'économise sur mes factures avec Selectra1 318 542 souscriptions
+   effectuées

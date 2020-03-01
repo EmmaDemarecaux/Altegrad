@@ -1,0 +1,213 @@
+
+   https://tel.archives-ouvertes.fr/tel-01577727
+   Contributeur : Abes Star <>
+   Soumis le : lundi 28 août 2017 - 00:15:09
+   Dernière modification le : jeudi 11 avril 2019 - 16:02:23
+
+Fichier
+
+   [small]
+   DDOC_T_2017_0068_LE_MARECHAL.p...
+   Version validée par le jury (STAR)
+
+Identifiants
+
+     * HAL Id : tel-01577727, version 1
+
+Collections
+
+   STAR | UNIV-LORRAINE | UNIV-PARIS5 | THESES-P5 | USPC | THESES-UL |
+   APEMAC-UL
+
+Citation
+
+   Marion Le Mare�chal. Facteurs associés à l’hétérogénéité des pratiques
+   vaccinales des médecins généralistes en France. Médecine humaine et
+   pathologie. Université de Lorraine, 2017. Français. ⟨NNT :
+   2017LORR0068⟩. ⟨tel-01577727⟩
+
+Exporter
+
+   BibTeX TEI DC DCterms EndNote
+
+Partager
+
+Métriques
+
+   Consultations de la notice
+
+416
+
+   Téléchargements de fichiers
+
+350
+
+Contact
+
+   support.ccsd.cnrs.fr
+   hal.support@ccsd.cnrs.fr
+   Logo CCSD
+   #HAL
+
+   (BUTTON) Toggle navigation
+   CCSD
+     * HAL
+          + HAL
+          + HALSHS
+          + TEL
+          + MédiHAL
+          + Liste des portails
+          +
+          + AURéHAL
+          + API
+          + Data
+          + Documentation
+     * Episciences.org
+          + Episciences.org
+          + Revues
+          +
+          + Documentation
+     * Sciencesconf.org
+     * Support
+
+   (BUTTON)  Connexion (BUTTON)
+     * Connexion
+     * Connexion avec ORCID
+     * se connecter avec Fédération
+     *
+     * Créer un compte
+     *
+     * Mot de passe oublié ?
+     * Login oublié ?
+
+     * fr
+     * en
+
+   HAL - hal.archives-ouvertes.fr CCSd - Centre pour la Communication
+   Scientifique Direct
+     * Accueil
+     * Dépôt
+     * Consulter
+          + Les derniers dépôts
+          + Par discipline
+          + Par date de soutenance
+          + Consultation par collections
+     * Recherche
+     * Documentation HAL
+
+   (BUTTON) tel-01686140, version 1
+
+   (BUTTON) en (BUTTON) fr
+   Study of the factors involved in total hip replacement revisions in
+   France, exploiting the SNIIRAM (French national health insurance
+   databases)
+   Etude des déterminants de la survie prothétique des prothèses de hanche
+   en France, à partir des données du SNIIRAM
+   Sandrine Colas ^1 (BUTTON) Détails
+   1 ANSM - Agence nationale de sécurité du médicament et des produits de
+   santé [Saint-Denis]
+
+       Sandrine Colas ^1 AuthorId : 819801
+     Auteur
+
+   1 ANSM - Agence nationale de sécurité du médicament et des produits de
+   santé [Saint-Denis] (143/147 boulevard Anatole-France 93285 Saint-Denis
+   cedex. - France) StructId : 498304
+   (BUTTON) Masquer les détails
+   (BUTTON) en (BUTTON) fr
+   Abstract : More and more Total Hip Replacement (THR) are performed in
+   France (PTH) these last decades ; a 10% increase in 4 years has been
+   observed, with 100 000 implantations on 2013.This increase can is
+   related to the ageing of the population as well as the expansion of the
+   implanted population: on one side younger and more active patients are
+   now implanted, and on the other side, older patients (more than 80),
+   often with other comorbidities, are now implanted.Le number of
+   implanted THR, their characteristics, the context of implantation et
+   the characteristics of the implanted population in France have never
+   been comprehensively described so far. Some data are available from
+   international registries (from Nordic, British, North American coutries
+   and Australia), but not in France. The aim of my PhD was to study which
+   factors were associated with the THR survivorship. My research covered
+   the characteristics of the implants, of the patients and of the
+   implanting centers.The data we used were from the French National
+   Health Insurance Information System, SNIIRAM (Système National
+   d'Information Inter-Régimes de l'Assurance Maladie) from 2006 to 2016.
+   About 100 000 THR are implanted annually in France; the total cohort of
+   THR implanted patients between 2006 and 2014 comprises about a million
+   subjects. The cohorts studied in my work comprises between 100 000 and
+   300 000 patients, included between 2009 and 2012 and followed until
+   2013 to 2014.These cohorts studies showed that the implants
+   characteristics, bearing surface, cementation, choice of a modular neck
+   are associated with the prosthetic survivorship at short and midterm
+   follow-up. We found the same with the patients characteristics, age,
+   sex, diabetes mellitus as well as exposure to drugs such as
+   benzodiazepines. The characteristics if the implanting center are also
+   associated to the prosthetic survivorship, more specifically the volume
+   of activity of the surgeon who performed the hip arthroplasty.The PMSI
+   data are a valuable tool to perform an active surveillance of THR
+   survivorship and using them allowed us to identify several risk factors
+   of revision at short to midterm follow-up. About 100 000 patients
+   receive a THR annually in France and THR revision is a surgical
+   operation far more complicated than primary implantation, with higher
+   complications rate during and post-operation. Being able to identifiy
+   the factors associated with THR revision and being able to take the
+   measures improving the THR survivorship are indeed a major Public
+   health challenges. Our work' purpose is to assess the current practices
+   and to provide evidences to promote technical choices propitious to THR
+   survivorship, to contribute to health quality improvement.
+   Résumé : Le nombre de prothèses totales de hanche (PTH) posées en
+   France est en forte augmentation en France depuis plusieurs années :
+   +10% en 4 ans, avec plus de 100 000 poses en 2013. Cette augmentation
+   est liée à la fois au vieillissement de la population et à
+   l’élargissement de la patientèle implantée : les PTH sont posées chez
+   des patients plus jeunes et actifs, et à l’autre extrême, chez des
+   patients de plus en plus âgés, présentant davantage de comorbidités Le
+   volume de pose de PTH, leurs caractéristiques, leur contexte de pose et
+   la population implantée n’ont pas encore été décrits de manière
+   exhaustive en France, contrairement aux pays disposant de registre
+   d’arthroplastie (les pays nordiques et anglo-saxons). L'objectif de ma
+   thèse était d'étudier quels sont les facteurs pronostics de la survie
+   des PTH. La recherche portait sur les caractéristiques des implants,
+   les caractéristiques des patients et les caractéristiques des séjours
+   d’implantation. Les bases de données utilisées sont celles du SNIIRAM
+   de 2006 à 2016, comprenant les remboursements de soins en ville (de
+   2006 à 2016) et à l’hôpital (de 2006 à 2015) des assurés affiliés à un
+   régime obligatoire de l’assurance maladie. Environ 100 000 PTH sont
+   implantées chaque année en France. La cohorte globale des patients
+   porteurs de prothèse de hanche, implantée de 2006 à 2014 comprend
+   environ un million de patients. Les études de cette thèse ont été
+   conduites sur des cohortes de 100 000 à 300 000 patients, inclus de
+   2009 à 2012 et suivis jusqu’en 2013 à 2014.Ces études indiquent que les
+   caractéristiques prothétiques, couple de frottement, mode d’ancrage,
+   choix d’un col modulaire, sont associés à la survie de la PTH à court
+   et moyen terme. Il en est de même pour les caractéristiques des
+   patients, âge, sexe, diabète, ainsi que l’exposition à certains
+   médicaments, dont les benzodiazépines. Les caractéristiques du centre
+   dans lequel est implantée la prothèse, en particulier le volume
+   d’activité du chirurgien implanteur, sont associées à la survie
+   prothétique.L’utilisation des bases de données du PMSI permet une
+   surveillance active des PTH et ont permis d’identifier à court terme
+   certains facteurs de risque d’échec de la prothèse. Environ 100 000
+   patients sont implantés par PTH en France chaque année. La révision
+   prothétique est une intervention à risques, avec des taux de
+   complications per et post-opératoires plus élevés que pour la
+   primo-implantation. Mieux comprendre les facteurs liés à l’échec de la
+   PTH et agir en faveur de la survie prothétique sont donc des enjeux de
+   santé publique. Nos travaux ont pour finalité de faire évoluer les
+   pratiques et encourager les choix techniques les plus favorables pour
+   la survie prothétique, de manière à contribuer à l’amélioration de la
+   santé des patients.
+   (BUTTON) en (BUTTON) fr
+   Keywords : Total Hip Replacement Prosthetic survivorship Risk factors
+   Revision
+   Mots-clés : Prothèse totale de hanche Survie prothétique Facteurs de
+   risque
+   Type de document :
+   Thèse
+   Domaine :
+
+   Sciences du Vivant [q-bio] / Santé publique et épidémiologie
+   Sciences du Vivant [q-bio] / Médecine humaine et pathologie /
+   Rhumatologie et système ostéo-articulaire
+
+   Liste complète des métadonnées (BUTTON)  Voir (BUTTON)  Masquer

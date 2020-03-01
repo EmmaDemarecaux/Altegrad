@@ -1,0 +1,5 @@
+
+Commodore Amiga
+
+     * Accelerator Card ACA-500
+     * CompactFlash Card Adapter

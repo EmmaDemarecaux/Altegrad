@@ -1,0 +1,11 @@
+     * Aller au menu
+     * Aller à la recherche
+     * Aller au contenu
+     * Aller à la navigation
+
+UMR CNRS 5558 Laboratoire de Biométrie et Biologie Évolutive
+
+     * Annuaire
+     * Contacts
+     * Accès
+     * Organigramme

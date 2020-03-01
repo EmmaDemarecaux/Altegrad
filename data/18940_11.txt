@@ -1,0 +1,10 @@
+
+     * 12 Place des Etats Unis 75783 PARIS CEDEX 16 France
+     * 01 41 00 42 11
+
+     * www.pernod-ricard.fr
+
+   (BUTTON) PEUGEOT +
+   (BUTTON) -
+   [logo_987.png]
+   PEUGEOT

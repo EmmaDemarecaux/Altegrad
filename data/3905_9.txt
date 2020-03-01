@@ -1,0 +1,181 @@
+
+   https://tel.archives-ouvertes.fr/tel-01508529
+   Contributeur : Abes Star <>
+   Soumis le : vendredi 14 avril 2017 - 12:00:21
+   Dernière modification le : jeudi 31 janvier 2019 - 11:30:03
+   Document(s) archivé(s) le : samedi 15 juillet 2017 - 14:46:06
+
+Fichier
+
+   [small]
+   TIFRATENE_KARIM_2016.pdf
+   Version validée par le jury (STAR)
+
+Identifiants
+
+     * HAL Id : tel-01508529, version 1
+
+Collections
+
+   STAR | UNICE | U-BORDEAUX | UNIV-COTEDAZUR
+
+Citation
+
+   Karim Tifratène. La Banque Nationale de Données Alzheimer comme outil
+   épidémiologique : état des lieux et perspectives. Santé publique et
+   épidémiologie. Université de Bordeaux, 2016. Français. ⟨NNT :
+   2016BORD0214⟩. ⟨tel-01508529⟩
+
+Exporter
+
+   BibTeX TEI DC DCterms EndNote
+
+Partager
+
+Métriques
+
+   Consultations de la notice
+
+707
+
+   Téléchargements de fichiers
+
+654
+
+Contact
+
+   support.ccsd.cnrs.fr
+   hal.support@ccsd.cnrs.fr
+   Logo CCSD
+   #HAL
+
+   (BUTTON) Toggle navigation
+   CCSD
+     * HAL
+          + HAL
+          + HALSHS
+          + TEL
+          + MédiHAL
+          + Liste des portails
+          +
+          + AURéHAL
+          + API
+          + Data
+          + Documentation
+     * Episciences.org
+          + Episciences.org
+          + Revues
+          +
+          + Documentation
+     * Sciencesconf.org
+     * Support
+
+   (BUTTON)  Connexion (BUTTON)
+     * Connexion
+     * Connexion avec ORCID
+     * se connecter avec Fédération
+     *
+     * Créer un compte
+     *
+     * Mot de passe oublié ?
+     * Login oublié ?
+
+     * fr
+     * en
+
+   HAL - hal.archives-ouvertes.fr CCSd - Centre pour la Communication
+   Scientifique Direct
+     * Accueil
+     * Dépôt
+     * Consulter
+          + Les derniers dépôts
+          + Par discipline
+          + Par date de soutenance
+          + Consultation par collections
+     * Recherche
+     * Documentation HAL
+
+   (BUTTON) tel-01622157, version 1
+
+   (BUTTON) en (BUTTON) fr
+   Living conditions, health and healthcare use in homeless women,
+   sheltered in the Greater Paris area
+   Conditions de vie, état de santé et recours aux soins des femmes sans
+   logement personnel hébergées en Ile-de-France
+   Ce�cile Vuillermoz ^1 (BUTTON) Détails
+   1 iPLESP - Institut Pierre Louis d'Epidémiologie et de Santé Publique
+
+       Ce�cile Vuillermoz ^1 AuthorId : 1658247
+     Auteur IdRef : https://www.idref.fr/204720249
+
+   1 iPLESP - Institut Pierre Louis d'Epidémiologie et de Santé Publique
+   (56, boulevard Vincent Auriol - CS 81393 - 75646 Paris Cedex 13 -
+   France) StructId : 267618
+     * UPMC - Université Pierre et Marie Curie - Paris 6 (4 place Jussieu
+       - 75005 Paris - France) StructId : 93591
+     * INSERM - Institut National de la Santé et de la Recherche Médicale
+       : U1136 (101, rue de Tolbiac, 75013 Paris - France) StructId :
+       303623
+
+   (BUTTON) Masquer les détails
+   (BUTTON) en (BUTTON) fr
+   Abstract : Social sciences and public health research conducted mainly
+   in North America, since the 1980s, have shown that homelessness has a
+   significant impact on health, physical conditions and psychological
+   health of families without housing. In France, quantitative studies on
+   homeless women were scarce until the realization of the ENFAMS survey
+   in Paris region in 2013.Based on data from this survey, we showed that,
+   although younger than women in the general population, the health of
+   homeless women is worse, especially with regards to their mental health
+   and nutritional status. Despite their poor health, homeless women have
+   less access to health care than women in the general population. Our
+   research has highlighted the importance of gynecological follow-up in
+   accessing women's cancer screening since the proportion of women who
+   were screened for cervical cancer was twice as high among women with
+   follow-up than among women without follow-up. We have also shown that
+   in the French context of universal health coverage and numerous social
+   safety nets, we do not find the classic associations between unmet
+   health care needs and financial resources or health insurance
+   status.Primary care professionals need to rely on windows of
+   opportunity provided by each of their contact with health care services
+   to make them benefit from cancer screening. Strategies to improve the
+   access to health care of these women must not only aim to remove
+   financial barriers.
+   Résumé : Un corpus de recherches en sciences sociales et en santé
+   publique menées principalement en Amérique du Nord depuis les années
+   1980 montre que l'absence de logement personnel a un effet délétère sur
+   l'état de santé, physique et psychique des familles sans logement. En
+   France, les études quantitatives sur la santé des femmes sans-domicile
+   restaient exceptionnelles avant la réalisation de l'enquête ENFAMS
+   conduite en Ile-de-France en 2013. A partir des données de cette
+   enquête, nous avons montré que, bien qu’elles soient plus jeunes que
+   les femmes en population générale, la santé des femmes sans logement
+   est plus mauvaise, en particulier en ce qui concerne leur santé mentale
+   et leur santé nutritionnelle. Malgré un état de santé plus mauvais, les
+   femmes sans logement ont moins recours aux soins que les femmes en
+   population générale. Cette thèse a permis de souligner l’importance du
+   suivi gynécologique dans l’accès au dépistage des cancers féminins
+   puisque la proportion de femmes dépistées du cancer du col de l’utérus
+   est deux fois plus élevée chez les femmes avec un suivi que chez celles
+   sans suivi. Nous avons aussi montré que dans le contexte français d’une
+   couverture maladie universelle et de l’existence de filets de
+   protection sociale, nous ne retrouvons pas les associations
+   classiquement observées entre renoncement aux soins et ressources
+   financières ou assurance maladie. Les professionnels en soins primaires
+   doivent s’appuyer sur les fenêtres d’opportunité de dépistage qu’offre
+   chacun de leur contact avec les services de soins. Les stratégies
+   d’amélioration à l’accès aux soins de ces femmes ne doivent pas
+   seulement viser à lever les obstacles financiers.
+   (BUTTON) en (BUTTON) fr
+   Keywords : Homeless women Women healthcare Women's cancer screening
+   Mots-clés : Femmes sans domicile Précarité Dépistage des cancers
+   féminins Renoncement aux soins Behavioral Model for Vulnerable
+   Populations Modèles à équations structurelles
+   Type de document :
+   Thèse
+   Domaine :
+
+   Sciences du Vivant [q-bio] / Santé publique et épidémiologie
+
+   Liste complète des métadonnées (BUTTON)  Voir (BUTTON)  Masquer
+   Littérature citée [276 références]  Voir  Masquer  Télécharger

@@ -1,0 +1,22 @@
+
+     * Mon véhicule est concerné. Dois-je l’emmener dans un atelier
+       immédiatement ?
+       Tous les véhicules concernés sont techniquement sûrs et peuvent
+       circuler.
+       Toutes les solutions techniques sont actuellement disponibles. Si
+       votre véhicule est concerné, vous pouvez prendre dès à présent
+       rendez-vous avec l’atelier agréé de votre choix.
+     * Mon véhicule est concerné. Puis-je toujours le conduire ?
+       Oui, tous les véhicules concernés sont techniquement fiables et
+       sûrs.
+     * Mon véhicule est concerné. Qui va me contacter pour la marche à
+       suivre ?
+       Toutes les solutions techniques sont disponibles. Le Groupe
+       Volkswagen en a informé les clients dont le véhicule était
+       concerné. Si votre véhicule est concerné, vous pouvez prendre dès à
+       présent rendez-vous avec l’atelier agréé de votre choix.
+     * Mon véhicule est concerné. Aurai-je à supporter des coûts
+       Volkswagen Group prend toute la responsabilité et couvrira les
+       coûts liés à ces mesures.
+
+   Voir toutes les questions/réponses

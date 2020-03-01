@@ -1,0 +1,789 @@
+   #Google & VPNs – Are You Really Safe? Updated Guide 2019 Watch the
+   World Rowing Championships from Anywhere in 2019 alternate alternate
+
+   [ld+json]
+
+   vpnMentor
+   (BUTTON)
+     * Blog
+     * Best VPN
+          + Best VPNs Overall
+          + Best VPNs for Torrents
+          + Best VPNs for Windows
+          + Best VPNs for Android
+          + Best VPNs for Mac
+          + Best VPNs for iOS
+          + Best VPNs for USA
+     * Tools
+          + VPNs Comparison
+          + Hide my IP
+          + Test The Great China Firewall
+          + IP Leak test for VPNs/Tor
+          + Bitcoin Rate Converter
+          + Password Meter
+          + Secure Password Generator
+          + IP Info
+     * Coupons
+          + NordVPN Coupons
+          + ExpressVPN Coupons
+          + CyberGhost VPN Coupons
+          + Surfshark Coupons
+          + PrivateVPN Coupons
+     * Search
+
+   (BUTTON)
+     * Blog
+     * Best VPN
+          + Best VPNs Overall
+          + Best VPNs for Torrents
+          + Best VPNs for Windows
+          + Best VPNs for Android
+          + Best VPNs for Mac
+          + Best VPNs for iOS
+          + Best VPNs for USA
+     * Tools
+          + VPNs Comparison
+          + Hide my IP
+          + Test The Great China Firewall
+          + IP Leak test for VPNs/Tor
+          + Bitcoin Rate Converter
+          + Password Meter
+          + Secure Password Generator
+          + IP Info
+     * Coupons
+          + NordVPN Coupons
+          + ExpressVPN Coupons
+          + CyberGhost VPN Coupons
+          + Surfshark Coupons
+          + PrivateVPN Coupons
+     * Search
+     * English
+          + Dansk
+          + Deutsch
+          + English
+          + Español
+          + Français
+          + Hrvatski
+          + Indonesia
+          + Italiano
+          + Magyar
+          + Nederlands
+          + Norsk
+          + Polski
+          + Português
+          + Română
+          + Suomi
+          + Svenska
+          + Tiếng Việt
+          + Türkçe
+          + Čeština
+          + Ελληνικά
+          + Ру��кий
+          + Україн�ька
+          + българ�ки
+          + ไทย
+          + 日本語
+          + 简体中文
+          + 한국어
+          + עברית
+          + العربية
+
+     * English
+          + Dansk
+          + Deutsch
+          + English
+          + Español
+          + Français
+          + Hrvatski
+          + Indonesia
+          + Italiano
+          + Magyar
+          + Nederlands
+          + Norsk
+          + Polski
+          + Português
+          + Română
+          + Suomi
+          + Svenska
+          + Tiếng Việt
+          + Türkçe
+          + Čeština
+          + Ελληνικά
+          + Ру��кий
+          + Україн�ька
+          + българ�ки
+          + ไทย
+          + 日本語
+          + 简体中文
+          + 한국어
+          + עברית
+          + العربية
+
+     * vpnMentor
+
+     Blog
+
+     Report: Data Breach in Adult Site Compromises Privacy of All Users
+
+Blog
+
+     * Views: 12,208,700
+     * Posts: 1,249
+
+   Follow our experts
+     * 12932
+     * 8343
+
+   Best VPNs by Category
+     * Best VPNs Overall
+     * Best VPNs for Torrents
+     * Best VPNs for Windows
+     * Best VPNs for Android
+     * Best VPNs for Mac
+     * Best VPNs for iOS
+     * Best VPNs for USA
+
+   VPN Blog Posts
+     * 5 Best VPN Free Trials in 2019 – Try Premium VPNs for Free
+     * Watch Titans Season 2 from Anywhere in 2019
+     * How to Share a VPN Connection on Windows in 2019
+     * Watch Chicago Fire Season 8 Anywhere! | Updated October 2019
+     * Watch Survivor Season 39 Anywhere! | Updated October 2019
+     * Watch Mayans M.C. Season 2 Anywhere | Updated 2019!
+
+   See more posts
+
+Report: Data Breach in Adult Site Compromises Privacy of All Users
+
+   Last updated on 21st August 2019
+
+   Led by Noam Rotem and Ran Locar, vpnMentor’s research team discovered a
+   data breach in adult site Luscious.
+
+   Luscious is a niche pornographic image site focused primarily on
+   animated, user-uploaded content. Based on the research carried out by
+   our team, the site has over 1 million registered users. Each user has a
+   profile, the details of which could be accessed through our research.
+
+   Private profiles allow users to upload, share, comment on, and discuss
+   content on Luscious. All of this is understandably done while keeping
+   their identity hidden behind usernames.
+
+   The data breach our team discovered compromises this anonymity by
+   potentially allowing hackers to access the personal details of users,
+   including their personal email address. The highly sensitive and
+   private nature of Luscious’ content makes users incredibly vulnerable
+   to a range of attacks and exploitation by malicious hackers.
+
+Timeline of Discovery and Owner Reaction
+
+     * Date discovered: 15/08/19
+     * Date owner contacted: 16/08/19
+
+Example of Entries in the Database
+
+   The data breach gave our team access to 1.195 million user accounts on
+   Luscious. All of these were compromised, revealing personal details of
+   users with potentially devastating consequences.
+
+   The private personal user details we viewed included:
+     * Usernames
+     * Personal email addresses
+     * User activity logs (date joined, most recent log in)
+     * Country of residence/location
+     * Gender
+
+   Some users’ email addresses indicated their full names, increasing
+   their vulnerability to exploitation and cybercrime.
+
+   It’s worth mentioning that we estimate 20% of emails on Luscious
+   accounts use fake email addresses to sign up. This suggests that some
+   Luscious users are actively taking extra steps to remain anonymous.
+
+User Behaviours & Activities
+
+   The data breach also gave a complete overview of user activities. This
+   allowed us to view things like:
+     * The number of image albums they had created
+     * Video uploads
+     * Comments
+     * Blog posts
+     * Favorites
+     * Followers and accounts followed
+     * Their User ID number – so we can know if they’re active or have
+       been banned
+
+   While some of this information is visible to other users, much of it
+   was hidden in the website’s database. All of this combined information
+   creates valuable insights into how people use Luscious.
+
+   Our team was also able to view details of blog posts and content
+   published on Luscious. This included the author’s details, along with
+   the number of likes, when published, category, etc.
+
+   Some of these blog posts were extremely personal – including depressive
+   or otherwise vulnerable content – and kept anonymous. Due to this data
+   breach, however, the blog posts are no longer anonymous, with many of
+   the authors’ identities revealed.
+
+   Likewise, for images uploaded to Luscious, we gained access an index of
+   pictures with detailed information, including who created them.
+
+   The 1 million+ users affected are located around the world, with their
+   locations also revealed in the breach. During our research, we were
+   able to access user profiles from Europe, Asia, Australia, and the
+   Americas.
+
+   For example, we found approximately 13,000 email addresses in “.fr�,
+   representing about 1.25% of the database. Considering the number of
+   French people who use email hosting like Gmail – ending in “.com� and
+   based on the French names we saw on @gmail.com addresses- we estimate
+   the actual number of French users to be around 3 times higher:
+   approximately 40,000.
+
+   Below is a table outlining the international distribution of Luscious
+   users, based on email addresses and our estimations of real numbers,
+   considering Gmail accounts and Similarweb stats.
+    Country Our estimation of users based on the email addresses found in
+   the DB
+    France   40,000
+    Netherlands  8,000
+    Sweden  6,000
+    Germany  50,000
+    Spain  7,000
+    Russia  35,000
+    Israel  1,000
+    Italy  18,000
+    Brazil  10,000
+    Canada  15,000
+    Australia  5,000
+    Poland  20,000
+    Japan  6,000
+    India  6,000
+
+   A greater issue of concern is the fact that many users joined Luscious
+   on official government emails. We found examples of this from users in
+   Brazil, Australia, Italy, Malaysia, and Australia.
+   Domain Our estimation of users based on the email addresses found in
+   the DB
+   .edu  Less than a thousand
+   .gov  Dozens
+
+   This adds a great deal of additional vulnerability not just to the
+   users, but also their employers. With access to employee email
+   addresses, criminal hackers can target government agencies and
+   departments in a number of ways.
+
+Data Breach Impact
+
+   The impact of this data breach on users could be devastating,
+   personally and financially. Activity on adult sites like Luscious is
+   the most private in nature, and nobody ever expects it to be
+   revealed.
+
+   Its exposure could be ruinous for a victim’s relationships and personal
+   lives.
+
+   The information made available in Luscious’ databases gives criminal
+   and malicious hackers many options to use this data for illicit gains
+   and exploiting users.
+
+Doxing
+
+   Doxing refers to the act of investigating an internet user’s identity
+   and making it public, usually with malicious intent. With access to
+   Luscious users’ email addresses and locations, hackers could easily
+   locate their profiles on social media and similar sites.
+
+   With this information, a Luscious user is at risk of being publicly
+   exposed for their activity on the website. They could be targeted for
+   harassment, bullying, or having the details shared with their family,
+   friends, and employers.
+
+   Given the nature of the content on Luscious, the effects of such a
+   campaign could be devastating.
+
+Extortion
+
+   Once a Luscious user’s identity is compromised, they can be targeted
+   for more than just bullying. Hackers could threaten to expose users
+   unless they pay a ransom. Given the sensitive nature of this data
+   breach, victims are incredibly vulnerable and likely to pay.
+
+   However, paying a ransom does not guarantee your details won’t be
+   revealed anyway. Once this data is stolen, it can be used and sold over
+   and over again. This leaves users open to ongoing extortion from one
+   hacker, with potential for their Luscious activity to still be leaked
+   by another.
+
+Phishing
+
+   Phishing refers to the creation of imitation emails sent to victims to
+   trick them into providing passwords or other compromising information,
+   giving access to financial accounts or credit cards, and embedding
+   malware on a device.
+
+   A hacker or cybercriminal sends a target an email made to look like a
+   legitimate business or organization that the victim already uses, to
+   extract the desired information or plant malware.
+
+   By revealing personal details like email addresses and location, the
+   Luscious data breach helps criminals target users for future
+   exploitation, fraud, or theft. They can use this information to create
+   effective fraudulent emails and send them directly to a user’s email
+   inbox – that way, they also stand out from spam and junk mail.
+
+Competitor Actions
+
+   This data breach also makes Luscious vulnerable. With over 1 million
+   users and over 20 million visits per month, it’s a leading website
+   within its niche. It’s also no doubt very profitable.
+
+   With the private information now revealed, Luscious’ competitors can
+   also analyze user behavior – their favorites, what they like, how they
+   interact with other users – and target them with better alternatives.
+   Usually, online businesses keep all this information securely hidden,
+   as it presents a huge risk to their business model and revenue.
+
+Advice from the Experts
+
+   This data leak could have easily been avoided if Luscious had taken
+   some basic security measures. These can be replicated by any company,
+   no matter its size:
+    1. Secure your servers.
+    2. Implement proper access rules.
+    3. Never leave a system that doesn’t require authentication open to
+       the internet.
+
+For Users
+
+   We suggest you immediately change your Luscious account details,
+   including your username and associated email address.
+
+   For adult-themed websites, or any other websites of a sensitive nature,
+   always create a username completely unrelated to your personal email
+   address or any other online account.
+
+   If you have revealed your location on Luscious, remove this detail from
+   your profile. You can also change your location using a VPN.
+
+   To learn more about your internet privacy in general, and how to avoid
+   data breaches like this one in your life and business, read our
+   complete guide to online privacy.
+
+How and Why We Discovered the Breach
+
+   The vpnMentor research team discovered the breach in Luscious’s
+   databases as part of a huge web mapping project. Our hackers use port
+   scanning to examine particular IP blocks and test open holes in systems
+   for weaknesses. They examine each hole for data being leaked.
+
+   When they find a data breach, they use expert techniques to verify the
+   database’s identity. We then alert the company to the breach. If
+   possible, we will also alert those affected by the breach.
+
+   Our team was able to access this database because it was completely
+   unsecured and unencrypted.
+
+   The company uses an Elasticsearch database, which is ordinarily not
+   designed for URL use. However, we were able to access it via browser
+   and manipulate the URL search criteria into exposing schemata from a
+   single index at any time.
+
+   The purpose of this web mapping project is to help make the internet
+   safer for all users.
+
+   As ethical hackers, we’re obliged to inform a company when we discover
+   flaws in their online security. This is especially true when the
+   companies data breach contains such private information.
+
+   However, these ethics also mean we carry a responsibility to the
+   public. Luscious users must be aware of a data breach that impacts them
+   also.
+
+About Us and Previous Reports
+
+   vpnMentor is the world’s largest VPN review website. Our research lab
+   is a pro bono service that strives to help the online community defend
+   itself against cyber threats while educating organizations on
+   protecting their users’ data. We recently discovered a huge data breach
+   impacting 80 million US households. We also revealed that a breach in
+   Biostar 2 compromised the biometric data of over 1 million people. You
+   may also want to read our VPN Leak Report and Data Privacy Stats
+   Report.
+   Was this helpful? Share it!
+
+Share on Facebook
+
+   4
+
+Tweet this
+
+   9
+   About the Author
+
+Guy Fawkes
+
+   Anonymous Cybersecurity Experts
+
+   Anonymous experts who write for vpnMentor but keep their identity
+   secret.
+
+Follow our experts:
+
+     * 8343
+     * 12932
+
+   Was this article helpful? 0 0
+   Sorry about that!
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   (Minimum 10 characters.) ____________________
+   Submit
+   Undo
+
+   Honesty and transparency – our two core values – make the internet a
+   friendly place. Our reviews are written by users themselves, and are
+   not influenced by VPN companies. When you purchase a VPN, we sometimes
+   earn affiliate commissions that support our work. Here is an
+   explanation of exactly what we do and how to support our work.
+   (Donate) Donate
+
+   vpnMentor
+   Our mission: "We started vpnMentor to offer users a really honest,
+   committed and helpful tool when navigating VPNs and web privacy." Ariel
+   Hochstadt
+     * About us
+     * Contact us
+     * Privacy policy
+     * Terms and conditions of use
+     * Human Sitemap
+
+The Experts Behind vpnMentor
+
+Ariel Hochstadt
+
+   Ex-Google, International tech speaker
+
+Sarit Newman
+
+   Internet Security Researcher
+
+Ran Greenberg
+
+   New-Media and online expert, Venture Capitalist and investor
+
+Karen Aflalo
+
+   Tech Community Relationship Manager
+
+Follow vpnMentor
+
+     *
+     *
+
+     * © 2019 vpnMentor |
+     * All Rights Reserved
+
+   (BUTTON) ×
+
+Notice
+
+   This page isn't yet translated into . If you wish to volunteer and
+   translate it, please contact us using the contact us page.
+   Let me help Such a shame
+
+   (BUTTON) ×
+
+   Share it with your friends:
+   [AdultSiteLeaksData-1.jpg]
+   Report: Data Breach in Adult Site Compromises Privacy of All Users
+     * 4
+     * 9
+
+   (BUTTON) ×
+
+Enter your email address to submit your review
+
+   ____________________
+
+   Please type an email.
+   ____________________
+
+   Please type a Name.
+   [X] Get more exclusive info & tips to your mail
+   Submit
+
+   You're not as safe as you think you are!
+   Get weekly tips on how to stay protected and up to date on what's going
+   on in the cyber-world.
+   [javascript]
+   ____________________ (BUTTON) Subscribe Now
+
+Thanks and.... One last request
+
+   Share on Facebook Tweet this
+
+   [tr?id=1881063022144197&ev=PageView&noscript=1]
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate
+
+   [ld+json]
+
+   vpnMentor
+   (BUTTON)
+     * Blog
+     * Best VPN
+          + Best VPNs Overall
+          + Best VPNs for Torrents
+          + Best VPNs for Windows
+          + Best VPNs for Android
+          + Best VPNs for Mac
+          + Best VPNs for iOS
+          + Best VPNs for USA
+     * Tools
+          + VPNs Comparison
+          + Hide my IP
+          + Test The Great China Firewall
+          + IP Leak test for VPNs/Tor
+          + Bitcoin Rate Converter
+          + Password Meter
+          + Secure Password Generator
+          + IP Info
+     * Coupons
+          + NordVPN Coupons
+          + ExpressVPN Coupons
+          + CyberGhost VPN Coupons
+          + Surfshark Coupons
+          + PrivateVPN Coupons
+     * Search
+
+   (BUTTON)
+     * Blog
+     * Best VPN
+          + Best VPNs Overall
+          + Best VPNs for Torrents
+          + Best VPNs for Windows
+          + Best VPNs for Android
+          + Best VPNs for Mac
+          + Best VPNs for iOS
+          + Best VPNs for USA
+     * Tools
+          + VPNs Comparison
+          + Hide my IP
+          + Test The Great China Firewall
+          + IP Leak test for VPNs/Tor
+          + Bitcoin Rate Converter
+          + Password Meter
+          + Secure Password Generator
+          + IP Info
+     * Coupons
+          + NordVPN Coupons
+          + ExpressVPN Coupons
+          + CyberGhost VPN Coupons
+          + Surfshark Coupons
+          + PrivateVPN Coupons
+     * Search
+     * English
+          + Dansk
+          + Deutsch
+          + English
+          + Español
+          + Français
+          + Hrvatski
+          + Indonesia
+          + Italiano
+          + Magyar
+          + Nederlands
+          + Norsk
+          + Polski
+          + Português
+          + Română
+          + Suomi
+          + Svenska
+          + Tiếng Việt
+          + Türkçe
+          + Čeština
+          + Ελληνικά
+          + Ру��кий
+          + Україн�ька
+          + българ�ки
+          + ไทย
+          + 日本語
+          + 简体中文
+          + 한국어
+          + עברית
+          + العربية
+
+     * English
+          + Dansk
+          + Deutsch
+          + English
+          + Español
+          + Français
+          + Hrvatski
+          + Indonesia
+          + Italiano
+          + Magyar
+          + Nederlands
+          + Norsk
+          + Polski
+          + Português
+          + Română
+          + Suomi
+          + Svenska
+          + Tiếng Việt
+          + Türkçe
+          + Čeština
+          + Ελληνικά
+          + Ру��кий
+          + Україн�ька
+          + българ�ки
+          + ไทย
+          + 日本語
+          + 简体中文
+          + 한국어
+          + עברית
+          + العربية
+
+   Follow our experts
+     * 12932
+     * 8343
+
+   We tested more than 300 VPNs for:
+    1. Security
+    2. No-Logs Policies
+    3. Speed
+    4. Streaming
+    5. Torrenting
+    6. Censorship
+
+   See Best VPN Deals
+   Best VPNs by Category
+     * Best VPNs for Torrents
+     * Best VPNs for Windows
+     * Best VPNs for Android
+     * Best VPNs for iOS
+     * Best VPNs for Mac
+
+   Best VPN Deals
+     * [ld+json]
+
+1. NordVPN
+       Visit NordVPN Save 70%!
+     * [ld+json]
+
+2. ExpressVPN
+       Visit ExpressVPN Save 49%!
+     * [ld+json]
+
+3. CyberGhost VPN
+       Visit CyberGhost VPN Save 79%!
+
+10 Best VPN Services: Trusted, Safe & Fast (September 2019 Update)
+
+Ariel Hochstadt | Last updated on 26th September 2019
+
+   Ex-Google, International tech speaker
+
+   Finding the best VPN to keep you safe online feels impossible. There
+   are hundreds of VPNs out there, and each one claims it’s the best.
+
+   At vpnMentor, we’ve so far tested more than 300 VPNs for speed,
+   security, support, and features. We analyzed stacks of data and skipped
+   the biased reviews. Instead, we ran our own tests to bring you a list
+   of the top 10 services.
+
+   We even made some calls to Google and PayPal to investigate rumors
+   surrounding some VPNs. We also delisted several shady VPNs: while they
+   hadn’t yet been caught sharing user data, we’re worried that soon, they
+   will.
+
+   We found that while some small VPNs lack the marketing budgets of some
+   of the bigger brands, they were able to outperform some of the big
+   boys.
+
+   On the other hand, we found that some of the more popular VPNs are
+   actually quite worthless – and even dangerous – when put through
+   rigorous testing.
+
+   We can honestly say that after this testing process, we’re certain that
+   our top 10 VPNs will keep you safe, protect your data, and give you
+   lightning-fast streaming speeds.
+
+   If you want to know how we tested and ranked these VPNs, click here.
+
+   Short on time? Here’s a summary of the best VPNs:
+    1.
+         1. NordVPN – #1 VPN in 2019
+         2. ExpressVPN – #1 for speed
+         3. CyberGhost – Best VPN for beginners
+         4. Surfshark – Best VPN for families or small businesses
+         5. PrivateVPN – Best budget VPN Plus 5 more great VPNs you
+            shouldn’t miss!
+
+     * VPN Features Comparison Table
+     * How We Ranked & Compared These VPNs
+
+Here Are 2019’s Best VPN Providers – Reviewed & Compared
+
+1. NordVPN
+
+   Ranked as the #1 VPN in 2019
+
+     * Dedicated torrenting profile: Yes, P2P specialty servers available
+     * Works with: Netflix, Hulu, BBC iPlayer, HBO GO, Amazon Prime Video,
+       Showtime, Sling TV
+     * Available on: Windows, macOS, Linux, Android, iOS, BlackBerry,
+       Routers, Raspberry Pi, Android TV, Chrome, Firefox
+     * Data logging: Strict no-logs policy
+
+   NordVPN is our #1 VPN recommendation. It provides exceptional
+   all-around value, with great features and performance at a price few
+   can beat.
+
+   AES-256 encryption and support for OpenVPN and IKEv2/IPSec protocols
+   keep your traffic secure and hidden. Since it’s registered in Panama,
+   NordVPN is also far away from Fourteen Eyes surveillance and troubling
+   data retention laws. This allows it to collect zero sensitive user logs
+   – great news for the privacy-conscious.
+
+   The massive NordVPN network has over 5,400 servers in 60+ countries,
+   with regular new additions. It offers specialty servers for P2P, double
+   encryption, dedicated IPs, and Onion over VPN for Tor users.
+
+   Secure streaming and torrenting are one-click tasks with NordVPN.
+   Thanks to proprietary SmartPlay DNS settings, the NordVPN client
+   automatically provides reliable access and fast speeds when you open
+   Netflix and other streaming services.
+
+   The CyberSec suite is another unique NordVPN feature. It provides
+   adblocking and extra malware protection. Advanced obfuscation settings
+   ensure the VPN works in countries with heavy censorship such as China.
+   Plus, you don’t have to worry about VPN leaks as NordVPN offers two
+   different kill switches and custom DNS settings to prevent them.
+
+   If you ever need assistance, you can count on the 24/7 live chat
+   customer support to help you out. What’s more, NordVPN has a huge
+   knowledge base full of useful info on setups and servers.
+
+   Don’t Use If:
+     * You want to pay with PayPal.
+
+   The bottom line? We think NordVPN is the ultimate multi-purpose VPN,
+   but we were disappointed that you can’t pay with PayPal. You can test
+   its intuitive apps and excellent features on six devices with a
+   risk-free 30-day money-back guarantee.
+
+   Heads up – NordVPN is running some great deals! Get up to 75% off on
+   your NordVPN plan with these awesome coupons.
+
+   Try NordVPN Now!
+
+   For more information, read our full NordVPN review.

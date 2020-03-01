@@ -1,0 +1,94 @@
+
+{{filterContent.facetedTitle}}
+
+   {{contentList.loadingText}}
+
+   {{item.publishDate}}
+
+{{item.title}}
+
+   {{item.text}}
+
+   {{item.publishDate}}
+
+{{item.title}}
+
+   {{item.text}}
+   {{contentList.loadingText}}
+   {{contentList.loadMoreLabel}} {{contentList.viewAllLabel}}
+   (BUTTON)
+   loading-player
+
+Playback of this video is not currently available
+
+Careers
+
+   PwC is all about you. Your personal and professional development, your
+   achievement, your lifelong learning, your individuality and your
+   choices. Whether you're just starting out or an experienced
+   professional, your future starts here.
+
+   Explore PwC careers
+
+Alumni
+
+   Our alumni program is about helping you stay a part of the PwC
+   community and connecting you to former colleagues, mentors and friends
+   who have made an impact in your career. It’s also about keeping you up
+   to date with current business issues and regulatory changes through the
+   firm’s various publications, reports, events and webinars.
+
+   View Alumni program
+
+   Follow PwC Canada [follow_facebook.png] [follow_twitter.png]
+   [follow_linkedin.png] [follow_instagram.png] [follow_youtube.png]
+   [tr?id=331550714285087&ev=PageView&noscript=1]
+   Services
+   Accounting advisory services Audit and assurance Consulting Deals
+   Forensic services Risk assurance
+   Tax Law China Business Network French desk Japanese Business Network
+   Perspective North Current insolvency assignments
+   Industries
+   Aerospace and defence Asset management Automotive Banking & capital
+   markets Cannabis Chemicals Energy Engineering and construction
+   Entertainment & media Financial services Forest, paper and packaging
+   Government and Public Services
+   Healthcare Industrial manufacturing Insurance Metals Mining
+   Pharmaceuticals and life sciences Power and utilities Private equity
+   Real estate Retail and consumer Technology Telecommunications
+   Transportation and logistics
+   Private company services Private Business Exchange Private Corporation
+   Tax Changes Designed to Disrupt Conferences
+   PwC Ventures
+   About us Alumni Careers Corporate responsibility Diversity and
+   inclusion Women in leadership Events Webcast Hub Offices Press Room
+   Contact us
+
+   © 2018 - 2019 PwC. All rights reserved. PwC refers to the PwC network
+   and/or one or more of its member firms, each of which is a separate
+   legal entity. Please see www.pwc.com/structure for further details.
+     * Privacy
+     * Cookies info
+     * Legal
+     * Terms & Conditions
+     * Site Provider
+     * Sitemap
+     * Accessibility
+
+   PwC | Cabo Verde
+     * (BUTTON) Search
+       Search ____________________
+     * (BUTTON) Share
+     * (BUTTON)
+     *
+
+   Skip to content Skip to footer (BUTTON)
+   Menu
+     * (BUTTON)
+     *
+
+   Share this page
+
+Internal Server Error
+
+   Cannot serve request to /content/pwc/cv/pt on this server

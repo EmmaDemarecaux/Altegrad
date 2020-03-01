@@ -1,0 +1,4 @@
+
+The CoqHoTT Project
+Coq for Homotopy Type Theory
+ERC Starting Grant (2015-2020)

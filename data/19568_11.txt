@@ -1,0 +1,28 @@
+
+INFORMATION
+
+   Certififcat médical obligatoire pour toutes les activités physiques et
+   sportives.
+   Il doit être donné à la première séance.
+
+Recherche d'une composante
+
+   Recherche d'une composante
+
+   Intitulé ____________________
+
+   Type [Tous___________________]
+
+   Domaine de formation LMD
+   [Tous____________________________________________]
+
+   Composante ____________________ [BUTTON Input] (not
+   implemented)_________
+
+   Effacer Valider
+   membre de Université; Sorbonne Paris Cité
+     * Haut de la page
+     * | Contact
+     * | Plan du site
+     * | Mentions légales
+     * |

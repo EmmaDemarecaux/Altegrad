@@ -1,0 +1,125 @@
+
+   JSPWiki v2.8.4
+   Accueil
+   Copyright Loria-INRIA, ERC projet ProSecure.
+   JSPWiki v2.8.4
+   #Search ProSecure Help Front page
+
+   Accueil
+   Bienvenue, (invité) S'identifier Mes Préférences
+   The ERC Project ProSecure
+   Navigation Rapide___ (Ouvrir le meilleur résultat !)
+   voir éditer dupliquer trouver
+   Recherche rapide (écrivez là)
+   Recherches récentes (Effacer)
+   Dernières pages vues : The ERC Project ProSecure, TextFormattingRules
+     * Plus...
+
+   Voir Attacher Info
+
+Provably secure systems: foundations, design, and modularity#
+
+   February 2011 - January 2016
+
+   Our research project ProSecure is supported by the European Research
+   Council ("Starting Grant Project"). This is a long-term project (5
+   years) aiming at developping provably secure systems such as security
+   protocols.
+
+Context of the project#
+
+   Security protocols are short distributed computer programs dedicated to
+   securing communications on digital networks. They are designed to
+   achieve various goals such as data privacy and data authenticity, even
+   when communication channels are controlled by malicious users. Their
+   increasing penetration in many important applications makes it a very
+   important research challenge to design and establish security
+   properties. In the last decade, formal approaches and automated
+   veri�cation techniques have been successfully applied for detecting
+   potential attacks. However, the security guarantees obtained so far
+   usually hold in a rather abstract model, and are limited to isolated
+   speci�c protocols analyzed for a few set of speci�c security
+   properties. Moreover new types of protocols are still emerging in order
+   to face new technological and societal challenges.
+
+Goals of the project#
+
+   The goal of the project is to propose foundations for a careful
+   analysis and design of large classes of up-to-date protocols. We plan
+   to develop general verification techniques for new classes of protocols
+   that are of primary interest in nowadays life like e-voting protocols,
+   routing protocols or APIs. Our techniques will first be developed in
+   symbolic models where messages are represented by terms but we will
+   also consider the cryptographic part of the primitives that are used in
+   such protocols (encryption, signatures, ...), obtaining higher security
+   guarantees. We aim at proposing modular results both for the analysis
+   and design of protocols. As a particular outcome, we should
+   characterize simple design principles that ease the analysis (thus the
+   security) of protocols and discard families of attacks.
+
+Research themes#
+
+     * Security protocols: authentication and confidentiality protocols,
+       e-votings, security APIs, routing protocols
+     * Automatic verification: rewriting, constraint solving, automatic
+       deduction
+     * Provable security
+
+Members#
+
+     * Vincent Cheval (permanent researcher)
+     * Rémy Chrétien (PhD student)
+     * Véronique Cortier (permanent researcher, principal investigator of
+       the project)
+     * Catalin Dragan (postdoc)
+     * Jannik Dreier (permanent researcher)
+     * Stéphane Glondu (engineer)
+     * Steve Kremer (permanent researcher)
+     * Éric Le Morvan (PhD student)
+     * Mathieu Turuani (permanent researcher)
+
+Former members#
+
+     * Jérémy Dubut (as internship)
+     * Alexandre Debant (as internship)
+     * Jan Degrieck (as Master internship)
+     * Mounira Kourjieh (as post-doc)
+     * David Galindo (researcher)
+     * Joseph Lallemand (as Master internship)
+     * Malika Izabachene (post-doc)
+     * Joseph Lallemand (Master internship)
+     * Antoine Plet (as internship)
+     * Guillaume Scerri (PhD student)
+     * Ben Smyth (as post-doc)
+     * Cyrille Wiedling (PhD student)
+
+Visiting researchers#
+
+     * Myrto Arapinis
+     * David Galindo
+     * Zhiwei Li
+     * Graham Steel
+     * Bogdan Warinschi
+
+Ajouter un attachement
+
+   Seuls les utilisateurs autorisés peuvent publier de nouveaux
+   attachements.
+   « Cette page (révision-54) a été modifiée pour la dernière fois le
+   07-mars-2016 16:18 par cortier
+   Bienvenue, (invité) S'identifier Mes Préférences
+     * Voir le source de la page
+     *
+          + Main page
+          + Recent Changes
+          + Unused pages
+          + Undefined pages
+          + Page Index
+          + SystemInfo
+
+   The project :
+     * HomePage
+     * Members
+     * Publications
+     * Cassis team
+     * Search

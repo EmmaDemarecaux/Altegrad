@@ -1,0 +1,47 @@
+
+   https://hal.archives-ouvertes.fr/hal-02311263
+   Contributeur : La. Bibliotheque <>
+   Soumis le : jeudi 10 octobre 2019 - 17:16:59
+   Dernière modification le : samedi 12 octobre 2019 - 01:31:04
+
+Lien texte intégral
+
+   arxiv
+
+Identifiants
+
+     * HAL Id : hal-02311263, version 1
+     * ARXIV : 1511.02149
+     * BIBCODE : 2016ApJ...823...65A
+     * DOI : 10.3847/0004-637X/823/1/65
+
+Collections
+
+   LPC-CLERMONT | PCC | LPNHE | UNIV-BM | CGE | OCA | UNIV-FCOMTE |
+   IRFU-APC | LAM | UNIV-BM-THESE | UMS_COM | CEA | GEOAZUR | CEA-UPSAY |
+   APC | CENTRALESUPELEC | DSM-IRFU | FEMTO-ST | INSU | UPMC | IPNO | BS |
+   CPPM | LAL | UNIV-MONTPELLIER | UNICE | PRES_CLERMONT | UNIV-COTEDAZUR
+   | DRT | SUP_LSS | MSSMAT | OBSPM | SITE-ALSACE | L2S | UNIV-AMU | LETI
+   | SORBONNE-UNIVERSITE | LTM | UNIV-PARIS7 | SU-SCIENCES | PSL | IN2P3 |
+   SUP_SIGNAUX | UGA | OSU-INSTITUT-PYTHEAS | USPC | UNIV-PARIS-SACLAY |
+   CEA-DRF | CEA-GRE
+
+Citation
+
+   S. Adrián-Martínez, A. Albert, M. Andre, G. Anton, M. Ardid, et al..
+   THE FIRST COMBINED SEARCH FOR NEUTRINO POINT-SOURCES IN THE SOUTHERN
+   HEMISPHERE WITH THE ANTARES AND ICECUBE NEUTRINO TELESCOPES. The
+   Astrophysical Journal, American Astronomical Society, 2016, 823 (1),
+   pp.65. ⟨10.3847/0004-637X/823/1/65⟩. ⟨hal-02311263⟩
+
+Exporter
+
+   BibTeX TEI DC DCterms EndNote
+
+Partager
+
+Métriques
+
+   Consultations de la notice
+
+32

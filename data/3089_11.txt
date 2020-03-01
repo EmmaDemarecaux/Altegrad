@@ -1,0 +1,51 @@
+
+
+Nintendo 64 Flash Cartridges
+
+   Nintendo-64-Flash-Cards
+
+Everdrive 64
+
+   Yet again Krikzz has created one of the best solutions for getting our
+   gaming fix on another system. The Everdrive 64 is his SD card enabled
+   Nintendo 64 cartridge which features fantastic compatibility and an
+   array of exclusive features.
+
+   The Everdrive 64 features an all important CIC boot emulator that
+   emulates the CIC-6102 and CIC-7101. If you’re unsure on what this is,
+   simply put it now brings the Everdrive 64 near perfect compatibility
+   with every single game including even the more advanced N64 games such
+   as Banjo Tooie.
+
+   As various Nintendo 64 games had their own different type of built in
+   save game functionality (for example, SRAM, SRAM128Kbyte, EEPROM16k,
+   EEPROM4k, FlashRam), the Everdrive 64 has been programmed to support
+   all of these. The Everdrive 64 usually detects what type of save memory
+   is required per ROM, however, with this much power comes responsibility
+   - and the only downside to this device. After playing through a game
+   and saving your progress, you must hit reset before powering off the
+   console and allow the Everdrive 64 enough time to write your save data
+   to the SD card. This has since been fixed in the newer third version of
+   the cartridge, but at an added cost.
+
+   Also on board the Everdrive 64 is the unusual addition of emulator
+   functionality. The Everdrive 64 has the ability to emulate Nintendo NES
+   and Nintendo Game Boy games straight from the SD card via the Everdrive
+   64 menu. Additional files are required for this, but they’re only a few
+   clicks away.
+
+   The main thing to keep in mind when purchasing an Everdrive 64 is which
+   region console you will be playing it on. The PAL Nintendo 64 will
+   require the CIC-7101 version, where by the NTSC will require the
+   CIC-6102 version.
+     * Storage: SD cards
+     * Pros: Amazing compatibility, emulation features, gamepak save
+       support.
+     * Cons: Cannot use the same cartridge on both a PAL and NTSC Nintendo
+       64, fiddly save game functionality
+
+   Link: Buy Everdrive 64 V3 Flash Cartridge
+
+   Link: Buy Everdrive 64 v2.5 Flash Cartridge
+
+   Link: Find Everdrive 64 Flash Cartridge on eBay

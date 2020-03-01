@@ -1,0 +1,73 @@
+
+   2 avis
+   Voir les avis
+   [Sceau_100_fr.png]
+
+   (BUTTON) (BUTTON) (BUTTON) (BUTTON)
+     Envoyer à un ami
+
+Envoyer à un ami
+
+   Heiman HS2WD-Z "Smart Siren" - Sirène Z-Wave+ sur secteur avec batterie
+   de secours
+
+   Heiman HS2WD-Z "Smart Siren" - Sirène Z-Wave+ sur secteur avec batterie
+   de secours
+
+   Destinataire :
+
+   Nom de votre ami ^* : ____________________
+
+   Adresse e-mail de votre ami ^* : ____________________
+
+   ^* Champs requis
+
+   (BUTTON) Envoyer   ou  Annuler
+     * Caractéristiques
+     * Questions sur le produit ()
+     * 2 avis
+     * Notices
+
+     Technologie domotique sans-fil Z-Wave+ 868Mhz
+
+Compatibilités DE LA sirène HEIMAN HS2WD-Z
+
+   Zipabox de Zipato compatible home center V4 Vera Lite, Vera 3,
+   VeraEdge, Vera Plus, Vera Secure eedomus / eedomus+ de Connected Object
+   Jeedom Domoticz
+     * Sur Homey / Homey Pro : Officiellement compatible via l'application
+       (plugin) "Heiman"
+
+   Le niveau de charge de la batterie interne n'est pas transmise par
+   cette sirène. Si cette information est affichée par votre box ou
+   logiciel est affichée, vous devrez ne pas en tenir compte.
+
+CARACTéRISTIQUES TECHNIQUES DE LA SIRèNE HEIMAN HS2WD-Z
+
+     * Technologie domotique : Z-Wave+ (série 500) à 868Mhz
+     * Alimentation :
+          + Secteur 110-240Vac, 50/60 Hz par fiche type "F" (prise
+            Française)
+          + Batterie de secours interne : 3,8V 700 mAh
+     * Distance de transmission : 150m max. avec d'autres modules Z‑Wave
+       Plus et 30m max. avec d'autres modules Z‑Wave, en champ libre (peut
+       varier suivant de nombreux facteurs, voir notre article sur la
+       propagation des ondes radio Z-Wave pour estimer les distances
+       réelles d'émission).
+     * Puissance de la sirène : 95 dB à 1m
+     * Température de fonctionnement : -10°C à 50°C
+     * Humidité de fonctionnement : ≤95% sans condensation
+     * Dimensions : ∅ 80 mm x 32 mm
+     * Poids : 87g
+     * Indice de protection : IP20
+     * Certifications : CE et RoHS
+     * Garantie 2 ans (1 an par Heiman, étendue à 2 ans par
+       domotique-store.fr)
+
+
+
+   Parfois aussi vendue sous la référence : HEIEHS2WD
+
+Certificat CE
+
+   Télécharger

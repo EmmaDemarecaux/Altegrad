@@ -1,0 +1,36 @@
+
+   Java.com
+
+   Télécharger Aide
+   Recherche___________ Recherche
+
+Téléchargement gratuit de Java
+
+Téléchargez Java gratuitement sur votre PC dès maintenant !
+
+Version 8 Update 221
+
+   Date de publication : 16 juillet 2019
+   [alert_16.png]
+
+Mise à jour importante de la licence Oracle Java
+
+La licence Oracle Java a été modifiée pour les versions publiées à compter du
+16 avril 2019.
+
+   Le nouveau contrat de licence Oracle Technology Network pour Oracle
+   Java SE est sensiblement différent des précédentes licences Oracle
+   Java. La nouvelle licence autorise certaines utilisations à titre
+   gratuit, telles qu'une utilisation personnelle ou pour le
+   développement, mais d'autres utilisations peuvent ne plus être
+   disponibles, bien qu'autorisées sous les précédentes licences Oracle
+   Java. Veuillez lire attentivement les conditions avant de télécharger
+   et d'utiliser ce produit. Une FAQ est disponible ici.
+   Le support et la licence commerciale sont disponibles à moindre coût
+   avec un abonnement à Java SE.
+   Oracle fournit également la dernière version d'OpenJDK sous la licence
+   GPL open source à l'adresse jdk.java.net.
+   Téléchargement gratuit de Java
+
+   » Java, qu'est-ce que c'est ? » Est-ce que je dispose de Java ? »
+   Besoin d'aide ?

@@ -1,0 +1,5 @@
+
+   MODIFIER INFOS
+   Nombre de rooms (ouvertes) : ____________________ Nombre de thèmes :
+   ____________________ Joueurs en simultané: ____________________
+   URL de réservation : ________________________________________

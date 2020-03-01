@@ -1,0 +1,73 @@
+   REFRESH(0 sec): file://localhost/docs/plugins?_fb_noscript=1
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate Facebook for Developers
+
+   [hsts-pixel.gif?c=3.2.5]
+
+   Social Plugins
+     * Commentaires
+     * Commentaires intégrés
+     * Publications intégrées
+     * Vidéos intégrées
+     * Plugin Group
+     * Bouton J’aime
+     * Plugin Page
+     * Plugin Citation
+     * Bouton Enregistrer
+     * Bouton Partager
+     * Points de terminaison oEmbed
+     * Sites pour enfants
+     * Questions/réponses
+     * Obsolescence
+
+Social Plugins
+
+   Voyez ce que vos amis Facebook aiment, partagent ou commentent sur le
+   web.
+
+* Plugin Group – Nouveau !
+
+• Bouton Enregistrer
+
+• J’aime, Partager, Envoyer et Citation
+
+• Publications et lecteur vidéo intégrés
+
+• Plugin Page
+
+• Commentaires
+
+• Voir aussi – Plugins Messenger
+
+   Ressources supplémentaires :
+   Questions/réponses sur les Social Plugins | Informations sur les
+   produits | Sites pour enfants | Liste de pointage pour le partage
+
+Plugin Group
+
+Plugin Group
+
+   Grâce au plugin Group, il est possible de rejoindre votre groupe
+   Facebook depuis un lien contenu dans un e-mail ou sur une page web.
+   E-mailWeb
+
+Bouton Enregistrer
+
+Bouton Enregistrer
+
+   Le bouton Enregistrer permet d’enregistrer des articles ou des services
+   dans une liste privée sur Facebook, de les partager avec des amis et de
+   recevoir les notifications associées.
+   Web
+
+J’aime, Partager, Envoyer et Citation
+
+Plugin Citation
+
+   Le plugin Citation permet aux gens de sélectionner du texte depuis
+   votre page et de l’ajouter à leur partage afin qu’ils puissent raconter
+   une histoire plus expressive.
+   Web

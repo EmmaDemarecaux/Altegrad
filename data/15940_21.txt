@@ -1,0 +1,50 @@
+   Hébergeur d'images depuis 2005
+     * Accueil
+     * Découvrir
+     * Nos offres
+     * S'inscrire
+     * Se connecter
+     * Sur votre site
+
+     *
+     *
+     *
+
+   (BUTTON)
+
+   Hébergeur d'images crée en 2005. Qualité & Fiablilité Testez notre
+   solution de stockage d'images avec l'offre découverte.
+   Je m'inscris maintenant!
+   en savoir plus.
+   [INS: :INS]
+
+Hebergeur d'image
+
+     * Héberger plusieurs images
+     * Héberger une image
+     * Héberger un fichier
+
+Héberger une image - Multi-upload
+
+   [Ne pas redimensionner les images]
+   [ ] Créer un album ? | [ ] Ne pas optimiser
+   (BUTTON) Envoyer mes images!
+
+   Découvrez www.produits-locaux-h24.com : Le guide des distributeurs
+   automatiques de produits fermiers en France, service édité par
+   Casimages.
+
+Héberger une image
+
+                                            Heberger
+   [ ] Ne pas optimiser
+
+Héberger un fichier
+
+                                            Heberger
+
+   Image : *.Gif, *.Jp(e)g, *.Png - 10Mo max/ image - 50 images max /
+   envoi
+   Fichier : *.xls *.xla *.ppt *.ppz *.pps *.pot *.doc *.dot *.pdf *.csv
+   *.rtf *.txt *.rtx *.swf *.cab - 20Mo max/ fichier - 1 fichier / envoi
+   [INS: :INS]

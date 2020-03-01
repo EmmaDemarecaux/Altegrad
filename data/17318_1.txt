@@ -1,0 +1,82 @@
+   (BUTTON) logo logo-blue
+     * Zone de couverture
+     * Comment ça marche
+
+   Donnez votre avis
+
+VOTRE BORNE D'APPEL D'URGENCE EMBARQUÉE
+
+   En cas de panne, d'accident ou de difficulté pendant votre trajet, plus
+   besoin d'abandonner votre voiture et de vous rendre à pied jusqu'à une
+   borne d'appel d'urgence !
+
+Téléchargez la gratuitement sur
+
+app app voiture
+
+   header-img
+
+Plus de 800 000 téléchargements
+
+   test1
+
+   Très bonne application à installer sur tous les smartphones afin de
+   signaler encore plus rapidement les infos urgentes et les accidents
+
+Antoine Joffrin
+
+   test2
+
+   Devrait être systématique sur autoroute ça éviterait certains
+   comportements à risque en cas de panne.
+
+Roland Defilippi
+
+   test1
+
+   Excellente idée plus besoin de marcher dans 1 m d'herbe pendant 200 m
+   pour être dépanné.
+
+Thibaut Dutrannoy
+
+   test2
+
+   Pour ma part, grâce à cette application nous sommes protégés par les
+   patrouilleur et l'assistance à laquelle nous avons droit avec notre
+   assurance arrive.
+
+Laurence Carpentier
+
+   test1
+
+   Vachement pratique, cela évite bien d'être obligé de marcher pour aller
+   jusqu'à une borne d'appel avec les risques que l'on peut avoir.
+
+Jean-Claude Allafort
+
+   test2
+
+   En espérant ne pas avoir à m'en servir...
+
+Benoit Parent
+
+   appstore
+
+   pictogrammes
+
+L'application indispensable sur les autoroutes de France
+
+   Les réseaux APRR & AREA, SANEF, SAPN, ATMB, SFTRF, ADELAC, A'LIENOR,
+   ATLANDES utilisent le système SOS Autoroute. D'autres concessionnaires
+   devraient s'équiper du système de borne d'appel d'urgence embarquée
+   très prochainement. En dehors de la zone de couverture, vous êtes
+   directement redirigé vers le 112.
+
+   mockup
+
+Comment ça marche ?
+
+   step-1
+   01
+
+Créez votre compte avant de prendre la route

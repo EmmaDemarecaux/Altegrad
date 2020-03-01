@@ -1,0 +1,84 @@
+
+   Annuler (BUTTON) envoyer
+
+   Fermer
+
+Identification / Inscription express
+
+   La page que vous souhaitez consulter est réservée aux professionnels de
+   santé, membres d’Edimark.fr
+
+Identifiez-vous
+pour accéder au contenu
+
+   identifiant
+   ____________________
+   mot de passe
+   ____________________
+   [ ] Se souvenir de moi
+   (BUTTON) valider
+   Identifiant ou mot de passe oublié
+   Besoin d’aide ?
+   Abonnement Institution
+
+Inscrivez-vous
+
+   Pour créer un compte, merci de compléter les informations suivantes.
+   Vous serez invité à compléter votre profil lors de vos prochaines
+   visites.
+   * Tous les champs sont obligatoires.
+   email
+   ____________________
+
+   Votre compte a été désactivé, Veuillez utiliser le formulaire de
+   contact pour nous demander une réactivation de votre compte
+   mot de passe
+   ____________________
+   profession
+   [- Sélectionner une profession --]
+   spécialité *
+   [- Sélectionner une spécialité -� -]
+   [ ] Conditions d’utilisation du service. En cochant cette case, je
+   reconnais avoir pris connaissance de l’intégralité de ces conditions et
+   je les accepte sans restriction.
+   Lire les mentions légales
+   [ ] J’accepte de recevoir des emailings commerciaux de la part
+   d’Edimark (offre d’abonnement, promotion, etc.)
+   (BUTTON) s'inscrire
+   En validant ce formulaire, vous certifiez être un professionnel de
+   santé, qui est seul habilité à prendre connaissance des informations
+   fournie par Edimark, et diffusées dans le cadre de la réglementation
+   établie par l’ANSM.
+
+   Fermer
+
+Identifiant / Mot de passe oublié
+
+   Vous avez oublié votre mot de passe ?
+   Merci de saisir votre e-mail. Vous recevrez un message pour
+   réinitialiser votre mot de passe.
+   e-mail
+   ____________________
+   (BUTTON) ENVOYER
+
+   Vous avez oublié votre identifiant ?
+   Consultez notre FAQ sur les problèmes de connexion ou contactez-nous
+
+   Vous ne possédez pas de compte Edimark ?
+   Inscrivez-vous gratuitement
+
+   Fermer
+   E-mail envoyé
+
+   Nous vous avons envoyé un e-mail afin que vous puissiez réinitialiser
+   votre mot de passe rapidement.
+   Retour au site
+
+   Fermer
+   Confirmation
+
+   L'inscription s’est bien déroulée !
+   Retour au site
+
+   Top Page [221021204864?c=DROIT MEDICAL&p=BLOG&l3=LA RESPONSABILITE
+   MEDICALE&l4=DISPENSE D INFORMATION EN CAS D URGENCE&st=0&sjs=0]

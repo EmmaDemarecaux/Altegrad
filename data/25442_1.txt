@@ -1,0 +1,77 @@
+
+
+
+
+   #RSS News
+
+   Aller au contenu
+
+     * Accueil
+     *
+     *
+     *
+
+   Le Forum des professionnels de l'informatique
+     * Utilisateur existant ? Connexion
+
+Connexion
+          + ____________________
+          + ____________________
+          + [X]
+            Se souvenir de moi Non recommandé sur les ordinateurs partagés
+          + [ ]
+            Connectez-vous anonymement
+          +
+            (usernamepassword) Connexion
+            Mot de passe oublié ?
+     * S’inscrire
+
+   ____________________ (BUTTON)
+   Rechercher dans
+     * (*) N’importe où
+     * Plus d’options…
+
+   Rechercher les résultats qui contiennent…
+     * (*) N’importe quel terme de ma recherche
+     * ( ) Tous les termes de ma recherche
+
+   Rechercher les résultats dans…
+     * (*) Titres et corps des contenus
+     * ( ) Titres des contenus uniquement
+
+     * Naviguer
+          + Forums
+          + Règles
+          + Équipe
+          + Utilisateurs en ligne
+          + Plus
+     * Activité
+          + Toute l’activité
+          + Flux de mon activité
+          + Contenu non lu
+          + Contenu que j’ai commencé
+          + Rechercher
+          + Plus
+     * Tech2Tech.fr
+          + Partager des images
+          + L'annuaire des techs
+          + Offres d'emploi
+          + Plus
+     * Classement
+     * Plus
+          + Plus
+
+     * Toute l’activité
+
+     * Accueil
+     * Recherche
+
+Rechercher dans la communauté
+
+   Affichage des résultats pour « {query} ».
+   (BUTTON)
+   {query}_____________ (BUTTON) Chercher à nouveau
+
+   Vous n’avez pas trouvé ce que vous cherchiez ? Essayez de rechercher :
+     * Les nouveaux résultats en premier
+     * {query} uniquement dans le titre des contenus

@@ -1,0 +1,3 @@
+
+   [#1] Here's the footnote I mentioned. [2-The other footnote] The other
+   footnote. Note how its name is different?

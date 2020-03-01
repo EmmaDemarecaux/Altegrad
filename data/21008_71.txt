@@ -1,0 +1,11 @@
+
+   David Decker - DECKERWEB 2 000+ installations actives Testé avec 5.1.2
+   Mise à jour il y a 7 mois
+
+Showeblogin Like Share Box Plugin
+
+   (41 notes en tout)
+
+   Brings the power of simplicity to display or embed Facebook Page Plugin
+   (Like Box) widget into your WordPress website by using latest Graph API
+   v3.2.

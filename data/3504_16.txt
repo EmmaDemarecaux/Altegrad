@@ -1,0 +1,14 @@
+
+   Management :
+     * Recent changes
+     * Unused pages
+     * Undefined pages
+     * Page index
+     * Old homepage
+
+   Server informations :
+     * Text formatting rules
+     * Special page index
+     * Give edition rights
+     * System information
+     * About

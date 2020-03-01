@@ -1,0 +1,196 @@
+
+   Tous les protocoles sont disponibles sous forme chiffrée.
+
+À propose de mail.fr
+
+     * Protection des données
+     * CGV
+     * Révocation
+     * Mentions légales
+
+   Tous droits réservés. ©2015-2019 by mail.de GmbH
+   [lock.png] Login
+   (BUTTON) Toggle navigation [logo_mail_fr.png]
+     * mail.fr
+     * Fonctions
+     * Produits
+     * Sécurité
+     * Société
+
+Testez nos services pendant
+30 jours gratuitement et sans publicité :
+
+   Basic Mail
+     * 2 Go Espace de stockage pour e-mails et espace de stockage en ligne
+     * 4 Go / mois Volumes de transfert (trafic)
+     * 60 Mo Taille de pièces jointes élevée (réception et envoi)
+     * Utilisation confortable via notre appli (pour iPhone/Android)
+     * Signature e-mail personnalisée
+     * Détection des spams à la réception et lors de l'envoi
+     * Consultation des e-mails via IMAP et POP3
+
+Choisissez ensuite l'un de nos produits :
+
+   Espace de stockage pour e-mails et espace de stockage en ligne
+   Volumes de transfert (trafic)
+   Taille maximum des pièces jointes (réception et envoi)
+   Utilisation confortable via notre appli (pour iPhone/Android)
+   Signature e-mail personnalisée (Nombre)
+   Détection des spams à la réception et lors de l'envoi
+   Consultation des e-mails via IMAP et POP3
+   Boîte aux lettres sans publicité/aucune newsletter mail.fr^**
+   Service de sauvegarde d'e-mails (inclus)
+   Signature HTML avec photo/logo
+
+Durée du contrat
+
+   Aucune 12 mois
+   Free Mail
+   Free
+   0^,00EUR / mois
+   2 Go
+   4 Go / mois
+   60 MO
+   limité
+   1
+   Oui
+   Oui
+   Plus Mail
+   Plus
+   1^,00EUR / mois^*
+   5 Go
+   10 Go / mois
+   100 Mo
+   Oui
+   2
+   Oui
+   Oui
+   Oui
+   Oui
+   Oui
+   S'inscrire gratuitement
+   ^**Le newsletter mail.fr fait partie du pack FreeMail, une
+   désinscription n'est pas possible.
+
+Conditions de contrat
+de nos produits
+
+   Durée du contrat
+   Délai de résiliation
+   Facturation
+   Mode de paiement
+
+Durée du contrat
+
+   Aucune 12 mois
+   Basic Mail
+   Basic
+   0^,00EUR / mois
+   30 jours
+   Automatique
+   Free Mail
+   Free
+   0^,00EUR / mois
+   Aucune
+   Aucune
+   -
+   Plus Mail
+   Plus
+   1^,00EUR / mois^*
+   12 moisAucune
+   1 mois à la fin du contrat14 jours à la fin du contrat
+   Montant total au début du contratmensuel du crédit^***
+   Paysafecard / PayPal (Express)
+   S'inscrire gratuitement
+   ^*Tous les prix s'entendent TVA comprise au taux actuellement en
+   vigueur.
+   ^***Vous pouvez augmenter votre crédit quand vous le souhaitez. Le
+   montant de recharge minimum est de 6 EUR.
+
+Autres fonctions de nos produits :
+
+E-mail
+
+     * Personnaliser l'apparence des e-mails
+     * Fonction de recherche des e-mails
+     * Transfert d'e-mails
+     * Notification d'absence automatique
+     * Correction orthographique des e-mails
+     * Envoi d'e-mails à des groupes
+     * Listes de diffusions
+     * Visionnement direct des pièces jointes (photos, vidéos, audio, PDF)
+     * Règles de filtre côté serveur
+
+Sécurité du compte
+
+     * Certificat SSL à validation étendue
+     * Centre informatique hautement sécurisé pour vos données
+     * U2F (authentification à deux facteurs avec clé USB)
+     * Nom de connexion personnalisé (différent de l'adresse e-mail)
+     * Connexion sécurisée (SSL/HTTPS)
+     * Session de messagerie web sécurisée (SSL/HTTPS)
+     * Protection contre les spams et les virus pour les e-mails entrants
+       et sortants
+     * Chiffrement SSL/TLS via POP3 / IMAP
+     * Chiffrement SSL/TLS via SMTP
+
+Espace de stockage en ligne
+
+     * Formats de fichiers compatibles :
+       Excel, Word, Powerpoint, PDF, Photos, Musique, Vidéo
+     * Éditer des fichiers Excel, Word et Powerpoint
+     * Accès externe (lecteur réseau) via WebDAV
+     * Partager des fichiers avec des tiers
+     * Envoyer des fichiers par e-mail
+     * Enregistrer des pièces jointes
+
+Sécurité du serveur
+
+     * DANE (norme internationale de chiffrement du transport)
+     * DNSSEC (norme internationale de vérification en temps réel des
+       saisies de domaines)
+     * Chiffrement d'entrée PGP pour e-mails entrants
+     * Chiffrement d'entrée S/MIME pour e-mails entrants
+     * Compatibilité OPENPGPKEY (publication de clés publiques PGP)
+     * Compatibilité SMIMEA (publication de clés publiques S/MIME)
+
+Gestion des contacts
+
+     * Carnet d'adresses accessible dans le monde entier
+     * Importation des adresses (Google Mail, XING, Outlook, etc.)
+     * Exportation d'adresses (CSV, vCard)
+     * Ajouter de nouveaux contacts par glisser-déposer
+     * Accès externe via CalDAV
+
+Interface utilisateur intuitive
+
+     * Fonction glisser-déposer disponible
+     * Boîte à outils : accès rapide (contacts et fichiers)
+     * Personnalisation de la page de démarrage
+     * Notes virtuelles
+     * Dernières actualités grâce au flux RSS
+
+Gestion des événements
+
+     * Calendrier et agenda avec e-mail de rappel
+     * Fonction glisser-déposer disponible
+     * Accès externe via CalDAV
+
+Messages SMS
+
+     * Après la recharge du compte
+     * Numéro d'expéditeur SMS
+     * Envoi programmable de SMS
+
+Protection des données vérifiée
+
+   DATATREE AG
+
+Boutique en ligne certifiée
+
+   Trusted Shops mail.de est une boutique en ligne vérifiée par Trusted
+   Shops (certificat et protection acheteur).
+
+Sécurité élevée
+
+   TLS Secured Tous les sites de mail.ch utilisent le chiffrement par TLS.

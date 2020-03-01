@@ -1,0 +1,6 @@
+
+Enseignant-Chercheurs
+
+           Civilité                Prenom Nom    Université d'origine Invité par
+  M                            Jean-Marie Lescure
+  Université Clermont Auvergne Stéphane Vassout

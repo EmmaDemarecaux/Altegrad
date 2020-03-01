@@ -1,0 +1,11 @@
+
+   Forensic : l’ANSSI libère l’ORC
+
+Forensic : l’ANSSI libère l’ORC
+
+   L’ANSSI vient de publier sous licence libre son outil DFIR ORC (pour
+   Outil de Recherche de Compromission), destiné à « la recherche,
+   l’extraction et la mise à disposition de données forensiques dans un
+   environnement Microsoft Windows » et utilisé depuis 2011 au sein de
+   l’Agence. [Lire l'article...]
+   Publié le 24 septembre 2019 16:09 - Autres infos Développement

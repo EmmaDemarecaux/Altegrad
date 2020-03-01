@@ -1,0 +1,11 @@
+
+   The Page Builder Sandwich Team 4 000+ installations actives Testé avec
+   5.1.2 Mise à jour il y a 7 mois
+
+Hummingbird – Speed up, Cache, Optimize Your CSS and JS
+
+   (501 notes en tout)
+
+   Make your website load blazing fast and speed up WordPress with minify,
+   caching, defer critical CSS and JavaScript, Smush lazy load
+   integration, and m …

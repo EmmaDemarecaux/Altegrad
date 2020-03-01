@@ -1,0 +1,11 @@
+
+   Anton Pugachevsky 1 000+ installations actives Testé avec 4.8.10 Mise à
+   jour il y a 2 ans
+
+Simple Widget Factory Plugin
+
+   (0 notes en tout)
+
+   SIMPLE WIDGET FACTORY is a plugin which is been able to create custom
+   widget areas according to the column position value given to the input
+   field.

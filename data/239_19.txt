@@ -1,0 +1,54 @@
+
+2. NOUVELLE APPLI MOBILE
+
+   © Politis
+
+   (version smartphone, disponible également pour les tablettes)
+
+   L’application est téléchargeable gratuitement à partir des stores Apple
+   et Google. Elle est désormais accessible que l’on soit abonné ou non
+   pour suivre les publications quotidiennes et hebdomadaires de Politis.
+   Une fois téléchargé, Politis peut être lu hors ligne. Vous pouvez
+   suivre le “DIRECT�, soit l’ensemble des articles publiés sur le site de
+   Politis (articles en accès libre et réservés aux abonnés) en temps
+   réel. Abonné, vous avez accès à tous les articles du site après vous
+   être identifié, ainsi qu’au magazine dans sa maquette originale
+   (smartphone/tablette). L’accès est également possible pour les lecteurs
+   des Packs « Liberté » et « Découverte » (offre 3 articles à un-e
+   ami-e). Si vous n'avez souscrit à aucune de ces offres, vous ne pourrez
+   lire que les articles en accès libre ou acheter les magazines en
+   version numérique directement sur les stores, en deux clics seulement.
+
+   Les fonctionnalités de l'application :
+
+   • Présentation du dernier numéro et du hors-série, dès la page
+   d’accueil
+
+   • Achat à l’unité en deux clics (pour les non-abonnés)
+
+   • La consultation des numéros par année et mois dans un menu horizontal
+   avec un accès aux numéros par les visuels de couverture
+
+   • Deux chemins de fer « articles » et « pages » proposant une vision
+   globale de la maquette avec accès aux articles par balayage
+   droite-gauche
+
+   • Une barre d’accès aux pages très fluide permettant de naviguer
+   rapidement dans le journal
+
+   • Nouvelle maquette des pages avec accès en « reflow », l'utilisateur
+   appuie sur un article et la page s’affiche en plein écran, ce qui rend
+   la lecture plus agréable (connu également sous le nom de « mode zen »)
+   + accès articles par articles par balayage droite-gauche
+
+   • Accès aux autres articles via une réglette en bas de page de
+   l’article
+
+   • Confort de lecture : fonction + et – pour augmenter la taille du
+   texte
+
+   • La fonction « Favoris » afin de marquer les pages que l’on souhaite
+   réserver à la lecture
+
+   • Tutoriel de navigation afin d’expliquer les différents types de
+   lecture

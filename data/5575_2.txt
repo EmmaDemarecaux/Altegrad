@@ -1,0 +1,35 @@
+
+   Whether you are looking to create your first package or planning to
+   fully automate your entire Windows Lifecycle. Its time to step out of
+   the dark ages and stop doing things manually. Reduce complexity, save
+   yourself time, and get up to speed on the latest technologies and
+   approaches.
+
+   Even if you are new to automation or a Chocolatey expert, our courses
+   are designed to get you up to speed easily.
+     * Interactive courses with quizzes on each module
+     * Self-paced with practical exercises
+     * Earn badges for each course you have completed, and share on your
+       profile
+
+   Start Learning
+
+Signup for the Newsletter!
+
+   ____________________
+   ____________________
+   (BUTTON) Subscribe
+
+   Be the first to know about upcoming features, security releases, and
+   news about Chocolatey.
+
+Overview
+
+     * About
+     * Getting Started Guide
+     * Why Chocolatey
+     * How Chocolatey Works
+     * Security
+     * Kickstarter
+     * Partner
+     * Customer Stories

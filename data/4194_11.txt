@@ -1,0 +1,176 @@
+
+Description
+
+   L’Ineris a réalisé des calculs de modélisation des distances d’effets
+   (explosion et dispersion toxique) des scénarios majorants pour les
+   principaux cas types rencontrés sur des sites de méthanisation de
+   taille agricole et industrielle.
+   Les scénarios accidentels concernent sur trois équipements principaux
+   mettant en œuvre du biogaz d’une unité de méthanisation : un digesteur
+   (méthaniseur), un gazomètre (stockage de biogaz) et des canalisations
+   de transfert de biogaz en aérien et dans des locaux.
+   Ce rapport propose des distances d’effets (explosion, incendie,
+   dispersion toxique) qui serviront d’aide à la décision pour de nombreux
+   industriels ou les pouvoirs publics, d’où l’importance des conditions
+   d’apparition des types de scénarios accidentels retenus et des
+   hypothèses prises en compte dans la modélisation.
+   Téléchargement
+
+   Partager
+     * Facebook
+     * Twitter
+     * Linkedin
+     * Viadeo
+     * Addtoany
+
+   Accueil
+     * Accueil
+     * L'Ineris
+     * Les risques
+     * Recherche & Appui
+     * Prestations & Formations
+     * Base documentaire
+
+     * Nos implantations et plans d’accès
+     * Liens utiles
+     * Contactez-nous
+     * Recrutement
+     * MENTIONS LÉGALES
+     * CONDITIONS GÉNÉRALES
+
+   Abonnez-vous à la lettre d'actualités
+
+   IFRAME: https://app.mailjet.com/widget/iframe/2xDQ/4oy
+
+   Ineris 2019. Tous droits réservés.
+     * Suivez-nous:
+     * Facebook
+     * Twitter
+     * YouTube
+     * LinkedIn
+     * Flux RSS
+     * Back to top
+   #alternate
+
+   Aller au contenu principal
+
+   JavaScript désactivé - Ce site requiert l'activation de JavaScript.
+   JavaScript is deactivated - This site requires JavaScript.
+     * Aller au contenu
+     * Aller au menu
+     * Aller au pied de page
+
+   Ineris | Institut national de l'environnement industriel et des risques
+
+   Search on website
+
+   Rechercher ______________________________ (BUTTON) Rechercher
+
+     * FR
+     * EN
+
+   (BUTTON) Menu
+
+     * Accueil
+     * L'Ineris
+       (BUTTON) Fermer
+       L'Ineris
+          + L'Institut en bref
+               o L’expert public pour la maîtrise des risques
+               o Nos implantations et plans d’accès
+               o Nos partenariats
+               o Engagement qualité
+               o Historique
+               o La cellule d'appui aux situations d'urgence (CASU)
+               o Rapports annuels
+               o Les guides
+          + Missions
+               o Recherche
+               o Appui aux politiques publiques
+               o Prestations
+          + Organisation et gouvernance
+               o Organigramme
+               o Conseil d'administration
+               o Conseil scientifique
+               o Commissions scientifiques spécialisées
+               o Commission d'orientation de la recherche et de
+                 l'expertise (CORE)
+               o Comité de suivi de la charte de déontologie
+          + Ouverture à la société
+               o Notre démarche d'ouverture
+               o Les réunions avec les parties prenantes
+               o La collection Ineris Références
+          + Actualités
+          + Agenda
+          + Presse
+          + Documents de référence
+     * Les risques
+       (BUTTON) Fermer
+       Les risques
+          + Dossiers thématiques
+               o Ozone
+               o Tous nos dossiers thématiques
+          + Qu'est-ce que le risque ?
+               o Définition
+               o La typologie des risques
+               o Politiques environnementales & risques
+               o Aux frontières des risques liés à l'environnement
+               o Quelques grands accidents depuis le XXe siècle
+          + L'Ineris et les risques
+               o La genèse de l'expertise
+               o Les métiers de l’Institut
+               o L'Ineris dans la chaîne de maîtrise des risques
+               o Risque et enjeu climatique
+     * Recherche & Appui
+       (BUTTON) Fermer
+       Recherche & Appui
+          + Risques accidentels
+               o Présentation
+               o Sécurité industrielle
+               o Transport de matières dangereuses et canalisations
+               o Barrières de sécurité
+               o Sécurité des substances et procédés industriels
+               o Incendie / explosion / dispersion toxique et impact sur
+                 les structures
+               o Malveillance
+               o Nouvelles filières énergétiques
+          + Risques chroniques
+               o Présentation
+               o Mesure et prévision de la qualité de l'air
+               o Pollution des milieux aquatiques
+               o Substances chimiques et agents physiques
+               o Risques sanitaires
+               o Economie circulaire et déchets
+               o Sites et sols pollués
+               o Le logiciel MODULERS
+          + Risques sols sous-sols
+               o Présentation
+               o Mines, après-mines et industries extractives
+               o Ouvrages géotechniques, barrages et géostructures
+               o Stockages souterrains, réservoirs et forages profonds
+               o Cavités de dissolution, fronts rocheux et pentes
+                 instables
+          + Certification
+               o L’activité de certification
+               o CLATEX - Comité de liaison des équipements ATEX
+          + Focus
+               o Méthanisation
+               o Nanomatériaux
+          + Normalisation
+          + Nos plateformes d'essais en grand
+          + Veille et assistance réglementaire
+     * Prestations & Formations
+       (BUTTON) Fermer
+       Prestations & Formations
+          + Ineris formation
+          + Nos prestations
+     * Base documentaire
+     *
+     *
+
+     * Accueil
+
+Etude des distances d'effets (explosion, thermique, toxique) des principaux
+scenarios majorants d'unité d'épuration de biogaz et d'injection biométhane
+
+   Rapports d'appui / guides .pdf 07 octobre 2014 1.47 Mo

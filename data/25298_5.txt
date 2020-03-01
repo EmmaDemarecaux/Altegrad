@@ -1,0 +1,66 @@
+
+   Nous avons besoin de votre autorisation pour continuer
+
+   Ce site Web utilise des cookies. Nous faisons cela pour mieux
+   comprendre comment les visiteurs utilisent notre site, et pour vous
+   offrir une expérience plus personnelle. Nous pouvons compiler des
+   statistiques directement et par le biais de nos partenaires au cours de
+   votre visite.
+
+   La configuration des cookies est toujours disponible en bas de chaque
+   page.
+   [X] Nécessaire
+   Les cookies nécessaires contribuent à rendre un site Web utilisable en
+   activant des fonctions de base comme la navigation de page et l'accès
+   aux zones sécurisées du site Web. Le site Web ne peut pas fonctionner
+   correctement sans ces cookies.
+   [ ] Offres promotionnelles et marketing
+   Les cookies offres promotionnelles et marketing aident les
+   propriétaires du site Web, par la collecte et la communication
+   d'informations, à comprendre comment les utilisateurs interagissent
+   avec les sites Web.
+   [ ] Préférences
+   Les cookies de préférences permettent à un site Web de retenir des
+   informations qui modifient la manière dont le site se comporte ou
+   s’affiche, comme votre langue préférée ou la région dans laquelle vous
+   vous situez.
+   (BUTTON) Valider
+   #alternate alternate
+
+   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-5HFH27
+
+   Français
+     * English
+     * Italiano
+
+   (BUTTON) [user-mobile.svg] (BUTTON) Connexion
+
+   (BUTTON) close Fermer le menu
+     * Page d'accueil
+     * Gestion d'annonce
+     * Check-in
+     * Check-out
+     * Menage Linge Basic®
+     * Menage Linge Plus®
+     * Guide de location saisonnière
+     * FAQ
+     * Contact
+
+   Mail ou mot de passe incorrect.
+   ____________________
+   ____________________ [showPassword.png] [showPassword_2.png]
+   [ ] Se souvenir de moi Mot de passe oublié ?
+   (submit) Connexion
+
+   Retour à la connexion
+
+   Réinitialisez votre
+   mot de passe
+   Veuillez renseigner votre adresse email
+   Votre adresse email n\'est pas valide !
+   Cette adresse email ne correspond à aucun compte.
+   ____________________
+   (BUTTON) Envoyer
+
+   Ou connectez-vous avec
+   [FacebookIcon.png] [TwitterIcon.png] [GoogleIcon.png]

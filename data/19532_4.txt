@@ -1,0 +1,19 @@
+
+4- Cookies
+
+   Un cookie est un petit fichier texte, au format alphanumérique, déposé
+   sur le disque dur de l’internaute par le serveur du site visité.
+
+   Ces cookies ne comportent aucune information à caractères privé ou qui
+   puisse permettre d’identifier le Visiteur. Les cookies permettent de
+   reconnaitre un visiteur lorsqu’il revient sur un site web ; cependant,
+   sur un plan technique les cookies permettent, en fait, de reconnaitre
+   une machine et non réellement un utilisateur. Les cookies permettent au
+   Site d’améliorer les Services proposés, de reconnaître le Visiteur et
+   de faciliter la gestion du Site. Les cookies peuvent également être
+   utilisés à des fins statistiques (nombre de visites par jour, par heure
+   …, pages consultées, …) Le Visiteur est informé du fait qu’il peut
+   accepter, refuser ou paramétrer la mise en place de cookies sur son
+   disque dur en suivant la procédure indiquée sur son navigateur. Le fait
+   de refuser ou limiter les cookies peut perturber l’utilisation du Site
+   Internet.

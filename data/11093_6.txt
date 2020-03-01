@@ -1,0 +1,14 @@
+
+   If you need to know something about AWStats (features, setup, ...):
+   - Read seriously AWStats official documentation : HTML On line or PDF
+   file (326KB)
+   For last security annoucements:
+   - See security report page.
+   If you need help:
+   - The first thing you have to do to solve a technical problem is to
+   upgrade AWStats to last release version.
+   - Then you should read all the AWStats F.A.Q..
+   - If you still have problem, check on AWStats General FORUM (hosted by
+   sourceforge).
+
+Comparison

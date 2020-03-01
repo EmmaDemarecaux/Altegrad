@@ -1,0 +1,82 @@
+
+   Anglais
+
+   [alinea.gif] Abréviations.
+         ad    Anno Domini (de préférence en petites capitales).
+         bc    Before Christus (de préférence en petites capitales).
+     d.t.p.    DTP desktop publishing.
+     e.t.s.    electronic typescript.
+    f., ff.    following page(s).
+       s.c.    small capitals : petites capitales.
+       s/s     same size : même taille.
+
+   [alinea.gif] Capitales et bas de casse.
+   [alinea.gif] Le Royaume-Uni, pour l’heure, porte bien le premier
+   élément de son nom, et les États-Unis ont une nette inclination pour le
+   clinquant : cela explique en partie la place qu’ils accordent aux
+   majuscules dans les titres, voire dans les toponymes.
+   [alinea.gif] Titres.
+   [alinea.gif] The Queen of England (la reine d’Angleterre), the Prince
+   of Wales (le prince de Galles), the Duke of Wellington (le duc de
+   Wellington), Sir Winston Churchill (sir Winston Churchill).
+   [alinea.gif] Noms géographiques.
+   [alinea.gif] The Straits of Gibraltar (le détroit de Gibraltar).
+   [alinea.gif] Ponctuation.
+   [alinea.gif] Principales différences entre les usages anglais et
+   français :
+   [alinea.gif] ¶ Espaces : l’anglais ignore la plupart des espaces qui
+   font notre joie… Quand la typographie française introduit une espace
+   insécable entre deux signes, l’anglo-saxonne les colle.
+   Français !
+   English!
+   Français ?                English?
+   Français :                English:
+   Français ;                English;
+   « Français » [alinea.gif] “English�, ‘English’.
+   [alinea.gif] Sans doute pour compenser, le point, le point
+   d’exclamation et le point d’interrogation  lorsqu’ils terminaient une
+   phrase  furent longtemps suivis d’un cadratin (espace égale à la force
+   du corps). Cet usage, qui ruinait le gris typographique, est en voie de
+   disparition.
+   [alinea.gif] Tirets.
+   [alinea.gif] Au sein d’une phrase, le tiret est collé au signe qui le
+   précède et au signe qui le suit, quels que soient ces signes : There
+   are several dangers:first, it is hard to judge the value of the
+   tone;second, it is difficult to keep from getting some of the tiny
+   drops of ink. The proportion of this sketchor of the space itselfmay
+   be enlarged in a number of ways.
+   [alinea.gif] Chiffres.
+   [alinea.gif] Dans les nombres, les tranches de trois chiffres sont
+   séparées par une virgule et les décimales par un point : 25,568.5 (= 25
+   568,5)
+   [alinea.gif] ¶ Il n’y a pas d’espace après ces signes. Cela les
+   distingue des signes de ponctuation et permet de lire ceci sans trop
+   d’effort : During 1973, 74,755 vessels entered ports to discharge and
+   load 198,275,230 tonnes.
+   [alinea.gif] Toutefois, afin d’éviter de regrettables confusions, les
+   bons typographes anglo-saxons surélèvent habilement le point des
+   décimales : Infant death, 56^.3 per 1,000 live births.
+   [alinea.gif] Exprimés en chiffres, les adjectifs ordinaux se forment
+   par l’adjonction (sans espace) de la terminaison th (composée en bas de
+   casse du même corps, position normale) : 4th (fourth), 5th (fifth),
+   10th (tenth), 20th (twentieth), etc. Les seules exceptions sont 1st
+   (first), 2nd (second), 3rd (third) et tous leurs composés : 21st
+   (twenty-first), 201st (two hundred and first), etc. En chiffres
+   romains : IIIrd, XXth, etc. Français : 1^er, 2^e, 3^e, 4^e, I^er,
+   III^e, XX^e.
+   [alinea.gif] Les symboles % et  sont collés au chiffre qui les
+   précède : 5.2%, 24.
+   [alinea.gif] ¶ Dans un texte composé en français, tous les
+   « anglicismes typographiques » sont des fautes typographiques graves.
+   [alinea.gif] Attention ! Au sein de textes ou d’ouvrages écrits et
+   composés en français, certaines coutumes typographiques anglo-saxonnes
+    espaces, guillemets  ne doivent pas être observées dans les
+   citations anglaises…
+   [alinea.gif]  Original : As one architect remarked, “Why bother so
+   about the spacing of the sheet? The final building is the thing which
+   counts; these drawings are but temporary thingsa means to the end.� In
+   a sense it is true.
+   [alinea.gif]  Adaptation : Comme le faisait finement observer un
+   architecte : « Why bother so about the spacing of the sheet ? The final
+   building is the thing which counts ; these drawings are but temporary
+   things  a means to the end. » Ce n’est pas faux.

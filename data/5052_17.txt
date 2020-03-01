@@ -1,0 +1,44 @@
+
+   Options de conférence audio
+   Options de conférence audio
+     * VoIP, Appel entrant, Appel sortant et appels sans frais dans le
+       monde entier
+     * Aucun frais pour les participants qui vous appellent de n’importe
+       quel appareil
+     * Sélectionner facilement un ou plusieurs pays qui pourront appeler
+       gratuitement
+
+   Learn More
+   Paiement au coup par coup
+   Calcul des frais basé sur les minutes utilisées et les tarifs standard
+   à la minute
+   Supplémentaire
+   {{buyPlan.tollfree.tollfree_apac_hosts*buyPlan.tollfree.did_amount|
+   formatCurrency}} Facturation mensuelle
+   /mois
+   Calcul des frais basé sur les minutes utilisées et des tarifs
+   avantageux à la minute. Prix minimum de
+   {{buyPlan.tollfree.month_amount/100|formatCurrency}}/mois
+   Facturation mensuelle
+   Couverture et tarifs de téléphone
+   [ ] Numéro gratuit
+   Veuillez communiquer un numéro 800 à vos participants.
+   {{buyPlan.tollfree.selected_tollfree_count}}
+   {{buyPlan.tollfree.selected_tollfree_count > 1 ? 'pays / régions' :
+   'pays / région'}} sélectionné(s)
+   [ ] Frais d'appel (assorti de frais)
+   Frais d'appel mais des frais seront engagés par minute et par personne.
+   {{buyPlan.tollfree.selected_premium_count}}
+   {{buyPlan.tollfree.selected_premium_count > 1 ? 'pays / régions' :
+   'pays / région'}} sélectionné(s)
+   [ ] Appels sortants
+   Saisissez votre numéro de téléphone sur l'affichage Zoom et Zoom
+   appellera votre numéro de téléphone.
+   {{buyPlan.tollfree.selected_callout_count}}
+   {{buyPlan.tollfree.selected_callout_count > 1 ? 'pays / régions' :
+   'pays / région'}} sélectionné(s)
+   [ ] Numéros dédiés à appeler (€9.30/mois/numéro) icon
+   Un numéro dappel dédié permet à vos participants de se joindre à la
+   conférence audio sans saisir de nº de réunion.
+   1___________________ numéronombres
+   Veuillez saisir un numéro valide.

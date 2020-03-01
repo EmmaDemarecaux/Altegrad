@@ -1,0 +1,2036 @@
+   #L'ÉCOLE DE DEMAIN » Flux L'ÉCOLE DE DEMAIN » Flux des commentaires
+   L'ÉCOLE DE DEMAIN » Quand des professeurs d’Histoire-Géographie
+   renversent leur classe 1/2 Flux des commentaires Interview de Séverine
+   Kakpo, spécialiste des devoirs On a contribué à Wikipédia en 6e !
+   alternate alternate L'ÉCOLE DE DEMAIN WordPress.com
+
+L'ÉCOLE DE DEMAIN
+
+Dessinons l'école pour la réussite de tous les élèves de la maternelle au
+lycée – Le blog Education du SE-Unsa
+
+Menu principal
+
+   Accéder au contenu principal
+     * Accueil
+     * rentrée
+     * Agir pour l’école
+     * Nos dossiers
+          + Agir pour l’école
+          + Scolarisation des migrants
+          + Dossier éducation au Web2
+          + Dossier ENT
+          + Socle Commun
+          + École pour tous École pour chacun
+          + #sansnotes
+          + Devoirs ou pas devoirs ?
+          + Dossier compétences
+          + école inclusive
+          + EMI
+          + EMC
+          + Le redoublement en questions
+          + Neurosciences
+     * Maternelle
+     * classe inversée
+     * Neurosciences
+     * Les écrans en questions
+
+Quand des professeurs d’Histoire-Géographie renversent leur classe 1/2
+
+   25 janvier 2013 · par Anthony Lozac'h · dans Enseigner au quotidien,
+   Innover sur le terrain. ·
+
+   classe inversée C’est un nouveau concept qui fait florès dans le monde
+   de l’éducation, et que les ango-saxons appellent la flipped classroom
+   (la classe renversée). Le principe est simple : la leçon est renvoyée
+   au travail personnel du soir, tandis que les devoirs, les applications
+   pratiques, sont réalisées en classe. Rien de révolutionnaire a priori
+   si ce n’est que l’usage et les possibilités des TIC augmentent et
+   renforcent la pratique et que la systématisation et la
+   conceptualisation de la classe renversée modifient fortement la
+   pédagogie au quotidien.
+
+   Dans le cadre de notre dossier intitulé #sansdevoirs, nous nous sommes
+   – paradoxalement – intéressés à cette pédagogie car elle trace une
+   piste qui peut s’avérer pertinente quand on cherche à réduire
+   effectivement les pratiques scolaires discriminantes, comme les devoirs
+   traditionnels, qui renforcent plus que ne  réduisent, les inégalités
+   scolaires (lire notre dossier). Par ailleurs, elle porte sur l’usage
+   des nouvelles technologies et des ressources numériques qui sont de
+   plus en plus saisies par les élèves et leurs familles pour accompagner
+   le travail scolaire. Pour autant, notre enquête auprès des professeurs
+   ne cherche pas à nier pas les difficultés et les limites de la méthode
+   mais bien à l’interroger.
+
+   Quatre professeurs ont accepté de répondre à nos questions :
+     * David Bouchillon, collège Aliénor d’Aquitaine, Salles, Gironde,
+       académie de Bordeaux
+     * Cyril Delabruyère, collège de l’Anglée, Ste Hermine et lycée
+       Atlantique, Luçon, Vendée, académie de Nantes
+     * Ghislain Dominé, Cité scolaire E. Zola, Wattrelos, Nord, académie
+       de Lille
+     * Thomas Reyser, collège Jean Campin, La Ferté-Gaucher,
+       Seine-et-Marne, académie de Créteil
+
+   Jeunes professeurs, tout en ayant quelques années d’expérience au
+   compteur, ils enseignent la même discipline, l’histoire-géographie, et
+   sont de grands utilisateurs du numérique, sans doute un peu geeks. Il
+   n’était pas question a priori de concentrer notre étude sur
+   l’histoire-géographie, et on pourrait regretter que d’autres
+   disciplines ou niveaux d’enseignement ne soient pas interrogées, mais
+   au final, cette concordance présente deux avantages : celle de
+   confronter une pratique innovante à un enseignement qui ne jouit pas
+   souvent dans les représentations communes de ce qualificatif, celle de
+   montrer la diversité et complémentarité des points de vue et des
+   réflexions alors qu’on aurait pu craindre a priori un monolithisme peu
+   stimulant. Il n’en est rien.
+
+   Depuis quand expérimentez-vous la pédagogie inversée ? Qu’est-ce qui
+   vous a décidé à franchir le pas ?
+
+   Ghislain Dominé
+
+     Depuis l’année scolaire passée. J’ai débuté uniquement avec ma
+     classe de seconde. Je pensais alors qu’avec une classe d’élèves plus
+     âgés, j’aurais plus de réussite. Il s’agissait vraiment d’une phase
+     d’expérimentation à tous égards avant de me lancer avec mes
+     collégiens. Cette démarche m’intéressait depuis bien longtemps (j’en
+     avais déjà une certaine forme d’intuition quand j’étais moi-même
+     lycéen!). Mais pour la conduire il me fallait un appareillage
+     technique autant chez les élèves que dans ma classe. C’est après
+     avoir discuté avec la principale de la FAIS (French American
+     International School)  de San Francisco que j’ai osé me lancer. Elle
+     a su me mettre en confiance.
+
+   David Bouchillon
+
+     J’expérimente la classe inversée depuis presque un an. j’ai
+     découvert cette pratique via Twitter et un article de Ghislain
+     Dominé sur son blog. Cela a été pour moi comme une révélation. Au
+     départ, je ne savais pas vraiment comme m’y prendre, j’ai vraiment
+     tâtonné. C’est véritablement en septembre 2012 que j’ai appliqué à
+     grande échelle la pratique.
+
+     J’ai toujours mis mes cours en ligne, j’ai toujours cherché à faire
+     en sorte que le cours ne s’arrête pas à la classe, avec la classe
+     inversée, j’ai trouvé un aboutissement … sûrement temporaire !
+     Depuis septembre, j’améliore la pratique, et surtout la forme. Je
+     crois être à présent arrivé à quelque chose qui me convient. La
+     présentation complète de cette pratique est à lire sur mon site
+     internet
+     pédagogique :https://sites.google.com/site/classe130/home/classe-inv
+     ersee
+
+   Cyril Delabruyère
+
+     J’expérimente ce système depuis 2 ans en lycée et depuis 1 an en
+     collège. Mon choix d’adopter cette méthode est née de la
+     conjonctions de trois constats et interrogations : 1-Le consumérisme
+     ambiant des élèves de lycée : il y a deux ans, je suis tombé sur une
+     classe de seconde qui adorait que je leur « fasse gratter le
+     cours », mais qui rechignait à se mettre au travail. Les élèves de
+     cette classe, très scolaires, avaient toujours été habitués à
+     apprendre le cours. Mais ils ne maîtrisaient aucune des méthodes
+     attendues au sortir du collège en Histoire-Géographie. 2-La place du
+     manuel dans nos cours : avec la réduction des budgets dévolus à
+     l’achat des manuels scolaires, je me suis interrogé sur l’utilité
+     pour moi du manuel. Fervent partisan des pédagogies actives,
+     j’utilise peu le manuel (voire pas du tout) ; et notamment les
+     parties « leçon » que j’avoue n’avoir jamais utilisées après mes
+     années d’IUFM, préférant faire construire cette partie « générale »
+     par les élèves en activité. Mes collègues des deux établissements
+     ayant une utilisation plus importante du manuel, il était
+     malheureusement impensable de nous en passer.3- La pression des
+     programmes : la rénovation des programmes en lycée, puis en collège,
+     s’est traduite, malgré tout ce qu’on veut bien en dire, par
+     un alourdissement significative de ce qu’un élève doit voir et
+     faire. L’approche inductive (qui convient parfaitement aux
+     pédagogies actives), nécessite du temps qu’on est quelques fois
+     amené à prendre au détriment du temps de
+     contextualisation/généralisation.Face à cette triple interrogations,
+     j’ai pensé que le passage à une pédagogie inversée (que j’utilisais
+     déjà ponctuellement sans conceptualiser) me permettrait : 1-D’amener
+     les lycéens à rompre avec leur consumérisme et donc à les rendre
+     acteurs de leurs apprentissages.2-De donner du sens à l’utilisation
+     du manuel et donc rentabiliser l’investissement public réalisé pour
+     l’achat de manuel. Le manuel devenant le référent, éventuellement
+     complété par des supports TICE, aux connaissances générales à
+     maîtriser.3-Réduire la pression du programme en gagnant du temps sur
+     la phase de contextualisation
+
+   Thomas Reyser
+
+     L’an dernier, je me suis retrouvé dans une situation de blocage
+     complet face à une classe de Quatrième. Plus de la moitié des élèves
+     de cette classe était en rupture avec l’enseignement (pas forcément
+     avec l’école, le taux d’absentéisme était très faible). Deux
+     solutions s’offraient à moi : soit tendre au maximum la situation
+     afin d’obtenir un peu de travail par une discipline de fer, soit
+     embarquer le groupe dans un rapport différent à la « chose
+     scolaire ».Depuis quelques années, j’étais de moins en moins
+     satisfait de ma pratique pédagogique sans vraiment oser transformer
+     mes méthodes de travail.  Cette classe de Quatrième m’a poussée à le
+     faire tellement la situation était intenable au niveau
+     pédagogique.J’ai donc, dans ce cadre, tenté de mettre en œuvre une
+     démarche de pédagogie inversée avec la ferme intention de la
+     généraliser rapidement aux autres classes. Cette évolution m’est
+     apparue d’autant plus nécessaire qu’au même moment s’engageait dans
+     notre établissement, sous l’impulsion de la direction, une réflexion
+     sur la place du travail personnel. L’évolution du cadre
+     socio-économique de notre établissement fait que de nombreux parents
+     ne sont plus en mesure d’être présents et donc de suivre les enfants
+     (travail de nuit, déplacements domicile-travail démesurés, etc.).
+     Une collègue de maths est arrivée, à la même époque, au même constat
+     et nous avons choisi d’expérimenter, elle en Sixième et moi en
+     Quatrième, la pédagogie inversée. Dans sa classe de Sixième, elle
+     distribuait aux élèves à chaque cours des photocopies de la trace
+     écrite de la leçon et la séance était consacrée à l’entraînement par
+     le biais d’exercices et d’activités diverses.
+
+   Quels effets produit ce dispositif sur le travail et les apprentissages
+   des élèves ? Quelles sont leurs questions, leurs remarques ?
+
+   David Bouchillon
+
+     En classe, le travail en activité, en groupe, est renforcé. Les
+     élèves sont réellement acteurs de leurs savoirs. C’est fondamental
+     pour moi. Je me lance aussi dans la production par les élèves de
+     podcasts. J’ai eu deux réactions différentes et pas seulement sur la
+     classe inversée. En effet, je combine classe inversée, travail de
+     groupes, évaluation par compétences sans notes, évaluation choisie,
+     tâches complexes, utilisation des TICE, cartes
+     mentales….Heureusement, je suis dans mon collège depuis 11 ans, cela
+     rend plus facile le fait d’insuffler des idées nouvelles. Toutefois,
+     j’ai une une classe un peu rétive où deux groupes d’élèves
+     s’imposent : quelques élèves avec un esprit un peu contestataire, et
+     un groupe  d’élèves réputés sérieux et scolaires. Bref, des élèves
+     qui sont consommateurs et pour qui être acteur de leurs savoirs
+     n’est pas prioritaire. Il m’a fallu un trimestre pour les convaincre
+     du bien-fondé de la méthode. Pour toutes les autres classes, c’est
+     plutôt un bon accueil voire un très bon accueil.
+
+     Pour le travail à la maison : les élèves sont des élèves…. Au début,
+     je ne vérifiais pas le visionnage des vidéos mais je me suis
+     rapidement rendu compte que celles-ci n’étaient pas regardées. J’ai
+     donc alors demandé de prendre des notes, mais c’était un peu
+     fastidieux. J’ai donc opté pour le questionnaire sur Google
+     formulaire combiné avec le service en ligne Teachem. Pour les vidéos
+     elles-mêmes, je ne produis pas le fond, mais je remasterise ce que
+     je trouve sur les réseaux, comme YouTube par exemple.
+
+   Ghislain Dominé
+
+     Depuis cette rentrée, je pratique la pédagogie inversée de la 6ème à
+     la 2nde. L’impact le plus net concerne le travail en classe. Le
+     temps passé ensemble est essentiellement consacré aux TD. Il s’agit
+     de vraiment faire réfléchir les élèves, exercer leur esprit
+     d’analyse et permettre une plus grande remédiation, le temps dévolu
+     à la copie de la leçon se trouvant libéré. Les élèves ont vite
+     compris ce binôme TD et leçons. Et un système de codification leur
+     permet de toujours d’y retrouver. Leurs remarques ont surtout
+     concerné les formats des fichiers audio (podcast des leçons) mis à
+     disposition pour s’assurer d’une totale accessibilité.
+
+   Cyril Delabruyère
+
+     Les élèves sont actifs en classe. Le temps de classe est perçu comme
+     un réel temps de travail et d’apprentissage. Les élèves de lycée
+     sont ceux qui ont le plus de difficultés à s’y mettre, ce qui amène
+     de nombreuses interrogations et réticences de leur part. Déjà parce
+     que cela leur est moins confortable : ils sont obligés de bosser.
+     Ensuite parce qu’ils sont « formatés » : au départ ils prennent le
+     dispositifs pour une lubie de prof original. C’est surtout le cas en
+     1ère et en Terminale, où la pression de l’examen amène les élèves à
+     penser qu’ils risquent de manquer de « matière ». En collège, la
+     mise en place de la pédagogie inversée est plus facile. Toutefois,
+     dans l’ensemble ce n’est qu’a-posteriori, que les élèves
+     s’aperçoivent de l’intérêt de la démarche. Il m’est souvent arrivé
+     au cours d’une discussion à la sauvette avec d’anciens élèves de
+     lycée, mais également de collège, qui ont retrouvé des classes au
+     fonctionnement plus « traditionnel », d’entendre des témoignages
+     manifestant la satisfaction d’avoir retrouvé des classes plus
+     « cool », mais regrettant la perte de « sens » de ce qu’ils y font.
+
+   Thomas Reyser
+
+     J’ai tenté de transposer cette démarche en Histoire-géographie en
+     remplaçant les photocopies par un renvoi à mon site internet. Mais
+     je me suis rapidement heurté à trois difficultés. Certains de mes
+     élèves n’ont toujours pas accès à internet chez eux. L’usage
+     d’exercice d’entraînement n’est pas d’un recours très fréquent en
+     Histoire-Géographie et certaines parties des programmes se traitent
+     très bien sous forme narrative et suscitent l’intérêt des élèves. La
+     trace écrite du cours peut être relativement conséquente sur
+     certaines parties du programme. Elle peut également parfois prendre
+     une dimension complexe qui requiert la présence de l’enseignant
+     (croquis, schéma, cartes, …).
+
+     Poussant plus avant la réflexion sur les objectifs recherchés, j’ai
+     infléchi ma démarche. Mes deux principaux objectifs étaient
+     d’obtenir que les connaissances ne soient plus un obstacle à la
+     maîtrise des compétences fondamentales, et donc, de faire acquérir
+     les connaissances en cours et non plus à la maison. J’ai ainsi pris
+     le parti d’évaluer mes élèves à chaque fin de leçon par une
+     production écrite réalisée soit individuellement, soit en binôme.
+     Cette production est notée et les élèves peuvent utiliser tous les
+     documents (livres, manuels, dictionnaires, etc.) à leur
+     disposition ; cette évaluation correspond le plus souvent à la
+     réponse à la problématique initiale de la leçon. Les élèves se sont
+     très rapidement emparés de ce temps de travail. Il faut certes
+     tolérer un peu de bruit pédagogique mais les résultats ont été le
+     plus souvent à la hauteur de mes attentes. Cette pratique me permet,
+     en constituant des binômes judicieux, d’apporter une aide réellement
+     individualisée aux élèves. Je n’hésite pas, pour les plus faibles, à
+     venir écrire avec eux, pour les aider dans leur travail.
+
+     Le procédé fonctionne relativement bien pour plusieurs raisons. Les
+     élèves se sont rendus compte rapidement de l’intérêt de faire un
+     brouillon lorsque l’on travaille à deux et cette initiative vient le
+     plus souvent d’eux-mêmes. Les élèves s’auto-évaluent. Cinq points
+     sont réservés pour les compétences de maîtrise de la langue. Très
+     rapidement, ils voient l’intérêt de relire ce que l’autre a écrit.
+     Dans une de mes classes, cette année, les élèves ont même proposé de
+     s’échanger d’un binôme à l’autre les copies pour corriger les
+     fautes. Les élèves ont constaté que c’était un moyen facile
+     d’améliorer leur moyenne. Les élèves sont dans une dynamique
+     beaucoup plus positive car nous sommes en permanence dans une
+     situation d’évaluation formative et non dans une situation
+     d’évaluation-sanction.
+
+     Si je donne toujours à mes élèves la leçon à apprendre comme devoir
+     à la maison, je me rends compte que l’apprentissage est déjà
+     grandement entamé en sortant du cours. Le meilleur indicateur m’a
+     été donné sur les devoirs-bilans de fin de chapitre. Pour des mêmes
+     évaluations données à deux ans d’intervalle, les moyennes sont
+     généralement supérieures de trois à quatre points.
+
+
+   Suite et fin des témoignages dans le deuxième article, qui portera sur
+   les réactions des collègues, de la hiérarchie, qui permettra aux
+   collègues de livrer un bilan d’étape sur leur pratique et de préciser
+   comment ils voient leur pédagogie de classe inversée évoluer.
+
+Share this:
+
+     * Twitter
+     * Facebook
+     * Email
+     *
+
+WordPress:
+
+   J'aime chargement…
+
+Sur le même thème
+
+   Étiquettes : Alternatives aux devoirs, classe inversée, Devoirs ou pas
+   devoirs ?
+
+Navigation des articles
+
+   � Interview de Séverine Kakpo, spécialiste des devoirs
+   On a contribué à Wikipédia en 6e ! →
+
+20 réponses à “Quand des professeurs d’Histoire-Géographie renversent leur
+classe 1/2�
+
+    1. Pingback: Quand des professeurs d’Histoire-Géographie renversent
+       leur classe 1/2 | neottia nidus-avis·
+    2. Pingback: Quand des professeurs d’Histoire-Géographie renversent
+       leur classe 1/2 | L’ÉCOLE DE DEMAIN « TICEs – Quelques usages
+       pédagogiques·
+    3. Pingback: Un peu de pub | T-E-R·
+    4. Pingback: Écoles inversées dans la Marne: Journal de France 2 «
+       Blogue de Jacky·
+    5. Pingback: La Flip Class : un concept facile à comprendre mais
+       difficile à mettre en place | aggiornamento hist-geo·
+    6. Pingback: Quand des professeurs d’histoire-géographie renversent
+       leur classe 2/2 | L'ÉCOLE DE DEMAIN·
+    7.
+   E K 2 février 2013 à 12:43 · · Réponse →
+       Cela demande un véritable investissement des élèves et
+       effectivement dans nos matières inventer des exercices
+       d’application ce qui n’est ni habituel, ni forcément logique.
+       Cette méthode m’intéresse mais l’ayant pratiquée aux USA, elle se
+       justifie là-bas en raison des après-midi libres, chez nous, elle
+       doit se heurter aux habitus des élèves plutôt passifs
+       (consuméristes) qui ne cherchent finalement pas à comprendre, mais
+       à obtenir de bonnes notes.
+       Projet à suivre, que je pratiquerais volontiers si mes élèves
+       n’avaient pas déjà 6h hebdo de cours supplémentaires + des devoirs
+       monumentaux en section internationale
+    8.
+   gduboz 2 février 2013 à 14:16 · · Réponse →
+       Le principe me parait super intéressant. Mais dans mon collège, il
+       me semble très difficile à mettre en place. J’ai à faire à des
+       élèves très passifs et quine travaillent vraiment pas à la maison.
+       Ils ont déjà pas mal de travail en français et en maths (nombreux
+       DM) J’évite de les surcharger mais ils n’apprennent pas pour autant
+       les leçons d’histoire-géo. Même pour un contrôle ou le brevet
+       blanc. Un véritable manque du goût de l’effort, de motivation. Même
+       en innovant, cette motivation est absente.
+    9.
+   David BOUCHILLON 2 février 2013 à 14:41 · · Réponse →
+       L’objectif de la classe inversée est justement de donner envie de
+       s’approprier sa formation, d’être acteur de ses savoirs. Je peux
+       témoigner que ce sont justement souvent les élèves en difficulté
+       qui réussissent mieux en classe avec cette méthode. Pour ce qui est
+       du travail en classe, je l’ai couplée avec l’évaluation choisie :
+       https://sites.google.com/site/classe130/evaluation-choisie.
+       Le but, là encore est de faire en sorte que les élèves
+       s’investissent dans leur formation, dans leurs apprentissages. Et
+       cela marche. Les élèves qui viennent évaluer de manière « choisie »
+       réussissent et je raccroche quelques wagons.
+   10.
+   Anthony Lozac'h 4 février 2013 à 17:13 · · Réponse →
+       La question du jour de France Inter était consacrée ce lundi 4
+       janvier à la pédagogie inversée.
+       http://www.franceinter.fr/emission-la-question-du-jour-qu-est-ce-qu
+       e-la-pedagogie-inversee#comment-270756
+       Surprise, les citations des professeurs sont directement de notre
+       article sur ces professeurs d’histoire-géographie qui renversent
+       leur classe.
+       Dommage que la journaliste ne mentionne pas la source…
+          +
+        E K 31 mars 2013 à 13:55 · · Réponse →
+            @Anthony : cela te surprend que des journalistes ne citent pas
+            leurs sources ? même certains profs d’HG ne le font pas
+            (suivez mon regard).
+            Ce que j’ai tenté là c’est la préparation du contrôle sur blog
+            prof et ça n’a fonctionné que pour une très faible minorité :
+            10% seulement. Quelle méthode mettre en oeuvre pour donner
+            envie à tous de s’investir quand ils rentrent souvent de
+            l’école après 19h ?
+   11. Pingback: Quand des professeurs d’Histoire-Géographie renversent
+       leur classe 1/2 | itypamiers·
+   12.
+   David BOUCHILLON 31 mars 2013 à 14:00 · · Réponse →
+       Ce que permet la classe inversée, c’est le réinvestissement en
+       classe. C’est évident. Pour un réinvestissement à la maison,
+       plusieurs conditions sont indispensables :
+       -ressources attrayantes.
+       -vérification du visionnage (le quizz en ligne est un bon outil,
+       meilleur que le cahier car cela évite le recopiage à la récré…)
+       -du temps : la classe inversée en est à ses débuts. On ne fait pas
+       une révolution en quelques jours ou semaines, des années seront
+       nécessaires.
+   13. Pingback: Qu'est-ce que la classe inversée ?·
+   14. Pingback: Y aura-t-il encore des livres à l’école ? Impact du
+       numérique sur le devenir du livre scolaire | L'ÉCOLE DE DEMAIN·
+   15. Pingback: La classe inversée ou des vidéos à la place des cours -
+       E-media, the Econocom blog·
+   16. Pingback: Wiki eLearn² activités d’apprentissage en ligne |
+       Elearn²·
+   17. Pingback: Classe inversée (Wiki Elearn²) | Elearn²·
+   18. Pingback: Qu'est-ce que la classe inversée ? | Petit Journal des
+       Profs·
+   19. Pingback: Écoles inversées dans la Marne: Journal de France 2 –
+       Technopédagogie en général et Ipaderies en particulier·
+
+Répondre Annuler la réponse.
+
+   Entrez votre commentaire...
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+
+   Entrez vos coordonnées ci-dessous ou cliquez sur une icône pour vous
+   connecter:
+     *
+     *
+     *
+
+       IFRAME: googleplus-sign-in
+
+     *
+     *
+
+   Gravatar
+   E-mail (obligatoire) (adresse strictement confidentielle)
+   ____________________
+   Nom (obligatoire)
+   ____________________
+   Site web
+   ____________________
+   Logo WordPress.com
+
+   Vous commentez à l'aide de votre compte WordPress.com. ( Déconnexion /
+   Changer )
+   Photo Google
+
+   Vous commentez à l'aide de votre compte Google. ( Déconnexion /
+   Changer )
+   Image Twitter
+
+   Vous commentez à l'aide de votre compte Twitter. ( Déconnexion /
+   Changer )
+   Photo Facebook
+
+   Vous commentez à l'aide de votre compte Facebook. ( Déconnexion /
+   Changer )
+   Annuler
+
+   Connexion à %s
+
+   [ ] Avertissez-moi par e-mail des nouveaux commentaires.
+
+   [ ] Avertissez-moi par e-mail des nouveaux articles.
+
+   Laisser un commentaire
+
+     * Accueil
+     * rentrée
+     * Agir pour l’école
+     * Nos dossiers
+          + Agir pour l’école
+          + Scolarisation des migrants
+          + Dossier éducation au Web2
+          + Dossier ENT
+          + Socle Commun
+          + École pour tous École pour chacun
+          + #sansnotes
+          + Devoirs ou pas devoirs ?
+          + Dossier compétences
+          + école inclusive
+          + EMI
+          + EMC
+          + Le redoublement en questions
+          + Neurosciences
+     * Maternelle
+     * classe inversée
+     * Neurosciences
+     * Les écrans en questions
+
+Catégories
+
+     * Agir pour l'école
+     * Agir pour nos idées
+     * Enseigner au quotidien
+     * Innover sur le terrain
+     * Le redoublement en questions
+     * Neurosciences
+     * Nos dossiers
+     * On a lu et on a aimé
+     * Réfléchir avec les spécialistes
+     * Scolarisation des migrants
+     * Veille et informations
+
+Pour s’abonner c’est ICI !
+
+   Pour s'abonner c'est ICI !
+
+Souscription au Blog par Email
+
+   Entrez votre adresse mail pour suivre ce blog et être notifié par email
+   des nouvelles publications.
+
+   Rejoignez 835 autres abonnés
+
+   ____________________
+
+   (BUTTON) Suivre
+
+RSS Notre scoop.it
+
+     * Erreur, le flux RSS est probablement en panne. Essayez plus tard.
+
+Articles récents
+
+     * Indigestion de guides suprêmes
+     * Le plan de travail : un outil de différenciation au service des
+       apprentissages
+     * Des nouvelles du projet CAC vert de Global Reporters
+     * L’arpentage pour lire à plusieurs au lycée
+     * Le projet éco’art du collège Paul Kapel
+
+Nuage de mots-clefs
+
+   #sansnotes accompagnement actu Alternatives aux devoirs ASH citoyenneté
+   classe inversée colloque collège collège2016 collège unique compétences
+   CPE devoirs Devoirs ou pas devoirs ? DNB Dossier compétences DOSSIER
+   ENT Dossier éducation au Web2 Dys EDD EMC EMI ENT EPI film formation
+   français GFEN Harcèlement histoire histoire-géographie inclusion
+   individualisation innovation interdisciplinarité interview lecture Les
+   spécialistes à propos des devoirs Les écrans en questions livre
+   LSUN/LSU lycée lycée professionnel Maternelle mathématiques notes
+   Nouveaux programmes numérique orthographe pratiques pédagogiques
+   programmes projet projet socle commun pédagogie rentrée Rentrée 2016
+   reportage rythmes réseaux sociaux Savanturiers sciences socle commun
+   TICE travail par compétences Twitter Témoignages devoirs vidéo École
+   pour tous École pour chacun échec scolaire école école inclusive école
+   numérique éducation aux médias évaluation
+
+Pour nous contacter par mail :
+
+   Contact
+
+Archives
+
+     * octobre 2019
+     * septembre 2019
+     * août 2019
+     * juin 2019
+     * mai 2019
+     * avril 2019
+     * mars 2019
+     * février 2019
+     * janvier 2019
+     * décembre 2018
+     * novembre 2018
+     * octobre 2018
+     * septembre 2018
+     * août 2018
+     * juillet 2018
+     * juin 2018
+     * mai 2018
+     * avril 2018
+     * mars 2018
+     * février 2018
+     * janvier 2018
+     * décembre 2017
+     * novembre 2017
+     * octobre 2017
+     * septembre 2017
+     * août 2017
+     * juillet 2017
+     * juin 2017
+     * mai 2017
+     * avril 2017
+     * mars 2017
+     * février 2017
+     * janvier 2017
+     * décembre 2016
+     * novembre 2016
+     * septembre 2016
+     * août 2016
+     * juillet 2016
+     * juin 2016
+     * mai 2016
+     * avril 2016
+     * mars 2016
+     * février 2016
+     * janvier 2016
+     * décembre 2015
+     * novembre 2015
+     * octobre 2015
+     * septembre 2015
+     * juin 2015
+     * mai 2015
+     * avril 2015
+     * mars 2015
+     * février 2015
+     * janvier 2015
+     * décembre 2014
+     * novembre 2014
+     * octobre 2014
+     * septembre 2014
+     * août 2014
+     * juillet 2014
+     * juin 2014
+     * mai 2014
+     * avril 2014
+     * mars 2014
+     * février 2014
+     * janvier 2014
+     * décembre 2013
+     * novembre 2013
+     * octobre 2013
+     * septembre 2013
+     * août 2013
+     * juin 2013
+     * mai 2013
+     * avril 2013
+     * février 2013
+     * janvier 2013
+     * décembre 2012
+     * novembre 2012
+     * octobre 2012
+     * septembre 2012
+     * août 2012
+     * juillet 2012
+     * juin 2012
+     * mai 2012
+     * avril 2012
+     * mars 2012
+     * février 2012
+     * janvier 2012
+     * décembre 2011
+     * novembre 2011
+     * octobre 2011
+     * juin 2011
+     * mai 2011
+     * avril 2011
+     * mars 2011
+     * février 2011
+     * janvier 2011
+     * décembre 2010
+     * novembre 2010
+     * octobre 2010
+     * septembre 2010
+
+Méta
+
+     * Inscription
+     * Connexion
+     * Flux RSS des articles
+     * RSS des commentaires
+     * WordPress.com
+
+   Recherche ____________________ Recherche
+
+Retrouvez-nous sur Facebook
+
+     Retrouvez-nous sur Facebook
+
+Suivez @ecolededemain sur Twitter
+
+     * #MeleeNum c'est un programme très complet sur les questions
+       concernant inclusion/handicap/médiation et numérique...
+       https://t.co/UKrTh7LRpU 3 hours ago
+     * RT @LucBentz: Signez ! Les sectes — aussi — sont dangereuses. Les
+       sectes — aussi — lavent les cerveaux. Les sectes — aussi —
+       détruisent des… 3 hours ago
+     * Présent à #MeleeNum à Toulouse pour réfléchir sur numérique,
+       médiation et inclusion et pour intervenir sur l'#EMI.
+       https://t.co/vw855meM1Y 3 hours ago
+     * [Pétition] La #Miviludes (mission interministérielle de vigilance
+       et de lutte contre les dérives sectaires) est en…
+       twitter.com/i/web/status/1… 4 hours ago
+     * RT @FMarchandfred: L’@UNSA_Education adresse tout son soutien et
+       des pensées amicales à @svolpoet secrétaire académique du
+       @SNPDENCRETEIL .… 1 day ago
+     * RT @gcarondk: favorisent, bien plus que le système standard,
+       l'esprit critique, la capacité à s'exprimer, à monter des projets,
+       à prendre d… 2 days ago
+
+   Follow @ecolededemain
+
+RSS Sur le site du SE-Unsa :
+
+     * Erreur, le flux RSS est probablement en panne. Essayez plus tard.
+
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   Publier sur
+   Annuler Reblog Article
+
+   Envoyer à l'adresse email ____________________ Votre nom
+   ____________________ Votre adresse e-mail ____________________
+   _________________________
+   loading Envoyer un e-mail Annuler
+   L'article n'a pas été envoyé - Vérifiez vos adresses email !
+   La vérification e-mail a échoué, veuillez réessayer
+   Impossible de partager les articles de votre blog par email.
+
+   Fermer et accepter Confidentialité & Cookies : Ce site utilise des
+   cookies. En continuant à utiliser ce site, vous acceptez leur
+   utilisation.
+   Pour en savoir davantage, y compris comment contrôler les cookies, voir
+   : Politique relative aux cookies
+
+   IFRAME: likes-master
+
+   %d blogueurs aiment cette page :
+   #L'ÉCOLE DE DEMAIN » Flux L'ÉCOLE DE DEMAIN » Flux des commentaires
+   L'ÉCOLE DE DEMAIN WordPress.com
+
+L'ÉCOLE DE DEMAIN
+
+Dessinons l'école pour la réussite de tous les élèves de la maternelle au
+lycée – Le blog Education du SE-Unsa
+
+Menu principal
+
+   Accéder au contenu principal
+     * Accueil
+     * rentrée
+     * Agir pour l’école
+     * Nos dossiers
+          + Agir pour l’école
+          + Scolarisation des migrants
+          + Dossier éducation au Web2
+          + Dossier ENT
+          + Socle Commun
+          + École pour tous École pour chacun
+          + #sansnotes
+          + Devoirs ou pas devoirs ?
+          + Dossier compétences
+          + école inclusive
+          + EMI
+          + EMC
+          + Le redoublement en questions
+          + Neurosciences
+     * Maternelle
+     * classe inversée
+     * Neurosciences
+     * Les écrans en questions
+
+Indigestion de guides suprêmes
+
+   1 octobre 2019par Stéphanie de Vanssay Poster un commentaire
+
+   Dans la continuité du fameux « guide orange », trois nouveaux guides
+   sont disponibles sur Eduscol : “Les mots de la maternelle�, “Se
+   préparer à apprendre à lire et à […]
+   Lire l’Article →
+
+   Veille et informations
+
+Le plan de travail : un outil de différenciation au service des
+apprentissages
+
+   20 septembre 2019par Stéphanie de Vanssay Poster un commentaire
+
+   Le plan de travail est un dispositif pédagogique qui permet
+   d’introduire des temps de travail individualisé dans nos cours. Audrey
+   Chapelain, responsable pédagogie/éducation du SE-Unsa Aix-Marseille,
+   propose un article détaillé […]
+   Lire l’Article →
+
+   Enseigner au quotidien, Innover sur le terrain
+
+Des nouvelles du projet CAC vert de Global Reporters
+
+   19 septembre 2019par Stéphanie de Vanssay Poster un commentaire
+
+   Lauréat 2018 des actions en faveur du climat sur le territoire du Val
+   de Marne, Global Reporters et ses partenaires proposent à chacun de
+   diminuer l’empreinte écologique de son établissement […]
+   Lire l’Article →
+
+   Veille et informations
+
+L’arpentage pour lire à plusieurs au lycée
+
+   18 septembre 2019par thierrypatinaux Poster un commentaire
+
+   Hélène Paumier est professeure de lettres en lycée. Elle a décrit
+   récemment en quelques tweets comment elle fait lire des livres
+   collectivement.. On les reproduit ci-dessous avec son autorisation.
+   Cette […]
+   Lire l’Article →
+
+   Enseigner au quotidien, Innover sur le terrain, Veille et informations
+
+Le projet éco’art du collège Paul Kapel
+
+   9 septembre 2019par Stéphanie de Vanssay Poster un commentaire
+
+   Le collège Paul Kapel s’inscrit dans une dynamique favorable à
+   l’éducation au développement durable. Dans le cadre du projet d’échange
+   Erasmus, diverses actions ont été menées au sein de notre […]
+   Lire l’Article →
+
+   Enseigner au quotidien, Innover sur le terrain
+
+“À l’école du partage�, un livre incontournable !
+
+   30 août 2019par Stéphanie de Vanssay Poster un commentaire
+
+   Cet ouvrage écrit par deux professeures documentalistes est une
+   passionnante réflexion sur les communs numériques, l’éducation aux
+   médias et à l’information et sur la culture numérique dans laquelle
+   baignent nos […]
+   Lire l’Article →
+
+   On a lu et on a aimé
+
+À la rentrée, retrouver le sens du métier  !
+
+   26 août 2019par Stéphanie de Vanssay Poster un commentaire
+
+   Résister à la morosité ambiante, sans pour autant renoncer à être
+   combatif pour nos conditions de travail, est essentiel en cette période
+   de rentrée… C’est en effet le moment où […]
+   Lire l’Article →
+
+   Enseigner au quotidien
+
+Navigation des articles
+
+   1 2 … 70 Suivant →
+
+     * Accueil
+     * rentrée
+     * Agir pour l’école
+     * Nos dossiers
+          + Agir pour l’école
+          + Scolarisation des migrants
+          + Dossier éducation au Web2
+          + Dossier ENT
+          + Socle Commun
+          + École pour tous École pour chacun
+          + #sansnotes
+          + Devoirs ou pas devoirs ?
+          + Dossier compétences
+          + école inclusive
+          + EMI
+          + EMC
+          + Le redoublement en questions
+          + Neurosciences
+     * Maternelle
+     * classe inversée
+     * Neurosciences
+     * Les écrans en questions
+
+Catégories
+
+     * Agir pour l'école
+     * Agir pour nos idées
+     * Enseigner au quotidien
+     * Innover sur le terrain
+     * Le redoublement en questions
+     * Neurosciences
+     * Nos dossiers
+     * On a lu et on a aimé
+     * Réfléchir avec les spécialistes
+     * Scolarisation des migrants
+     * Veille et informations
+
+Pour s’abonner c’est ICI !
+
+   Pour s'abonner c'est ICI !
+
+Souscription au Blog par Email
+
+   Entrez votre adresse mail pour suivre ce blog et être notifié par email
+   des nouvelles publications.
+
+   Rejoignez 835 autres abonnés
+
+   ____________________
+
+   (BUTTON) Suivre
+
+RSS Notre scoop.it
+
+     * Erreur, le flux RSS est probablement en panne. Essayez plus tard.
+
+Articles récents
+
+     * Indigestion de guides suprêmes
+     * Le plan de travail : un outil de différenciation au service des
+       apprentissages
+     * Des nouvelles du projet CAC vert de Global Reporters
+     * L’arpentage pour lire à plusieurs au lycée
+     * Le projet éco’art du collège Paul Kapel
+
+Nuage de mots-clefs
+
+   #sansnotes accompagnement actu Alternatives aux devoirs ASH citoyenneté
+   classe inversée colloque collège collège2016 collège unique compétences
+   CPE devoirs Devoirs ou pas devoirs ? DNB Dossier compétences DOSSIER
+   ENT Dossier éducation au Web2 Dys EDD EMC EMI ENT EPI film formation
+   français GFEN Harcèlement histoire histoire-géographie inclusion
+   individualisation innovation interdisciplinarité interview lecture Les
+   spécialistes à propos des devoirs Les écrans en questions livre
+   LSUN/LSU lycée lycée professionnel Maternelle mathématiques notes
+   Nouveaux programmes numérique orthographe pratiques pédagogiques
+   programmes projet projet socle commun pédagogie rentrée Rentrée 2016
+   reportage rythmes réseaux sociaux Savanturiers sciences socle commun
+   TICE travail par compétences Twitter Témoignages devoirs vidéo École
+   pour tous École pour chacun échec scolaire école école inclusive école
+   numérique éducation aux médias évaluation
+
+Pour nous contacter par mail :
+
+   Contact
+
+Archives
+
+     * octobre 2019
+     * septembre 2019
+     * août 2019
+     * juin 2019
+     * mai 2019
+     * avril 2019
+     * mars 2019
+     * février 2019
+     * janvier 2019
+     * décembre 2018
+     * novembre 2018
+     * octobre 2018
+     * septembre 2018
+     * août 2018
+     * juillet 2018
+     * juin 2018
+     * mai 2018
+     * avril 2018
+     * mars 2018
+     * février 2018
+     * janvier 2018
+     * décembre 2017
+     * novembre 2017
+     * octobre 2017
+     * septembre 2017
+     * août 2017
+     * juillet 2017
+     * juin 2017
+     * mai 2017
+     * avril 2017
+     * mars 2017
+     * février 2017
+     * janvier 2017
+     * décembre 2016
+     * novembre 2016
+     * septembre 2016
+     * août 2016
+     * juillet 2016
+     * juin 2016
+     * mai 2016
+     * avril 2016
+     * mars 2016
+     * février 2016
+     * janvier 2016
+     * décembre 2015
+     * novembre 2015
+     * octobre 2015
+     * septembre 2015
+     * juin 2015
+     * mai 2015
+     * avril 2015
+     * mars 2015
+     * février 2015
+     * janvier 2015
+     * décembre 2014
+     * novembre 2014
+     * octobre 2014
+     * septembre 2014
+     * août 2014
+     * juillet 2014
+     * juin 2014
+     * mai 2014
+     * avril 2014
+     * mars 2014
+     * février 2014
+     * janvier 2014
+     * décembre 2013
+     * novembre 2013
+     * octobre 2013
+     * septembre 2013
+     * août 2013
+     * juin 2013
+     * mai 2013
+     * avril 2013
+     * février 2013
+     * janvier 2013
+     * décembre 2012
+     * novembre 2012
+     * octobre 2012
+     * septembre 2012
+     * août 2012
+     * juillet 2012
+     * juin 2012
+     * mai 2012
+     * avril 2012
+     * mars 2012
+     * février 2012
+     * janvier 2012
+     * décembre 2011
+     * novembre 2011
+     * octobre 2011
+     * juin 2011
+     * mai 2011
+     * avril 2011
+     * mars 2011
+     * février 2011
+     * janvier 2011
+     * décembre 2010
+     * novembre 2010
+     * octobre 2010
+     * septembre 2010
+
+Méta
+
+     * Inscription
+     * Connexion
+     * Flux RSS des articles
+     * RSS des commentaires
+     * WordPress.com
+
+   Recherche ____________________ Recherche
+
+Retrouvez-nous sur Facebook
+
+     Retrouvez-nous sur Facebook
+
+Suivez @ecolededemain sur Twitter
+
+     * #MeleeNum c'est un programme très complet sur les questions
+       concernant inclusion/handicap/médiation et numérique...
+       https://t.co/UKrTh7LRpU 3 hours ago
+     * RT @LucBentz: Signez ! Les sectes — aussi — sont dangereuses. Les
+       sectes — aussi — lavent les cerveaux. Les sectes — aussi —
+       détruisent des… 3 hours ago
+     * Présent à #MeleeNum à Toulouse pour réfléchir sur numérique,
+       médiation et inclusion et pour intervenir sur l'#EMI.
+       https://t.co/vw855meM1Y 3 hours ago
+     * [Pétition] La #Miviludes (mission interministérielle de vigilance
+       et de lutte contre les dérives sectaires) est en…
+       twitter.com/i/web/status/1… 4 hours ago
+     * RT @FMarchandfred: L’@UNSA_Education adresse tout son soutien et
+       des pensées amicales à @svolpoet secrétaire académique du
+       @SNPDENCRETEIL .… 1 day ago
+     * RT @gcarondk: favorisent, bien plus que le système standard,
+       l'esprit critique, la capacité à s'exprimer, à monter des projets,
+       à prendre d… 2 days ago
+
+   Follow @ecolededemain
+
+RSS Sur le site du SE-Unsa :
+
+     * Erreur, le flux RSS est probablement en panne. Essayez plus tard.
+
+   L'ÉCOLE DE DEMAIN
+
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   Publier sur
+   Annuler Reblog Article
+
+   Fermer et accepter Confidentialité & Cookies : Ce site utilise des
+   cookies. En continuant à utiliser ce site, vous acceptez leur
+   utilisation.
+   Pour en savoir davantage, y compris comment contrôler les cookies, voir
+   : Politique relative aux cookies
+   #L'ÉCOLE DE DEMAIN » Flux L'ÉCOLE DE DEMAIN » Flux des commentaires
+   L'ÉCOLE DE DEMAIN » Interview de Séverine Kakpo, spécialiste des
+   devoirs Flux des commentaires Et si travail et réussite n’étaient pas
+   forcément liés ? Quand des professeurs d’Histoire-Géographie renversent
+   leur classe 1/2 alternate alternate L'ÉCOLE DE DEMAIN WordPress.com
+
+L'ÉCOLE DE DEMAIN
+
+Dessinons l'école pour la réussite de tous les élèves de la maternelle au
+lycée – Le blog Education du SE-Unsa
+
+Menu principal
+
+   Accéder au contenu principal
+     * Accueil
+     * rentrée
+     * Agir pour l’école
+     * Nos dossiers
+          + Agir pour l’école
+          + Scolarisation des migrants
+          + Dossier éducation au Web2
+          + Dossier ENT
+          + Socle Commun
+          + École pour tous École pour chacun
+          + #sansnotes
+          + Devoirs ou pas devoirs ?
+          + Dossier compétences
+          + école inclusive
+          + EMI
+          + EMC
+          + Le redoublement en questions
+          + Neurosciences
+     * Maternelle
+     * classe inversée
+     * Neurosciences
+     * Les écrans en questions
+
+Interview de Séverine Kakpo, spécialiste des devoirs
+
+   22 janvier 2013 · par Stéphanie de Vanssay · dans Réfléchir avec les
+   spécialistes. ·
+
+   1. Pourquoi avoir porté votre choix sur les familles populaires ?
+   J’ai choisi d’enquêter sur les pratiques familiales d’accompagnement
+   des devoirs en milieux populaires car je m’intéresse à la question des
+   inégalités sociales de réussite scolaire et que l’externalisation du
+   travail personnel des élèves contribue à renforcer ces inégalités. En
+   effet, les devoirs sont placés sous la responsabilité de familles qui
+   ne disposent pas à parts égales des ressources temporelles,
+   matérielles, culturelles et éducatives nécessaires à leur encadrement.
+   Je me suis efforcée, plus précisément, de comprendre, comment les
+   familles populaires se confrontent aux devoirs et comment elles s’y
+   prennent pour encadrer et aider leurs enfants. L’enquête montre, pour
+   le dire rapidement, que ces familles sont très mobilisées mais qu’elles
+   ne développent pas nécessairement les pratiques qui sont celles
+   attendues par les enseignants.
+
+   2. Votre enquête montre que les familles restent très attachées aux
+   devoirs à la maison. Qu’est-ce qui mobilise les familles autour des
+   devoirs ?
+   Oui, l’enquête met en évidence l’attachement viscéral que les familles
+   populaires portent aux devoirs, qu’elles envisagent comme
+   consubstantiels à la scolarisation. « Pourquoi casser ce rituel ?
+   Alors, ça veut dire que la génération qui va arriver de mes enfants
+   n’aura plus d’école ? », déclare une mère, par exemple, lorsque nous
+   abordons le sujet de l’interdiction des devoirs écrits en primaire. Ces
+   parents sont convaincus de l’efficacité des devoirs et n’hésitent pas à
+   engager des démarches auprès des enseignants pour « rétablir le flux »
+   quand ils jugent que l’école ne joue plus pleinement son rôle de «
+   prescriptrice ».
+   Ce qui mobilise les parents autour des devoirs, c’est bien évidemment
+   le fait qu’ils ont profondément intégré les enjeux scolaires : tous
+   aspirent à voir leurs enfants s’affranchir des métiers d’exécution et
+   tous sont dotés d’une conscience aiguë – et parfois déjà douloureuse en
+   cas de difficultés scolaires – du rôle joué par l’école dans la
+   détermination des trajectoires sociales. Contrairement aux choix
+   d’orientation ou d’établissement, qui requièrent une bonne connaissance
+   des arcanes du système scolaires et qui sont en outre largement
+   contraints par la nature de l’offre locale et les résultats scolaires
+   des enfants, le suivi des devoirs constitue un moyen d’action
+   relativement accessible pour les parents, dès lors que ceux-ci
+   disposent au moins d’une scolarisation de base et d’une certaine
+   maîtrise du français écrit. Aux aspirations élevées que les parents des
+   catégories populaires formulent désormais pour leurs enfants, répond
+   logiquement une forte implication dans le suivi des devoirs.
+
+   3. Votre enquête montre aussi que des pratiques “toxiques� existent
+   aussi.
+   Quelles sont-elles ? Ont-elles des conséquences sur les performances
+   des élèves à l’école ?
+   Si ma recherche contribue à déconstruire le mythe de la « démission
+   éducative » des familles populaires, elle met aussi en question un
+   second mythe, qui est pour ainsi dire l’envers du premier : celui d’une
+   mobilisation parentale qui – au regard d’un contexte général souvent
+   perçu par le sens commun comme profondément carencé et déficitaire –
+   serait toujours nécessairement bénéfique à la scolarité des élèves. En
+   effet, une partie des parents de l’enquête prescrit des modes de faire
+   et met en œuvre des représentations qui sont peu conformes aux attendus
+   de l’école, quand ils ne s’inscrivent pas tout simplement dans une
+   logique de « dissidence » pédagogique revendiquée. Tout porte à croire
+   que ces parents sont susceptibles de contribuer, à leur corps
+   défendant, à l’enracinement de certaines difficultés scolaires de leurs
+   enfants.
+   Pour autant, il convient de rester très prudent sur cette question et
+   de ne surtout pas chercher à tirer la conclusion fallacieuse qui
+   consisterait à faire du milieu d’origine des élèves la source de leurs
+   difficultés ! Les enfants évoluent dans des configurations familiales
+   et scolaires complexes au sein desquelles ne prévaut jamais aucune «
+   cause première ». L’enquête contredit d’ailleurs nettement l’idée qu’il
+   puisse exister un lien de cause à effet mécanique entre faible degré de
+   conformité aux normes scolaires des prescriptions familiales et faible
+   niveau de performances scolaires des élèves.
+
+   4. Votre livre éclaire au final les malentendus qui existent entre les
+   attentes de l’école et les familles populaires. Ne concernent-ils que
+   les familles qui n’auraient pas les “codes� de l’école ?
+   Non, bien évidemment pas. La question des premiers apprentissages de la
+   lecture, par exemple, semble être l’objet d’un malentendu qui
+   transcende largement les frontières sociales ! Mais, au-delà de ce
+   point de tension particulièrement vif, je formule l’hypothèse qu’il
+   existe au sein des familles de classes moyennes une relativement large
+   compréhension intellectuelle des codes scolaires dominants. Le fait que
+   l’école met désormais davantage l’accent sur le développement des
+   capacités de réflexion des élèves plutôt que sur leurs capacités de
+   mémorisation-restitution ne me semble pas être fondamentalement de
+   nature à déstabiliser les familles des classes moyennes. Mais, il
+   faudrait aller sur le terrain pour le vérifier et se défaire de cet
+   usage très homogénéisant de l’appellation « classes moyennes ».
+
+   5. Faut-il supprimer les devoirs ou sont-ils indispensables ?
+   Le travail personnel des élèves me semble indispensable ! La vraie
+   question est de savoir où il doit se faire. Revient-il à l’institution
+   de le prendre en charge, d’encadrer et d’aider les élèves ? S’agit-il
+   là d’une des missions fondamentales de l’école ? Ou, cette charge
+   doit-elle revenir aux familles, que l’on sait inégalement disposées en
+   termes de ressources matérielles, temporelles, éducatives, culturelles
+   et financières pour encadrer ce travail ? Mon point de vue de citoyenne
+   sur la question est que pour diminuer les inégalités sociales de
+   réussite scolaire que contribuent à amplifier les devoirs, l’école doit
+   renouer avec l’idée d’encadrement du temps de travail personnel des
+   élèves, doit se proposer d’être son propre recours.
+
+Share this:
+
+     * Twitter
+     * Facebook
+     * Email
+     *
+
+WordPress:
+
+   J'aime chargement…
+
+Sur le même thème
+
+   Étiquettes : Devoirs ou pas devoirs ?, Les spécialistes à propos des
+   devoirs
+
+Navigation des articles
+
+   � Et si travail et réussite n’étaient pas forcément liés ?
+   Quand des professeurs d’Histoire-Géographie renversent leur classe 1/2
+   →
+
+Répondre Annuler la réponse.
+
+   Entrez votre commentaire...
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+
+   Entrez vos coordonnées ci-dessous ou cliquez sur une icône pour vous
+   connecter:
+     *
+     *
+     *
+
+       IFRAME: googleplus-sign-in
+
+     *
+     *
+
+   Gravatar
+   E-mail (obligatoire) (adresse strictement confidentielle)
+   ____________________
+   Nom (obligatoire)
+   ____________________
+   Site web
+   ____________________
+   Logo WordPress.com
+
+   Vous commentez à l'aide de votre compte WordPress.com. ( Déconnexion /
+   Changer )
+   Photo Google
+
+   Vous commentez à l'aide de votre compte Google. ( Déconnexion /
+   Changer )
+   Image Twitter
+
+   Vous commentez à l'aide de votre compte Twitter. ( Déconnexion /
+   Changer )
+   Photo Facebook
+
+   Vous commentez à l'aide de votre compte Facebook. ( Déconnexion /
+   Changer )
+   Annuler
+
+   Connexion à %s
+
+   [ ] Avertissez-moi par e-mail des nouveaux commentaires.
+
+   [ ] Avertissez-moi par e-mail des nouveaux articles.
+
+   Laisser un commentaire
+
+     * Accueil
+     * rentrée
+     * Agir pour l’école
+     * Nos dossiers
+          + Agir pour l’école
+          + Scolarisation des migrants
+          + Dossier éducation au Web2
+          + Dossier ENT
+          + Socle Commun
+          + École pour tous École pour chacun
+          + #sansnotes
+          + Devoirs ou pas devoirs ?
+          + Dossier compétences
+          + école inclusive
+          + EMI
+          + EMC
+          + Le redoublement en questions
+          + Neurosciences
+     * Maternelle
+     * classe inversée
+     * Neurosciences
+     * Les écrans en questions
+
+Catégories
+
+     * Agir pour l'école
+     * Agir pour nos idées
+     * Enseigner au quotidien
+     * Innover sur le terrain
+     * Le redoublement en questions
+     * Neurosciences
+     * Nos dossiers
+     * On a lu et on a aimé
+     * Réfléchir avec les spécialistes
+     * Scolarisation des migrants
+     * Veille et informations
+
+Pour s’abonner c’est ICI !
+
+   Pour s'abonner c'est ICI !
+
+Souscription au Blog par Email
+
+   Entrez votre adresse mail pour suivre ce blog et être notifié par email
+   des nouvelles publications.
+
+   Rejoignez 835 autres abonnés
+
+   ____________________
+
+   (BUTTON) Suivre
+
+RSS Notre scoop.it
+
+     * Erreur, le flux RSS est probablement en panne. Essayez plus tard.
+
+Articles récents
+
+     * Indigestion de guides suprêmes
+     * Le plan de travail : un outil de différenciation au service des
+       apprentissages
+     * Des nouvelles du projet CAC vert de Global Reporters
+     * L’arpentage pour lire à plusieurs au lycée
+     * Le projet éco’art du collège Paul Kapel
+
+Nuage de mots-clefs
+
+   #sansnotes accompagnement actu Alternatives aux devoirs ASH citoyenneté
+   classe inversée colloque collège collège2016 collège unique compétences
+   CPE devoirs Devoirs ou pas devoirs ? DNB Dossier compétences DOSSIER
+   ENT Dossier éducation au Web2 Dys EDD EMC EMI ENT EPI film formation
+   français GFEN Harcèlement histoire histoire-géographie inclusion
+   individualisation innovation interdisciplinarité interview lecture Les
+   spécialistes à propos des devoirs Les écrans en questions livre
+   LSUN/LSU lycée lycée professionnel Maternelle mathématiques notes
+   Nouveaux programmes numérique orthographe pratiques pédagogiques
+   programmes projet projet socle commun pédagogie rentrée Rentrée 2016
+   reportage rythmes réseaux sociaux Savanturiers sciences socle commun
+   TICE travail par compétences Twitter Témoignages devoirs vidéo École
+   pour tous École pour chacun échec scolaire école école inclusive école
+   numérique éducation aux médias évaluation
+
+Pour nous contacter par mail :
+
+   Contact
+
+Archives
+
+     * octobre 2019
+     * septembre 2019
+     * août 2019
+     * juin 2019
+     * mai 2019
+     * avril 2019
+     * mars 2019
+     * février 2019
+     * janvier 2019
+     * décembre 2018
+     * novembre 2018
+     * octobre 2018
+     * septembre 2018
+     * août 2018
+     * juillet 2018
+     * juin 2018
+     * mai 2018
+     * avril 2018
+     * mars 2018
+     * février 2018
+     * janvier 2018
+     * décembre 2017
+     * novembre 2017
+     * octobre 2017
+     * septembre 2017
+     * août 2017
+     * juillet 2017
+     * juin 2017
+     * mai 2017
+     * avril 2017
+     * mars 2017
+     * février 2017
+     * janvier 2017
+     * décembre 2016
+     * novembre 2016
+     * septembre 2016
+     * août 2016
+     * juillet 2016
+     * juin 2016
+     * mai 2016
+     * avril 2016
+     * mars 2016
+     * février 2016
+     * janvier 2016
+     * décembre 2015
+     * novembre 2015
+     * octobre 2015
+     * septembre 2015
+     * juin 2015
+     * mai 2015
+     * avril 2015
+     * mars 2015
+     * février 2015
+     * janvier 2015
+     * décembre 2014
+     * novembre 2014
+     * octobre 2014
+     * septembre 2014
+     * août 2014
+     * juillet 2014
+     * juin 2014
+     * mai 2014
+     * avril 2014
+     * mars 2014
+     * février 2014
+     * janvier 2014
+     * décembre 2013
+     * novembre 2013
+     * octobre 2013
+     * septembre 2013
+     * août 2013
+     * juin 2013
+     * mai 2013
+     * avril 2013
+     * février 2013
+     * janvier 2013
+     * décembre 2012
+     * novembre 2012
+     * octobre 2012
+     * septembre 2012
+     * août 2012
+     * juillet 2012
+     * juin 2012
+     * mai 2012
+     * avril 2012
+     * mars 2012
+     * février 2012
+     * janvier 2012
+     * décembre 2011
+     * novembre 2011
+     * octobre 2011
+     * juin 2011
+     * mai 2011
+     * avril 2011
+     * mars 2011
+     * février 2011
+     * janvier 2011
+     * décembre 2010
+     * novembre 2010
+     * octobre 2010
+     * septembre 2010
+
+Méta
+
+     * Inscription
+     * Connexion
+     * Flux RSS des articles
+     * RSS des commentaires
+     * WordPress.com
+
+   Recherche ____________________ Recherche
+
+Retrouvez-nous sur Facebook
+
+     Retrouvez-nous sur Facebook
+
+Suivez @ecolededemain sur Twitter
+
+     * #MeleeNum c'est un programme très complet sur les questions
+       concernant inclusion/handicap/médiation et numérique...
+       https://t.co/UKrTh7LRpU 3 hours ago
+     * RT @LucBentz: Signez ! Les sectes — aussi — sont dangereuses. Les
+       sectes — aussi — lavent les cerveaux. Les sectes — aussi —
+       détruisent des… 3 hours ago
+     * Présent à #MeleeNum à Toulouse pour réfléchir sur numérique,
+       médiation et inclusion et pour intervenir sur l'#EMI.
+       https://t.co/vw855meM1Y 3 hours ago
+     * [Pétition] La #Miviludes (mission interministérielle de vigilance
+       et de lutte contre les dérives sectaires) est en…
+       twitter.com/i/web/status/1… 4 hours ago
+     * RT @FMarchandfred: L’@UNSA_Education adresse tout son soutien et
+       des pensées amicales à @svolpoet secrétaire académique du
+       @SNPDENCRETEIL .… 1 day ago
+     * RT @gcarondk: favorisent, bien plus que le système standard,
+       l'esprit critique, la capacité à s'exprimer, à monter des projets,
+       à prendre d… 2 days ago
+
+   Follow @ecolededemain
+
+RSS Sur le site du SE-Unsa :
+
+     * Erreur, le flux RSS est probablement en panne. Essayez plus tard.
+
+   Envoyer à l'adresse email ____________________ Votre nom
+   ____________________ Votre adresse e-mail ____________________
+   _________________________
+   loading Envoyer un e-mail Annuler
+   L'article n'a pas été envoyé - Vérifiez vos adresses email !
+   La vérification e-mail a échoué, veuillez réessayer
+   Impossible de partager les articles de votre blog par email.
+
+   Fermer et accepter Confidentialité & Cookies : Ce site utilise des
+   cookies. En continuant à utiliser ce site, vous acceptez leur
+   utilisation.
+   Pour en savoir davantage, y compris comment contrôler les cookies, voir
+   : Politique relative aux cookies
+
+   IFRAME: likes-master
+
+   %d blogueurs aiment cette page :
+   #L'ÉCOLE DE DEMAIN » Flux L'ÉCOLE DE DEMAIN » Flux des commentaires
+   L'ÉCOLE DE DEMAIN » On a contribué à Wikipédia en 6e ! Flux des
+   commentaires Quand des professeurs d’Histoire-Géographie renversent
+   leur classe 1/2 Le cahier des apprentissages pour remplacer les devoirs
+   ? alternate alternate L'ÉCOLE DE DEMAIN WordPress.com
+
+L'ÉCOLE DE DEMAIN
+
+Dessinons l'école pour la réussite de tous les élèves de la maternelle au
+lycée – Le blog Education du SE-Unsa
+
+Menu principal
+
+   Accéder au contenu principal
+     * Accueil
+     * rentrée
+     * Agir pour l’école
+     * Nos dossiers
+          + Agir pour l’école
+          + Scolarisation des migrants
+          + Dossier éducation au Web2
+          + Dossier ENT
+          + Socle Commun
+          + École pour tous École pour chacun
+          + #sansnotes
+          + Devoirs ou pas devoirs ?
+          + Dossier compétences
+          + école inclusive
+          + EMI
+          + EMC
+          + Le redoublement en questions
+          + Neurosciences
+     * Maternelle
+     * classe inversée
+     * Neurosciences
+     * Les écrans en questions
+
+On a contribué à Wikipédia en 6e !
+
+   28 janvier 2013 · par Stéphanie de Vanssay · dans Innover sur le
+   terrain. ·
+
+   Cet article a été écrit par Anne-Marie Michaud (Boulogne-Billancourt
+   92) professeur de SVT en collège, il a été publié à l’origine sur le
+   blog : « Un œil sur les SVT »
+
+La place de cette activité dans le programme
+
+   En cours avec les 6e sur la partie « le peuplement d’un milieu », je
+   leur ai demandé de rédiger, à partir d’un article de Wikipédia, un
+   texte expliquant comment le hérisson passe l’hiver.
+
+Les objectifs de la séance
+
+   Les objectifs méthodologiques de la séance portaient sur la validation
+   de l’information trouvée sur le web et sur l’acquisition d’une méthode
+   pour rédiger les résultats d’une recherche documentaire en évitant le
+   copier/coller. L’objectif cognitif était de proposer une définition de
+   l’hibernation.
+
+Un sondage sur l’utilisation de Wikipédia par les élèves
+
+   J’ai proposé aux élèves de mes 3 classes de 6e de répondre à un sondage
+   anonyme sur leur utilisation de Wikipédia. Le sondage lui-même se
+   trouve dans les articles précédents.  Les résultats sont présentés
+   ci-dessous.  Un premier bémol, je n’ai obtenu aucune réponse à ma
+   première question : « êtes-vous déjà allé sur wikipédia? ».
+   Heureusement, j’ai posé la question à l’oral et j’ai au moins une vague
+   idée du résultat : une écrasante majorité de oui. Un deuxième bémol, ce
+   sondage n’est en rien représentatif des usages de wikipédia par les
+   jeunes. C’était un prétexte (ou situation déclenchante..) pour lancer
+   une discussion avec les élèves  sur la validation de l’information
+   trouvée dans Wikipédia.
+
+   Les résultats en eux-mêmes ne sont guère surprenants. Les élèves
+   utilisent essentiellement Wikipédia pour leurs recherches scolaires. La
+   majorité ne sait pas qui sont les auteurs de Wikipédia mais ils savent
+   en revanche que n’importe qui peut écrire un article. Quant à la
+   validation de l’information, les avis sont plus partagés : 1/3 des
+   élèves pensent qu’elles n’est pas validée, 1/3 que des spécialistes la
+   valident, 1/3 qu’il faut faire confiance à ceux qui rédigent les
+   articles.
+
+   wikipedia
+
+   wikipedia1
+
+   wikipedia2*
+
+   wikipedia3
+
+Wikipédia par la pratique
+
+   Suite aux résultats du sondage, j’ai décidé de montrer aux élèves
+   comment modifier l’information sur Wikipédia. Et au lieu d’ajouter des
+   erreurs, j’ai préféré les corriger. L’article choisi sur le hérisson
+   commun parlait tantôt d’hibernation, tantôt d’hivernation. Oups,
+   c’était justement l’objectif cognitif de ma séance! Que faire?
+
+   Pour commencer, je les ai laissé trouver le problème par eux-mêmes.
+   Puis une fois, le problème identifié (si si, ils ont trouvé tous
+   seuls), j’ai modifié l’article en conséquence (pas devant eux, faute de
+   temps mais chez moi). En classe, je leur ai montré la page discussion
+   avec mon commentaire et j’ai insisté sur la nécessité de citer des
+   sources fiables. Dans ce cas précis, je n’avais comme référence qu’un
+   magazine de vulgarisation (la hulotte).
+
+   Pendant le cours, une élève a même « corrigé » une des références à
+   l’hivernation en hibernation.
+   C’est elle !
+
+   correction_eleve
+
+Et ensuite?
+
+   Et là, où cela devient merveilleux, c’est que la réponse est bien plus
+   compliquée que prévue. Il semblerait que certaines espèces de hérisson
+   hivernent et d’autres hibernent. Un contributeur de Wikipédia a cité
+   dans la page de discussion une étude parue dans une revue scientifique
+   qui semble le prouver. J’utilise le terme « semble » parce que je n’ai
+   pas encore eu le temps de la lire. Il a donc modifié l’article à
+   nouveau, revenant à la situation initiale. L’article n’en est pas plus
+   clair pour autant et je compte bien m’atteler à une autre proposition
+   de rédaction. Avec les élèves ? Peut-être…
+
+   En prolongement ou pour d’autres exemples, voir aussi les Storifys des
+   journées Wikimédia les 14 et 15 décembre dernier : journée 1 et journée
+   2
+
+
+    Introduction et sommaire du dossier « éducation au Web2 »
+
+Share this:
+
+     * Twitter
+     * Facebook
+     * Email
+     *
+
+WordPress:
+
+   J'aime chargement…
+
+Sur le même thème
+
+   Étiquettes : Dossier éducation au Web2, TICE, Wikipedia
+
+Navigation des articles
+
+   � Quand des professeurs d’Histoire-Géographie renversent leur classe
+   1/2
+   Le cahier des apprentissages pour remplacer les devoirs ? →
+
+Une réponse à “On a contribué à Wikipédia en 6e !�
+
+    1. Pingback: Expériences TIC | Amélie Arseneau·
+
+Répondre Annuler la réponse.
+
+   Entrez votre commentaire...
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+
+   Entrez vos coordonnées ci-dessous ou cliquez sur une icône pour vous
+   connecter:
+     *
+     *
+     *
+
+       IFRAME: googleplus-sign-in
+
+     *
+     *
+
+   Gravatar
+   E-mail (obligatoire) (adresse strictement confidentielle)
+   ____________________
+   Nom (obligatoire)
+   ____________________
+   Site web
+   ____________________
+   Logo WordPress.com
+
+   Vous commentez à l'aide de votre compte WordPress.com. ( Déconnexion /
+   Changer )
+   Photo Google
+
+   Vous commentez à l'aide de votre compte Google. ( Déconnexion /
+   Changer )
+   Image Twitter
+
+   Vous commentez à l'aide de votre compte Twitter. ( Déconnexion /
+   Changer )
+   Photo Facebook
+
+   Vous commentez à l'aide de votre compte Facebook. ( Déconnexion /
+   Changer )
+   Annuler
+
+   Connexion à %s
+
+   [ ] Avertissez-moi par e-mail des nouveaux commentaires.
+
+   [ ] Avertissez-moi par e-mail des nouveaux articles.
+
+   Laisser un commentaire
+
+     * Accueil
+     * rentrée
+     * Agir pour l’école
+     * Nos dossiers
+          + Agir pour l’école
+          + Scolarisation des migrants
+          + Dossier éducation au Web2
+          + Dossier ENT
+          + Socle Commun
+          + École pour tous École pour chacun
+          + #sansnotes
+          + Devoirs ou pas devoirs ?
+          + Dossier compétences
+          + école inclusive
+          + EMI
+          + EMC
+          + Le redoublement en questions
+          + Neurosciences
+     * Maternelle
+     * classe inversée
+     * Neurosciences
+     * Les écrans en questions
+
+Catégories
+
+     * Agir pour l'école
+     * Agir pour nos idées
+     * Enseigner au quotidien
+     * Innover sur le terrain
+     * Le redoublement en questions
+     * Neurosciences
+     * Nos dossiers
+     * On a lu et on a aimé
+     * Réfléchir avec les spécialistes
+     * Scolarisation des migrants
+     * Veille et informations
+
+Pour s’abonner c’est ICI !
+
+   Pour s'abonner c'est ICI !
+
+Souscription au Blog par Email
+
+   Entrez votre adresse mail pour suivre ce blog et être notifié par email
+   des nouvelles publications.
+
+   Rejoignez 835 autres abonnés
+
+   ____________________
+
+   (BUTTON) Suivre
+
+RSS Notre scoop.it
+
+     * Erreur, le flux RSS est probablement en panne. Essayez plus tard.
+
+Articles récents
+
+     * Indigestion de guides suprêmes
+     * Le plan de travail : un outil de différenciation au service des
+       apprentissages
+     * Des nouvelles du projet CAC vert de Global Reporters
+     * L’arpentage pour lire à plusieurs au lycée
+     * Le projet éco’art du collège Paul Kapel
+
+Nuage de mots-clefs
+
+   #sansnotes accompagnement actu Alternatives aux devoirs ASH citoyenneté
+   classe inversée colloque collège collège2016 collège unique compétences
+   CPE devoirs Devoirs ou pas devoirs ? DNB Dossier compétences DOSSIER
+   ENT Dossier éducation au Web2 Dys EDD EMC EMI ENT EPI film formation
+   français GFEN Harcèlement histoire histoire-géographie inclusion
+   individualisation innovation interdisciplinarité interview lecture Les
+   spécialistes à propos des devoirs Les écrans en questions livre
+   LSUN/LSU lycée lycée professionnel Maternelle mathématiques notes
+   Nouveaux programmes numérique orthographe pratiques pédagogiques
+   programmes projet projet socle commun pédagogie rentrée Rentrée 2016
+   reportage rythmes réseaux sociaux Savanturiers sciences socle commun
+   TICE travail par compétences Twitter Témoignages devoirs vidéo École
+   pour tous École pour chacun échec scolaire école école inclusive école
+   numérique éducation aux médias évaluation
+
+Pour nous contacter par mail :
+
+   Contact
+
+Archives
+
+     * octobre 2019
+     * septembre 2019
+     * août 2019
+     * juin 2019
+     * mai 2019
+     * avril 2019
+     * mars 2019
+     * février 2019
+     * janvier 2019
+     * décembre 2018
+     * novembre 2018
+     * octobre 2018
+     * septembre 2018
+     * août 2018
+     * juillet 2018
+     * juin 2018
+     * mai 2018
+     * avril 2018
+     * mars 2018
+     * février 2018
+     * janvier 2018
+     * décembre 2017
+     * novembre 2017
+     * octobre 2017
+     * septembre 2017
+     * août 2017
+     * juillet 2017
+     * juin 2017
+     * mai 2017
+     * avril 2017
+     * mars 2017
+     * février 2017
+     * janvier 2017
+     * décembre 2016
+     * novembre 2016
+     * septembre 2016
+     * août 2016
+     * juillet 2016
+     * juin 2016
+     * mai 2016
+     * avril 2016
+     * mars 2016
+     * février 2016
+     * janvier 2016
+     * décembre 2015
+     * novembre 2015
+     * octobre 2015
+     * septembre 2015
+     * juin 2015
+     * mai 2015
+     * avril 2015
+     * mars 2015
+     * février 2015
+     * janvier 2015
+     * décembre 2014
+     * novembre 2014
+     * octobre 2014
+     * septembre 2014
+     * août 2014
+     * juillet 2014
+     * juin 2014
+     * mai 2014
+     * avril 2014
+     * mars 2014
+     * février 2014
+     * janvier 2014
+     * décembre 2013
+     * novembre 2013
+     * octobre 2013
+     * septembre 2013
+     * août 2013
+     * juin 2013
+     * mai 2013
+     * avril 2013
+     * février 2013
+     * janvier 2013
+     * décembre 2012
+     * novembre 2012
+     * octobre 2012
+     * septembre 2012
+     * août 2012
+     * juillet 2012
+     * juin 2012
+     * mai 2012
+     * avril 2012
+     * mars 2012
+     * février 2012
+     * janvier 2012
+     * décembre 2011
+     * novembre 2011
+     * octobre 2011
+     * juin 2011
+     * mai 2011
+     * avril 2011
+     * mars 2011
+     * février 2011
+     * janvier 2011
+     * décembre 2010
+     * novembre 2010
+     * octobre 2010
+     * septembre 2010
+
+Méta
+
+     * Inscription
+     * Connexion
+     * Flux RSS des articles
+     * RSS des commentaires
+     * WordPress.com
+
+   Recherche ____________________ Recherche
+
+Retrouvez-nous sur Facebook
+
+     Retrouvez-nous sur Facebook
+
+Suivez @ecolededemain sur Twitter
+
+     * #MeleeNum c'est un programme très complet sur les questions
+       concernant inclusion/handicap/médiation et numérique...
+       https://t.co/UKrTh7LRpU 3 hours ago
+     * RT @LucBentz: Signez ! Les sectes — aussi — sont dangereuses. Les
+       sectes — aussi — lavent les cerveaux. Les sectes — aussi —
+       détruisent des… 3 hours ago
+     * Présent à #MeleeNum à Toulouse pour réfléchir sur numérique,
+       médiation et inclusion et pour intervenir sur l'#EMI.
+       https://t.co/vw855meM1Y 3 hours ago
+     * [Pétition] La #Miviludes (mission interministérielle de vigilance
+       et de lutte contre les dérives sectaires) est en…
+       twitter.com/i/web/status/1… 4 hours ago
+     * RT @FMarchandfred: L’@UNSA_Education adresse tout son soutien et
+       des pensées amicales à @svolpoet secrétaire académique du
+       @SNPDENCRETEIL .… 1 day ago
+     * RT @gcarondk: favorisent, bien plus que le système standard,
+       l'esprit critique, la capacité à s'exprimer, à monter des projets,
+       à prendre d… 2 days ago
+
+   Follow @ecolededemain
+
+RSS Sur le site du SE-Unsa :
+
+     * Erreur, le flux RSS est probablement en panne. Essayez plus tard.
+
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   Publier sur
+   Annuler Reblog Article
+
+   Envoyer à l'adresse email ____________________ Votre nom
+   ____________________ Votre adresse e-mail ____________________
+   _________________________
+   loading Envoyer un e-mail Annuler
+   L'article n'a pas été envoyé - Vérifiez vos adresses email !
+   La vérification e-mail a échoué, veuillez réessayer
+   Impossible de partager les articles de votre blog par email.
+
+   Fermer et accepter Confidentialité & Cookies : Ce site utilise des
+   cookies. En continuant à utiliser ce site, vous acceptez leur
+   utilisation.
+   Pour en savoir davantage, y compris comment contrôler les cookies, voir
+   : Politique relative aux cookies
+
+   IFRAME: likes-master
+
+   %d blogueurs aiment cette page :
+   This is an OpenID server
+

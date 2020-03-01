@@ -1,0 +1,26 @@
+
+Gotek USB Floppy Emulator
+
+   Similar to the HxC2001, the Gotek USB Floppy Emulator is a direct
+   replacement for floppy disk drives. While it may not have the same
+   support or confirmed cross-system compatibility as the HxC2001, it has
+   since become a strong choice for Commodore Amiga owners following its
+   recent firmware release.
+
+   There doesn’t seem to be an official website for the Gotek USB Floppy
+   Emulator, however further information is dotted around various blogs.
+   With this in mind too, it seems that the best place to get the device
+   from is eBay.
+     * Storage: USB Memory Sticks
+     * Pros: Slim design fits into an Amiga perfectly
+     * Cons: Same load times as a floppy disk, lacks the support the
+       HxC2001 has
+
+   Link: Find Gotek USB Floppy Emulator on eBay
+
+
+Have We Missed Something?
+
+   As comprehensive as this guide may be, there are always new devices
+   hitting the market. Be sure to let us know in the comments below if
+   we're missing a flash cartridge or equivalent.

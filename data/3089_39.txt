@@ -1,0 +1,27 @@
+
+Panasonic 3DO
+
+Panasonic 3DO USB Host
+
+   Over in the depths of Russia is an incredibly talented individual that
+   refuses to let the Panasonic 3DO die out. Similar to the likes of the
+   Dreamcast’s GDEmu, the Panasonic 3DO now has a USB stick driven
+   alternative to the on-board disc drive.
+
+   Coming in a wide range of flavours for the different Panasonic 3DO
+   systems out there, the Panasonic 3DO USB Host allows gamers to plug in
+   any USB memory stick to the console to read games directly from. The
+   USB Host emulates the 3DO’s disc drive perfectly, providing 100%
+   perfect compatibility with every single game ever released for the
+   multimedia platform.
+
+   As great as this is, the range of devices available are very expensive
+   and difficult to source. Some of them require advanced installations
+   (removing chips from the console’s motherboard), while others are
+   solderless plug-and-play solutions. Either way, you’ll need to do some
+   research at the link below should you be interested.
+     * Storage: USB Memory Sticks
+     * Pros: Perfect compatibility, quick loading, menu driven interface
+     * Cons: Expensive, difficult installation on some models
+
+   Link: Buy Panasonic 3DO USB Host

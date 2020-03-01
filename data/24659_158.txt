@@ -1,0 +1,131 @@
+
+Californie : la réalité augmentée au secours des malvoyants
+
+   Rédigé par Yannick SOURISSEAU le Vendredi 27 Septembre 2019 à 16:21 |
+   Lu 966 fois
+
+   IFRAME:
+   //www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.villeintelli
+   gente-mag.fr%2FCalifornie-la-realite-augmentee-au-secours-des-malvoyant
+   s_a769.html&layout=button_count&show_faces=false&width=100&action=like&
+   colorscheme=light
+
+   IFRAME:
+   //platform.twitter.com/widgets/tweet_button.html?url=http%3A%2F%2Fxfru.
+   it%2FnxT0sw&counturl=https%3A%2F%2Fwww.villeintelligente-mag.fr%2FCalif
+   ornie-la-realite-augmentee-au-secours-des-malvoyants_a769.html&text=Cal
+   ifornie%20%3A%20la%20r%C3%A9alit%C3%A9%20augment%C3%A9e%20au%20secours%
+   20des%20malvoyants&count=horizontal
+
+De plus en plus d’américains âgés de plus de 40 ans ont des défauts de vision
+qui ne peuvent pas être corrigés par des lunettes, des lentilles de contact,
+un traitement médical ou une intervention chirurgicale. Des chercheurs se
+tournent vers d’autres technologies et notamment la réalité augmentée pour
+apporter un peu plus de confort aux personnes touchées par des déficiences
+visuelles aigües.
+
+   Améliorer la vision des personnes touchées par une dégénérescence de la
+   rétine (photo Scott Song for USC Roski Eye Institute) Améliorer la
+   vision des personnes touchées par une dégénérescence de la rétine
+   (photo Scott Song for USC Roski Eye Institute)
+   Améliorer la vision des personnes touchées par une dégénérescence de la
+   rétine (photo Scott Song for USC Roski Eye Institute)
+   Des chercheurs de la Keck School of Medicine de l'USC, institut de
+   recherche de l'Université de Los Angeles (USA), qui enseigne dans les
+   domaines des soins innovants aux patients, de la découverte
+   scientifique, de l'éducation et des services de proximité, se sont
+   penchés sur la rétinite pigmentaire, une maladie oculaire dégénérative
+   héréditaire qui entraine une cécité progressive difficile à corriger
+   avec l’arsenal médical habituel.  Ils ont découvert que la vue des
+   personnes touchées ( un américain de plus de 40 ans sur trente) pouvait
+   être améliorées à hauteur de 50%, voire 70 % pour la saisie d’objets,
+   par des lunettes à réalité augmentée (RA).
+
+   « Les technologies actuelles de réalité virtuelle sont limitées et
+   peuvent être difficiles à utiliser ou nécessiter une formation poussée
+   des patients. En utilisant une approche différente, c’est à dire en
+   utilisant des technologies d'assistance pour améliorer les sens
+   naturels, et non pas les remplacer, notre équipe a adapté des lunettes
+   anti-reflets produisant des couleurs vives sur la rétine des patients,
+   correspondant aux obstacles proches », a déclaré conjointement Mark
+   Humayun, directeur de l’USC.
+
+   Les patients atteints de rétinite pigmentaire portaient des lunettes
+   anti-reflets améliorée lorsqu’ils franchissaient un parcours
+   d’obstacles basé sur un test fonctionnel validé par la Food and Drug
+   Administration des États-Unis, l’autorité de santé américaine. À l'aide
+   d'une vidéo de chaque test, les chercheurs ont enregistré le nombre de
+   fois où les patients se sont heurtés à des obstacles, ainsi que le
+   temps pris pour terminer le cours. Les patients équipés de lunettes VR
+   adaptée ont en moyenne 50% moins de collisions.
+
+   Ces patients ont également été invités à saisir une cheville en bois
+   sur un fond noir - situé derrière quatre autres chevilles en bois -
+   sans toucher les éléments du devant. Les patients ont démontré une
+   augmentation de 70% des performances de préhension avec les lunettes
+   anti-reflets améliorées.
+
+   « Les patients atteints de rétinite pigmentaire ont une vision
+   périphérique réduite et ont des difficultés à voir lorsque la lumière
+   est faible, ce qui rend difficile l'identification des obstacles et la
+   saisie des objets. Ils ont souvent besoin d'aide à la mobilité,
+   notamment dans les environnements sombres », a déclaré Anastasios N.
+   Angelopoulos, responsable du projet d'étude dans le laboratoire de
+   recherche de Humayun à l'école Keck. « Grâce à l'utilisation de la RA,
+   nous visons à améliorer la qualité de vie des patients malvoyants en
+   leur donnant davantage confiance dans l'exécution de tâches de base,
+   leur permettant ainsi de mener une vie plus autonome ».
+
+Comment fonctionne le système AR mis au point par les chercheurs californiens
+
+   Le système AR superpose les objets dans une structure filaire de 6
+   pieds avec quatre couleurs vives et distinctes. Ce faisant, les
+   lunettes fournissent des repères de couleur visuels qui aident les
+   personnes ayant une vision périphérique restreinte à interpréter des
+   environnements complexes, par exemple en évitant les obstacles dans des
+   environnements faiblement éclairés.
+
+   Pour celà, les chercheurs ont utilisé un processus appelé localisation
+   et cartographie simultanées, permettant aux lunettes antireflets de
+   restituer entièrement la structure 3D d'une pièce en temps réel. Les
+   lunettes ont ensuite traduit ces informations en une couche de couleur
+   semi-transparente, soulignant les obstacles potentiels avec des
+   couleurs vives pour aider les patients à comprendre l'espace et à
+   percevoir la profondeur. Cette technologie peut fonctionner sur des
+   appareils disponibles dans le commerce.
+
+   Selon Mark Humayun, bien que d'importants problèmes techniques et de
+   coût demeurent, ce type de technologie d'assistance pourrait
+   éventuellement devenir plus pratique pour une utilisation quotidienne
+   dans un proche avenir.
+
+   Fondée en 1885, la Keck School of Medicine de l'USC qui compte plus de
+   1 850 membres du corps professoral à temps plein et des professeurs
+   bénévoles dont plus de 2 400 médecins, est l’une des meilleures de
+   Californie du Sud. Les professeurs dirigent la formation d'environ 800
+   étudiants en médecine et de 1 000 étudiants poursuivant des études de
+   troisième cycle. L'école forme plus de 900 médecins spécialisés
+   exerçant dans le sud-ouest des USA. Les professeurs de l'école Keck
+   dirigent également la recherche et l'éducation dans 26 départements de
+   sciences fondamentales et cliniques axés sur la recherche et 17
+   instituts de recherche sur le campus des sciences de la santé de l'USC.
+
+   Pour plus d'informations :  keck.usc.edu
+   source www.eurekalert.org
+   MOTS CLÉS : innovation, médecine, réalité augmentée, santé
+   Yannick SOURISSEAU
+   Yannick SOURISSEAU
+   - Web journaliste et rédacteur en chef de Ville Intelligente Mag -
+   Formateur journalisme en ligne... En savoir plus sur cet auteur
+   Facebook Twitter LinkedIn
+
+   Dans la même rubrique :
+   < >
+
+Mercredi 2 Octobre 2019 - 10:52 Ordimemo Ensõ, une tablette qui simplifie la
+vie des seniors et de leurs proches
+
+Mercredi 18 Septembre 2019 - 12:12 Santé : nous avons testé la télémédecine.
+
+   Energie | Mobilité | Habitat | Aménagement | Environnement | e-Santé |
+   Juridique | Consommation

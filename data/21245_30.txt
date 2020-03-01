@@ -1,0 +1,35 @@
+
+   logo_uftmp_horizontale.svg
+
+     * 005-social-media.svg
+     * 004-twitter.svg
+     * 003-youtube.svg
+     * 002-instagram.svg
+
+     * L'Université
+     * Des campus attractifs
+     * Des formations pour tous
+     * Une recherche dynamique
+     * Innover et entreprendre
+     * L'ouverture sur le monde
+
+   IFRAME:
+   https://www.google.com/maps/embed/v1/place?key=AIzaSyBAZgOnuu3sYOc4OM_P
+   6QqRR2gW4XpuPDQ&q=Universit%C3%A9+F%C3%A9d%C3%A9rale+Toulouse+Midi-Pyr%
+   C3%A9n%C3%A9es
+
+   VENIR À L'UNIVERSITÉ
+
+
+   Université Fédérale Toulouse Midi-Pyrénées - siège social
+   41 Allées Jules Guesde - CS 61321
+   31013 TOULOUSE - CEDEX 6
+   Contact [at] univ-toulouse.fr |  Tél. : +33 (0)5 61 14 80 10
+   Service Inter-établissements de coopération documentaire
+   15 rue des lois
+   31000 Toulouse
+   Tél. : +33 (0)5 61 14 58 60 | contact Maison de la Recherche et de la
+   Valorisation
+   118 Route de Narbonne
+   31062 TOULOUSE - CEDEX 9
+   Tél. : +33 (0)5 62 25 00 92

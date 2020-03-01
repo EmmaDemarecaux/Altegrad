@@ -1,0 +1,48 @@
+
+     * Je souhaiterais...
+     * Je souhaiterais...*
+          + [ ] que vous personnalisiez une affiche existante
+          + [ ] que vous mettiez en forme mon texte
+          + [ ] ... et que vous m’écriviez mon texte
+     * Au format...*
+          + [ ] l’affiche au format numérique
+          + [ ] l'affiche imprimée au format A2
+          + [ ] l'affiche imprimée accompagnée d'un support en bois
+            (suspension aimantée)
+     * Chouette, racontez-nous, avec vos mots, votre idée !*
+
+       __________________________________________________
+       __________________________________________________
+       __________________________________________________
+       __________________________________________________
+       __________________________________________________
+       __________________________________________________
+       __________________________________________________
+       __________________________________________________
+       __________________________________________________
+       __________________________________________________
+     * Vos coordonnées*
+       ____________________ Prénom ____________________ Nom
+     * Votre email*
+       ____________________
+     * Adresse*
+       ____________________ Adresse postale ____________________ Adresse
+       ligne 2 ____________________ Ville ____________________ État /
+       Province / Région ____________________ ZIP / Code postal
+       [___________________________________________] Pays
+     * Votre téléphone*
+       ____________________
+     * 0,00 €
+
+   Envoyer
+
+   IFRAME: gform_ajax_frame_1
+   Cette iframe contient la logique nécessaire pour manipuler Gravity
+   Forms avec Ajax.
+
+Des affiches
+
+et des mots
+
+Choisir
+l'affiche

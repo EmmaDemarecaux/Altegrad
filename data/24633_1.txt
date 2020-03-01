@@ -1,0 +1,159 @@
+     * Lire en ligne
+     * Télécharger
+     * Résumé
+     * Mots-clés
+     * Soutenance
+     * Publier en ligne
+     * Lire à l'écran
+     * Biographie
+     * Contact
+     * Newsletter
+     * Licence
+
+Anthony Masure
+
+Le design des programmes
+
+Des façons de faire du numérique
+
+   Lire la thèse en ligne
+
+Autres formats de lecture
+
+   Télécharger le PDF Édition imprimée
+
+   Thèse dirigée par M. Pierre-Damien Huyghe. Université Paris 1
+   Panthéon-Sorbonne, ufr 04, École doctorale d’arts plastiques et
+   sciences de l’art. Discipline : Esthétique et Sciences de l’Art,
+   spécialité Design.
+
+   550 pages, 1 200 000 signes, 923 notes de bas de page et 266 figures.
+   Couverture Adobe
+
+Résumé
+
+   Cette thèse interroge le design depuis les pratiques de programmation
+   en montrant qu’elles ne se réduisent pas à une industrie des
+   programmes, qui empêche les inventions de naître tout à fait. Pour
+   cela, elle confronte au sein d’une lecture non linéaire cinq moments de
+   l’histoire du numérique (depuis Vannevar Bush en 1945, dont une
+   traduction inédite est proposée en appendice, jusqu’aux usages
+   contemporains du site web GitHub) à quatre formulations conceptuelles
+   issues d’un corpus philosophique. Le choix d’auteurs qui n’ont pas
+   directement voué leurs réflexions au design (comme Jacques Derrida,
+   Hannah Arendt ou Walter Benjamin) permet de déconstruire un certain
+   nombre de discours entourant la réception des technologies dites
+   nouvelles. Critiquant nombre d’usages faits des notions de conception
+   et de projet et s’appuyant finalement sur Gilbert Simondon, cette thèse
+   s’intéresse à ce qui n’est pas prévisible dans les programmes. Elle
+   soutient cinq axes ou directions pour une recherche dans le champ
+   concerné : décentrer, authentifier, appareiller, traduire et
+   désarticuler. La plausibilité de ces façons de faire du numérique,
+   encore à l’état d’ébauche dans les productions contemporaines, peut
+   intéresser les designers au-delà des spécialistes. Elle est avérée en
+   fin d’ouvrage dans la description d’une fiction curatoriale.
+
+Mots-clés
+
+   Algorithme, Appareil, Écriture, Façon, Fragmentation, Langage,
+   Nouveauté, Numérique, Parole, Photographie, Programmation, Programme,
+   Réglage, Technique, Traduction.
+
+Soutenance
+
+   Thèse soutenue le 10 novembre 2014 en Sorbonne avec mention très
+   honorable et félicitations du jury à l'unanimité.
+
+   Jury :
+   M. Yves Citton, Professeur des universités, Université
+   Stendhal-Grenoble 3 (pré-rapporteur).
+   M. Pierre-Damien Huyghe, Professeur des universités, Université Paris 1
+   Panthéon-Sorbonne (directeur de thèse).
+   M. Nicolas Taffin, Designer d’applications, Professeur associé à
+   l’Université de Caen Basse-Normandie.
+   M. Nicolas Thély, Professeur des universités, Université Rennes 2
+   (président de jury).
+
+   — Voir le discours de soutenance
+
+Pourquoi publier en ligne ?
+
+   La publication en ligne des thèses se limite dans la quasi totalité des
+   cas au format pdf (Theses.fr, tel, etc.). Cet état de fait a pour
+   conséquence de rendre ces travaux invisibles des moteurs de recherche,
+   du fait d’une indexation hasardeuse. Plus encore, le format pdf n’est
+   pas adapté à une lecture prolongée à l’écran. Alors que le langage html
+   a originellement été créé pour décrire et partager des documents
+   scientifiques, pourquoi si peu de thèses en langue française
+   sont-elles, au sens fort, « accessibles » ?
+
+   Si des plateformes de publication comme Open Edition ou Cairn portent
+   attention à la lisibilité, l’interface est peu personnalisable et les
+   fonctions et la perrenité des travaux dépendent de l'éditeur du
+   programme. D'un autre côté, malgré des initiatives comme CommentPress,
+   les cms type WordPress ne sont pas adaptés à une lecture soutenue et
+   produisent un code source « encombré » et peu maléable. Notons ainsi
+   que le chercheur Alexandre Monnin est à l'initiative de Philoweb.org,
+   qui était en 2014, à notre connaissance, une des seules thèses
+   soutenues en France ayant fait l’objet d’une mise en ligne intégrale.
+   Ce site est désormais (et malheureusement) offline pour des raisons
+   techniques liées aux complexités des mises à jour de WordPress et de
+   CommentPress.
+
+   En attendant que des programmes dédiés aux exigences des publications
+   scientifiques « auto-hébergeables » et « appareillables » apparaissent,
+   il importe donc de designer les formes de la recherche.
+
+Lire à l'écran
+
+   Le design général de ce site Web, tout en étant cohérent avec la
+   version imprimée de la thèse (même police de caractères – merci à
+   Emmanuel Clément pour le réglage des espaces fines insécables –, gamme
+   colorée, organisation des figures, etc.), a été pensé comme un
+   environnement optimisé pour la lecture à l'écran. La grille de mise en
+   page et la taille des caractères sont redimensionnés et réagencés en
+   fonction des différentes « résolutions » d'écran (téléphone mobile,
+   tablette, moniteur fixe, etc.). Les contrastes forts et l’emploi de
+   niveaux de gris permettent de se retrouver facilement dans le texte,
+   qui bénéficie ici de possibilités propres au numérique : hyperliens,
+   indexation, etc. Des réglages permettent au lecteur d’agrandir/réduire
+   les caractères et la largeur des paragraphes et de basculer l’ensemble
+   du site en « lecture de nuit » (sur fond sombre), plus reposante pour
+   les yeux. Le code source, simple et léger, a été écrit « depuis zéro »
+   afin de maîtriser l'ensemble du processus et de permettre des
+   transformations futures. Même si le code est réutilisable, cette
+   initiative ne vise pas à « faire modèle » mais incitera les chercheurs,
+   nous l’espérons, à travailler à leur tour la matière numérique.
+
+Biographie
+
+   Agrégé d’arts appliqués et ancien élève du département design de l’ENS
+   Cachan, Anthony Masure est maître de conférences en design à
+   l’université Toulouse – Jean Jaurès, laboratoire LLA-CRÉATIS. Sa thèse
+   en esthétique portant sur le design des programmes (2014) a été dirigée
+   par Pierre-Damien Huyghe à l’université Paris 1 Panthéon-Sorbonne. Ses
+   recherches actuelles portent sur les implications sociales et
+   politiques des technologies numériques. Il a cofondé les revues de
+   recherche Back Office et Réel-Virtuel. Son livre Design et humanités
+   numériques est à paraître en 2017 aux éditions B42.
+
+   Voir le cv complet
+
+Lettre d'information
+
+   Pour être au courant des recherches d'Anthony Masure (publications,
+   conférences, etc.), vous pouvez indiquer votre mail ci-dessous.
+   ____________________ S'abonner
+
+Contact
+
+   anthonymasure@gmail.com
+
+   @anthonymasure
+
+Licence
+
+   Sauf mention contraire, tous les textes sont placés sous licence libre
+   cc by-nc-sa 4.0
+
+   �

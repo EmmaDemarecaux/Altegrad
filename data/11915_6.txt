@@ -1,0 +1,37 @@
+
+Cookies
+
+   Des informations de votre navigation sur les sites sont susceptibles
+   d’être enregistrées dans des fichiers appelés "cookies" déposés – avec
+   votre accord – de manière temporaire sur l’ordinateur que vous
+   utilisez. La durée de dépôt d’un cookie est proportionnée à ses
+   finalités et ne peut excéder légalement 13 mois.
+   - les cookies techniques contiennent des informations nécessaires au
+   fonctionnement du site (par exemple le maintien et la sécurisation d’un
+   service pendant la session). Leur absence peut entraîner des
+   dysfonctionnements.
+   - les cookies de mesure d’audience donnent des informations sur
+   l’utilisation du site (nombre de visites, pages les plus visitées,
+   etc.) et permettent de réaliser des statistiques. Les données traitées
+   à ces fins ne permettent pas d’identifier directement les utilisateurs
+   des sites et aucun profilage n’est fait à partir de ces traces. Ce site
+   utilise les services d'analyse de trafic des sites internet : Analytics
+   Suite (anciennement XiTi, fourni par AT Internet) et Google Analytics
+   (fourni par Google Inc.) Les données générées par Google sont hébergées
+   sur des serveurs situés aux Etats-Unis. Google utilisera ces
+   informations dans le but d'évaluer votre utilisation du site, de
+   compiler des rapports sur l'activité du site à destination de son
+   éditeur et de fournir d'autres services relatifs à l'activité du site
+   et à l'utilisation d'Internet. Google ne recoupera pas votre adresse IP
+   avec toute autre donnée détenue par Google.
+   En utilisant ce site vous consentez au traitement de vos données
+   nominatives par AT Internet et Google dans les conditions et pour les
+   finalités décrites ci-dessus.
+   Vous pouvez choisir d'empêcher le dépôt de cookies par Google avant
+   d'utiliser ce site, en cliquant sur "Je refuse".
+   ​​​​​​​Vous pouvez aussi désactiver partiellement ou en totalité
+   l'utilisation des cookies, en sélectionnant les paramètres appropriés
+   de votre navigateur.
+   Plus d’information :
+   https://www.cnil.fr/fr/cookies-traceurs-que-dit-la-loi
+   ​​​​​​​

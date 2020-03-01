@@ -1,0 +1,163 @@
+
+   Votre panier est actuellement vide.
+
+   Retour à la boutique
+
+L'affiche
+personnalisée
+
+     * Je souhaiterais...
+     * Je souhaiterais...*
+          + [ ] que vous personnalisiez une affiche existante
+          + [ ] que vous mettiez en forme mon texte
+          + [ ] ... et que vous m’écriviez mon texte
+     * Au format...*
+          + [ ] l’affiche au format numérique
+          + [ ] l'affiche imprimée au format A2
+          + [ ] l'affiche imprimée accompagnée d'un support en bois
+            (suspension aimantée)
+     * Chouette, racontez-nous, avec vos mots, votre idée !*
+
+       __________________________________________________
+       __________________________________________________
+       __________________________________________________
+       __________________________________________________
+       __________________________________________________
+       __________________________________________________
+       __________________________________________________
+       __________________________________________________
+       __________________________________________________
+       __________________________________________________
+     * Vos coordonnées*
+       ____________________ Prénom ____________________ Nom
+     * Votre email*
+       ____________________
+     * Adresse*
+       ____________________ Adresse postale ____________________ Adresse
+       ligne 2 ____________________ Ville ____________________ État /
+       Province / Région ____________________ ZIP / Code postal
+       [___________________________________________] Pays
+     * Votre téléphone*
+       ____________________
+     * 0,00 €
+
+   Envoyer
+
+   IFRAME: gform_ajax_frame_1
+   Cette iframe contient la logique nécessaire pour manipuler Gravity
+   Forms avec Ajax.
+
+Rédigé
+avec amour
+
+Fabriqué
+en France
+
+Expédié
+rapidement
+
+Payé
+en sécurité
+
+   © 2019 Les mots à l'affiche : création d'affiches thématiques
+   inspirantes et inspirées
+   Site développé avec amour par May
+   CGV - Contact - FAQ - Mentions légales - Devenir revendeur - Facebook -
+   Instagram
+
+   (BUTTON)
+
+     * Accueil
+     * Le concept
+     * La belle histoire
+     * Les affiches
+     * L’atelier
+     * Journal
+     * Mon compte
+     * Panier
+     * Contact
+
+
+   #next Les mots à l'affiche » Flux Les mots à l'affiche » Flux des
+   commentaires Les mots à l'affiche » Flux des articles écrits par May
+
+   Search
+   ____________________
+   Close
+
+Auteur : May
+
+De la bienveillance envers soi
+
+   Posté 14 juin 2019 par May
+
+   Alors, voilà. Je suis tête en l’air, tête dans les nuages. Je crois que
+   je n’ai jamais eu un bulletin sans qu’il y ait inscrit dessus  » c’est
+   dommage, c’est très bien, mais manque d’attention « . Je me suis
+   voulue, longtemps. Je pensais que c’était de ma faute si je me cognais
+   trop souvent, si… Lire la suite »
+
+     * 1
+     * 2
+     * 3
+     * 4
+     * …
+     * 64
+     * 65
+     * 66
+     * →
+
+   Rechercher : ____________________ (BUTTON) Recherche
+
+Articles récents
+
+     * De la bienveillance envers soi
+     * Vivre de sa passion
+     * Processus d’écriture
+     * Affiche Diplomé(e)
+     * De l’importance du contenant
+
+Commentaires récents
+
+     * May dans Et si cela fonctionne ?
+     * Delphine dans Et si cela fonctionne ?
+     * May dans Et si ?
+     * Cécile dans Et si ?
+
+Archives
+
+     * juin 2019
+     * mai 2019
+     * avril 2019
+     * février 2019
+     * janvier 2019
+     * décembre 2018
+     * novembre 2018
+     * octobre 2018
+     * septembre 2018
+     * août 2018
+     * mai 2018
+
+Catégories
+
+     * Non classé
+     * Vos mots à l'affiche
+
+Méta
+
+     * Connexion
+     * Flux RSS des articles
+     * RSS des commentaires
+     * Site de WordPress-FR
+
+   (BUTTON)
+
+     * Accueil
+     * Le concept
+     * La belle histoire
+     * Les affiches
+     * L’atelier
+     * Journal
+     * Mon compte
+     * Panier
+     * Contact

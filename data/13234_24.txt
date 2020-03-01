@@ -1,0 +1,82 @@
+
+Step 2
+
+Choose Suitable Hosting
+
+   Now that you’ve made the right decision in choosing WordPress as your
+   CMS, there’s just one more choice to make – choosing a type of hosting
+   provider.
+
+   The decision you make at this stage will have a colossal effect on the
+   outcome of your blog. You can choose to fork out a couple of dollars
+   every month for self-hosting or go for a free alternative instead. And
+   although the latter sounds absolutely incredible, that’s not the
+   direction you’ll want to head in.
+
+Why You Should Avoid Free Blog Sites
+
+   With free blogging platforms (non-hosted platforms) the disadvantages
+   always outnumber the advantages. Always. For starters, you get a
+   terrible domain name – something like
+   ‘myblog.freebloggingplatform.com’. Your blog’s domain name has a
+   significant impact on SEO and social media marketing so if you want
+   your blog to really take off and be discoverable then you’ll want to go
+   with a self-hosting.
+
+   A .com extension is the standard norm and nearly 75% of all websites
+   have it. I’m not saying it’s impossible to attract millions of unique
+   monthly page views with a .freebloggingplatform.com extension but how
+   many successful bloggers (or any successful site for that matter) do
+   you know by that domain name extension?
+
+     “Brand is the sum total of how someone perceives a particular
+     organization.�
+
+   You want a web address that rolls off the tongue easily. One that
+   people will remember. One that tactfully illustrates your brand and
+   communicates what your blog is all about in a concise yet relevant set
+   of characters.
+
+Disadvantages of Non-Hosted Blogging Platforms
+
+     * URL Problem. Your blog’s URL will be long, unappealing, and
+       unprofessional.
+     * No Real Ownership. Since you’re not paying for hosting, your blog
+       won’t actually be your blog – it’s hosted on someone else’s web
+       property. This means that they can delete it whenever they want.
+     * Other Restrictions. Free blogging platforms don’t let you do all
+       the cool stuff like monetize your blog, use themes, or install
+       plugins. Worst of all, your site’s space on the server is limited
+       which means you can’t even upload all of the images and videos you
+       were hoping would attract traffic.
+
+   These are factors that most of us simply can’t afford to compromise on.
+   They are essential to the timely success of our blog and we’re willing
+   to spend a few bucks for it.
+
+   Luckily enough for you, I’ve worked out the most optimal and
+   cost-efficient solution after carefully analyzing the hosting industry.
+   (It’s a difficult and confusing world to navigate through.) Long story
+   short: Bluehost is the winner.
+
+Why Bluehost Is Best
+
+   Bluehost offers everything from shared hosting to optimized hosting for
+   WordPress at a reasonable price. Being a first-time webmaster, it’s
+   best to go for shared hosting. The rest of them are advanced hosting
+   services and more suitable for bigger blogs. You won’t need the kind of
+   functionality they offer right away and when you feel like you do, you
+   can always upgrade to another hosting plan.
+
+   Bluehost’s Shared Hosting plan is an ideal candidate for several
+   reasons:
+    1. WordPress users get a special discount price at $3.49/month.
+    2. You’ll get a free domain name.
+    3. 1-click WordPress install.
+    4. 24/7 support.
+    5. 30-day money back guarantee.
+
+   It stands to reason that WordPress and Bluehost go hand in hand — the
+   best CMS paired with an affordable and reliable hosting provider. In
+   the next section, we’ll walk you through a simple procedure to set up
+   your domain name and hosting service with Bluehost.

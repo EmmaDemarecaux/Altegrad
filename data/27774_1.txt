@@ -1,0 +1,127 @@
+   0/50
+
+   Algoblocs
+     * Connexion/Inscription
+
+     * Exercices
+     * Défis
+     * ??????
+     * Forum
+     * A propos
+
+  Codage + Géométrie =
+
+                                   Algoblocs
+
+  !
+
+    Apprenez à programmer !
+    Découvrez les boucles, les variables, les fonctions...
+    en dessinant des formes géométriques !
+
+   Commencer ! Connexion/Inscription
+
+Nouveau : Algoblocs+ !
+
+   Vous appréciez Algoblocs ? Alors, découvrez Algoblocs+ , une version
+   spécialement destinée à l'Enseignement qui comporte :
+     * encore plus d’exercices
+     * une progressivité particulièrement étudiée
+     * un accompagnement pédagogique
+
+   Algoblocs+ est édité par Génération 5 en version “locale� pour
+   l’ensemble des postes de l’établissement (durée illimitée). Il ne
+   nécessite donc pas de connexion Internet. Cliquez ici pour découvrir
+   Algoblocs+.
+
+Des blocs au code
+
+   Algoblocs permet de s'initier à la programmation avec des blocs à
+   emboîter.
+   Les blocs sont transformés en code informatique et exécutés pour créer
+   un dessin géométrique.
+   Essayez ! Voici comment ça fonctionne :
+   Illustration du fonctionnement d'AlgoBlocs.
+
+1) Emboîtez des blocs !
+
+2) Le code est généré...
+
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+
+3) Voilà le résultat !
+
+Ils en parlent...
+
+   Les clefs de l'école
+   « Le site est validé par de nombreux autres enseignants. »
+   Mathématice
+   « Les enseignants peuvent accéder à un espace dédié pour inscrire leurs
+   élèves et suivre leurs progrès. »
+   Café pédagogique
+   « L'élève comprend peu à peu les différents concepts de la
+   programmation. »
+   Ludomag
+   « Algoblocs est très pratique. »
+   Geek Junior
+   « Faut-il encore de bons outils pour que les élèves puissent
+   s’approprier cette nouvelle “matière�, c’est là tout l’intérêt
+   d’Algoblocs. »
+   Thot Cursus
+   « Il devient donc facile d’intégrer la programmation dans le cadre d’un
+   cours. »
+
+Création et partage
+
+   Reproduisez les dessins demandés pour terminer des exercices et
+   débloquer de nouveaux blocs !
+   Découvrez les dessins créés par d'autres utilisateurs, ou créez vos
+   propres dessins et partagez-les !
+   Commentez les dessins et échangez des techniques sur le forum !
+   Images réalisées avec AlgoBlocs.
+   Commencer !
+
+Conforme au programme
+
+   Algoblocs est développé par un professeur certifié de mathématiques, et
+   est conforme au nouveau programme de mathématiques et de technologie
+   appliqué à partir de 2016. Les différents concepts de la programmation
+   sont présents dans Algoblocs : instructions, boucles, conditions,
+   variables, opérations, booléens, fonctions... Algoblocs est utilisable
+   en classe comme à la maison.
+
+   Enseignant ? Une page dédiée, l'Espace enseignant, vous permet de créer
+   des comptes pour vos élèves avec une interface simple et intuitive.
+   Vos élèves pourront travailler en autonomie sur les nombreux exercices
+   prêts à l'emploi, et l'Espace enseignant vous tiendra informé de leurs
+   progrès. Vous pourrez aussi créer vos propres exercices !
+   Inscrivez-vous pour en savoir plus !
+
+Algoblocs
+
+     * Accueil
+     * Exercices
+     * Défis
+     * ??????
+     * Programme de calcul
+
+Compte
+
+     * Connexion
+     * Inscription
+
+Divers
+
+     * Forum
+     * A propos
+     * Aide
+
+   Ce site utilise des cookies pour stocker votre progression dans les
+   exercices. En naviguant sur Algoblocs, vous acceptez l'utilisation de
+   ces cookies. Compris !
+
+

@@ -1,0 +1,10 @@
+
+   Destine aux tablissements publics, la cl de dcodage est ddie la
+   dmatrialisation des marchs publics et se trouve tre indispensable pour
+   garantir la confidentialit des offres dposes par les candidats. Elle
+   permet d�activer le module de rponse par voie lectronique et de
+   dchiffrer (dcrypter) les plis de rponses dposs par les
+   soumissionnaires.
+   >> En savoir plus
+
+Certificat lectronique de signature

@@ -1,0 +1,103 @@
+
+Intitulé: Théorie des probabilités
+
+Identifiant: OMI1C8
+
+Heures de cours: 30
+
+Pré-requis:
+
+Crédits ECTS: 4
+
+Enseignant: Sandie Souchet
+
+Heures de TD: 30
+
+Nombre de suivis: 0
+
+Objectif
+
+   Ce cours met en place les concepts fondamentaux du calcul des
+   probabilités. Il montre comment les outils de la théorie de la mesure,
+   introduits dans le cours « Fondements mathématiques des probabilités»,
+   s’adaptent au modèle probabiliste. Il se décompose en trois axes : Les
+   notions de convergences, les lois et espérances conditionnelles et
+   enfin les vecteurs Gaussiens. De nombreux cas concrets illustrent le
+   problème de la modélisation probabiliste.
+
+   Acquis de la formation : à l’issue du cours, l’étudiant saura :
+
+   – Calculer des lois de probabilité et démontrer l’absolue continuité
+   par rapport à la mesure de Lebesgue
+   – Enoncer et appliquer les grands théorèmes de convergence de variables
+   aléatoires dans Rd : implication et caractérisation, théorème de Levy,
+   Portmanteau, LGN, TCL…
+   – Enoncer les définitions et propriétés des lois conditionnelles,
+   savoir appliquer le théorème de Bayes pour les calculer
+   – Enoncer et démontrer les propriétés et caractérisations de
+   l’espérance conditionnelle dans $L^1$ et $L^2$
+   – Définir et manipuler les vecteurs gaussiens
+   – Simuler des variables aléatoires de distribution quelconque en R et
+   calculer numériquement des moments
+
+   Mode d'évaluation:
+
+   La note finale du cours sera la moyenne de la note de contrôle continu
+   (50%) et de l'examen final (50%). La note de contrôle continue est
+   égale à la moyenne de la note de participation et de la note de
+   mi-parcours. La note de participation est la moyenne de la note de
+   présence et de la note de participation aux TD, laissée à la
+   l'appreciation du chargé de TD.
+
+Plan
+
+   – Rappels de théorie de la mesure et de l’intégration – Modèle de
+   l’espace probabilisé ; applications mesurables; Mesure-image et
+   théorème de transfert;  Mesure admettant une densité par rapport à une
+   autre.
+   – Variables aléatoires : caractérisations, moments et changements de
+   variables – Rappels : Introduction : notion de variable aléatoire;
+   Détermination et caractérisation des lois des variables aléatoires;
+   Etude des moments d’une variable aléatoire; Le problème du changement
+   de variables; Applications diverses
+   – Fonctions caractéristiques -Définition et premières propriétés des
+   fonctions caractéristiques de variables aléatoires réelles; Propriétés
+   analytiques des fonctions caractéristiques; Théorèmes d’inversion et
+   d’injectivité des fonctions caractéristiques et formules de
+   réciprocité; Fonctions caractéristiques de variables aléatoires à
+   valeurs dans $R$.
+   – Convergences ponctuelles et fonctionnelle – Convergence presque sûre;
+   Convergence uniforme presque sûre (ou dans $L^{infty}$); Convergence en
+   probabilité (ou stochastique); Convergence dans les espaces $L^p $ .
+   Lois des grands nombres
+   – Convergence en loi – Définition de la convergence en loi; Critères
+   usuels de convergence en loi; Théorème de Paul LEVY; Propriétés de la
+   convergence en loi ; utilisation de développements limités.
+   – Conditionnement et espérance conditionnelle – Conditionnement par un
+   événement dans le cas élémentaire; Lois conditionnelles; Espérance
+   conditionnelle dans $L^2$; Théorie générale de l'espérance
+   conditionnelle.
+   – Vecteurs Gaussiens : Loi normale, vecteurs Gaussiens dans $R^n$,
+   extension au cas de vecteurs gaussiens dans un espace de dimension
+   finie.  Théorème de Cochrane.
+
+Références
+
+   BASS, Eléments de calcul des probabilités, Masson, [16 BAS 00
+   A]BILINGSLEY, Probability and Measure, second edition, Wiley, [16 BIL
+   00 B],
+   COTTREL et Cie, Exercices de probabilités, Cassini, [16 COT 00
+   B]DACUNHA-CASTELLE, REVUZ et SCHREIBER, Recueil de problèmes de calcul
+   des probabilités, Masson, [16 DAC 00 C]DACUNHA-CASTELLE ET DUFLO,
+   Probabilités et Statistiques, Tome 1: problèmes à temps fixe, Masson,
+   [16 DAC 00 A]OUVRARD, J-Y.  Probabilités 2. Master et agrégation,
+   Cassini. [16 OUV 00A2]
+
+   Poly de cours de Benjamin Jourdain
+
+   [Ensae-Faculy-Profile-Pic.png]
+
+Sandie Souchet
+
+   Professeur associé de mathématiques
+   Université Paris 1

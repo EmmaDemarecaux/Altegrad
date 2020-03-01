@@ -1,0 +1,48 @@
+   REFRESH(180 sec):
+   file://localhost/datadisks/datadisk2/frcrawl_all_200/www.foot-national.
+   com/0.html
+
+Identification
+
+   Identification incorrecte !
+   Login incorrect !
+
+   Pseudo ____________________
+
+   Mot de passe ____________________
+
+   connexion
+
+   Vous avez oublié votre mot de passe ? Nous vous le renvoyons par
+   e-mail.
+
+   Un e-mail va vous être envoyé !
+   E-mail non présent ou invalide !
+
+   Votre e-mail ____________________ ____________________
+
+   valider
+
+   Inscription Devenez membre de foot national. Cela vous permet
+   collaborer à l'information de ce site, et de laisser vos commentaires
+   sur les news, clubs, joueurs etc...
+
+   ____________________ ok
+     * Accès service PROAccès site mobile
+     * Devenez membre
+     * Identifiez-vous
+     * Forum football
+
+   Foot National actualité football
+     * HOME
+     * LIGUE1
+     * LIGUE2
+     * NATIONAL
+     * NATIONAL2
+     * NATIONAL3
+     * REGIONAL
+     * U19-U17
+     * COUPES
+     * DIRECT
+     * FORUM
+     * PRO

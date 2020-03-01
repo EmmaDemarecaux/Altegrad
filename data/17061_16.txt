@@ -1,0 +1,107 @@
+
+Contact
+
+   support.ccsd.cnrs.fr
+   hal.support@ccsd.cnrs.fr
+   Logo CCSD
+   #HAL
+
+   (BUTTON) Toggle navigation
+   CCSD
+     * HAL
+          + HAL
+          + HALSHS
+          + TEL
+          + MédiHAL
+          + Liste des portails
+          +
+          + AURéHAL
+          + API
+          + Data
+          + Documentation
+     * Episciences.org
+          + Episciences.org
+          + Revues
+          +
+          + Documentation
+     * Sciencesconf.org
+     * Support
+
+   (BUTTON)  Connexion (BUTTON)
+     * Connexion
+     * Connexion avec ORCID
+     * se connecter avec Fédération
+     *
+     * Créer un compte
+     *
+     * Mot de passe oublié ?
+     * Login oublié ?
+
+     * fr
+     * en
+
+   hal
+     * Accueil
+     * Dépôt
+     * Consultation
+          + Les derniers dépôts
+          + Par type de publication
+          + Par discipline
+          + Par année de publication
+          + Par structure de recherche
+          + Les portails de l'archive
+          + Les collections
+     * Recherche
+     * Documentation
+
+   (BUTTON) hal-02169764, version 1
+
+Singular asymptotic expansion of the exact control for a linear model of the
+Rayleigh beam
+
+   Carlos Castro ^1 Arnaud Munch ^2, 3 (BUTTON) Détails
+   1 UPM - Universidad Politécnica de Madrid
+   2 UCA - Université Clermont Auvergne
+   3 LMBP - Laboratoire de Mathématiques Blaise Pascal - Clermont Auvergne
+
+       Carlos Castro ^1 AuthorId : 52210
+     Auteur
+
+       Arnaud Munch ^2, 3 AuthorId : 709253
+     Auteur
+
+   1 UPM - Universidad Politécnica de Madrid (Calle Ramiro de Maeztu, 7,
+   28040 Madrid - Espagne) StructId : 302798
+   2 UCA - Université Clermont Auvergne (49, bd François-Mitterrand / CS
+   60032 / 63001 Clermont-Ferrand Cedex 1 - France) StructId : 422708
+   3 LMBP - Laboratoire de Mathématiques Blaise Pascal - Clermont Auvergne
+   (24 avenue des Landais / 63177 Aubière Cedex - France) StructId :
+   490705
+     * UCA - Université Clermont Auvergne : UMR6620 (49, bd
+       François-Mitterrand / CS 60032 / 63001 Clermont-Ferrand Cedex 1 -
+       France) StructId : 422708
+     * CNRS - Centre National de la Recherche Scientifique : UMR6620
+       (France) StructId : 441569
+
+   (BUTTON) Masquer les détails
+   Abstract : The Petrowsky type equation y ε tt + εy ε xxxx − y ε xx = 0,
+   ε > 0 encountered in linear beams theory is null controllable through
+   Neumann boundary controls. Due to the boundary layer of size of order √
+   ε occurring at the extremities, these boundary controls get singular as
+   ε goes to 0. Using the matched asymptotic method, we describe the
+   boundary layer of the solution y ε then derive a rigorous second order
+   asymptotic expansion of the control of minimal L 2 −norm, with respect
+   to the parameter ε. In particular, we recover that the leading term of
+   the expansion is a null Dirichlet control for the limit hyperbolic wave
+   equation, in agreement with earlier results du to J-.L. Lions in the
+   eighties. Numerical experiments support the analysis.
+   Keywords : Singular controllability Boundary layers Asymptotic analysis
+   Numerical experiments
+   Type de document :
+   Pré-publication, Document de travail
+   Domaine :
+
+   Mathématiques [math] / Optimisation et contrôle [math.OC]
+
+   Liste complète des métadonnées (BUTTON)  Voir (BUTTON)  Masquer
+   Littérature citée [22 références]  Voir  Masquer  Télécharger

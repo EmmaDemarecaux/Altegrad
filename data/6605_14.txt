@@ -1,0 +1,13 @@
+   [ajax-loader.png] (3 car. minimum)
+
+   Filtre ciblé
+
+   Recherche cancéro ?
+   [Tout.....................]
+   Promoteur
+   [Tout................................................................]
+   Investigateur
+   [Tout............................]
+   Référence promoteur
+   [Tout......................................]
+   Service

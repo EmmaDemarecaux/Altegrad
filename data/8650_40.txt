@@ -1,0 +1,126 @@
+
+   5 avis
+   Voir les avis
+   [Sceau_100_fr.png]
+
+   (BUTTON) (BUTTON) (BUTTON) (BUTTON)
+     Envoyer à un ami
+
+Envoyer à un ami
+
+   ZIPATO AB02Z - Sirène/carillon Z-Wave+
+
+   ZIPATO AB02Z - Sirène/carillon Z-Wave+
+
+   Destinataire :
+
+   Nom de votre ami ^* : ____________________
+
+   Adresse e-mail de votre ami ^* : ____________________
+
+   ^* Champs requis
+
+   (BUTTON) Envoyer   ou  Annuler
+     * Caractéristiques
+     * Accessoires
+     * Questions sur le produit ()
+     * 5 avis
+     * Notices
+
+     Technologie domotique sans-fil Z-Wave Plus à 868Mhz
+
+COMPATIBILITÉS DE LA SIRÈNE ZIPATO AB02Z
+
+   Eedomus Zipabox Fibaro Home Center
+   Box / logiciel domotique Inclusion Déclenchement
+   Carillon/Sirène Accès aux
+   paramètres
+   Z-Wave
+   eedomus
+   Le 31/01/19
+   (logiciel à jour)
+
+   ^1
+   Zipabox
+   1.3.24 - Le 20/12/18
+   Fibaro Home Center
+   V4.520 - Le 20/12/18
+   Vera UI7
+   1.7.4000 - Le 20/12/18 ^3
+   Jeedom
+   V3.2.12
+   openzwave : 2018-03-17
+   Le 20/12/18
+
+   Le module est vu
+   comme un PIR Sensor
+   ^2
+   Domoticz
+   V4.10301 - Le 20/12/18
+   non reconnue
+   Homey / Homey Pro
+   Le 02/08/19 Non géré par l'application (Plugin) "Zipato"
+   À l'heure actuelle, sur toutes les box et logiciels testés, il n'est
+   pas encore possible de commander de façon différenciée la fonction
+   carillon et la fonction sirène (un seul actionneur est proposé). Il
+   sera donc nécessaire de choisir une sonorité (de type carillon ou
+   sirène) et un niveau sonore par défaut et qui sera celui déclenché.
+   *^1 sur eedomus : Lors de notre dernier test du 31/01/2019, seule la
+   fonction sirène pouvait être déclenchée.
+   *^2  Sur Jeedom : Pour le déclenchement carillon/sirène, il est
+   nécessaire de créer manuellement les commandes suivantes :
+   - Nom : ON / Type : Action / Instance : 1 / Classe : 37 / Index : 0 /
+   Commande : type=setvalue&value=99
+   - Nom : OFF / Type : Action / Instance : 1 / Classe : 37 / Index : 0 /
+   Commande : type=setvalue&value=0
+   *^3  Sur Vera : Pour que la sirène soit complètement compatible, il
+   faut modifier dans la configuration du module (onglet Avancé) :
+   - type d'appareil : urn:schemas-upnp-org:device:Siren:1
+   - device_file : D_Siren1.xml
+   - category_num : 24
+   - device_json : D_Siren1.json
+
+CARACTÉRISTIQUES DE LA SIRÈNE ZIPATO AB02Z
+
+     * Alimentation par micro-USB 5V (câble disponible en accessoire) ou
+       par 2 piles 3V lithium CR123A (fournies) pouvant aussi être
+       utilisée comme alimentation de secours
+     * Technologie domotique : Z-Wave+ à 868Mhz
+     * Distance d'émission : 30m env. en intérieur (peut varier suivant de
+       nombreux facteurs, voir cet article pour estimer les distances
+       réelles d'émission)
+     * Dimensions : 70 x 98 x 31 mm
+     * Ce module nécessite un contrôleur Z-Wave pour fonctionner (box
+       domotique, dongle USB Z-Wave + logiciel, etc.)
+     * Classement IP : 20 (utilisation en intérieur)
+     * Puissance sonore : 115 dB
+     * Normes : RoHS, CE
+     * Garantie 2 ans
+
+   Câble USB vers microUSB
+
+Câble USB vers microUSB
+
+   Câble USB vers...
+   5,88 €
+   Ajouter au panier
+   Câble d'alimentation pour Jeedom - 2 fils vers jack 2,5mm coudé type L
+
+Câble d'alimentation pour Jeedom - 2 fils vers jack 2,5mm coudé type L
+
+   Câble 2 fils étamés...
+   4,90 €
+   Ajouter au panier
+   Pile lithium CR123A pour Fibaro FGMS, FGFS, FGSS, Vision ZP3102, ZS5101
+   et ZG8101
+
+Energizer CR123A 1600mAh - Pile lithium 3V pour alarme AJAX et modules
+domoti...
+
+   Pile lithium 3V CR123A...
+   2,99 €
+   Ajouter au panier
+
+Manuel (Anglais) de la AB02Z
+
+   Télécharger

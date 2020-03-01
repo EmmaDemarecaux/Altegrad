@@ -1,0 +1,103 @@
+   #HAL
+
+   (BUTTON) Toggle navigation
+   CCSD
+     * HAL
+          + HAL
+          + HALSHS
+          + TEL
+          + MédiHAL
+          + Liste des portails
+          +
+          + AURéHAL
+          + API
+          + Data
+          + Documentation
+     * Episciences.org
+          + Episciences.org
+          + Revues
+          +
+          + Documentation
+     * Sciencesconf.org
+     * Support
+
+   (BUTTON)  Connexion (BUTTON)
+     * Connexion
+     * Connexion avec ORCID
+     * se connecter avec Fédération
+     *
+     * Créer un compte
+     *
+     * Mot de passe oublié ?
+     * Login oublié ?
+
+     * fr
+     * en
+
+   hal
+     * Accueil
+     * Dépôt
+     * Consultation
+          + Les derniers dépôts
+          + Par type de publication
+          + Par discipline
+          + Par année de publication
+          + Par structure de recherche
+          + Les portails de l'archive
+          + Les collections
+     * Recherche
+     * Documentation
+
+   (BUTTON) hal-01291996, version 3 (BUTTON)
+     * version 1
+     * version 2
+
+On boundary detection
+
+   Catherine Aaron ^1, 2 Alejandro Cholaquidis ^3 (BUTTON) Détails
+   1 LMBP - Laboratoire de Mathématiques Blaise Pascal
+   2 UCA - Université Clermont Auvergne
+   3 CMAT - Centro de Matemática [Montevideo]
+
+       Catherine Aaron ^1, 2 AuthorId : 300836
+     Auteur
+
+       Alejandro Cholaquidis ^3 AuthorId : 1095867
+     Auteur
+
+   1 LMBP - Laboratoire de Mathématiques Blaise Pascal (24 avenue des
+   Landais / 63177 AUBIERE CEDEX - France) StructId : 15290
+     * UBP - Université Blaise Pascal - Clermont-Ferrand 2 : UMR6620 (34,
+       avenue Carnot - BP 185 / 63006 Clermont-Ferrand cedex - France)
+       StructId : 205618
+     * CNRS - Centre National de la Recherche Scientifique : UMR6620
+       (France) StructId : 441569
+
+   2 UCA - Université Clermont Auvergne (49, bd François-Mitterrand / CS
+   60032 / 63001 Clermont-Ferrand Cedex 1 - France) StructId : 422708
+   3 CMAT - Centro de Matemática [Montevideo] (Iguá 4225 esq. Mataojo ;
+   11400 Montevideo - Uruguay) StructId : 86933
+     * UCUR - Universidad de la República [Montevideo] (Uruguay) StructId
+       : 471945
+
+   (BUTTON) Masquer les détails
+   Abstract : Given a sample of a random variable supported by a smooth
+   compact manifold M ⊂ R d , we propose a test to decide whether the
+   boundary of M is empty or not with no preliminary support estimation.
+   The test statistic is based on the maximal distance between a sample
+   point and the average of its k n −nearest neighbors. We prove that the
+   level of the test can be estimated, that, with probability one, the
+   power is one for n large enough and that there exists consistent
+   decision rule. A heuristic for choosing a convenient value for the k n
+   parameter is also given. Finally we provide a simulation study of the
+   test.
+   Keywords : Test Boundary Geometric Inference Keyword: Geometric
+   Inference Nearest-Neighbors
+   Type de document :
+   Pré-publication, Document de travail
+   Domaine :
+
+   Mathématiques [math] / Statistiques [math.ST]
+
+   Liste complète des métadonnées (BUTTON)  Voir (BUTTON)  Masquer
+   Littérature citée [17 références]  Voir  Masquer  Télécharger

@@ -1,0 +1,44 @@
+   #publisher
+
+   Logo Opisto
+   Livraison en [mapPin.svg]
+     * [france metropolitaine_____________]
+
+   2 387 964 pièces d'occasion au meilleur prix
+   ACCÈS PRO
+   Livraison en [mapPin.svg]
+     * [france metropolitaine_____________]
+
+   Compte   Mon compte Panier    Mon panier    0
+   (BUTTON) Panier    Mon panier    0
+
+     * PIÈCES
+          + Pièces auto d'occasion
+          + Pneus d'occasion
+          + Catégories
+          + Demande de pièce
+     * VÉHICULES
+          + Voiture
+          + Demande d'enlèvement
+     * COMPTE
+     * PANIER
+     * PARTENAIRES
+          + Vendeurs
+          + Montage de vos pièces
+     * SUIVEZ-NOUS
+          + Blog
+          + La presse parle de nous
+          + Opisto sur Facebook
+     * AIDE
+          + Visite guidée
+          + Qui sommes-nous ?
+          + Questions fréquentes
+     * CONTACT
+
+   (BUTTON) ×
+
+Pièce ajoutée au panier !
+
+   Nous avons ajouté cette pièce à votre panier, vous êtes libre de
+   continuer à parcourir notre catalogue de pièces ou d'accéder à votre
+   panier.

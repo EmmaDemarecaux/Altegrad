@@ -1,0 +1,53 @@
+
+     *
+
+       (*) Premium Print ® sur toile
+       Voir la vidéo
+     *
+
+       ( ) Impression sur toile
+       Voir la vidéo
+
+   Choisir
+   Dimension standard
+     *
+
+       (*) 30x20cm
+     *
+
+       ( ) 40x27cm
+     *
+
+       ( ) 50x33cm
+     *
+
+       ( ) 60x40cm
+     *
+
+       ( ) 70x47cm
+     *
+
+       ( ) 80x53cm
+     *
+
+       ( ) 90x60cm
+     *
+
+       ( ) 100x67cm
+     *
+
+       ( ) 105x70cm
+     *
+
+       ( ) 120x80cm
+
+   Choisir une dimension (cm):
+
+   Dimension individuelle
+     *
+
+       (*) wxh cm
+
+   [123072_1.jpg]
+
+Châssis

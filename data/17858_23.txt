@@ -1,0 +1,38 @@
+
+   Distributed under a Creative Commons Paternité 4.0 International
+   License
+
+Identifiants
+
+     * HAL Id : hal-01361274, version 1
+     * DOI : 10.1007/978-3-662-53401-4_12
+
+Collections
+
+   ENS-CACHAN | UPMC | LIP6 | INRIA | CONVECS | EC-NANTES | IRCCYN | UNAM
+   | UGA | UNIV-NANTES | LIPN | UNIV-PARIS13 | USPC | UNIV-PARIS-SACLAY |
+   LIG_MFML_CONVECS | SORBONNE-UNIVERSITE | GALILE | LIG | SU-SCIENCES
+
+Citation
+
+   Fabrice Kordon, Hubert Garavel, Lom Messan Hillah, Emmanuel
+   Paviot-Adet, Loïg Jezequel, et al.. MCC’2015 – The Fifth Model Checking
+   Contest. LNCS Transactions on Petri Nets and Other Models of
+   Concurrency, Springer, 2016, Lecture Notes in Computer Science, 9930,
+   pp.262-273. ⟨10.1007/978-3-662-53401-4_12⟩. ⟨hal-01361274⟩
+
+Exporter
+
+   BibTeX TEI DC DCterms EndNote
+
+Partager
+
+Métriques
+
+   Consultations de la notice
+
+1107
+
+   Téléchargements de fichiers
+
+212

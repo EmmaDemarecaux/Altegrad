@@ -1,0 +1,65 @@
+
+   Plus d’options de recherche
+     * Recherche dans les contenus
+     * Recherche de membres
+
+     * Rechercher par étiquettes
+
+       ____________________________________________________________
+       ____________________________________________________________
+       ____________________________________________________________
+       ____________________________________________________________
+       Saisir les étiquettes en les séparant par une virgule.
+     *
+          + (*) correspondre aux termes OU aux étiquettes
+          + ( ) correspondre aux termes ET aux étiquettes
+     * Rechercher par auteur
+
+       ____________________________________________________________
+       ____________________________________________________________
+       ____________________________________________________________
+       ____________________________________________________________
+
+     * Rechercher par étiquettes
+     * Rechercher par auteur
+
+Type du contenu
+
+     * (*) Tout
+     * ( ) Mises à jour de statut
+     * ( ) Sujets
+
+Forums
+
+     * Tech2Tech.fr
+          + Présentation
+          + Informations, Suggestions et Réactions
+          + Les articles du blog
+     * Espace Technique
+          + Le matériel
+          + Logiciels et applications
+          + Messagerie
+          + Sécurité, Virus et Trojans
+          + Réseaux
+          + Domotique
+          + Smartphone
+          + Développement, Site Web et SEO
+          + Automatisation et Scripting
+     * Systèmes d'exploitations
+          + Microsoft Windows
+          + Linux
+          + Apple Macintosh
+     * Discussions générales
+          + Discussions générales
+     * Vos tutoriels
+          + Tutoriels Matériels
+          + Tutoriels Windows
+          + Tutoriels Linux
+          + Tutoriels MacOS
+          + Tutoriels Logiciels et Applications
+          + Tutoriels Réseaux
+     * Les petites annonces
+          + Achats - Ventes - Echanges
+
+   Cliquez ici pour recharger la page afin d’activer certaines
+   fonctionnalités

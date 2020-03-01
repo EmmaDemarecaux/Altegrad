@@ -1,0 +1,286 @@
+   IFRAME: ifcachee
+
+   IFRAME: fensessionhandler
+
+   IFRAME: contextIf
+
+     * n° de standard unique
+       05 56 79 56 79
+     * n° d'appel patient
+       05 24 57 56 77
+
+     * (button) Recherche
+
+   (button) Close
+   ____________________ (BUTTON) Rechercher
+
+     * Faites un don
+     * Plans
+     * Paiement en ligne
+     * Contact
+
+   Urgences & n° utiles
+
+   Centre Hospitalier Universitaire (CHU) de Bordeaux (BUTTON) Menu
+   Urgences & n° utiles
+     * CHU
+       de Bordeaux
+       CHU
+       de Bordeaux
+          + Présentation du CHU
+          + Projets et stratégies
+          + Hôpitaux et sites du CHU
+          + Journal du CHU
+          + Publications légales
+          + Don et soutien au CHU de Bordeaux
+     * Offre
+       de soins
+     * Patient
+       & proches
+       Patient
+       & proches
+          + Hospitalisation
+          + Consultation
+          + Vos droits et devoirs
+          + Chirurgie ambulatoire
+          + Maternité
+          + Prise en charge du cancer
+          + Maladies rares
+          + Education thérapeutique
+          + Handicap et hôpital
+          + Associations au service des patients
+          + Structures d'hébergement
+          + CRIOAC GSO (Centre de référence IOA complexes du Grand
+            Sud-Ouest)
+          + Participer à une recherche clinique
+          + Actualités
+     * Professionnels
+       & recherche
+       Professionnels
+       & recherche
+          + Ville Hop
+          + Recherche clinique et Innovation
+          + Activité de cancérologie au CHU de Bordeaux
+          + Centre de Ressources Biologiques
+          + Venir au CHU de Bordeaux
+          + Education thérapeutique
+          + Journal Club
+          + CRIOAC GSO (Centre de référence IOA complexes du Grand
+            Sud-Ouest)
+     * Etudiants
+       & formation
+       Etudiants
+       & formation
+          + Ecoles, instituts et formations du CHU de Bordeaux
+          + Centre de Formation Permanente des Professionnels de Santé
+          + Stage paramédical
+          + Stage étudiant hospitalier / internat
+          + SimBA-S, plateforme hospitalo-universitaire d'apprentissage
+            par la simulation
+     * Emplois
+       & recrutement
+       Emplois
+       & recrutement
+          + Consultation des offres d'emploi et stages
+          + Candidatures spontanées
+          + Concours
+          + Métiers
+          + Forum Emploi CHU de Bordeaux juin 2019
+          + Vous êtes anesthésiste-réanimateur, choisissez le CHU de
+            Bordeaux
+          + EMPLOI - Recrutement IBODE infirmier(e)s de bloc opératoire
+          + Formation infirmière et développement des compétences
+
+   Accueil › Professionnels & recherche › Journal Club › Juin 2016 (2): le
+   timing de la dialyse en réanimation
+
+   Professionnels & recherche
+     * Ville Hop
+     * Recherche clinique et Innovation
+          + Activité, structuration et performance
+          + Participer à une recherche clinique
+          + Construire un projet de recherche promu par le CHU de Bordeaux
+          + Développer et évaluer une innovation
+          + Mettre en place votre étude à promotion externe
+          + Questions fréquentes
+          + Volontaire sain
+          + Actualités recherche clinique et innovation CHU de Bordeaux
+     * Activité de cancérologie au CHU de Bordeaux
+          + Edito
+          + 3C
+          + Annuaire des RCP et fiches à télécharger
+          + Cancers rares
+          + Dynamique de recherche sur la cancérologie
+     * Centre de Ressources Biologiques
+     * Venir au CHU de Bordeaux
+     * Education thérapeutique
+          + UTEP, qui sommes-nous ?
+          + Cadre réglementaire
+          + Développer un programme ETP
+          + Les outils d'éducation thérapeutique du patient
+          + Formation et recherche
+          + Actualités éducation thérapeutique
+          + Liens utiles
+     * Journal Club
+          + Juin 2019: Loin du coeur, près des cieux ?
+          + AVRIL 2019: PANOTPRAZOLE ? PAS DE QUOI ETRE ESTOMAQUE
+          + FEV 2019: caplacizumab dans le PTT auto immun
+          + Décembre 2018: le pronostic chez le patient anoxique
+          + Octobre 2018: traitement des BLSE, Pip taz ou Pip naze ?
+          + Septembre 2018: l'ECMO dans le SDRA
+          + Juin 2018: les corticoïdes pour prévenir l'œdème laryngé
+            post-extubation
+          + Avril 2018: les cristalloïdes dans le remplissage
+          + Mars 2018 Les corticoïdes dans le choc septique
+          + Janvier 2018: la durée des antibiotiques en cas de neutropénie
+            fébrile
+          + Nov 2017: Manoeuvres de recrutement dans le SDRA
+          + Sept 2017: la Hollande, l'autre pays des aminosides !
+          + Juin 2017: Early goal-directed therapy: tout ça pour ça !
+          + Mai 2017:candida en réanimation, fin du premier acte
+          + Avril 2017: méta-analyse entre amis
+          + Fév 2017: Lévosimendan dans le choc septique
+          + Déc 2016: la PCT en réanimation
+          + Nov 2016 transfusion de plaquettes dans les AVC hémorragiques
+          + Sept 2016: Isavuconazole dans l'aspergillose
+          + Juil 2016: nouvelle étude sur le timing de la dialyse
+          + Juin 2016 (2): le timing de la dialyse en réanimation
+          + Juin 2016: le remplissage dans le choc
+          + Avr 2016: la cible de tension artérielle dans le choc septique
+          + Janv 2016: administration des antibiotiques à la seringue
+            électrique
+          + Déc 2015: la chlorhexidine dans la prévention des infections
+            de cathéter
+          + Nov 2015: la durée d'antibiothérapie dans les infections
+            intra-abdominales
+     * CRIOAC GSO (Centre de référence IOA complexes du Grand Sud-Ouest)
+
+L'offre de soins au CHU de Bordeaux
+
+   Rechercher service / unité
+   [Services / Unitéss]
+   Rechercher un médecin
+   [Médecinss]
+   Recherche libre
+   [Rechercher...]
+   France 3
+   Découvrir
+   [Consulter la rubrique...______________________________________________
+   ____...]
+
+Juin 2016 (2): le timing de la dialyse en réanimation
+
+S'il suffisait d'un chiffre.
+
+   Initiation Strategies for Renal-Replacement Therapy in the Intensive
+   Care Unit.
+   Gaudry S    AKIKI Study Group   N Engl J Med.
+   Ce site utilise Matomo pour analyser votre navigation dans le respect
+   du Règlement Général sur la Protection des Données (RGPD).
+   Voulez-vous nous aider à améliorer le service offert en autorisant
+   Matomo à collecter ces informations ? En savoir plus
+   [BUTTON Input] (not implemented)___    [BUTTON Input] (not
+   implemented)___
+   Drs
+
+Introduction
+
+   L'insuffisance rénale aigue (IRA) en réanimation est associée à une
+   augmentation de la morbi-mortalité. Quand débuter l'épuration extra
+   rénale (EER) en réanimation reste une question ouverte à ce jour.
+   L'objectif de cette étude était d'évaluer l'impact sur la mortalité à
+   J60 d'une initiation précoce ou tardive de l'EER.
+
+Méthodes
+
+   Essai randomisé contrôlé multicentrique.  La population éligible était
+   composée des patients sous ventilation mécanique et/ou sous
+   noradrénaline avec comme critère d'inclusion la survenue d'une IRA
+   stade KDIGO 3 (créatinine x3 ou > 354µmol/l , diurèse < 0,3ml/kg
+   pendant > 24h ou anurie > 12h ). Les critères d'exclusion étaient les
+   critères métaboliques classiques d'urgence à la mise en place d'une EER
+   immédiate, les patients cirrhotiques, les patients insuffisants rénaux
+   chroniques ou transplantés, les arrêts cardiaques et des causes d'IRA
+   non "nécrose tubulaire" a priori (obstacle, MAT etc) La stratégie
+   précoce nécessitait la mise en place de l'EER dans les 6h après la
+   constatation du stade KDIGO 3 alors que la stratégie tardive consistait
+   à attendre la survenue des mêmes critères d'urgence métabolique que les
+   critères d'exclusion initiaux ou d'une anurie/oligurie > 72h pour
+   l'initiation de la technique. Le choix de la technique d'EER était
+   laissé à la discrétion des cliniciens. Le critère de jugement principal
+   était la mortalité à J60. L'analyse a été réalisée en intention de
+   traiter. 546 patients étaient nécessaires pour mettre en évidence une
+   diminution de mortalité de 45% à 30% grâce à une stratégie tardive (α
+   =5% et 1-β =90%)
+
+Résultats
+
+   620 patients ont été inclus, 308 dans le groupe tardif, 312 dans le
+   groupe précoce. Aucune différence basale notable. Il n'existe pas de
+   différence de mortalité à J60 entre les 2 groupes (48.5 % [42.6-53.8]
+   vs 49.7% [43.8-55.0]). 49% des patients du groupe tardif n'ont
+   finalement pas été épurés. Les causes d'initiation de l'EER dans le
+   groupe tardif étaient : atteinte du taux d'urée fixée (1/3), > 72h
+   d'oligurie (1/3), acidose métabolique (1/4). Il n'existe pas de
+   différence de récupération de la fonction rénale entre les 2 groupes
+   malgré une reprise de diurèse plus précoce dans le groupe tardif. Il y'
+   avait plus d'infection de KT dans le groupe précoce (10% vs 5%,
+   p=0.03).
+
+Discussion
+
+   Les experts discutent du choix des critères d'inclusion qui, selon eux,
+   peuvent diminuer l'extrapolabilité des données :
+       - la classification KDIGO (créatinine et diurèse seulement) est
+   assez éloignée des critères de choix quotidiens qui se basent plus sur
+   un faisceau d'arguments
+        -    la probable hétérogénéité des patients inclus avec 2/3
+   septiques et 1/3 autre
+     - l'inclusion d'IRA encore fonctionnelle alors même que nous n'avons
+   pas d'information précise sur l'optimisation volémique des patients
+   L'hétérogénéité de mortalité dans le groupe EER tardif (35% EER tardif
+   jamais dialysé et 65% EER tardif finalement dialysé) amène à se
+   demander si cette même hétérogénéité existait dans le groupe EER
+   précoce, avec des patients graves qui avaient 65% de mortalité et des
+   patients moins grave dialysés "trop précocement".
+       Pour l'ensemble des experts présents, la pratique d'EER dite
+   "précoce" était réellement trop précoce pour certains patients et le
+   tardif potentiellement trop tardif chez un certain nombre de malades.
+   En quelque sorte, la constitution artificielle des 2 groupes de cette
+   étude a entrainé une caricature de la pratique quotidienne en dialysant
+   trop précocement certains patients et trop tardivement d'autres.
+         Pour d'autres médecins présents, l'EER très précoce est une
+   pratique réelle que cette étude a l'avantage de prendre en compte alors
+   que cette stratégie est abandonnée par les services avec un intérêt
+   pour l'EER dans l'IRA. Cette étude valide l'abandon de cette pratique.
+   Il existait un consensus parmi les intervenants pour penser qu'il
+   fallait savoir se laisser du temps, optimiser le remplissage et
+   l'hémodynamique avant de débuter une séance afin de ne pas dialyser des
+   IRA qui peuvent encore récupérer.
+
+Conclusion
+
+   Il n'y pas de différence de mortalité entre les 2 stratégies d'EER dans
+   ce travail. Celui-ci souligne que l'EER ne peut pas être indiquée que
+   sur un chiffre de créatinine isolé  - l'optimisation volémique est
+   indispensable avant d'envisager une EER    - chez des patients de
+   réanimation au stade KDIGO3, cette étude valide l'abandon d'une EER
+   trop précoce
+
+Experts
+
+   Drs Joannes-Boyau, Dewitte  Réanimation GH Sud Magellan), Pr Combe et
+   Dr Rubin  (Néphrologie, GH Pellegrin)
+
+PRésents
+
+   Pr Gruson D, Boyer A, Vargas F, Drs Clouzeau B, Bui N, Sazio C, Romen
+   A, Champion S, Martin A (Médecine Intensive Réanimation GH Pellegrin),
+   Dr Berdaï (Pharmacologie, GH Pellegrin), Dr Moisan (Déchoquage  GH
+   Pellegrin)
+
+   Centre Hospitalier Universitaire (CHU) de Bordeaux
+     * n° de standard unique
+       05 56 79 56 79
+     * n° d'appel patient
+       05 24 57 56 77

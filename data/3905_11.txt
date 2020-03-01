@@ -1,0 +1,178 @@
+
+   https://tel.archives-ouvertes.fr/tel-01570446
+   Contributeur : Abes Star <>
+   Soumis le : dimanche 30 juillet 2017 - 06:17:06
+   Dernière modification le : samedi 21 avril 2018 - 03:32:48
+
+Fichier
+
+   [small]
+   these_Douine.pdf
+   Version validée par le jury (STAR)
+
+Identifiants
+
+     * HAL Id : tel-01570446, version 1
+
+Collections
+
+   STAR | GUYANE
+
+Citation
+
+   Maylis Douine. Epidémiologie du paludisme chez les personnes
+   travaillant sur des sites d’orpaillage illégal en Guyane : Quels enjeux
+   pour la santé publique ?. Autre [q-bio.OT]. Université de Guyane, 2017.
+   Français. ⟨NNT : 2017YANE0006⟩. ⟨tel-01570446⟩
+
+Exporter
+
+   BibTeX TEI DC DCterms EndNote
+
+Partager
+
+Métriques
+
+   Consultations de la notice
+
+825
+
+   Téléchargements de fichiers
+
+2431
+
+Contact
+
+   support.ccsd.cnrs.fr
+   hal.support@ccsd.cnrs.fr
+   Logo CCSD
+   #HAL
+
+   (BUTTON) Toggle navigation
+   CCSD
+     * HAL
+          + HAL
+          + HALSHS
+          + TEL
+          + MédiHAL
+          + Liste des portails
+          +
+          + AURéHAL
+          + API
+          + Data
+          + Documentation
+     * Episciences.org
+          + Episciences.org
+          + Revues
+          +
+          + Documentation
+     * Sciencesconf.org
+     * Support
+
+   (BUTTON)  Connexion (BUTTON)
+     * Connexion
+     * Connexion avec ORCID
+     * se connecter avec Fédération
+     *
+     * Créer un compte
+     *
+     * Mot de passe oublié ?
+     * Login oublié ?
+
+     * fr
+     * en
+
+   HAL - hal.archives-ouvertes.fr CCSd - Centre pour la Communication
+   Scientifique Direct
+     * Accueil
+     * Dépôt
+     * Consulter
+          + Les derniers dépôts
+          + Par discipline
+          + Par date de soutenance
+          + Consultation par collections
+     * Recherche
+     * Documentation HAL
+
+   (BUTTON) tel-01275795, version 1
+
+   (BUTTON) en (BUTTON) fr
+   Epidemiology of community urinary tract infections
+   Epidémiologie des infections urinaires communautaires
+   Louise Savoye-Rossignol ^1 (BUTTON) Détails
+   1 iPLESP - Institut Pierre Louis d'Epidémiologie et de Santé Publique
+
+       Louise Savoye-Rossignol ^1 AuthorId : 1296190
+     Auteur IdRef : https://www.idref.fr/150309279
+
+   1 iPLESP - Institut Pierre Louis d'Epidémiologie et de Santé Publique
+   (56, boulevard Vincent Auriol - CS 81393 - 75646 Paris Cedex 13 -
+   France) StructId : 267618
+     * UPMC - Université Pierre et Marie Curie - Paris 6 (4 place Jussieu
+       - 75005 Paris - France) StructId : 93591
+     * INSERM - Institut National de la Santé et de la Recherche Médicale
+       : U1136 (101, rue de Tolbiac, 75013 Paris - France) StructId :
+       303623
+
+   (BUTTON) Masquer les détails
+   (BUTTON) en (BUTTON) fr
+   Abstract : Urinary tract infections (IUs) are a frequent reason for
+   consultation and prescription of antibiotics in general practice. The
+   choice of the antibiotic is based on the patient’s characteristics, the
+   antibiotic susceptibility of bacteria and cost analyzes. This
+   therapeutic approach has become increasingly complex due to the
+   increase in antibiotic resistance. In this context, my thesis is based
+   on two main studies:From the data of IMS health France, a spectral
+   analysis of urinary antibiotic sales was shown the existence of an
+   annual seasonality between 2001 and 2012 with summer peaks. The same
+   phenomenon was been observed from Google search data in France and in
+   six other countries. This is an argument for seasonality in acute
+   cystitis.Another study was set up, to estimate the incidence of
+   resistant germs in IUs and identify factors associated with the
+   acquisition of these germs. An annual incidence rate of IUs in general
+   practice was estimated at 3,200 per 100,000 women in France [95% CI:
+   2,400-4,000], with an annual incidence rate of IUs due to E. coli
+   resistant to fluoroquinolone in general practice at 102 per 100,000
+   women in France [95% CI: 30-50]. Factors associated with IU due to
+   Enterobacteriaceae resistant to more than three classes of antibiotic
+   were having used penicillin by the patient (OR = 3.1; [1.2 to 8.0]),
+   having provided accommodation to a resident of a country at high risk
+   for antibiotic resistance (OR = 4.0 [1.2 to 15.1]) and raw meat
+   consumption (OR = 0.3; [0.1-0.9] ).
+   Résumé : Les infections urinaires (IUs) sont un motif très fréquent de
+   consultation et de prescription d’antibiotique en médecine générale. Le
+   choix de l’antibiotique repose sur les caractéristiques du patient, la
+   susceptibilité des germes aux antibiotiques et des analyses de coût.
+   Cette démarche thérapeutique est devenue de plus en plus complexe en
+   raison de l’augmentation des résistantes aux antibiotiques. Dans ce
+   contexte, mon travail de thèse repose sur deux principales études :A
+   partir des données d’IMS-health France, une analyse spectrale des
+   ventes d’antibiotiques urinaires a montré l’existence d’une
+   saisonnalité annuelle entre 2001 et 2012 avec des pics estivaux. A
+   partir des données de recherche de Google en France et dans six autres
+   pays, le même phénomène a été observé. Ceci représente un argument en
+   faveur d’une saisonnalité des cystites aigues simples.Une étude a été
+   mise en place, visant à estimer l’incidence des IUs à germes résistants
+   et à déterminer les facteurs associés à l’acquisition de ces germes. Un
+   taux d'incidence annuel des IUs présumées en médecine générale a été
+   estimé à 3 200 pour 100 000 femmes en France [IC 95%: 2 400-4 000],
+   avec un taux d'incidence annuel des infections urinaires à E. coli
+   résistant au fluoroquinolone en médecine générale à 102 pour 100 000
+   femmes en France [IC 95%: 30-50]. Les facteurs associés aux IU à
+   entérobactéries résistantes à plus de trois classes d’antibiotique
+   étaient l'utilisation de la pénicilline par la patiente (OR = 3,1 ;
+   [1,2-8,0]), avoir fourni un hébergement à un résident d'un pays à haut
+   risque de résistance aux antibiotiques (OR = 4,0 [1,2-15,1]) et la
+   consommation de viande crue (OR = 0,3 ; [0,1-0,9]).
+   (BUTTON) en (BUTTON) fr
+   Keywords : Urinary tract infection Spectral analysis
+   Mots-clés : Saisonnalité Résistance aux antibiotiques Plan de sondage
+   Population Médecine générale Infection urinaire Analyse spectrale
+   Type de document :
+   Thèse
+   Domaine :
+
+   Sciences du Vivant [q-bio] / Santé publique et épidémiologie
+
+   Liste complète des métadonnées (BUTTON)  Voir (BUTTON)  Masquer
+   Littérature citée [162 références]  Voir  Masquer  Télécharger

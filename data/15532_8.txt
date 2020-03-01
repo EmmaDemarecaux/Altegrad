@@ -1,0 +1,45 @@
+
+8. HideMyAss! (HMA)
+
+   #1 for server network size – If HMA doesn’t have a server there, no one
+   does
+     * Dedicated torrenting profile: No
+     * Works with: Hulu, BBC iPlayer
+     * Available on: Windows, macOS, Linux, Android, iOS, Routers
+     * Data logging: Yes (keeps connection logs for 30 days or more, but
+       not bandwidth logs)
+
+   Aside from its cheerful tone and funny theme, HideMyAss! also has a
+   massive server network.
+
+   You get high-speed servers in over 190 countries, which is pretty close
+   to 100% global presence. Impressive! Don’t count on unblocking Netflix,
+   though – HideMyAss! has had issues with it for a while. Hulu and BBC
+   iPlayer should work fine, though.
+
+   HideMyAss! offers strong security, with OpenVPN support and AES-256
+   encryption to keep you safe. Unfortunately, it has the same problem as
+   Hotspot Shield – it keeps connection logs. It also operates in the UK,
+   so has to comply with some of the worst data retention laws in Europe
+   and is subject to 14-Eyes jurisdiction. The result? This VPN shouldn’t
+   be your first pick if you want perfect privacy.
+
+   On the upside, HideMyAss! is easy to use with great desktop and mobile
+   apps. Support isn’t ideal, though – between the limited live chat
+   (workdays only) and somewhat slow response times, you may wait a while
+   before getting a reply.
+
+   Don’t Use If:
+     * You need a VPN to access Netflix catalogs outside your country
+       (such as Netflix US).
+
+   The bottom line? If you need a fast VPN with a huge number of server
+   locations and you don’t care about Netflix too much, consider HMA.
+
+   You can even get a full refund within 30 days as long as it’s your
+   first HideMyAss! purchase and you haven’t used more than 10 GB of
+   bandwidth.
+
+   Try HideMyAss Now!
+
+   For everything users are saying about HideMyAss!, check out our review.

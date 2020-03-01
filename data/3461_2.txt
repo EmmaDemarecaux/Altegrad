@@ -1,0 +1,1229 @@
+
+   Mentions légales
+   (BUTTON)
+
+   id, neque. sem, Lorem massa Curabitur ut diam pulvinar Praesent dolor.
+
+   Nous utilisons des cookies pour vous garantir la meilleure expérience
+   sur notre site. Pour en savoir plus, consultez notre page de mentions
+   légales en bas de page.Ok
+   #SeoMix » Flux
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-W5FDXVT
+
+   SeoMix : agence web à Nantes
+   SeoMix
+   WordPress & Référencement
+
+   Créateur de Visibilité avec WordPress Nos services
+
+     * (BUTTON) Twitter
+     * (BUTTON) Facebook
+     * (BUTTON) Instagram
+     * (BUTTON) RSS
+
+   Appelez-nous !02 40 59 09 35
+
+   SeoMix
+
+   WordPress & Référencement
+
+   (BUTTON) Menu
+     * WordPress
+          + Le CMS WordPress
+          + Référencement de WordPress
+          + Extensions
+          + Thèmes WordPress
+          + Hacks et codes
+     * Référencement naturel
+          + Les bases du référencement naturel
+          + Les audits SEO
+          + Contenus et référencement
+          + Structure et maillage interne
+          + Crawl, indexation et SEO
+          + Images et vidéos
+          + Netlinking et SEO
+          + Outils et logiciels
+     * WebMarketing
+     * L’agence SEO
+     * Nos services
+          + Audit SEO
+          + Référencement naturel
+          + Création de sites & Développement
+          + Référencement payant
+          + Formations WordPress et référencement
+               o Formation Avancée « WordPress et SEO »
+               o Formation Développeur WordPress
+     * Contact
+
+   Vous cherchez quelque chose ? Recherche ____________________ Chercher
+
+   (BUTTON)
+
+   Vous êtes ici : SeoMix → WordPress → Extensions WordPress → Les
+   articles relatifs de WordPress avec YARPP
+
+                 Les articles relatifs de WordPress avec YARPP
+
+   Le 19/05/2011, mis à jour le 16/08/2017 | Par Daniel Roch | Dans
+   WordPress » Extensions WordPress
+
+   Les articles relatifs sur WordPress Pour améliorer la pertinence d’un
+   blog et augmenter la fidélité des visiteurs, un module d’articles
+   relatifs peut être un véritable plus.
+
+   Sur WordPress, il existe un plugin qui surpasse de loin les autres :
+   YARPP (Yet Another Related Post Plugin).
+
+Pourquoi choisir YARPP?
+
+   Comme je l’ai sous entendu, il existe des dizaines de plugins qui
+   permettent de mettre en place un bloc d’articles relatifs sur
+   WordPress. Il existe également plusieurs hacks qui permettent de faire
+   la même chose.
+
+   YARPP est cependant la solution la plus aboutie : c’est le seul plugin
+   d’articles relatifs qui prend en compte à la fois le titre, le contenu,
+   la ou les catégories et les mots clés de l’ensemble des publications.
+   Les résultats sont donc plus pertinents pour le visiteur et pour le
+   moteur de recherche.
+
+   En plus, le plugin intègre une fonction de mise en cache et peut être
+   facilement personnalisé, alors pourquoi se priver?
+
+Installation du plugin d’articles relatifs
+
+   Commencez par installer le plugin, soit avec un logiciel FTP, soit avec
+   le menu disponible dans l’administration de WordPress, puis activez-le.
+   Avec votre logiciel FTP, vous allez devoir créer une copie des fichiers
+   suivant :
+     * yarpp-template-example.php
+     * yarpp-template-list.php
+     * yarpp-template-photoblog.php
+     * yarpp-template-random.php
+     * yarpp-template-thumbnail.php
+     * yarpp-template-wpml.php
+
+   Vous les trouverez dans ce répertoire du plugin :
+
+   www.monsite.com/wp-content/plugins/yet-another-related-posts-plugin/yar
+   pp-templates
+
+   Il faudra les copier dans le répertoire de votre thème :
+
+   www.monsite.com/wp-content/themes/nomdevotretheme/
+
+   Rendez-vous ensuite dans le menu « Réglages » => « Related Posts
+   (YARPP) » pour paramétrer chacun des éléments suivants.
+
+   Depuis les dernières version, les deux menus suivants ne s’affichant
+   pas par défaut : il faut cliquer sur « Options de l’écran » en haut à
+   droite pour cocher l’affichage de ces deux blocs de YARPP
+
+  Le Corpus
+
+   De base, ne changez rien dans ce bloc, sauf si vous souhaitez exclure
+   certaines catégories, certains mots clés ou encore les articles datant
+   d’il y a plus d’un an. Je pense en effet qu’il vaut mieux prendre en
+   compte tous les contenus d’un site pour mettre en place un maillage
+   interne efficace pour le visiteur et le SEO.
+
+   Je déconseille également d’inclure les articles protégés par un mot de
+   passe dans les articles relatifs, car s’ils protégés, c’est qu’il y a
+   une bonne raison à cela…
+
+  Options de complémentarité
+
+   Ce menu est sans doute la partie la plus intéressante du plugin. Vous
+   allez pouvoir définir les critères utilisés pour afficher les articles
+   relatifs dans vos pages WordPress.
+
+   Le seuil de complémentarité est une note qui est attribuée aux articles
+   pour chaque publication affichée. Par exemple, ce tutoriel sur YARPP va
+   avoir une note différente dans chacun des autres posts de SeoMix. Plus
+   la note est élevée, plus il a de chances d’apparaître. Pour ma part,
+   j’ai mis le seuil à 2. En dessous, la publication n’est pas prise en
+   compte. A vous d’adapter la note en fonction de vos contenus.
+
+   D’ailleurs, quand vous allez rédiger un article, vous verrez un nouveau
+   widget qui vous affichera (après avoir sauvegardé le post) les articles
+   relatifs de celui-ci.
+   Les entrées complémentaires dans un Widget Les entrées complémentaires
+   dans un Widget
+
+   Le deuxième point important est la liste des éléments à prendre en
+   compte. Voici également mon paramétrage qui optimise la pertinence des
+   résultats. Attention, ce n’est pas forcément le meilleur paramétrage
+   car les résultats dépendant énormément de vos contenus, donc n’hésitez
+   pas à tester d’autres paramètres.
+     * Titres : prendre en compte avec plus d’importance
+     * Contenus : prendre en compte
+     * Tags : nécessite d’avoir au moins 1 tag en commun
+     * Catégories : prendre en compte
+
+   YARPP Yet Another Related Post Plugin complémentarité Options de
+   complémentarité de YARPP
+
+   Cochez également la complémentarité croisée, car vos pages peuvent être
+   toutes aussi pertinentes que vos articles.
+
+  Réglages de présentation pour le site
+
+   Tout comme pour le menu suivant, vous pouvez cocher l’option qui va
+   ajouter automatiquement les articles relatifs dans votre thème. En
+   général, cela fonctionne bien. Si par contre vous voulez le placer à un
+   endroit différent, il faudra utiliser ce code dans votre thème :
+
+<?php if (function_exists('related_posts')) related_posts();?>
+
+   Si vous souhaitez ajouter un titre au dessus, rien de plus simple.
+   Juste avant le code précédent, vous pouvez ajouter l’un de ces 3 lignes
+   (à vous de tester pour savoir ce qui rend le mieux) :
+
+<h2>MON TITRE<h2>
+<h3>MON TITRE</h3>
+<strong>MON TITRE</strong>
+
+   Définissez ensuite le nombre maximal d’articles relatifs à afficher. Là
+   aussi, cela va dépendre du thème de votre blog. En ce qui me concerne,
+   j’ai choisi d’en afficher trois mais j’aurais très bien pu en vouloir
+   10… Là, c’est plus une question de bon sens pour l’utilisateur qui peut
+   parfois se retrouver noyer sous une masse trop importante
+   d’informations.
+
+   Cochez la case « utiliser un modèle personnalisé« , et sélectionnez
+   l’un des template par défaut proposé par le créateur du plugin. Pour
+   que cela fonctionne, il faut bien entendu avoir copié ces fichiers dans
+   le répertoire de votre thème WordPress comme indiqué précédemment.
+
+   Vous n’avez plus qu’à vérifier sur votre site que l’affichage des
+   articles relatifs est correct, comme ici avec le modèle par défaut
+   « Example ».
+   Affichage par défaut des articles relatifs, avec YARPP Affichage par
+   défaut des articles relatifs
+
+  Réglage de présentation pour les flux RSS
+
+   Le plugin permet également d’afficher les articles relatifs dans le
+   flux RSS de votre blog. Pour ma part, je n’utilise pas cette
+   fonctionnalité, mais cela peut être un bon moyen de montrer plus de
+   contenus à vos lecteurs. Bref, à vous de voir.
+
+Personnaliser l’affichage des articles relatifs
+
+   Comme vous avez pu le voir sur l’image précédente, le rendu par défaut
+   n’est pas vraiment esthétique, voir même moche (si si, on peut le dire)
+   … Heureusement pour nous, on peut personnaliser tout ça pour avoir un
+   rendu comme celui de SeoMix :
+   Exemple d'affichage des articles relatifs sur WordPress Exemple
+   d’affichage des articles relatifs sur WordPress
+
+   La première étape consiste à activer les thumbnails, c’est à dire les
+   miniatures de vos articles. Pour cela, ajoutez ces deux lignes dans le
+   fichier functions.php de votre thème. Les deux chiffres 200
+   correspondent au nombre de pixels (largeur et hauteur) de vos image et
+   « true » signifie que l’image sera coupée pour obtenir ces dimensions
+   (false risque d’aplatir ou d’écraser vos images).
+
+add_theme_support('post-thumbnails');
+add_image_size('seomixthumb', 200, 200, true);
+
+   Toujours dans le fichier functions.php, vous aller copier ce code. Il
+   servira à récupérer la première image d’un article, cela uniquement si
+   l’utilisateur n’a pas défini d’image à la une.
+
+function get_post_thumbnail() {
+ $files = get_children('post_parent='.get_the_ID().'&post_type=attachment&post_m
+ime_type=image');
+ if($files) :
+ $keys = array_reverse(array_keys($files));
+ $j=0;
+ $num = $keys[$j];
+ $image=wp_get_attachment_image($num, 'large', false);
+ $imagepieces = explode('"', $image);
+ $imagepath = $imagepieces[1];
+ $thumb=wp_get_attachment_thumb_url($num);
+ return $thumb;
+ endif;
+}
+
+   Remplacez ensuite le contenu du modèle YARPP que vous avez choisi par
+   ce contenu :
+
+<?php if (function_exists("icl_register_string")) {icl_register_string("Yet Anot
+her Related Posts Plugin","related posts header","Related Posts");icl_register_s
+tring("Yet Another Related Posts Plugin","no related posts message","No related
+posts.");}?>
+<?php if ($related_query->have_posts()):?>
+  <div class="solcol">
+    <?php while ($related_query->have_posts()) : $related_query->the_post(); ?>
+        <div class="solb">
+        <a href="<?php the_permalink() ?>" rel="bookmark" title="<?php the_title
+(); ?>">
+          <img src="<?php $id = $post->ID;$thumbnail_src = wp_get_attachment_ima
+ge_src(get_post_thumbnail_id($id),'seomixthumb');$thumb=$thumbnail_src[0];
+            if (!$thumb) {$thumbdirectory = get_bloginfo('template_directory');$
+thumb= $nothumb.'/images/nothumb.jpg';}
+            echo $thumb;?>" alt="<?php the_title(); ?>" class="article-thumb" he
+ight="200" width="200">
+          <span><?php the_title(); ?></span>
+        </a>
+      </div>
+      <div class="solbe"></div>
+    <?php endwhile; ?>
+  </div>
+<?php else: ?>
+  <p>Pas encore d'article similaires</p>
+<?php endif; ?>
+
+   Attention, vous allez devoir trouver une image par défaut, de la même
+   taille que celle que vous avez défini auparavant. Une fois que vous
+   l’aurez trouvé, vous allez devoir la placer dans le répertoire « images
+   de votre thème sous le nom nothumb.jpg. Cela permet de mettre en place
+   le système des miniatures même si vous n’avez pas associé d’image à
+   votre article, comme dans cet exemple :
+   2 articles avec une miniature par défaut 2 articles avec une miniature
+   par défaut
+
+   Le souci, c’est que vos miniatures n’existent pas encore. Dans ce cas
+   de figure, WordPress va récupérer l’image originale, ce qui pose deux
+   problèmes : d’une part de le poids des images est énorme, et d’autres
+   part vos miniatures vont être pixélisées ou écrasées. Il faut donc
+   forcer WordPress à régénérer toutes les anciennes miniatures. Un autre
+   plugin WordPress fait cela très bien : Regenerate Thumbnails.
+   Installez-le puis demander à WordPress de créer vos miniatures
+   d’articles relatifs. (Dans « Outils » => « Regen. Thumbnails« ).
+   WordPress regenerate thumbnails WordPress regenerate thumbnails
+
+   Le second problème est que le système de miniature ne fonctionne
+   correctement que si vous avez associez manuellement une image à chaque
+   article. Si vous ne le faites pas, il va récupérer la première image
+   qu’il va trouver dans chaque post, ce qui pose là aussi les mêmes
+   problèmes : le poids des images est trop grand et elles sont écrasées.
+   Il va donc falloir vous rendre dans chaque article puis cliquer sur le
+   bouton « Mettre une image à la une » qui est présent dans un nouveau
+   Widget.
+   Widget WordPress "Mettre une image à la une" Le Widget « Mettre une
+   image à la une »
+
+   Là, il vous suffit de cliquer sur l’onglet Galerie, de sélectionner
+   l’image que vous désirez utiliser pour vos articles relatifs, puis de
+   cliquer sur « Utiliser comme image à la une ».
+   WordPress utiliser une image à la une Associez une image à la une à vos
+   articles
+
+   Maintenant que chacun de vos articles possède une image associée, il
+   faut mettre le tout en forme, car le rendu par défaut n’est pas
+   optimal :
+   Le rendu par défaut de vos miniatures d'articles Le rendu par défaut de
+   vos miniatures d’articles
+
+   Ouvrez le fichier style.css de votre thème WordPress, et ajoutez à la
+   fin ces quelques lignes
+
+.solb,.solbe{
+        text-align:center
+}
+.solcol{
+        margin:0.5em 0 1em;
+        padding-top:0.2em;
+        width:900px
+}
+.solb{
+        display:table-cell;
+        margin:0 4px 0 4px;
+        padding:6px;width:200px;
+        background:#e9f0f8;
+        border:1px solid #b2d6ff
+}
+.solbe{display:table-cell;
+        margin:0 4px 0 4px;
+        padding:6px;
+        width:6px;
+        background:transparent
+}
+.solb:hover{
+        background:#b2d6ff
+}
+.solb a{
+        text-decoration:none
+}
+.solb a span:hover{
+        text-decoration:underline
+}
+
+   Cela va mettre en forme vos différents articles relatifs. Vous pouvez
+   bien entendu adapter ce code selon vos besoins et vos envies. Pour ma
+   part, j’y ajoute un peu de CSS3 pour les navigateurs récents (ombrage
+   et arrondi) :
+
+.solb{
+        -moz-box-shadow:0 2px 3px rgba(0,0,0,.4);
+        -webkit-box-shadow:0 2px 3px rgba(0,0,0,.4);
+        box-shadow:0 2px 3px rgba(0,0,0,.4)
+}
+.solb{
+        border-radius:7px;
+        -moz-border-radius:7px;
+        -khtml-border-radius:7px;
+        -webkit-border-radius:7px
+}
+
+   Et voilà, le tour est joué. Vous avez désormais un bloc d’articles
+   relatifs pertinents pour les moteurs de recherche et pour vos
+   visiteurs !
+
+Un projet ? Besoin d'aide et d'expertise ?
+
+   Parlons-en !
+
+Vous aimerez aussi
+
+     * URL HTTP
+       Redirection, un plugin WordPress qui vous veut du bien
+       Pour gérer facilement toutes vos redirections, découvrez ce guide
+       d’utilisation complet de l’excellent plugin WordPress
+       « Redirection »
+     * Wordpress Plugins
+       21 plugins et extensions WordPress à éviter
+       Partout, des blogueurs conseillent un liste longue comme le bras
+       d’extensions Wordpress à installer. Voici son pendant : les 21
+       plugins Wordpress à ne pas installer !
+     * Plugin WordPress CSS3 Pricing Tables
+       La nouvelle ère des plugins Premium WordPress
+       Le marché du plugin Wordpress n’est plus une niche, et les plugins
+       premium sont venus concurrencer l’historique repository de
+       Wordpress.org.
+
+L'auteur du mix
+
+   Daniel Roch
+   Daniel Roch
+
+   Fondateur, conférencier, auteur, consultant et expert SEO WordPress
+
+Vous avez aimé ? Réagissez !
+
+    1. Bruno par Bruno, le 19 Mai 2011
+       Très très bon article, mais personnellement je n’ai jamais accroché
+       aux systèmes de ce type en automatique, j’utilise un plugin qui me
+       laisse choisir à la main les articles liés.
+    2. maniT4c par maniT4c, le 19 Mai 2011
+       Je suis complètement d’accord avec Bruno. Je trouve que tous les
+       articles n’ont pas nécessairement besoin d’être liés à d’autres.
+       Mais pour le coup, pour ceux qui aiment ce genre d’automatisation
+       ce plugin à l’air très puissant !
+    3. Brice par Brice, le 19 Mai 2011
+       Une bonne description du plugin en effet… Malgré ma préférence pour
+       les hacks qui surchargent moins le serveur, je vais me laisser
+       tenter par celui-ci ^^
+    4. Diije par Diije, le 19 Mai 2011
+       Customisation très intéressante, merci Daniel :)
+       @Bruno : c’est quoi ce plugin ?
+    5. Pierre par Pierre, le 19 Mai 2011
+       Excellent plugin je confirme, et merci pour les lignes de code. A
+       quand un test des meilleurs plugins d’affiliation ?
+    6. Fabien par Fabien, le 19 Mai 2011
+       Hello. Je prépare en ce moment un article sur la mesure
+       d’efficacité des articles relatifs et populaires.
+       Les résultats sont très décevants avec un CTR (sur le bloc complet
+       d’articles relatifs) de 0,7% quand il y a des images et de 0,3%
+       quand il n’y en a pas. Je me demande si ça vaut vraiment la peine
+       de les laisser donc…
+       Un bémol toutefois : je n’ai pas une audience de grande qualité, et
+       j’ai un nombre de PV/visite très bas de toutes façons (1,6).
+       Quelqu’un à des retours là-dessus ?
+    7. Daniel Roch par Daniel Roch, le 19 Mai 2011
+       @fabien : je n’ai pas encore de données, mais j’effectue le suivi
+       des articles relatifs dans Analytics depuis 2 jours, donc je ne
+       devrais pas tarder à avoir des données.
+       Après, je conseille toujours d’avoir ce type de module, car même si
+       l’utilisateur n’y fait pas appel, il est très utile pour le
+       référencement et le maillage internet (et c’est là aussi où le
+       plugin YARPP a les meilleurs résultats en termes de pertinence).
+    8. 4h18 par 4h18, le 19 Mai 2011
+       EN ce qui me concerne, j’utilise désormais ZigConnect, qui me
+       permet de selectionner les articles à lier.
+       Cela se fait manuellement, et prend un peu plus de temps.
+       L’avantage ? Le lien est réciproque entre les articles, et d’un
+       point de vue performances, le plugin ne balaie pas toute la base de
+       données pour trouver des articles plus ou moins en rapport.
+       Finalement, tout les avantages des articles relatifs, sans les
+       inconvénients :)
+    9. Daniel Roch par Daniel Roch, le 19 Mai 2011
+       J’avais justement lu ton article à propos de ZigConnect. C’est vrai
+       que si l’on peut faire manuellement ce travail, c’est mieux. Mais
+       c’est ingérable dans deux cas :
+       – un blog qui a déjà beaucoup d’articles
+       – De nouveaux articles qui obligent à revenir sur ceux d’avant pour
+       optimiser les articles relatifs
+   10. Cédric G. par Cédric G., le 19 Mai 2011
+       Ahhh un article qui m’a « poussé » à faire une petite mise à jour
+       de mon blog.
+       J’utilisais jusqu’alors l’excellent Simple Tags (que j’avais laissé
+       en version 1.8 car depuis la version 2.0, Amaury avait supprimé la
+       fonctionnalité « articles relatifs » que je trouvais bien pratique
+       et je n’avais pas trop envie de réinstaller un n-ième plugin)
+       Du coup j’ai mis à jour Simple Tags et installé YARPP, et bien m’en
+       a pris, car la pertinence n’a… rien à voir :) Merci Daniel !
+   11. Pascal CAMLITI par Pascal CAMLITI, le 20 Mai 2011
+       Excellentes explications et détails de code.
+       J’ai une question : Est-ce que le cumul de plugin ne ralentissent
+       pas trop le chargement des pages ? Merci
+   12. Daniel Roch par Daniel Roch, le 20 Mai 2011
+       Pour la part, le plugin d’article relatif YARPP ne ralentit pas mes
+       pages, vu qu’il met en cache son calcul (à chaque sauvegarde d’un
+       article)
+   13. Jérémy par Jérémy, le 25 Mai 2011
+       Merci pour cet article et son explication détaillée.
+       Néanmoins j’ai une question existe-il ou peut-on adapter ce plugin
+       pour la gestion de page similaire à la page sur laquelle se trouve
+       l’internaute ?
+       Merci d’avance pour votre réponse =)
+   14. Daniel Roch par Daniel Roch, le 25 Mai 2011
+       YARPP permet déjà de faire cela avec les différentes pages d’un
+       blog WordPress. Par contre, la réponse est non si tu souhaites
+       faire cela sur un autre CMS. ;)
+   15. Jérémy par Jérémy, le 26 Mai 2011
+       Ahhh mais c’est une très bonne nouvelle ça =)
+       Au niveau du fonctionnement, il y a un réglage différents à faire à
+       quel niveau?
+   16. Daniel Roch par Daniel Roch, le 26 Mai 2011
+       c’est le même code. Il faut juste penser à cocher « Complémentarité
+       croisée entre articles et pages » pour que le plugin YARPP puisse
+       fonctionner partout. ;)
+   17. Jérémy par Jérémy, le 27 Mai 2011
+       Ok cool, je me plonge dedans début de semaine prochaine! Merci pour
+       tes tutos!
+       D’ailleurs j’ai une question (désolé elle est plus en rapport avec
+       l’article) tu utilises un plugin wp pour agrandir tes images?
+   18. Daniel Roch par Daniel Roch, le 27 Mai 2011
+       Je faisais appel à Wp-Fancy Box, mais j’ai codé cet effet
+       directement dans mon thème.
+   19. Jérémy par Jérémy, le 27 Mai 2011
+       Ok, c’est une belle réussite =)
+   20. Nicolas par Nicolas, le 13 Juil 2011
+       Hello! J’ai uploadé le plugin dans le répertoire de WP, activé dans
+       la console principale, mais une fois que je vais dans le
+       paramétrage de YARPP, j’ai une page blanche, pas de paramétrages
+       possibles… Est-ce parce que je n’ai pas copié les fichiers
+       « yarpp-template-example.php » (entre autres) dans le répertoire de
+       thème? Please help!
+       Merci d’avance!
+       Nico
+   21. Daniel Roch par Daniel Roch, le 15 Juil 2011
+       On dirait plutôt que le plugin a été mal installé (rien à voir avec
+       les templates donc). Essaie de le supprimer entièrement puis de le
+       réinstaller. Sinon, essaie d’activer le thème par défaut et de
+       désactiver les autres plugins pour voir s’il y a une
+       incompatibilité avec YARPP.
+   22. mélisande par mélisande, le 26 Juil 2011
+       Bonjour,
+       Merci ! J’étais en effet bien intéressée par la présentation en
+       vignettes mais en ce qui me concerne ça ne fonctionne pas…
+       La mise en forme via le .CSS ne donne rien et mes vignettes restent
+       l’une sous l’autre avec le lien à droite…
+       – J’ai fait le test en local avec une installation vierge de la
+       dernière version de WP + BDD vierge.
+       – J’ai testé avec les 2 thèmes par défaut de WP 3.2.1 (twentyten,
+       twentyeleven)
+       – J’utilise Firefox
+       – Version YARPP : 3.3.1
+       – Cache Vidé
+       D’autres rencontrent-ils ce problème ?
+       Par avance merci,
+       Mélisande
+         1. Daniel Roch par Daniel Roch, le 26 Juil 2011
+            @Mélisande : le plus simple serait de nous donner l’url de
+            votre site pour savoir d’où peut venir le problème.
+   23. mélisande par mélisande, le 26 Juil 2011
+       Bonjour,
+       Merci pour la réponse.
+       Oui en effet mais je travaille en local pour le moment.
+       :os
+       Mélisande
+   24. Daniel Roch par Daniel Roch, le 27 Juil 2011
+       Si c’est en local, je ne peux malheureusement rien faire… Êtes-vous
+       sûr de n’avoir manqué aucune étape ?
+   25. mélisande par mélisande, le 04 Août 2011
+       Bonjour,
+       Je reviens vers vous car il y a une petite chose que je ne
+       comprends pas…
+       Vous dites d’insérer :
+       .solb,.solbe{text-align:center}
+       .solcol{margin:0.5em 0 1em;padding-top:0.2em;width:900px}
+       .solb{display:table-cell;margin:0 4px 0
+       4px;padding:6px;width:200px;background:#e9f0f8;border:1px solid
+       #b2d6ff}
+       .solbe{display:table-cell;margin:0 4px 0
+       4px;padding:6px;width:6px;background:transparent}
+       .solb:hover{background:#b2d6ff}
+       .solb a{text-decoration:none}
+       .solb a span:hover{text-decoration:underline}
+       Mais cette classe .solb elle vient d’où ?
+       Elle n’est pas appelée par YARPP, si ?
+         1. Daniel Roch par Daniel Roch, le 04 Août 2011
+            Le code que j’avais mis dans l’article avait planté. On y
+            retrouve les fameuses balises manquantes. Encore désolé pour
+            le bug.
+   26. mélisande par mélisande, le 04 Août 2011
+       C’est peut-être pour ça que ça ne fonctionnait pas chez moi… :o))
+       Je testerai un peu plus tard… Mais à mon avis ça va aller mieux…
+       Une dernière question : ne faut-il pas un antislash avant le ‘ de
+       la phrase « Pas encore d’article similaires »  ?
+       Pardon pour le dérangement et merci pour votre aide
+       Mélisande
+         1. Daniel Roch par Daniel Roch, le 05 Août 2011
+            Non, normalement vous n’aurez pas besoin d’Antislash.
+   27. Julien par Julien, le 08 Août 2011
+       Bonjour !
+       Dans cette partie :
+       « Remplacez ensuite le contenu du modèle YARPP que vous avez choisi
+       par ce contenu : »
+       Je ne trouve pas quel fichier modifier s’il vous plait ?
+       Merci de m’aider.
+       Cordialement,
+       Julien
+   28. Daniel Roch par Daniel Roch, le 24 Août 2011
+       @Julien : Yarrp fournit plusieurs fichiers qui correspondent à
+       différentes mises en page possible. Dans le menu d’administration
+       du plugin, on peut choisir lequel utiliser. Il faut donc regarder
+       lequel a été choisi, puis remplacer le contenu de ce fichier par le
+       code donné dans ce tutoriel.
+   29. Firasofting par Firasofting, le 27 Sep 2011
+       En effet ce plugin est très performant, j’ai beaucoup hésité avant
+       de passer à l’automatisation des articles relatifs (à cause de
+       certains plugins franchement médiocres), mais faut dire que YARRP
+       se démarque de la concurrence.
+       D’ailleurs merci pour ton article qui m’a convaincu à passer le
+       pas.
+   30. Julien par Julien, le 17 Oct 2011
+       Bonjour Daniel,
+       Je souhaite mettre des pages relatives à des pages (et non à des
+       posts / articles) mais je galère…
+       La version 3.3.2 que je viens de télécharger ne comporte pas
+       d’option de complémentarité entre articles et pages. Je n’ai donc
+       pas de contenu relatif pour mes pages.
+       Sais tu comment je peux remédier à ceci ? La 3.3.3b2 propose-t-elle
+       ceci ?
+       Merci
+   31. Daniel Roch par Daniel Roch, le 17 Oct 2011
+       Ce menu est bel et bien présent dans la dernière version de yet
+       Another Related Post plugin, mais juste caché… En haut à droite, il
+       y a un bouton « Options de l’écran ». En cliquant dessus, on peut
+       choisir d’afficher certains blocs supplémentaires de YARPP,
+       notamment celui avec les options de complémentarité.
+   32. Julien par Julien, le 18 Oct 2011
+       Effectivement, merci beaucoup :)
+   33. Gregory ADAM par Gregory ADAM, le 07 Nov 2011
+       Merci Beaucoup pour ce tuto Daniel !
+       Dans sa mise en place j’ai rencontré une super toute petite
+       coquille.
+       Une fois la configuration faite les « related posts » ne ce sont
+       pas affichés comme liens car le « a » et le « href » de la balise
+       sont collés :) (dans le script du YARPP).
+       Après les avoir décollé et le tunning est réussit !!!!
+   34. Daniel Roch par Daniel Roch, le 07 Nov 2011
+       La coquille est corrigée. Merci de l’avoir signalée. ;)
+   35. Christophe par Christophe, le 23 Nov 2011
+       Bonjour,
+       le plugin a t-il été mis à jour récemment ?
+       Je viens de l’installer, et je ne vois nulle part dans la partie
+       « réglage » les fonctions complémentarités… comment sélectionner
+       les catégories, tags…
+       Je n’ai que Réglage de présentation pour le blog et le flux RSS…
+       Je pensais installer ce plugin sur l’annuaire réalisé avec
+       Directorypress…
+       Merci de votre aide :)
+   36. Daniel Roch par Daniel Roch, le 23 Nov 2011
+       Ces deux menus sont toujours présents mais sont cachés par défaut
+       dans la nouvelle version : dans l’admin de YARPP, il faut cliquer
+       en haut à droite sur options de l’écran puis cocher les deux menus
+       en question. J’ai mis à jour mon article pour le signaler. ;)
+   37. Christophe par Christophe, le 24 Nov 2011
+       Merci !
+       En route pour le test :)
+   38. Christophe par Christophe, le 24 Nov 2011
+       Une petite question…
+       Comment faire apparaître un titre à notre nouveau module ?
+       Comme sur seomix par exemple. J’ai bien réussi à avoir mes 3
+       blocks, mais pas de titre…
+       Alors comment faire et même comment insérer une image dans le titre
+       comme vous vous l’avez fait Daniel ?
+   39. Daniel Roch par Daniel Roch, le 25 Nov 2011
+       Pour ajouter un titre avant, il suffit de copier un code comme par
+       exemple
+       ou
+       Pour ce qui est des images dans les articles relatifs, tout est
+       expliqué dans l’article. ;)
+   40. Tech'Paf par Tech'Paf, le 21 Déc 2011
+       Merci beaucoup pour la petite astuce permettant d’avoir accès à
+       l’intégralité de la page de configuration de ce plugin (via
+       « options d’écran »).
+       Sans ça impossible de faire fonctionner YARPP avec les anciens
+       articles de notre site ;)
+   41. racharrach par racharrach, le 14 Mar 2012
+       tout d’abord merci pour ton super site que je viens de decouvrir,
+       et pour cet article sur le plugin yarpp, que je ne connaissais pas
+       non plus.
+       par contre dans la condition:
+       if (function_exists(‘related_posts’)) echo related_posts();
+       il ne faut pas mettre echo car la fonction related_posts() gere
+       deja l’affichage.
+       en esperant que les prochains ne se prennent pas la tete 1 heure
+       comme moi pour trouver l’erreur.
+       cordialement.
+   42. Daniel Roch par Daniel Roch, le 14 Mar 2012
+       @racharrach : c’est tout à fait exact. En fait, c’est que le plugin
+       avait auparavant besoin d’un echo pour fonctionner mais depuis les
+       versions plus récentes le plugin YARPP n’en a plus besoin. J’ai
+       corrigé l’article.
+   43. Guide du chien par Guide du chien, le 21 Mar 2012
+       Bonjour,
+       Merci beaucoup pour cet article, j’utilisai jusqu’à présent  »
+       Related post slider  » qui lie les articles uniquement par
+       mots-clés. Avec Yarpp, les possibilités sont supérieurs et surtout,
+       grâce à votre tuto, on peut ajouter des images aux articles liés et
+       modifier à notre guise le design grâce au CSS.
+   44. K-rip par K-rip, le 11 Avr 2012
+       Bonjour Daniel,
+       Merci pour ce tuto très complet, je ramais depuis plusieurs jours
+       après avoir testé de nombreux plugins sans trouver ce qui me
+       conviendrait… J’avais délaissé YARPP car je n’avais pas remarqué
+       les menus « Le corpus » et « Options de complémentarité », or c’est
+       justement ce dont j’avais besoin.
+       Je bloque cependant sur un point : vous parlez d’un lien vers un
+       fichier nothumb.jpg qu’il faut remplacer, mais il est absent de
+       votre code. Où dois-je placer ce lien vers mon image ?
+       Merci d’avance pour votre réponse.
+   45. Daniel Roch par Daniel Roch, le 11 Avr 2012
+       @K-rip : c’était un oubli dans mon code. J’ai corrigé le snippet
+       donné pour afficher une image par défaut. Et merci d’avoir fait
+       remonter le problème.
+   46. K-rip par K-rip, le 11 Avr 2012
+       Merci beaucoup pour votre réponse rapide !
+       Cependant ce nouveau code ne fonctionne pas chez moi, Firebug
+       m’indique un attribut src= » » vide pour les articles n’ayant pas
+       d’image, et l’attribut src= »/images/nothumb.jpg » pour les
+       articles ayant une image à la une. De plus, mon image nothumb.jpg
+       n’est pas trouvée avec ce chemin relatif (message de Firebug :
+       « Failed to load the given URL », pourtant l’image existe bel et
+       bien).
+       Je précise qu’avec le code précédent les miniatures s’affichaient
+       correctement pour les articles ayant une image à la une.
+       Est-ce une erreur dans le code ou un problème de mon côté
+       (peut-être lié au thème) ? Je précise que je n’ai pas installé le
+       plugin Regenerate Thumbnails, je ne sais pas si cela peut avoir une
+       influence.
+       Merci d’avance et désolé pour le dérangement.
+   47. Daniel Roch par Daniel Roch, le 12 Avr 2012
+       Je viens de corriger le code pour la miniature donc il devrait
+       (enfin) fonctionner.
+       Pour l’image nothumb.jpg, celle-ci a bien été placée dans le
+       répertoire « images » du thème ?
+   48. K-rip par K-rip, le 12 Avr 2012
+       En fait, c’était votre boucle « if » qui posait problème chez moi.
+       Je l’ai un peu modifiée et ça fonctionne !
+       if (!isset($thumb)) {
+       $thumbdirectory = get_bloginfo(‘template_directory’);
+       $thumb= $thumbdirectory.’/images/nothumb.jpg’;
+       }
+   49. emilien par emilien, le 03 Mai 2012
+       Bonsoir,Merci pour ton tuto.
+       Je suis une quiche monumentale en code. J’ai réussit à faire ce
+       tuto, mais j’aimerai maintenant pouvoir voir les posts relatifs sur
+       des pages et non pas sur des posts. Est-ce possible ?
+   50. Daniel Roch par Daniel Roch, le 03 Mai 2012
+       @Emilien : c’est tout fait faisable. Dans l’administration de
+       Yarrp, il y a une option à activer pour plus de qualité dans les
+       résultats : « Inclure tous les types d’entrées dans les
+       résultats ». Et ensuite, il suffit de copier dans le fichier de
+       template des pages (en général page.php) le même code que celui
+       donné ici pour les article relatifs, à savoir :
+   51. Emilien par Emilien, le 03 Mai 2012
+       merci pour ta réponse.
+       Il me reste un seul problème.
+       J’aimerai pouvoir mettre 6 articles relatifs. Pour cela, je dois
+       les disposer sur 2 lignes, car au-delà de trois, les box s’affiche
+       sur la sidebar:
+       un exemple:
+       http://webodysseum.com/art/the-best-of-google-street-view/
+       Que faut-il faire ? (j’aimerai pouvoir chercher au lieu de
+       demander, mais j’ai toujours été extrêmement allergique au codage).
+       Merci encore pour ton aide.
+   52. Daniel Roch par Daniel Roch, le 04 Mai 2012
+       Effectivement, cela dépasse. Pour diviser les articles relatifs de
+       WordPress sur deux lignes, il faut forcer un saut à la ligne au
+       bout du 3ème article relatif. Pour cela, suivez cette procédure :
+       Juste avant
+       Après le « ?php » de la même ligne, ajoutez
+       Juste avant
+       Ajoutez
+       Juste avant
+       Ajoutez
+   53. emilien par emilien, le 04 Mai 2012
+       Petit complément sur le commentaire du dessus, je voulais dire « au
+       delà de 3 colonnes ».
+   54. emilien par emilien, le 04 Mai 2012
+       Merci. Ca ne fonctionne pas pour le moment. Voici le code modifié,
+       au cas où j’ai fait une erreur, mais je ne crois pas:
+       pastebin.com/1ur1gxis
+       Et le résultat sur mon site:
+       webodysseum.com/videos/space-footage-from-nasas-cassini-voyager-mis
+       sions/
+   55. Daniel Roch par Daniel Roch, le 04 Mai 2012
+       Petite erreur de ma part. Ce n’est pas :
+       Mais ce code qu’il faut utiliser
+   56. emilien par emilien, le 04 Mai 2012
+       C’est presque parfait. Encore un petit problème. Au bout de trois
+       posts relatifs, une nouvelle ligne est bien créée mais elle est
+       crée à chaque post (soit 4 lignes pour 6 posts).
+       Je vous remercie beaucoup pour le temps que vous consacré à mon
+       probème.
+   57. Daniel Roch par Daniel Roch, le 04 Mai 2012
+       Rajoutez
+       Après
+       ce qui donnera
+   58. emilien par emilien, le 04 Mai 2012
+       Parfait ! Merci beaucoup.
+   59. Simon par Simon, le 09 Mai 2012
+       Bonsoir. Super article comme d’hab que j’avais mis de coté afin de
+       me lancer dans la customisation de YARPP. Seulement aujourd’hui
+       j’ai voulu tenter de customiser YARPP mais la case à cocher pour
+       utiliser les templates est grisée… Je ne peux donc utiliser de
+       template. Y’a t’il quelque chose à faire pour débloquer cette
+       fonctionnalité ? Merci
+       EDIT : Autant pour moi le problème venait de YARPP il ne voyait pas
+       en quelque sorte le template dans le dossier de mon thème (en
+       local)… Problème résolu en changeant le droit. Je continue donc. A
+       bientôt
+   60. Jean-christophe par Jean-christophe, le 21 Mai 2012
+       Bonsoir,
+       J’ai beaucoup apprécié cet article hyper complet, néanmoins mes
+       images ne s’affichent pas.
+       Voici ce que j’ai dans mes articles à l’onglet entrées
+       complémentaires :
+       Fatal error: Call to a member function get_post_types() on a
+       non-object in
+       /homez.443/arretezd/www/wp-content/plugins/yet-another-related-post
+       s-plugin/class-admin.php on line 237
+       Serait-il possible de me dire ce qu’il faut faire pour que mes
+       images s’affichent ?
+       Enfin, comment afficher un texte comme sur votre site du genre
+       « découvrez aussi avant les photos ?
+       Merci d’avance
+   61. Daniel Roch par Daniel Roch, le 22 Mai 2012
+       Il s’agit malheureusement d’un bu du plugin. L’auteur a publié un
+       correctif en version bêta sur le site officiel de WordPress. Il
+       suffit d’installer la version bêta de YARPP et le problème devrait
+       disparaître.
+   62. Arnaud par Arnaud, le 27 Juin 2012
+       Bonjour à tous, cela fait 2 heures que je planche sur YARPP grâce à
+       ton très bon tuto ! Tout marche bien, à part une chose :
+       je n’arrive pas à faire afficher les images à la une !
+       Concrètement, voilà ce que j’ai :
+       boxetcoffret.com/makeupline-maquillage/
+       C’est à dire il m’affiche bien le nothumb.jpg que j’ai mis par
+       défaut, mais il ne veut pas m’afficher les images à la une
+       associées. Si quelqu’un à une idée, je ne vois pas du tout d’où ça
+       viendrait !
+   63. Fred par Fred, le 23 Juil 2012
+       Bonjour,
+       Merci pour ce tuto. J’ai cependant deux problèmes que je n’arrive
+       pas à régler:
+       – Mes thumbnails font 200×200 pixels (défini dans les paramètres de
+       mon template Elegant Themes « DelicateNews »). Si je modifie le
+       code de functions.php en
+       add_image_size(‘seomixthumb’, 100, 100, true);
+       , mon image passe en 100×100 mais est affichée en 200×200, ce qui
+       la rend très moche et ne correspond pas à la taille d’affichage que
+       je souhaite.
+       – Beaucoup plus gênant, les thumbnails s’affichent bien les uns à
+       côté des autres sous Firefox mais pas sous IE8 (testé sur 2 PC
+       différents) où ils s’affichent les uns SOUS les autres.
+       Ce serait sympa de m’aider sur ces deux problèmes qui m’empêchent
+       pour l’instant d’utiliser cette fonction. Merci par avance ;)
+   64. Daniel Roch par Daniel Roch, le 23 Juil 2012
+       @Fred : il faut régéner les miniatures. Pour cela, il faut utiliser
+       un plugin comme Regenerate Thumbnail ou Ajax Thumbnail Rebuilt.
+       Pour IE8, aurais-tu une URL pour que je puisse tester et corriger ?
+   65. Fred par Fred, le 24 Juil 2012
+       @Daniel: merci pour ta réponse rapide.
+       Pour les miniatures, j’ai :
+       – modifié leur taille à 100×100 dans Réglages/Médias/Taille des
+       miniatures
+       – puis j’ai modifié functions.php
+       – enfin je les ai régénérées avec Regenerate Thumbnails
+       Le résultat c’est que mes images sont redimensionnées en 100×100
+       mais affichées dans un cadre en 200×200, ce qui les rend floues.
+       Quand je fais « Informations sur l’image » sur l’une d’entre elles
+       dans FF, ça me dit: « 100px × 100px (redimensionné à 200px ×
+       200px) ». Je me demande si c’est pas un effet de mon thème qui
+       provoque ça. Malheureusement, il n’y a pas de paramétrage dans le
+       thème pour la taille des miniatures …
+       Pour le 2ème problème avec IE8, voir par exemple:
+       bidouilles-numeriques.com/2012/07/06/tizzbird-f30-jaquettes-manquan
+       tes-la-suite/
+       Entre temps, j’ai modifié le code en suivant certains commentaires
+       précédents, afin de n’afficher que 4 miniatures par ligne pour ne
+       pas dépasser du thème. Ça ça fonctionne bien, mais ça n’a rien
+       changé au fait que IE8 les affiche les unes au dessous des autres.
+       Merci pour ton aide !
+   66. Daniel Roch par Daniel Roch, le 25 Juil 2012
+       @Fred : je viens de tester. Cela s’affiche parfaitement sur IE8
+       chez moi.
+       Par contre, les images sont bien en 100/100 et redimensionnées en
+       200/200. Il faut changer
+       en
+       Puis regénérer les miniatures.
+   67. Fred par Fred, le 25 Juil 2012
+       IE8: c’est incompréhensible, je viens de refaire l’essai sur 2 PC
+       différents avec des versions différentes d’IE8 (8.0.7600.16385 et
+       8.0.6001.18702) et j’ai bien le défaut sur chacun …! En revanche,
+       sous FF, Opera, Safari ou Chrome, pas de problème.
+       Miniatures: en reprenant ton code, elle sont bien affichées en
+       200×200, la définition est de nouveau correcte, mais ça ne prend
+       pas la dimension de 100×100 que je voulais, et ce malgré la
+       modification dans Réglages/Médias/Taille des miniatures. Bon, c’est
+       pas grave, ça restera comme ça !
+       Par contre pour IE8, un autre lecteur pourrait-il faire le test de
+       son côté ?
+       Merci ;)
+   68. Fred par Fred, le 26 Juil 2012
+       Bonjour Daniel,
+       Je confirme le défaut sur 2 PC supplémentaires (ça en fait 4 en
+       tout) avec IE8 ! l’un d’entre eux bénéficiait même d’un IE8 tout
+       neuf, on ne peut même pas incriminer du cache ou je ne sais quoi
+       qui viendrait perturber l’affichage.
+       Bon, je crois que je vais me passer de cette fonctionnalité …
+       dommage.
+       Je continuerai néanmoins à suivre ton site avec intérêt, j’y ai
+       trouvé plein de choses sympas.
+   69. Daniel Roch par Daniel Roch, le 26 Juil 2012
+       @fred : pour la taille d’image, il faut aussi changer les CSS.
+       Vérifie que .solb ait bien la valeur width:200px;
+       Et pour IE8, je viens de tester de chez moi et cela fonctionne
+       parfaitement.
+   70. Fred par Fred, le 27 Juil 2012
+       Pour IE8, je pense avoir trouvé l’explication: quand on fait F12
+       sous IE8 pour entrer dans les outils de développement, dans la
+       barre de menu il faut être en « Mode document: Normes IE8 ». Par
+       défaut, ceci est positionné sur « Normes IE7 » et là les miniatures
+       se retrouvent les unes sous les autres. Tu avais dû modifier ton
+       IE8 en conséquence.
+       Y a-t-il quelque chose que tu puisses modifier dans ton code pour
+       que ça s’affiche correctement en Normes IE7 ? Ceci afin qu’un
+       utilisateur lambda d’IE8, qui n’aura même pas l’idée d’aller
+       modifier ce paramètre, ait un affichage correct.
+       Petite requête supplémentaire (je sais j’abuse !): je cherche à
+       faire en sorte que les miniatures ne s’affichent pas dans une
+       catégorie spécifique d’articles. Sais-tu comment procéder ?
+       Merci encore du temps que tu nous consacres ;)
+       EDIT : Pour le coup de supprimer l’affichage des miniatures dans
+       certains articles: c’est bon je me suis débrouillé avec le plugin
+       « Custom CSS » qui permet d’ajouter du CSS spécifique à l’article
+       de son choix. J’ai utilisé:
+       et ça fait l’affaire !
+   71. Guilhem GLEIZES par Guilhem GLEIZES, le 30 Août 2012
+       Help
+       Je viens de finir de configurer YARPP mais chez moi la case
+       Utiliser un modèle personnalisé reste grisé ?
+       Comment faire ?
+   72. Daniel Roch par Daniel Roch, le 30 Août 2012
+       @Guilhem : il faut auparavant copier les fichiers de template de
+       YARPP et les placer dans le répertoire du thème. C’est expliqué
+       dans l’article. ;)
+   73. Guilhem GLEIZES par Guilhem GLEIZES, le 30 Août 2012
+       Merci
+       Nickel … je suis passé trop vite sur l’article ;-)
+   74. ouvrela par ouvrela, le 03 Sep 2012
+       Bonsoir,
+       Les modifications fonctionnes parfaitement pour les articles mais
+       j’ai un couic avec les sous catégories où là les modifs ne
+       fonctionnent pas correctement.C’est a dire que le lien est là mais
+       pas l’image … pour voir : ouvre-la.com/jeux-paralympiques/607
+       une idée , une piste ? merci
+       cordialement
+   75. Daniel Roch par Daniel Roch, le 04 Sep 2012
+       Il semblerait que vous ayez réussi à corriger de vous même le
+       problème des images manquantes dans vos articles relatifs. ;)
+   76. ouvrela par ouvrela, le 04 Sep 2012
+       Effectivement quelques erreurs modifiées
+       merci encore
+   77. Laetitia par Laetitia, le 21 Sep 2012
+       Bonjour,
+       Merci pour cet excellent tuto que je viens de mettre en place sur
+       mon blog et ca fonctionne nickel.
+       Etant nulle en programmation, j’aimerai juste ajouter un titre
+       (Articles similaires) au dessus des images… mais je ne sais pas ou
+       ni omment faire cela !
+       Merci de votre aide
+   78. Daniel Roch par Daniel Roch, le 23 Sep 2012
+       @Laétitia : j’ai mis à jour l’article pour l’ajout d’un titre au
+       dessus des articles relatifs. ;)
+   79. Laetitia par Laetitia, le 23 Sep 2012
+       @Daniel Roch : Merci beaucoup. En effet c’est très simple il suffit
+       d’y penser :-)
+   80. Matthieu par Matthieu, le 08 Avr 2013
+       Hello Daniel, déjà merci pour tous ces articles :D
+       Ensuite, j’allais dire que j’avais un pb mais j’ai réussi à le
+       résoudre… Bref, j’en profite pour te dire que j’ai vu une petite
+       faute dans la paragraphe « Réglages de présentation pour le
+       site » : « vous pouvez cochez l’option » => « vous pouvez cocher
+       l’option »
+       Merci encore :-)
+         1. Daniel Roch par Daniel Roch, le 09 Avr 2013
+            C’est corrigé ;)
+   81. Loiseau2nuit par Loiseau2nuit, le 19 Sep 2013
+       OK bon, à la lecture de ce billet, je crois que je commence à
+       comprendre pourquoi il n’a jamais fonctionné chez moi.
+       La première raison (et la plus évidente à ce jour) c’est qu’il
+       n’est pas tout à fait « plug & play » (trop facile !) ^^
+       PAr contre, pour une raison qui m’échappe, dans le bloc « Réglage
+       de similarité » je n’arrive pas à modifier les entrées ‘Titres’ et
+       ‘Contenus’ qui sont par défaut sur ‘ne pas prendre en compte’ et
+       que je ne peux pas modifier :-X
+       Une idée ?
+       MErci d’avance.
+         1. Daniel Roch par Daniel Roch, le 19 Sep 2013
+            De tête, j’avais eu ce problème. Il avait fallu que je
+            désinstalle entièrement le plugin et que je le réinstalle pour
+            ne plus avoir le souci.
+   82. Loiseau2nuit par Loiseau2nuit, le 27 Sep 2013
+       C’est ce que m’a suggéré le créateur du plugin aussi + nettoyage
+       des options résiduelles dans la base de données sauf que, même
+       après 3 tentatives, ca ne fonctionne toujours pas ici. Je e demande
+       si le soucis ne vient pas de la conf’ de ma base de données (qui
+       est pourtant bien en MyISAM, bien que le plugin me soutienne le
+       contraire)
+       Bref… le temps de trouver une soluce, je passe sur un autre plugin.
+       En espérant que le papa du plugin me trouve l’idée de génie qui
+       débloquera la solution ^^
+   83. StudioVaud par StudioVaud, le 09 Jan 2014
+       J’utilise un thème avec des articles, pages, portfolio et projects,
+       mais Yarpp ne fait remonter que les articles et les pages…
+       Une idée ? …ou un conseil pour utiliser un autre thème qui permet
+       davantage de choix ?
+       Merci, Serge
+         1. Daniel Roch par Daniel Roch, le 15 Jan 2014
+            C’est simple : il faut modifier le code qui va créer vos
+            custom post type (les projets, les portfolios, …). Dans les
+            paramètres, il faut ajouter : ‘yarpp_support’ => true
+            C’est expliqué ici.
+   84. Vincent par Vincent, le 28 Fév 2014
+       Savez-vous s’il est possible d’afficher YARPP deux fois sur la même
+       page avec un template différent ? j’ai trouvé plusieurs fois ce
+       code mais il ne fonctionne pas:
+       related_posts(array(‘template_file’=>’yarpp-template-xxx.php’));
+       Merci d’avance.
+         1. Daniel Roch par Daniel Roch, le 04 Mar 2014
+            Théoriquement, je dirais que oui, mais en ajoutant
+            manuellement le code de YARPP là où l’on veut le voir
+            apparaître. Cela devrait donc fonctionne de base. Le mieux,
+            c’est sans doute d’ouvrir une demande de support sur la page
+            du plugin.
+   85. Adrien par Adrien, le 11 Avr 2014
+       Bonjour Daniel, sais-tu s’il est possible d’exclure un article
+       similaire si on ne souhaite pas qu’il apparaisse dans la liste
+       d’articles similaire d’un article en particulier (ou au moins de
+       manière générale si ce n’est pas possible sur un article en
+       particulier).
+       Merci.
+         1. Daniel Roch par Daniel Roch, le 11 Avr 2014
+            A ma connaissance, le plugin ne permet pas de faire cela
+            malheureusement.
+   86. Laetitia par Laetitia, le 04 Juin 2014
+       Bonjour Daniel,
+       J’utilise ce plugin depuis pas mal de temps et il est parfait. Son
+       seul défaut c’est qu’il n’est pas « Responsive » !!
+       Sauriez-vous comment faire pour corriger ce problème ? (L’idéal
+       serait de passer d’un système de related posts avec thumbnails sur
+       PC et tablettes à un système de related posts avec juste des liens
+       textes sur smartphones)
+       Merci
+         1. Daniel Roch par Daniel Roch, le 05 Juin 2014
+            Pour corriger ce souci, il faudrait modifier les fichiers de
+            style du plugin ou du thème utilisé. Le mieux à mon avis,
+            c’est de demander à l’auteur du plugin pour intégrer cette
+            modification lors de la prochaine mise à jour de YARPP
+   87. Juristique par Juristique, le 07 Fév 2015
+       Bonjour,
+       Il existe une version Pro de Warp, qui est effectivement un
+       excellent pluging. Quelqu’un l’a t-il essayé ? Apparemment,t, il
+       s’agit de permettre des revenus publicitaires.
+   88. Er.v par Er.v, le 10 Août 2017
+       Bonjour,
+       – On peut remplacer « seomixthumb » par la nomination d’une taille
+       de miniature prévu par le thème qu’on utilise ?
+       – Comment faire pour avoir 3 ou 4 ou 5 articles similaires ?
+       Merci
+         1. Daniel Roch par Daniel Roch, le 13 Août 2017
+            Pour « seomixthumb », vous pouvez bien entendu le remplacer
+            par une autre miniature générée sur votre WordPress.
+            Pour le nombre d’articles à afficher dans WordPress, cela se
+            gère dans les réglages de l’extension YARPP.
+   89. Er.V par Er.V, le 13 Août 2017
+       Bonjour,
+       Merci de votre réponse, j’avais remplacer « seomixthumb » et penser
+       aux réglages dans YARPP, merci
+       Parfois j’ai la tête ailleurs! Sorry.
+       petite dernière question, juste pour savoir dans la partie CSS,
+       vous mettez width:900px; à .solcol, si on modifie par width:90%;
+       pas mieux pour le côté Responsive ?
+       hs: pourquoi à la fin de chaque ligne CSS, vous ne mettez pas de
+       point virgule ; ? Merci
+         1. Daniel Roch par Daniel Roch, le 13 Août 2017
+            Pour la taille, cela dépend fortement du thème (mais sur le
+            principe c’est mieux). Et pour le dernier point virgule, je
+            l’enlève car il n’est pas utile et cela allège très légèrement
+            le poids des fichiers CSS.
+   90. Er.V par Er.V, le 13 Août 2017
+       J’avais lu que l’on ne pouvait se passer du point virgule que sur
+       la dernière ligne (déclaration d’un bloc), seulement.
+       Je ne savais pas que l’on pouvait les supprimer à chaque ligne,
+       sans avoir d’erreur.
+       www.alsacreations.com/article/lire/1230-quelles-regles-syntaxiques-
+       en-css.html
+       Merci
+         1. Daniel Roch par Daniel Roch, le 16 Août 2017
+            C’est le cas : le point virgule est enlevé uniquement sur
+            chaque dernière règle située à l’intérieur de {}
+   91. Er.V par Er.V, le 16 Août 2017
+       Bonjour,
+       N’étant pas codeur, pour moi la dernière règle c’est .solb a
+       span:hover, celle qui apparaît tout en bas.
+       Erreur de ma part, je n’ai pas pensé que c’était à l’intérieur de
+       {}, on voit la différence entre un pro et un amateur :)
+       Merci je viens d’apprendre un truc en plus, merci
+   92. Manuel par Manuel, le 18 Oct 2018
+       Bonjour,
+       Super article mais je n’ai jamais mis de ligne de code de ma propre
+       initiative. Dans functions.php, où dois-je mettre les lignes ?
+       Merci !
+         1. Daniel Roch par Daniel Roch, le 19 Oct 2018
+            A la fin. Pensez cependant à faire une sauvegarde du fichier
+            avant.
+   93. Darknote par Darknote, le 24 Oct 2018
+       Bonjour,
+       Sur la fiche du plugin chez WordPress.org, on peut lire ceci
+       « Cette extension a été supprimée le 23 octobre 2018 et n’est plus
+       disponible au téléchargement. »
+       Quel plugin faut-il prendre à la place, du coup ?
+       Merci
+       ps : comment faire pour recevoir un notification si il y a une
+       réponse à ma question? Mmerci .
+         1. Daniel Roch par Daniel Roch, le 24 Oct 2018
+            Effectivement, le plugin vient d’être retiré. Je n’ai
+            malheureusement pas encore de bon remplaçant.
+
+   Tapez votre commentaire ci-dessous
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+
+   Pour ajouter du code, utilisez "<code>"
+
+   Votre nom* ______________________________
+
+   Votre email* ______________________________
+
+   Valider le commentaire
+
+   Vous aimez ?
+
+   Partager la publication "Les articles relatifs de WordPress avec YARPP"
+     * (BUTTON) Facebook
+     * (BUTTON) Linkedin
+     * (BUTTON) Twitter
+     * (BUTTON) Adresse mail
+
+   Un projet ? Besoin d'aide ?
+
+   Parlons-en !
+
+   Au sommaire
+
+     * Pourquoi choisir YARPP?
+     * Installation du plugin d'articles relatifs
+          + Le Corpus
+          + Options de complémentarité
+          + Réglages de présentation pour le site
+          + Réglage de présentation pour les flux RSS
+     * Personnaliser l'affichage des articles relatifs
+     * Commentaires
+
+   Veuillez laisser ce champ vide ____________________
+
+   Abonnez-vous à notre newsletter !
+
+   ____________________
+
+   Valider
+
+   Et rejoignez nos 676 mixeurs. Recevez des astuces sur WordPress et en
+   SEO, nos derniers articles, nos dates de formation et des cadeaux
+   bonus.
+
+   Vérifiez votre boîte de réception ou vos indésirables afin de confirmer
+   votre abonnement.
+
+   Daniel Roch
+
+   L'agence SeoMix, c'est avant tout une passion : le CMS WordPress, le
+   référencement naturel, et le juste mix entre les deux. Créé en 2010 par
+   Daniel Roch, retrouvez sur notre site nos articles et tutoriels, mais
+   surtout découvrez nos services et notre expertise pour faire du web, de
+   Google et de WordPress un monde meilleur, ou presque. Ne manquez pas
+   non plus SEO KEY, notre projet d'extension de référencement naturel
+   pour WordPress !
+   Le cœur de métier du mixeur Nantais ? L'optimisation de WordPress pour
+   le SEO. Tout y passe : réglages, thème et extensions WordPress, gestion
+   de contenu, audit SEO, analyse de positionnement et bien entendu un
+   vrai accompagnement mensuel par des experts du CMS et la visibilité
+   dans les moteurs de recherche !
+
+   Notre expertise sur le SEO et WordPress :
+     * Optimiser son référencement WordPress, le livre
+     * Agence Web certifiée Adwords
+     * Agence web certifiée Analytics
+     * Agence web certifiée Google Partners
+
+   Retrouvez SeoMix sur :
+     * Twitter
+     * Facebook
+     * Instagram
+     * RSS
+
+   L'agence SeoMix en quelques chiffres :
+   18 594 mixeurs abonnés 257 publications 4993 commentaires 32 auteurs
+
+   Nos références clients :
+
+   Indépendants, TPE, PME, grands groupes
+   Ils nous font confiance pour le référencement naturel et WordPress
+     * Casal Sport
+     * Carla de Sousa Psychologue
+     * Kiabi
+     * APHP
+     * Radio France
+     * Abondance
+     * Petit Bag
+     * Dassault Aviation
+
+   Retrouvez ici le blog de Daniel Roch, consultant SEO à Nantes et
+   fondateur de l'agence SeoMix
+
+   © 2010 - 2019 SeoMix : WordPress & Référencement
+   Agence web nantaise spécialisée sur WordPress et le référencement
+   Propulsé par WordPress et Daniel Roch - Logo par Willy Bahuaud - Design
+   par Vincent Perhirin
+   Nos domaines d'expertises depuis 2010 : l'audit et l'accompagnement
+   SEO, le référencement naturel, la création de sites et le développement
+   WordPress !
+   Notre adresse : SeoMix, 19 avenue Louise Michel 44400 Rezé - 02 40 59
+   09 35 - contact@seomix.fr

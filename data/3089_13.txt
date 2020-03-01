@@ -1,0 +1,12 @@
+
+Neo Myth 64
+
+   Similar to the NEO SNES / SFC Myth above, Neoflash’s Nintendo 64
+   solution also relies on the same storage solution - Game Boy Advance
+   flash cards. Given there are much simpler alternatives on offer for the
+   same price or cheaper, avoid this outdated and overpriced solution.
+     * Storage: Game Boy Advance Flash Cards
+     * Pros: None
+     * Cons: Outdated, overpriced, requires other Neoflash hardware to run
+
+   Link: Buy NEO 64 Myth

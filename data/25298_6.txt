@@ -1,0 +1,23 @@
+
+   Pas de compte ?
+   ____________________
+   ____________________
+   Vous avez déjà un compte avec cette email.
+   ____________________
+   ____________________
+     * Faible
+     * Moyen
+     * Bon
+     * Excellent !
+
+   [showPassword.png] [showPassword_2.png]
+   ____________________
+   [ ] En créant un compte, j’ai conscience que bnbsitter.com est une
+   plateforme de mise en relation entre utilisateurs et sitters. J’accepte
+   les Conditions générales, la Politique de confidentialité et la
+   Politique de remboursement.
+   [ ] J’accepte de recevoir la super newsletter de Bnbsitter
+   (submit) Inscription
+
+   Ou créez un compte avec
+   [FacebookIcon.png] [TwitterIcon.png] [GoogleIcon.png]

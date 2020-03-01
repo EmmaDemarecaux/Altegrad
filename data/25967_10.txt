@@ -1,0 +1,380 @@
+   ^*
+
+   * Required information
+   [BUTTON Input] (not implemented)____
+
+   To submit a product bug or enhancement request, please visit the Bug
+   Reporter page.
+
+   Please read Apple's Unsolicited Idea Submission Policy before you send
+   us your feedback.
+   [ ]
+
+     * Global Nav Open Menu Global Nav Close Menu
+     * Apple Developer
+
+   Search Developer
+   Cancel
+     * Apple Developer
+     * Discover
+     * Design
+     * Develop
+     * Distribute
+     * Support
+     * Account
+     *
+
+   ____________________ (BUTTON) (BUTTON)
+   (BUTTON) Cancel
+   (BUTTON)
+
+   [ ]
+
+Safari
+
+   Open Menu Close Menu
+     * Overview
+     * Tools
+     * Features
+     * Extensions
+     * Preview
+     * Resources
+     * What’s New
+
+   Download Safari Technology Preview
+
+Reference, Videos, and Forums
+
+Guides and Sample Code
+
+   Get details on implementing web technologies with guides, reference,
+   and sample code.
+     * What’s New in Safari
+     * Safari App Extensions
+     * Apple Pay on the Web
+     * More Safari Documentation
+
+Discussion Forums
+
+   Ask questions and discuss a variety of web development topics with
+   Apple engineers and other developers.
+     * Apple Developer Forums
+
+Videos
+
+   Watch and learn from our engineers as they show how to bring the latest
+   web technologies to your websites on Safari.
+     * Watch Safari and Web Videos
+
+Featured Web Technologies
+
+Universal Links
+
+   Seamlessly link to content inside your app, or on your website in iOS
+   9. With universal links, you can always give users the most integrated
+   mobile experience, even when your app isn’t installed on their device.
+     * Universal Links
+
+Safari Extensions
+
+   Safari extensions are a powerful way to add new features to Safari.
+   They are built in Xcode with powerful native APIs and web technologies,
+   such as HTML5, CSS3, and JavaScript. Now you can distribute and sell
+   them through the Mac App Store.
+     * Safari App Extension Programming Guide
+     * Safari Extensions Development Guide
+     * Submit Your Extension
+     * Safari Extensions Gallery
+
+Smart App Banners
+
+   Make it easy for users to discover and download your app from a website
+   on iOS. With Safari’s Smart App Banner you can display a banner that
+   provides a direct link to your app on the App Store, or opens the app
+   if the user already has it installed. Smart App Banners integrate
+   seamlessly, have the same look and feel users know from the App Store,
+   and are easy to implement.
+     * Safari Web Content Guide
+
+Safari Push Notifications
+
+   Use the Apple Push Notifications Service to send notifications to your
+   website users, right on their Mac desktop — even when Safari isn’t
+   running. They display your website icon and notification text, which
+   users can click to go right to your website.
+     * Safari Push Notifications
+     * Certificates, Identifiers & Profiles
+
+WebKit
+
+   Introduced by Apple, WebKit is the most advanced rendering engine,
+   drawing the webpages you see in Safari on macOS and iOS.
+     * WebKit Open Source Project
+
+HTTP Live Streaming (HLS)
+
+   Deliver streaming media to an iOS app or HTML5-based website using an
+   ordinary web server.
+     * HTTP Live Streaming
+
+Next Download Safari Technology Preview
+
+Developer Footer
+
+   Developer
+    1. Safari
+    2. Resources
+
+   [ ]
+
+Discover
+
+   Open Menu Close Menu
+     * macOS
+     * iOS
+     * watchOS
+     * tvOS
+     * Safari and Web
+     * Games
+     * Business
+     * Education
+     * WWDC
+
+   [ ]
+
+Design
+
+   Open Menu Close Menu
+     * Human Interface Guidelines
+     * Resources
+     * Videos
+     * Apple Design Awards
+     * Fonts
+     * Accessibility
+     * Internationalization
+     * Accessories
+
+   [ ]
+
+Develop
+
+   Open Menu Close Menu
+     * Xcode
+     * Swift
+     * Swift Playgrounds
+     * TestFlight
+     * Documentation
+     * Videos
+     * Downloads
+
+   [ ]
+
+Distribute
+
+   Open Menu Close Menu
+     * Developer Program
+     * App Store
+     * App Review
+     * Mac Software
+     * Apps for Business
+     * Safari Extensions
+     * Marketing Resources
+     * Trademark Licensing
+
+   [ ]
+
+Support
+
+   Open Menu Close Menu
+     * Articles
+     * Developer Forums
+     * Feedback & Bug Reporting
+     * System Status
+     * Contact Us
+
+   [ ]
+
+Account
+
+   Open Menu Close Menu
+     * Certificates, Identifiers & Profiles
+     * App Store Connect
+
+   To view the latest developer news, visit News and Updates.
+   Copyright © 2019 Apple Inc. All rights reserved.
+   Terms of Use Privacy Policy License Agreements
+   #alternate alternate alternate alternate
+
+   [ ]
+
+     * 메뉴 열기 메뉴 닫기
+     * Apple Developer
+
+   검색
+   검색 닫기
+     * Apple Developer
+     * 둘러보기
+     * 디��
+     * 개발
+     * 배��
+     * 지�
+     * Account
+     *
+
+   ____________________ (BUTTON) (BUTTON)
+   (BUTTON) 검색 닫기
+
+   (BUTTON)
+
+사용� �터페�스 디�� 정보
+
+   iOS는 우수한 사용� �터페�스 디��� 대한 기대치를 높�는 한편 개발�가 �특하고 멋진 사용� 경험� 사용��게 선사할 수
+   있는 기회를 제공합니다. 앱� 사용성� 강화하고 매력� 높�기 위해 코딩� 시작하기 전� 다�과 같� 공통� 디�� 개��
+   고려해 보십시오. 멋진 �터페�스 디��� 위한 권장 사항� � 확�하려면 iOS Human Interface
+   Guidelines를 �어 보십시오.
+
+     * �호 작용성
+     * 가�성
+     * 그래픽
+     * 명확성
+
+콘�츠 형� 지정
+
+   iOS 장비 화면� 맞는 레�아웃� �성하십시오. 사용�는 기본 콘�츠를 확대/축소 �는 가로로 스��롤하지 않고 보아야 합니다.
+   � 알아보기
+
+터치 제어기
+
+   앱과� �호 작용� 쉽고 �연스럽게 �껴지�� 터치 �작� 위해 설계� UI 요소를 사용하십시오.
+   � 알아보기
+
+대� 탭하기
+
+   �가�으로 정확하게 탭할 수 있�� ��기가 최소 44x44���트� 제어기를 �성하십시오.
+   � 알아보기
+
+�스트 ��기
+
+   �스트 ��기는 최소 11���트 ���어야 �반�으로 보는 거리�서 확대하지 않고 선명하게 보입니다.
+   � 알아보기
+
+대비
+
+   �스트가 선명하게 보��� 서체 색�과 배경 간� 대비가 충분해야 합니다.
+   � 알아보기
+
+간격
+
+   �스트가 겹치지 않�� 하십시오. 행 높�와 문� 간격� 늘려 가�성� 향�할 수 있습니다.
+   � 알아보기
+
+고해��
+
+   모든 �미지 �산� 고해��(@2x) 버전� 제공하십시오. � 배 ��기가 아닌 �미지는 Retina 디스플레�� �릿하게
+   나타납니다.
+   � 알아보기
+
+왜곡
+
+   왜곡� 방지하기 위하여 항� ��한 가로 세로 비율로 �미지를 표시하십시오.
+   � 알아보기
+
+구성
+
+   제어기로 수정하는 콘�츠 가까�� 제어기를 배치하여 �기 쉬운 레�아웃� �성하십시오.
+   � 알아보기
+
+정렬
+
+   사용��게 정보가 어떻게 관련�어 있는지 보여 주�� �스트, �미지 � 단추를 정렬하십시오.
+   � 알아보기
+
+추가 디�� 리소스
+
+   비디오 프레젠테�션 � 멋진 App� 디��하는 것� 대한 설명서를 볼 수 있습니다.
+   � 알아보기
+
+Developer Footer
+
+   Developer
+    1. 멋진 App 디��하기
+    2. 사용� �터페�스 디�� 정보
+
+   [ ]
+
+둘러보기
+
+   Open Menu Close Menu
+     * macOS
+     * iOS
+     * watchOS
+     * tvOS
+     * Safari � Web(�문)
+     * 게임(�문)
+     * 엔터프��즈(�문)
+     * �육(�문)
+     * WWDC(�문)
+
+   [ ]
+
+디��
+
+   Open Menu Close Menu
+     * Human Interface Guidelines(�문)
+     * 리소스(�문)
+     * 비디오(�문)
+     * Apple 디�� 어워드(�문)
+     * 글꼴(�문)
+     * 접근성
+     * 국제화
+     * 액세서리 디��
+
+   [ ]
+
+개발
+
+   Open Menu Close Menu
+     * Xcode
+     * Swift
+     * Swift Playgrounds
+     * TestFlight
+     * 문서(�문)
+     * 비디오(�문)
+     * 다운로드(�문)
+
+   [ ]
+
+배��
+
+   Open Menu Close Menu
+     * Developer Program
+     * App Store
+     * App Review
+     * Mac 소프트웨어
+     * 비즈니스용 앱(�문)
+     * Safari 확장 프로그램(�문)
+     * 마케팅 지침
+     * �표 사용권(�문)
+
+   [ ]
+
+지�
+
+   Open Menu Close Menu
+     * 문서
+     * 개발� ��럼(�문)
+     * 피드백 & 버그 리��트(�문)
+     * 시스템 �태(�문)
+     * 문�하기
+
+   [ ]
+
+Account(�문)
+
+   Open Menu Close Menu
+     * ��서, �별� � 프로파�(�문)
+     * App Store Connect
+
+   최신 개발� 소�� 보려면 뉴스 � 업��트를 방문하십시오.
+   Copyright © 2019 Apple Inc. 모든 권리 보유.
+   약관(�문) 개�정보 취급방침 사용권 계약(�문)

@@ -1,0 +1,252 @@
+
+Boîte J’aime (obsolète)
+
+   Avec la publication de l’API Graph v2.3, le plugin Like Box est
+   obsolète.
+
+   N’hésitez pas à utiliser le nouveau plugin Page à la place.
+
+Commentaires
+
+Plugin Comments
+
+   Le plugin Comments permet aux personnes de commenter le contenu de
+   votre site à l’aide de leur compte Facebook.
+   Web
+
+   [11057105_987459824610301_214807669_n.jpg?_nc_ad=z-m&amp;_nc_cid=0&amp;
+   oh=0a2d2682a1e665528799a145302f13e7&amp;oe=5B83A8E9]
+
+Voir aussi
+
+Plugins Messenger
+
+   La plate-forme Messenger contient plusieurs plugins pour l’interaction
+   avec les bots et l’envoi de messages sur Messenger, prenant ainsi en
+   charge différentes options de messagerie. Pour obtenir une liste de ces
+   plugins avec leurs descriptions, consultez la section Découverte et
+   relance de la documentation relative à la plate-forme Messenger.
+   [tr?id=675141479195042&amp;ev=PageView&amp;noscript=1]
+   [tr?id=574561515946252&amp;ev=PageView&amp;noscript=1]
+   [tr?id=1754628768090156&amp;ev=PageView&amp;noscript=1]
+   REFRESH(0 sec):
+   file://localhost/blog/post/2018/02/20/3d-posts-facebook/?_fb_noscript=1
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate Facebook for Developers
+
+   [tr?id=675141479195042&amp;ev=PageView&amp;noscript=1]
+   [tr?id=574561515946252&amp;ev=PageView&amp;noscript=1]
+   [tr?id=1754628768090156&amp;ev=PageView&amp;noscript=1]
+   [hsts-pixel.gif?c=3.2.5]
+
+Actualités pour développeurs
+
+   Retour aux actualités
+
+Richer 3D Posts on Facebook and New Ways to Share
+
+   Aykud Gönen
+   Réalité virtuelle2018Publications 3D
+   20 février 2018
+
+   Actualités connexes
+
+OC5 Day 2 Highlights: Carmack’s Keynote, the Innovation Zone, and More
+
+   septembre 28 2018
+
+A New Era for VR Gaming and Entertainment: OC5 Day 1 Recap
+
+   septembre 26 2018
+
+OC5 Preview: First 18 Talks Revealed, Registration Now Open to Attend
+September 26 – 27 in San Jose
+
+   juillet 31 2018
+
+   People build communities by sharing things they care about — through
+   photos, videos and, increasingly, more immersive media types. We
+   recently introduced 3D posts, which let people see and interact with a
+   digital object from all sides in Facebook News Feed. It's instantly
+   responsive to scroll and touch, making content pop off the screen. It
+   also opens the door for a future where people can bring interesting
+   objects and experiences with them across AR, VR, mobile and web —
+   whether it's your favorite game and movie characters, architectural
+   models or museum artifacts, all the way to fully interactive scenes.
+
+   Today we're rolling out support for the industry-standard glTF 2.0 file
+   format for Facebook 3D posts. This means artists and creators can
+   easily share even richer, higher-quality 3D content on Facebook from an
+   even greater variety of sources.
+
+Richer 3D Posts
+
+   With glTF 2.0 compliance comes support for textures, lighting, and
+   realistic rendering techniques — so from rough to shiny, metallic to
+   soft, beautifully detailed 3D art can now come alive on Facebook. 3D
+   posts also support unlit workflows for photogrammetry and stylized art.
+
+   IFRAME:
+   https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebo
+   ok.com%2FLEGO%2Fposts%2F10155489097298403&width=350&show_text=true&appI
+   d=136941449737755&height=510
+
+More Ways to Share 3D Posts on Facebook
+
+   With glTF 2.0 support we're opening up even more ways to share 3D
+   content on Facebook from more creation tools and platforms. We're
+   introducing new Graph API endpoints with 3D Post support so developers
+   can build seamless 3D sharing into any app — letting people share
+   interactive objects or scenes directly to Facebook with just a click.
+   Using our new Open Graph tag, developers can enable 3D content from
+   their website to automatically appear in 3D when shared on Facebook.
+   And artists using 3D authoring software can directly drag/drop their 3D
+   files to Facebook to create a 3D post.
+
+   Our early partners have already implemented some exciting new ways to
+   share 3D content on Facebook. For instance, people can easily share 3D
+   memories captured with an Xperia XZ1 phone via Sony's 3D Creator app.
+   On the web, people can share objects directly from the Oculus Medium
+   web gallery and soon from Google's Poly as well. And 3D modeling
+   software Modo has added the ability to generate Facebook-ready files,
+   with support coming to more 3D programs soon.
+
+   IFRAME:
+   https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebo
+   ok.com%2Fsonymobile%2Fposts%2F10156168691733390&width=350&show_text=tru
+   e&appId=136941449737755&height=510
+
+   IFRAME:
+   https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebo
+   ok.com%2Fwayfair%2Fposts%2F1822787004410127&width=350&show_text=true&ap
+   pId=136941449737755&height=510
+
+A 3D Ecosystem Across Platforms
+
+   We hope these new tools will help more artists, developers and
+   businesses to share their creations, so people can discover and explore
+   rich 3D content right from their News Feed. We've already seen some
+   incredible interactive objects uploaded to Facebook today — including a
+   LEGO parrot, a Jurassic World dinosaur, a virtual living room from
+   Wayfair, a handbag scanned with a Sony phone, and the new Magic Archer
+   character in Clash Royale by Supercell. People can enjoy this content
+   in News Feed, or bring it into Facebook Spaces to share with friends in
+   VR.
+
+   IFRAME:
+   https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebo
+   ok.com%2FJurassicWorld%2Fposts%2F1760208700690672&width=350&show_text=t
+   rue&appId=136941449737755&height=510
+
+   IFRAME:
+   https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebo
+   ok.com%2FClashRoyale%2Fposts%2F1883737145031242&width=350&show_text=tru
+   e&appId=136941449737755&height=510
+
+   In the future, we envision a seamless digital world where people can
+   share immersive experiences and objects like these across VR, AR and
+   Facebook News Feed. To get there, we'll work on supporting even higher
+   quality 3D models, enabling interactive animations and bringing 3D
+   content into the real world using AR. This is only the beginning, and
+   we look forward to seeing the ecosystem of 3D content grow on Facebook
+   as people, developers and artists contribute their creativity.
+   S’abonner à Actualités des développeurs
+   (1) Voir commentaires
+
+   Actualités connexes
+   Réalité virtuelleOculus Connect
+
+   septembre 28 2018
+   Réalité virtuelleOculus Connect
+
+   septembre 26 2018
+   Réalité virtuelleOculus Connect
+
+   juillet 31 2018
+   Réalité augmentéeRéalité virtuelle
+
+   juillet 31 2019
+   Réalité augmentéeProgrammes
+
+   juillet 09 2019
+   Réalité augmentéeRéalité virtuelle
+
+   juin 20 2019
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate Facebook for Developers
+
+   [hsts-pixel.gif?c=3.2.5]
+
+   DocumentationOutilsAssistance
+   ____________________
+   Connexion
+   Social Plugins
+     * Commentaires
+     * Commentaires intégrés
+     * Publications intégrées
+     * Vidéos intégrées
+     * Plugin Group
+     * Bouton J’aime
+     * Plugin Page
+     * Plugin Citation
+     * Bouton Enregistrer
+     * Bouton Partager
+     * Points de terminaison oEmbed
+     * Sites pour enfants
+     * Questions/réponses
+     * Obsolescence
+
+Social Plugins
+
+   Voyez ce que vos amis Facebook aiment, partagent ou commentent sur le
+   web.
+
+* Plugin Group – Nouveau !
+
+• Bouton Enregistrer
+
+• J’aime, Partager, Envoyer et Citation
+
+• Publications et lecteur vidéo intégrés
+
+• Plugin Page
+
+• Commentaires
+
+• Voir aussi – Plugins Messenger
+
+   Ressources supplémentaires :
+   Questions/réponses sur les Social Plugins | Informations sur les
+   produits | Sites pour enfants | Liste de pointage pour le partage
+
+Plugin Group
+
+Plugin Group
+
+   Grâce au plugin Group, il est possible de rejoindre votre groupe
+   Facebook depuis un lien contenu dans un e-mail ou sur une page web.
+   E-mailWeb
+
+Bouton Enregistrer
+
+Bouton Enregistrer
+
+   Le bouton Enregistrer permet d’enregistrer des articles ou des services
+   dans une liste privée sur Facebook, de les partager avec des amis et de
+   recevoir les notifications associées.
+   Web
+
+J’aime, Partager, Envoyer et Citation
+
+Plugin Citation
+
+   Le plugin Citation permet aux gens de sélectionner du texte depuis
+   votre page et de l’ajouter à leur partage afin qu’ils puissent raconter
+   une histoire plus expressive.
+   Web

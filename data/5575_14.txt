@@ -1,0 +1,24 @@
+
+   Learn everything you need to know about creating your first Chocolatey
+   Package.
+   Start Learning
+
+Signup for the Newsletter!
+
+   ____________________
+   ____________________
+   (BUTTON) Subscribe
+
+   Be the first to know about upcoming features, security releases, and
+   news about Chocolatey.
+
+Overview
+
+     * About
+     * Getting Started Guide
+     * Why Chocolatey
+     * How Chocolatey Works
+     * Security
+     * Kickstarter
+     * Partner
+     * Customer Stories

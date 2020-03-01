@@ -1,0 +1,12 @@
+
+Suivez-nous
+
+   IFRAME:
+   //www.facebook.com/v2.6/plugins/page.php?adapt_container_width=true&con
+   tainer_width=300&width=300&height=750&hide_cover=false&href=https%3A%2F
+   %2Fwww.facebook.com%2Fhttps%3A%2F%2Fwww.facebook.com%2FArr%25C3%25AAter
+   -de-fumer-ensemble-126041514083420%2F&locale=fr_FR&sdk=joey&show_facepi
+   le=true&show_posts=false&small_header=false
+
+   Copyright © 2014. All rights reserved.
+   ↑ Back to top

@@ -1,0 +1,126 @@
+
+   1. En tant qu’utilisateur du site « Comment Réussir avec le web » («
+   Utilisateur »), vous êtes informé dans ce cadre et dans le respect de
+   la loi n° 78-17 du 6 janvier 1978 modifiée, qu’un ou plusieurs cookies
+   peuvent s’installer automatiquement sur votre logiciel de navigation.
+   Le cookie est un bloc de données qui sert à enregistrer des
+   informations relatives à l’utilisateur.
+
+   2. Ces cookies sont déposés ou lus sans recueillir votre consentement
+   préalable dès lors que ces cookies :
+     * Ont pour finalité exclusive de permettre, ou de faciliter la
+       communication par voie électronique ;
+     * Sont strictement nécessaires à la fourniture du service demandé par
+       l’Utilisateur ;
+     * Mesurent l’audience en respectant les conditions suivantes :
+          + Les Utilisateurs sont informés,
+          + Les Utilisateurs peuvent s'opposer à tout moment,
+          + Les données collectées ne sont pas recoupées avec d'autres
+            traitements,
+          + Le cookie déposé ne sert qu'à la production de statistiques
+            anonymes et ne permet pas le suivi de la navigation sur
+            différents sites,
+          + Le cookie n’est pas conservé au-delà de 13 mois et n’est pas
+            prorogé lors des nouvelles visites,
+          + Les données de fréquentation brutes ne sont pas associées à un
+            identifiant,
+          + Il n’y a pas de géolocalisation par l'utilisation de l'adresse
+            IP.
+
+   3. En l’occurrence, il s’agit pour les cookies ayant pour unique
+   finalité de permettre ou faciliter la communication par voie
+   électronique et les cookies strictement nécessaires à la fourniture
+   d'un service expressément demandé par l'utilisateur, des cookies
+   suivants :
+     * Le cookie « laravel_session » pour permettre de reconstruire le
+       jeton de session de l’utilisateur qui répond aux questionnaires du
+       site. Cette valeur est unique pour chaque utilisateur et change à
+       chaque visite sur le site lorsque sa session est expirée. Cette
+       valeur permet de mettre en cache les pages visitées de
+       l’utilisateur. Ce cookie collecte les données suivantes de
+       l’utilisateur : données de l'utilisateur en base de données, afin
+       de retrouver tous les questionnaires auxquels il a déjà répondu et
+       l'état d'avancement des réponses ;
+     * Le cookie user_id pour retrouver en base de données tous les
+       questionnaires déjà remplis de l’utilisateur connecté via un
+       identifiant unique pour chaque utilisateur. Ce cookie collecte les
+       données suivantes de l’utilisateur : l’identifiant unique pour
+       l’utilisateur connecté.
+
+   Le paramétrage du logiciel de navigation permet d’informer de la
+   présence d’un ou plusieurs cookies et éventuellement, de la refuser.
+   L’utilisateur peut, s’il le souhaite, activer ou désactiver
+   l’utilisation de cookies en sélectionnant les paramètres appropriés de
+   son logiciel de navigation. Généralement, ce paramètre se retrouve dans
+   les onglets « Outils », « Paramètres ».
+
+   Il n’est pas possible d’assurer une information détaillée et à jour de
+   ces éléments de paramétrage qui sont sous le seul contrôle exclusif et
+   l’autorité des éditeurs des logiciels de navigation. A titre de
+   renseignements, les Utilisateurs peuvent disposer d’informations
+   complémentaires :
+     * De la part des éditeurs de leur logiciel de navigation sur leur
+       site internet ;
+     * De manière plus générale sur le site de la CNIL à l’adresse
+       www.cnil.fr.
+
+   L’Utilisateur est informé qu’une telle désactivation pourrait empêcher
+   partiellement ou totalement l’utilisation de certaines fonctionnalités
+   du site « Comment Réussir avec le web ».
+
+   4. Quant aux cookies de mesure d’audience, il s’agit du cookie Piwik
+   mis en œuvre en suivant les recommandations de la CNIL et qui répond
+   donc aux conditions suivantes :
+     * Vous êtes informés de l’émission de ce cookie traçant votre
+       activité aux fins de savoir quelles pages sont consultées et
+       quelles fonctions sont utilisées. Pour ce faire, le cookie collecte
+       les données suivantes :
+          + Pour chaque connexion, le système enregistre : L'activation ou
+            non du cookie de mesure d'audience – Les données de navigation
+            (lorsque le cookie est activé) ;
+          + Pour chaque consultation de page, le système historise les
+            données de navigation : Sites de provenance, site de
+            destination, pages consultées sur le site, durée de session
+            sur le site, périphérique utilisé, navigateur, heure de
+            visite, pays d’origine.
+     * Vous pouvez vous opposer à tout moment à ce cookie (cf. lien
+       ci-dessus),
+     * Les données collectées ne sont pas recoupées avec d'autres
+       traitements,
+     * Les statistiques étant générées et agrégées sans lien avec
+       l’Utilisateur, le cookie déposé ne sert qu'à la production de
+       statistiques anonymes et ne permet pas le suivi de la navigation
+       sur différents sites,
+     * Le cookie n’est pas conservé au-delà de 13 mois et n’est pas
+       prorogé lors des nouvelles visites,
+     * Les données de fréquentation brutes ne sont pas associées à un
+       identifiant,
+     * Il n’y a pas de géolocalisation par l'utilisation de l'adresse IP.
+
+   Pour le traceur de mesure d’audience, l’Utilisateur peut s’opposer à
+   tout moment sans conséquence sur l’utilisation des fonctionnalités du
+   site en sélectionnant "S’opposer" dans le bandeau "Activation des
+   cookies" ci-dessus.
+
+   5. L’Utilisateur dispose d’un droit d’accès, de retrait et de
+   modification des Données à caractère personnel communiquées par le
+   biais des cookies dans les conditions indiquées en article 10 «
+   Modalités d’exercice des droits personnels auprès de l’Afnic » du
+   document « Vos données ».
+
+     * Vos données
+     * |
+     * Cookies
+     * |
+     * Infos éditeurs
+     * |
+     * C.G.U
+     * |
+     * Contact
+
+     *
+     *
+     *
+     *
+     *
+     *

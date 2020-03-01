@@ -1,0 +1,52 @@
+
+HxC2001
+
+   The incredibly versatile and oddly named HxC2001 is a direct
+   replacement for just about any floppy disk drive. By simply hijacking a
+   system’s floppy disk cable, the device can pretend to be a connected
+   disk drive loading floppy images from SD card. The device also have a
+   built-in display to show which image is currently present in memory,
+   along with hardware buttons to switch between what’s available.
+
+   With a wide range of compatible computers and devices (and musical
+   keyboards too), the HxC2001 is an incredible multi-system solution to
+   floppy disk loading. Furthermore, some of the compatible systems have
+   menu-interfaces at the ready, allowing you to choose your desired game
+   images through the computer itself.
+
+   Compatible Systems:
+     * Acorn A3000
+     * Acorn BBC
+     * ACT/Apricot
+     * Amstrad CPC6128/CPC6128+
+     * Atari ST
+     * CamputerLynx
+     * Commodore 64 + 1581
+     * Commodore Amiga (500/600/1000/1200)
+     * Dragon 32/64
+     * FM Towns II
+     * Kaypro 4-84
+     * MS-DOS PC
+     * MSX2
+     * NEC PC-6601/PC6601SR
+     * NEC PC88
+     * Oric+MicroDisk
+     * RML 380Z/480Z
+     * Robotron KC 85/X
+     * Sam Coupé
+     * Sharp x68000
+     * Sinclair ZX Spectrum +3
+     * Super Nintendo (Super Wildcard DX-SWC3201)
+     * Thomson TO8D MO5 + CD90-640
+     * TI99/4A
+     * TRS-80
+
+   The HxC2001 can be found in a wide range of shapes and sizes to help
+   fit inside your computer of choice. Furthermore it can be bought in a
+   variety of places, all of which the HxC2001 website has listed.
+     * Storage: SD Cards
+     * Pros: Incredible multi-system compatibility
+     * Cons: Same load times as a floppy disk, fiddly to use if software
+       isn’t available for your system of choice
+
+   Link: HxC2001 Official Website

@@ -1,0 +1,41 @@
+
+   https://hal.inria.fr/hal-01494235
+   Contributeur : Philippe Robert <>
+   Soumis le : jeudi 23 mars 2017 - 06:49:36
+   Dernière modification le : jeudi 21 mars 2019 - 14:46:08
+
+Lien texte intégral
+
+   arxiv
+
+Identifiants
+
+     * HAL Id : hal-01494235, version 1
+     * DOI : 10.1145/3078505.3078531
+     * ARXIV : 1701.00335
+
+Collections
+
+   INSMI | UPMC | LIP6 | INRIA | UNIV-SAVOIE | INRIA2017 | TDS-MACS | UGA
+   | INRIA-ROCQ | SORBONNE-UNIVERSITE | SU-SCIENCES
+
+Citation
+
+   Wen Sun, Véronique Simon, Sébastien Monnet, Philippe Robert, Pierre
+   Sens. Analysis of a Stochastic Model of Replication in Large
+   Distributed Storage Systems: A Mean-Field Approach. ACM Sigmetrics
+   2017- International Conference on Measurement and Modeling of Computer
+   Systems, Jun 2017, Urbana-Champaign, Illinois, United States.
+   pp.51--51, ⟨10.1145/3078505.3078531⟩. ⟨hal-01494235⟩
+
+Exporter
+
+   BibTeX TEI DC DCterms EndNote
+
+Partager
+
+Métriques
+
+   Consultations de la notice
+
+894

@@ -1,0 +1,211 @@
+
+Menu
+
+     * Présentation
+          + A propos du laboratoire...
+          + Rapport d’activité
+     * Equipes de recherche
+          + Département PEGASE
+               o Equipe Bioinformatique, Phylogénie et Génomique Evolutive
+               o Equipe Baobab
+               o Equipe Sexe et Evolution
+               o Equipe Statistique en Grande Dimension pour la Génomique
+               o Equipe Le Cocon
+          + Département Génétique, Interactions et évolution des génomes
+            (GINSENG)
+               o Equipe Eléments transposables, Evolution, Populations
+               o Equipe Génétique et Evolution des interactions
+                 Hôtes-Parasites
+               o Equipe Epigénétique et Formation du Zygote
+          + Département Ecologie Evolutive
+               o Equipe Evolution, Adaptation et Comportement
+               o Equipe Biodémographie Evolutive
+               o Equipe Ecoépidémiologie Evolutionniste
+               o Equipe Ecologie et Evolution des Populations
+               o Equipe Ecologie Quantitative et Evolutive des Communautés
+          + Département Biostatistiques et Modélisation pour la Santé et
+            l’environnement
+               o Equipe Biostatistiques Santé
+               o Equipe Evaluation et Modélisation des Effets
+                 Thérapeutiques
+               o Equipe Modélisation et Ecotoxicologie Prédictives
+     * Production
+          + Publications
+          + Ouvrages
+          + Thèses / HDR
+     * Logiciels et bases de données
+     * Animations scientifiques
+          + Séminaires
+               o 2019
+                    # Janvier
+                    # Février
+                    # Mars
+                    # Avril
+                    # Mai
+                    # Juin
+                    # Septembre
+                    # Octobre
+                    # Novembre
+                    # Décembre
+               o 2018
+                    # Janvier
+                    # Février
+                    # Avril
+                    # Mai
+                    # Juin
+                    # Juillet
+                    # Septembre
+                    # Octobre
+                    # Novembre
+                    # Décembre
+               o 2017
+                    # Janvier
+                    # Février
+                    # Mars
+                    # Avril
+                    # Mai
+                    # Juin
+                    # Septembre
+                    # Octobre
+                    # Novembre
+                    # Décembre
+               o 2016
+                    # Janvier
+                    # Février
+                    # Mars
+                    # Avril
+                    # Mai
+                    # Juin
+                    # Septembre
+                    # Octobre
+                    # Novembre
+                    # Décembre
+               o 2015
+                    # Janvier
+                    # Février
+                    # Mars
+                    # Avril
+                    # Mai
+                    # Juin
+                    # Juillet
+                    # Septembre
+                    # Octobre
+                    # Novembre
+                    # Décembre
+               o 2014
+                    # Janvier
+                    # Février
+                    # Mars
+                    # Avril
+                    # Mai
+                    # Juin
+                    # Juillet
+                    # Septembre
+                    # Octobre
+                    # Novembre
+                    # Décembre
+               o 2013
+                    # Janvier
+                    # Février
+                    # Mars
+                    # Avril
+                    # Mai
+                    # Juin
+                    # Septembre
+                    # Octobre
+                    # Novembre
+                    # Décembre
+               o 2012
+                    # Janvier
+                    # Février
+                    # Mars
+                    # Avril
+                    # Mai
+                    # Juin
+                    # Juillet
+                    # Septembre
+                    # Octobre
+                    # Novembre
+                    # Décembre
+               o 2011
+                    # Janvier
+                    # Février
+                    # Mars
+                    # Avril
+                    # Mai
+                    # Juin
+                    # Septembre
+                    # Octobre
+                    # Novembre
+                    # Décembre
+               o 2010
+                    # Janvier
+                    # Février
+                    # Mars
+                    # Avril
+                    # Mai
+                    # Juin
+                    # Septembre
+                    # Octobre
+                    # Novembre
+                    # Décembre
+               o 2009
+                    # Janvier
+                    # Février
+                    # Mars
+                    # Avril
+                    # Mai
+                    # Juin
+                    # Juillet
+                    # Septembre
+                    # Octobre
+                    # Novembre
+                    # Décembre
+               o 2008
+                    # Janvier
+                    # Février
+                    # Mars
+                    # Avril
+                    # Mai
+                    # Juin
+                    # Juillet
+                    # Septembre
+                    # Octobre
+                    # Novembre
+                    # Décembre
+               o 2007
+                    # Juin
+                    # Juillet
+                    # Août
+                    # Septembre
+                    # Octobre
+                    # Novembre
+                    # Décembre
+          + Groupe de travail NGS
+          + Groupe de travail "Statistique bayésienne"
+          + RLyon
+          + Groupe de travail geno-pheno
+          + Groupe de travail "Outils moléculaires en écologie
+            comportementale et génétique des populations"
+     * Enseignement
+     * Stages
+     * Pôles techniques
+          + Pôle informatique
+          + Pôle bio-technologique
+          + Pôle administratif
+          + Entretien des locaux
+     * Sécurité
+     * Liens
+     * PRABI
+     * Projets en cours
+          + Europe
+               o CRESIM
+                    # Protocol
+                    # Diaporama
+                    # Priomedchild call
+                    # Final Report
+                    # Publications
+          + ANR
+               o Convergenomix
+               o Bigtooth
+          + Autres

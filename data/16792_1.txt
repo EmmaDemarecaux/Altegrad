@@ -1,0 +1,108 @@
+   User-agent: * Disallow: /catalog/admin Disallow: /download Disallow:
+   /cache Disallow: /segments Allow: /templates/gnimmo/catalog/images/
+   Disallow: /templates Disallow: /tmp Disallow: /partenaires Disallow:
+   /log Disallow: /flex Disallow: /test Disallow: /catalog/catalogues/
+   Disallow: /*.pdf Disallow: *.pdf Disallow: /catalog/download/ Disallow:
+   /catalog/font/ Disallow: /catalog/gtk_update/ Disallow: /catalog/img/
+   Disallow: /catalog/includes/ Disallow: /catalog/pub/ Disallow:
+   /catalog/temp/ Disallow: /catalog/test/ Disallow: /catalog/video/
+   Disallow: /catalog/mentions.php Disallow: /catalog/rss.php Disallow:
+   /catalog/products_print.php Disallow: /catalog/diaporama.php Disallow:
+   /catalog/rss.php Disallow: *action=update_search* Disallow: *ajax.php*
+   Disallow: *jqueryajaxagent* Disallow: *advanced_search_result*
+   Disallow: *sort=* Disallow: *nego_id* Disallow: *simul_credit.php*
+   Disallow: *cPath* Disallow: *manufacturers* Disallow: *products_print*
+   Disallow: *search_requests.php* User-agent: DomainCrawler/3.0 disallow:
+   / User-agent: SEOkicks Disallow: / User-agent: TurnitinBot Disallow: /
+   User-agent: ConveraCrawler Disallow: / User-agent: QuepasaCreep
+   Disallow: / User-agent: Jetbot Disallow: / # Deny Soso spider in the
+   site User-agent: Soso Disallow: / # Deny Yandex spider in the site
+   User-agent: Yandex Disallow: / User-agent: Qwantify Disallow: /
+   Sitemap: https://www.guy-hoquet.com/catalog/sitemaps.php
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TB69BPP
+
+   [tr?id=1309560259090818&ev=PageView&noscript=1]
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-K2HDTL5
+
+     * Entreprises et commerces
+     *
+          +
+          +
+          +
+          +
+     * Devenir franchisé
+     * Le Groupe
+     * Contactez-nous
+     * Accédez à myguyhoquet.com
+
+     *
+          +
+          +
+          +
+          +
+
+   Le réseau immobilier Guy Hoquet France vous propose ses services
+   immobiliers
+   [rond_logo_bleu.png] Trouver mon agence (BUTTON) Toggle navigation
+   MENU
+     * Acheter
+     * Louer
+     * Vendre
+     * Faire gérer
+     * Nous rejoindre
+     * Les actualités
+
+     *
+     *
+     *
+     *
+
+     * Le Groupe
+     * Accédez à myguyhoquet.com
+     * Contactez-nous
+     * Devenir franchisé
+     * Entreprises et commerces
+
+   (BUTTON) Toggle navigation
+   [arrondie.png] [arrondie2.png]
+     * Acheter
+     * Louer
+     * Vendre
+     * Faire gérer
+     * Nous rejoindre
+     * Les actualités
+     * (BUTTON) Trouver mon agence (BUTTON) Nous Contacter
+       (BUTTON)
+     * Mon compte
+     *
+     * Menu
+       Nous rejoindre
+       Les actualités
+       Contactez-nous
+       Le Groupe
+       Devenir franchisé
+       Entreprises et commerces
+
+    1.
+
+     Nos agences immobilières
+
+                           Nos agences immobilières
+
+   [corner_left_L.gif] Rechercher une agence [corner_right_L.gif]
+
+   separator
+   Nom de l'agence ____________________
+   Ville/C.P./Dépt. ____________________
+   Rechercher
+   separator
+
+   Guy Hoquet AGEN
+   25 boulevard de la République
+   47000 AGEN
+   Téléphone : 05.53.47.43.94
+   Accéder au site agence
+   Contactez-nous
+   Consulter nos annonces immobilières
+   Guy Hoquet AGEN

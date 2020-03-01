@@ -1,0 +1,519 @@
+   [tr?id=188365081922073&ev=PageView&noscript=1]
+
+   Aller au :
+   Menu Contenu
+
+   MENU
+   Toute la France (BUTTON) Changer
+   Toute la France (BUTTON) Changer
+     * Infos
+     * Sports
+     * Culture
+     * Vie quotidienne
+
+   Le direct radio
+   Le direct
+   Liste de nos stations Stations locales
+   ____________________ Recherche un contenu (BUTTON) Recherche
+   Ferme le champ de recherche
+
+     * croix de fermeture
+     * Toute la France (BUTTON) Changer
+     * Infos
+     * Sports
+     * Culture
+     * Vie quotidienne
+
+     * emissions
+       Découvrir les émissions
+     * Écouter le direct radio
+       Mettre en pause le direct
+     * icône stations
+       Trouver ma station locale
+
+   Retour
+
+     * Toute la France
+     * Auvergne-Rhône-Alpes
+     * Bourgogne Franche-Comté
+     * Bretagne
+     * Centre-Val de Loire
+     * Corse
+     * Grand Est
+     * Hauts-de-France
+     * Île-de-France
+     * Normandie
+     * Nouvelle-Aquitaine
+     * Occitanie
+     * Pays de la Loire
+     * Provence-Alpes-Côte d'Azur
+
+   Changer de région
+   Auvergne-Rhône-Alpes
+     * Toute la région
+     * Ain
+     * Allier
+     * Ardèche
+     * Cantal
+     * Drôme
+     * Haute-Loire
+     * Haute-Savoie
+     * Isère
+     * Loire
+     * Puy-de-Dôme
+     * Rhône
+     * Savoie
+
+   Changer de région
+   Bourgogne Franche-Comté
+     * Toute la région
+     * Côte-d'Or
+     * Doubs
+     * Haute-Saône
+     * Jura
+     * Nièvre
+     * Saône-et-Loire
+     * Territoire de Belfort
+     * Yonne
+
+   Changer de région
+   Bretagne
+     * Toute la région
+     * Côtes-d'Armor
+     * Finistère
+     * Ille-et-Vilaine
+     * Morbihan
+
+   Changer de région
+   Centre-Val de Loire
+     * Toute la région
+     * Cher
+     * Eure-et-Loir
+     * Indre
+     * Indre-et-Loire
+     * Loiret
+     * Loir-et-Cher
+
+   Changer de région
+   Corse
+     * Toute la région
+     * Corse-du-Sud
+     * Haute-Corse
+
+   Changer de région
+   Grand Est
+     * Toute la région
+     * Ardennes
+     * Aube
+     * Bas-Rhin
+     * Haute-Marne
+     * Haut-Rhin
+     * Marne
+     * Meurthe-et-Moselle
+     * Meuse
+     * Moselle
+     * Vosges
+
+   Changer de région
+   Hauts-de-France
+     * Toute la région
+     * Aisne
+     * Nord
+     * Oise
+     * Pas-de-Calais
+     * Somme
+
+   Changer de région
+   Île-de-France
+     * Toute la région
+     * Essonne
+     * Hauts-de-Seine
+     * Paris
+     * Seine-et-Marne
+     * Seine-Saint-Denis
+     * Val-de-Marne
+     * Val-d'Oise
+     * Yvelines
+
+   Changer de région
+   Normandie
+     * Toute la région
+     * Calvados
+     * Eure
+     * Manche
+     * Orne
+     * Seine-Maritime
+
+   Changer de région
+   Nouvelle-Aquitaine
+     * Toute la région
+     * Charente
+     * Charente-Maritime
+     * Corrèze
+     * Creuse
+     * Deux-Sèvres
+     * Dordogne
+     * Gironde
+     * Haute-Vienne
+     * Landes
+     * Lot-et-Garonne
+     * Pyrénées-Atlantiques
+     * Vienne
+
+   Changer de région
+   Occitanie
+     * Toute la région
+     * Ariège
+     * Aude
+     * Aveyron
+     * Gard
+     * Gers
+     * Haute-Garonne
+     * Hautes-Pyrénées
+     * Hérault
+     * Lot
+     * Lozère
+     * Pyrénées-Orientales
+     * Tarn
+     * Tarn-et-Garonne
+
+   Changer de région
+   Pays de la Loire
+     * Toute la région
+     * Loire-Atlantique
+     * Maine-et-Loire
+     * Mayenne
+     * Sarthe
+     * Vendée
+
+   Changer de région
+   Provence-Alpes-Côte d'Azur
+     * Toute la région
+     * Alpes-de-Haute-Provence
+     * Alpes-Maritimes
+     * Bouches-du-Rhône
+     * Hautes-Alpes
+     * Var
+     * Vaucluse
+
+   Retour
+     * Toute la France
+     * Auvergne-Rhône-Alpes
+       Changer de région
+       Auvergne-Rhône-Alpes
+          + Toute la région
+          + Ain
+          + Allier
+          + Ardèche
+          + Cantal
+          + Drôme
+          + Haute-Loire
+          + Haute-Savoie
+          + Isère
+          + Loire
+          + Puy-de-Dôme
+          + Rhône
+          + Savoie
+     * Bourgogne Franche-Comté
+       Changer de région
+       Bourgogne Franche-Comté
+          + Toute la région
+          + Côte-d'Or
+          + Doubs
+          + Haute-Saône
+          + Jura
+          + Nièvre
+          + Saône-et-Loire
+          + Territoire de Belfort
+          + Yonne
+     * Bretagne
+       Changer de région
+       Bretagne
+          + Toute la région
+          + Côtes-d'Armor
+          + Finistère
+          + Ille-et-Vilaine
+          + Morbihan
+     * Centre-Val de Loire
+       Changer de région
+       Centre-Val de Loire
+          + Toute la région
+          + Cher
+          + Eure-et-Loir
+          + Indre
+          + Indre-et-Loire
+          + Loiret
+          + Loir-et-Cher
+     * Corse
+       Changer de région
+       Corse
+          + Toute la région
+          + Corse-du-Sud
+          + Haute-Corse
+     * Grand Est
+       Changer de région
+       Grand Est
+          + Toute la région
+          + Ardennes
+          + Aube
+          + Bas-Rhin
+          + Haute-Marne
+          + Haut-Rhin
+          + Marne
+          + Meurthe-et-Moselle
+          + Meuse
+          + Moselle
+          + Vosges
+     * Hauts-de-France
+       Changer de région
+       Hauts-de-France
+          + Toute la région
+          + Aisne
+          + Nord
+          + Oise
+          + Pas-de-Calais
+          + Somme
+     * Île-de-France
+       Changer de région
+       Île-de-France
+          + Toute la région
+          + Essonne
+          + Hauts-de-Seine
+          + Paris
+          + Seine-et-Marne
+          + Seine-Saint-Denis
+          + Val-de-Marne
+          + Val-d'Oise
+          + Yvelines
+     * Normandie
+       Changer de région
+       Normandie
+          + Toute la région
+          + Calvados
+          + Eure
+          + Manche
+          + Orne
+          + Seine-Maritime
+     * Nouvelle-Aquitaine
+       Changer de région
+       Nouvelle-Aquitaine
+          + Toute la région
+          + Charente
+          + Charente-Maritime
+          + Corrèze
+          + Creuse
+          + Deux-Sèvres
+          + Dordogne
+          + Gironde
+          + Haute-Vienne
+          + Landes
+          + Lot-et-Garonne
+          + Pyrénées-Atlantiques
+          + Vienne
+     * Occitanie
+       Changer de région
+       Occitanie
+          + Toute la région
+          + Ariège
+          + Aude
+          + Aveyron
+          + Gard
+          + Gers
+          + Haute-Garonne
+          + Hautes-Pyrénées
+          + Hérault
+          + Lot
+          + Lozère
+          + Pyrénées-Orientales
+          + Tarn
+          + Tarn-et-Garonne
+     * Pays de la Loire
+       Changer de région
+       Pays de la Loire
+          + Toute la région
+          + Loire-Atlantique
+          + Maine-et-Loire
+          + Mayenne
+          + Sarthe
+          + Vendée
+     * Provence-Alpes-Côte d'Azur
+       Changer de région
+       Provence-Alpes-Côte d'Azur
+          + Toute la région
+          + Alpes-de-Haute-Provence
+          + Alpes-Maritimes
+          + Bouches-du-Rhône
+          + Hautes-Alpes
+          + Var
+          + Vaucluse
+     *
+
+     * Accueil
+     * Nouvelle-Aquitaine
+     * Dordogne
+     * Infos
+     * Éducation
+     * Les écoles alternatives en Dordogne : "On n'est pas fâché avec
+       l'éducation nationale"
+
+   Éducation
+
+Les écoles alternatives en Dordogne : "On n'est pas fâché avec l'éducation
+nationale"
+
+   Mercredi 28 août 2019 à 11:47 -
+
+
+    Par Charlotte Jousserand, France Bleu Périgord
+
+     *
+     *
+     *
+     *
+
+   L'école privée des Girafons à Champs-Romains s'agrandit pour sa
+   deuxième rentrée. Cette école créée par des parents pratique une
+   pédagogie alternative avec notamment la communication non-violente.
+   Ecole - illustration. Ecole - illustration. © Radio France
+
+   Champs-Romain, France
+   ____________________
+
+   Interview de Manuella Eon, coordinatrice de l'école Les Girafons à
+   Champs-Romain
+   Copier
+
+   L'école des Girafons s'agrandit pour sa deuxième rentrée à
+   Champs-Romains. Cette école montée par des parents d'élèves met en
+   avant une pédagogie alternative, inspirée notamment de Maria
+   Montessori. Les enfants et les trois instituteurs sont installés dans
+   les locaux de l'ancienne école primaire qui a fermé à Champs-Romains.
+
+   Selon Manuela Éon, coordinatrice de l'école des Girafons, "les parents
+   ne sont pas fâchés avec l'éducation nationale" mais souhaitent plutôt
+   "dans une posture d'une offre nouvelle qui pourrait être complémentaire
+   à l'éducation nationale".
+
+   L'école des Girafons s'engage à "transmettre tous les apprentissages
+   fondamentaux a l'équivalent CM2" avant un retour possible au collège
+   classique mais il y a une différence claire en terme "de positionnement
+   de l'adulte", affirme Manuela Éon.
+
+   La scolarité au sein de l'école des Girafons coûte entre 180 et 200
+   euros par mois.
+   à lire aussi Dordogne : une nouvelle école associative ouvre à la
+   rentrée à la Douze
+
+   Mots-clés :
+     * Dordogne
+     * école
+     * enfants
+     * parents
+     * Périgord
+     * rentrée scolaire
+
+   Charlotte JousserandFrance Bleu Périgord
+     *
+
+   Sur le même sujet
+   ÉducationDordogne : le ministre de l'éducation nationale Jean-Michel
+   Blanquer attendu à ExcideuilÉducationDordogne : une nouvelle école
+   associative ouvre à la rentrée à la DouzeÉducationUne grève mais pas de
+   perturbation pour le bac en Dordogne
+   Fil info
+     * 22:33
+       Italie : un accord trouvé entre le Mouvement 5 étoiles et le centre
+       gauche pour former un gouvernement
+       France Bleu
+     * 22:03
+       Somme : un tour des Hauts-de-France en fauteuil pour dépasser la
+       maladie
+       France Bleu Picardie
+     * 21:14
+       Une voiture retrouvée dans le canal à Jarville-la-Malgrange
+       France Bleu Sud Lorraine
+     * 21:12
+       Accous : après un an et demi de soins, le gypaète barbu reprend son
+       envol
+       France Bleu Béarn
+     * 21:06
+       Vienne : une femme tuée d'un coup de fusil, son ex-compagnon en
+       garde à vue
+       France Bleu Poitou
+     * 21:02
+       Après les Jeudis de Nîmes, retour à l'inquiétude pour des
+       commerçants de l'Ecusson
+       France Bleu Gard Lozère
+     * 20:48
+       Jean-Michel Blanquer annonce une hausse des salaires des
+       professeurs de 300 euros en moyenne en 2020
+       France Bleu
+     * 20:45
+       Creuse : cet été de nombreux établissements scolaires se sont
+       refaits une beauté
+       France Bleu Creuse
+
+   Tout le fil info
+   <1 sur 3>
+
+   Services France Bleu
+   le traffic avec France Bleu
+
+   Le trafic
+   Tout savoir sur la circulation de la région
+
+     *
+     * Radio France
+     * France Inter
+     * franceinfo
+     * France Culture
+     * France Musique
+     * Fip
+     * Mouv
+     * Plus [ ]
+          + Un Monde de Radio France
+          + le Médiateur
+          + les Éditions
+          + Maison de la Radio
+
+   logo_france_bleu
+     * Nous contacter
+     * Charte de modération
+     * Nos fréquences
+     * Nos podcasts
+     * Application mobile
+     * Newsletter
+
+   Les régions
+     * Auvergne-Rhône-Alpes
+     * Bourgogne Franche-Comté
+     * Bretagne
+     * Centre-Val de Loire
+     * Corse
+     * Grand Est
+     * Hauts-de-France
+     * Île-de-France
+     * Normandie
+     * Nouvelle-Aquitaine
+     * Occitanie
+     * Pays de la Loire
+     * Provence-Alpes-Côte d'Azur
+     * Toute la France
+
+   Suivez-nous
+     * Facebook
+     * Twitter
+     * Google Plus
+     * Dailymotion
+     * RSS
+
+   Espace presse
+     * Communiqués de presse
+     * Dossier de presse
+
+   Retrouvez France Bleu sur tous les supports
+
+   Télécharger l'application France Bleu
+   Apple Store Google Play
+   Retour Haut de page
+   Haut de page

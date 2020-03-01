@@ -1,0 +1,14 @@
+
+TP 4
+
+Mesure de la distance à M100
+
+   Galaxie © CEA/Dapnia
+   Galaxie © CEA/Dapnia
+
+   Ce TP permet d’apprendre comment il est possible de mesurer la distance
+   d’objets aussi lointains que des galaxies. La méthode employée est
+   celle qui fait appel aux propriétés des étoiles Céphéides. Un corrigé
+   est fourni.
+
+   Commandez le TP

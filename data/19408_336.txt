@@ -1,0 +1,16 @@
+
+   Guide d'achat des solutions de protection des postes de travail
+
+   Ce guide est conçu pour aider les entreprises à évaluer les solutions
+   de sécurité des terminaux. Il peut être utilisé par les membres de
+   l'équipe de réponse aux incidents et des opérations de sécurité
+   travaillant avec des outils de sécurité des points finaux sur une base
+   quotidienne. Il peut également être utilisé par les responsables
+   informatiques, les professionnels de la sécurité, les responsables de
+   la conformité et d’autres personnes pour évaluer leurs performances.
+   les capacités de l’entreprise en matière de cybersécurité, identifier
+   les lacunes dans la sécurité des terminaux et sélectionner les bons
+   produits pour combler ces lacunes.
+
+   [BUTTON Input] (not implemented)_____________
+   [Présentation du Livre Blanc...]

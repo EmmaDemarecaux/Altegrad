@@ -1,0 +1,8 @@
+
+   Prenez 2 minutes pour renseigner les informations sur votre véhicule et
+   vous. Les secours vous détecteront plus rapidement.
+   Cette étape n’est pas obligatoire en situation d’urgence.
+   step-2
+   02
+
+En cas d'urgence, pas de panique !

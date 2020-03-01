@@ -1,0 +1,14 @@
+
+Dreamcast IDE Modification
+
+   If you’re low on funds, skilled with a soldering iron, and desperate to
+   play Dreamcast games then read on. There is an incredibly complicated
+   and tricky method for attaching hard drives to the console by soldering
+   a female IDE connector to the console’s motherboard.
+
+   Given the difficulty and damage that can be done to your Dreamcast, we
+   recommend going for one of the alternatives above. If you’re curious
+   though, guides online explain the method rather well with what appears
+   to be decent results.
+
+   Link: Dreamcast IDE Modification Guide

@@ -1,0 +1,389 @@
+
+   Criteo logo
+   PRIVACY
+   Privacy Policy Website Privacy Policy Guidelines for Clients and
+   Publisher Partners Cookie Management Commerce Display Opt Out
+   LEGAL
+   Terms and Conditions Publisher Terms and Conditions Legal Mentions
+   Supply Partner Guidelines Advertising Guidelines Supported Platforms
+   POPULAR TOPICS
+   Retargeting Customer Acquisition Customer Targeting App Advertising
+   UK NOTICES
+   UK Modern Slavery Act Tax Strategy
+
+   (BUTTON) ×
+
+   (BUTTON) ×
+
+   Thanks for signing up for Criteo's newsletter, The Thread.
+
+   Look forward to regular updates on the current and future state of
+   retail, trends to prepare for, and innovation to watch in your inbox
+   each month.
+
+   (BUTTON) ×
+
+   There was an error signing up. Please make sure you are providing a
+   valid email address, then try again.
+
+   We use Cookies to enhance your experience on our website. By continuing
+   your navigation, you accept the placement and use of Cookies. To learn
+   more about Cookies or opt-out from these services please see
+   our privacy policy more information (BUTTON) Accept
+   #alternate alternate
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-M4Z343H
+
+   Open mobile menu
+   Criteo
+   (BUTTON) Get Started
+   Criteo
+     * Solutions
+          + For Marketers
+          + Get Noticed
+          + Get Traffic
+          + Get Sales
+          + For Brands
+          + Drive Sales
+          + For Retailers
+          + Increase Revenue
+     * Products
+          + Dynamic Retargeting
+               o App Retargeting
+               o Facebook Dynamic Ads
+          + Audience Match
+          + Customer Acquisition
+          + Sponsored Products for Brands
+          + Commerce Display for Brands
+          + Direct Bidder for Publishers
+     * Technology
+          + Criteo Platform
+          + AI Engine
+               o Dynamic Creative Optimization+
+               o Predictive Bidding
+               o Product Recommendations
+          + Criteo Shopper Graph
+     * Success Stories
+     * Resources
+          + Industry Reports
+          + Insights
+          + Webinars
+     * Blog
+
+   Search for: ____________________ search
+   Language dropdown icon
+     * Deutsch
+     * English
+     * Español
+     * Français
+     * Italiano
+     * Polski
+     * Português
+     * Pу��кий
+     * 한국어
+     * 中文
+     * 日本語
+
+   (BUTTON) My Account (BUTTON) Get Started
+
+   (BUTTON) My Account
+   (BUTTON) Search Search for: ____________________
+     * Solutions
+          + For Marketers
+          + Get Noticed
+          + Get Traffic
+          + Get Sales
+          + For Brands
+          + Drive Sales
+          + For Retailers
+          + Increase Revenue
+     * Products
+          + Dynamic Retargeting
+               o App Retargeting
+               o Facebook Dynamic Ads
+          + Audience Match
+          + Customer Acquisition
+          + Sponsored Products for Brands
+          + Commerce Display for Brands
+          + Direct Bidder for Publishers
+     * Technology
+          + Criteo Platform
+          + AI Engine
+               o Dynamic Creative Optimization+
+               o Predictive Bidding
+               o Product Recommendations
+          + Criteo Shopper Graph
+     * Success Stories
+     * Resources
+          + Industry Reports
+          + Insights
+          + Webinars
+     * Blog
+
+   COMPANYCAREERSINVESTORSNEWSEVENTSPARTNERS
+   Select your Language [English______]
+
+   Top Stories
+   Retail & Ecommerce
+   Product
+   Data
+   SMB Marketing
+
+Ad Tech Explained
+
+Top Stories
+
+Retail & Ecommerce
+
+Product
+
+Data
+
+SMB Marketing
+
+Explained: Data in the Criteo Engine
+
+     *
+
+INTRO
+       Start here
+     *
+
+VIDEO
+       Data in the Criteo Engine: Introduction | 0:50
+     *
+
+INTERACTIVE
+       Learn more about data in the Criteo Engine
+     *
+
+VIDEO
+       Using identity and interest data to determine shopper intent | 0:22
+     *
+
+VIDEO
+       How the Criteo Engine predicts shopper behavior | 0:29
+     *
+
+VIDEO
+       Identity and interest data in action | 0:31
+     *
+
+VIDEO
+       Protecting shopper privacy | 0:16
+     *
+
+READ
+       More about shopper privacy & GDPR
+     *
+
+VIDEO
+       Evaluating ad inventory with publisher interaction data | 0:41
+     *
+
+VIDEO
+       Data in the Criteo Engine: Real world example | 1:26
+
+     * [Poster-Frame-EV1-Grey-2.png]
+     *
+
+Data in the Criteo Engine: Introduction
+         ______________________________________________________________
+
+       Alexandra Bannerman, Product Marketing Manager, explains how the
+       Criteo Engine uses data to optimize your ads.
+       The Criteo Engine powers all Criteo products with advanced machine
+       learning, which continuously adapts and improves using a wealth of
+       real-time data from the Criteo Shopper Graph:
+       Identity and Interest data comes from all the shoppers connected to
+       Criteo – that’s 72% of all online shoppers globally;
+       Measurement data tracks every sale that occurs from a brand-funded
+       retail campaign;
+       Publisher interaction data is based on Criteo’s granular visibility
+       of shopper interaction with websites and apps.
+       Criteo has the world’s largest open shopper data set, which means
+       our machine learning technology has all the detailed information
+       required to precisely predict what inspires shoppers and drive
+       higher engagement.
+        Read More
+     *
+
+       IFRAME: //view.ceros.com/criteo/csg-01a-data-collective-2-1-1
+
+     *
+
+Using identity and interest data to determine shopper intent
+         ______________________________________________________________
+
+       Let’s see how Identity and Interest data informs the Criteo Engine
+       on shopper behavior.
+       Instead of taking a snapshot of information at the point of serving
+       an ad, the Criteo Engine uses historical and real-time data to
+       aggregate individual shopper activity, online and offline, over
+       moving time windows – evaluating the intensity of shopper intent at
+       any given time.
+        Read More
+     *
+
+How the Criteo Engine predicts shopper behavior
+         ______________________________________________________________
+
+       When a shopper browses online, the Criteo Engine utilizes over 120
+       shopping signals to work out, at that moment, the shopper’s
+       propensity to engage, which specific products to recommend, and
+       also what ad design they’ll best respond to.
+       Because the Criteo Engine calculates this in real-time, and on an
+       individual shopper level rather than for broad audience segments,
+       the resulting ad impression is perfectly optimized for the shopper
+       at that specific point along their shopping journey.
+        Read More
+     *
+
+Identity and interest data in action
+         ______________________________________________________________
+
+       Here’s a quick example showing how the Criteo Engine uses identity
+       and interest data to determine shopper intent and predict shopper
+       behavior.
+       Identity and interest data from the Criteo Shopper Graph might
+       inform the Engine that ‘Shopper A’ has looked at a hat and a dress
+       on your website over a 30-day period, ‘Shopper B’ has looked at ten
+       hats in just seven days, and ‘Shopper C’ has looked at three hats
+       on your website and purchased one in-store within seven days.
+       The Criteo Engine’s machine learning algorithms are able to use
+       this information, as well as conversion data trends, to predict
+       that ‘Shopper B’ is most likely to convert at this point, and that
+       a specific hat is the best one to recommend to them.
+       While this is a basic example, real-world situations are
+       considerably more complex, with the Criteo Engine taking into
+       account those 120+ shopping signals every time.
+        Read More
+     *
+
+Protecting shopper privacy
+         ______________________________________________________________
+
+       Remember, the privacy of shoppers is protected at all times; Criteo
+       is able to assign a randomly generated ID to each shopper, across
+       devices and offline, using only pseudonymous user data, and
+       directly identifying information is never willingly captured.
+        Read More
+     *
+
+More about shopper privacy & GDPR
+         ______________________________________________________________
+
+       Criteo adheres to regulations around the world to ensure that the
+       privacy of shoppers is protected at all times.
+       We are able to assign randomly generated IDs to each shopper across
+       devices and offline, using technologies that rely only on
+       pseudonymous user data in order to preserve shopper
+       identity/privacy. This pseudonymous data preserves the privacy of
+       shoppers, but still provides a rich understanding of shopping
+       intent.
+       We follow industry best practices to secure the data that we
+       collect, are compliant with regulations that determine how consumer
+       data is retained, and ensure compliance is adhered to globally with
+       our technologies.
+       Criteo also remains a leader in clearly stating the rights that
+       consumers have to access their data, what data is collected, how it
+       is used, and how they can opt-out.
+
+       GDPR
+       Criteo is fully compliant with the European Union’s General Data
+       Protection Regulation (GDPR) which came into effect on May 25,
+       2018.
+       The regulation applies to the processing of personal data collected
+       in the EU, even if it is processed by companies that are located
+       outside of Europe.
+
+     *
+
+Evaluating ad inventory with publisher interaction data
+         ______________________________________________________________
+
+       Publisher interaction data helps the Criteo Engine find the best
+       opportunities to show your ads.
+       By processing billions of data points daily from thousands of
+       premium publishers connected to Criteo, our Engine evaluates the
+       performance of different types of publishers and ad inventory,
+       based on shopper interactions with them.
+       For example, shoppers will interact differently with a 600x160px
+       top-of-page ad unit than they would with a 300x250px ad unit midway
+       down the page – and this performance also varies depending on the
+       website in question.
+       These insights help the Criteo Engine determine inventory value for
+       each impression, and bid accordingly to reach the right shoppers.
+        Read More
+     *
+
+Data in the Criteo Engine: Real world example
+         ______________________________________________________________
+
+       Here’s an example which ties together the ways in which the Criteo
+       Engine uses data.
+       Christina has been looking at your products, both online and
+       offline. Now, she’s browsing various publisher web sites.
+       – Identity data from the Criteo Shopper Graph tells the Engine that
+       this particular shopper has been shopping across various devices,
+       and in-store;
+       – Predictive Bidding, a feature of the Criteo Engine, utilizes
+       Interest data from the Shopper Graph to determine the shopper value
+       depending on how likely she is to engage and buy, and how much
+       she’ll spend;
+       – Predictive Bidding then uses that shopper valuation, plus
+       publisher and inventory performance data, to select the most
+       suitable available ad unit on a suitable website and place an
+       optimal real-time bid;
+       – The Engine’s Product Recommendations technology uses her shopping
+       preferences as well as those of similar shoppers to determine which
+       items from your product feed to show her,
+       – And the Engine’s Kinetic Design technology takes into account the
+       visual preferences Christina has shown previously, chooses the best
+       ad design to create, and renders the ad to fit the chosen
+       inventory.
+       All this happens in real-time to serve Christina the best possible
+       ad for products she’s likely to convert for in that moment!
+       So there you have it – that’s how the Criteo Engine uses data to
+       optimize your ads.
+        Read More
+
+Related Posts
+
+   Explained: Predictive Bidding – Valuing the Shopper
+   Explained: Criteo Shopper Graph
+   Criteo Ad Tech Explained Hub
+
+Solutions & Technology
+
+     * Solutions
+     * Products for Marketers
+     * Products for Publishers
+     * Technology
+
+Customers & Partners
+
+     * Success Stories
+     * Ad Gallery
+     * Reseller Program
+     * Shopify Plus
+
+Resources
+
+     * Reports & Research
+     * Webinars
+     * Events
+     * Blog
+
+About
+
+     * Careers
+     * Company
+     * Investors
+     * In the News
+     * Corporate Responsibility
+     * Contact Us
+
+   (BUTTON) Talk To an Expert
+   (BUTTON) Join Our Team
+   Opt-Out of Criteo Ads Copyright © Criteo 2019

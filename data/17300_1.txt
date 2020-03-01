@@ -1,0 +1,434 @@
+   #Abandonware France - Les News Abandonware France - Les Nouveaux Jeux
+   Abandonware France - Les Abandonware Faciles Abandonware France - Les
+   Dossiers d'Abandonware France Abandonware France - Les Solutions
+   d'Abandonware France Abandonware France
+
+   En poursuivant votre navigation sur Abandonware France, vous acceptez
+   l'utilisation de cookies pour vous proposer des publicités ciblées et
+   réaliser des statistiques de visites. OK En savoir plus
+
+   bandeau
+   Page d'accueil
+   Archives des news
+   L'agenda
+   Notre définition
+   Boutique Abw
+   ____________________ submit Jeux Abandonware
+   Abandonware facile
+   Trésors exhumés
+   Sagas/séries
+   Démos/Shareware
+   Non Abandonware
+   Chambre vaudoue
+   Manuels
+   Solutions
+   Trucs & astuces
+   Top Notes
+   Utilitaires
+   Dosbox.fr
+   F.A.Q.
+   BIIPER
+   Screenshots
+   Covers
+   Scans Disques
+   Publicités
+   Abandonware TV
+   Musiques
+   Compagnies
+   Personnalités
+   Magazines
+   Compilations
+   Livres
+   Récompenses
+   Dossiers
+   Parc Minecraft
+   Zone Membres
+   Forums
+   Facebook
+   Twitter
+   Groupe Steam
+   Tests des membres
+   Fan Arts
+   Remerciements
+   L'équipe
+   Historique
+   Livre d'or
+   Newsletter
+   Aidez-nous
+   Contact
+   Partenariats
+   Liens sélectionnés
+   Great Naval Battles Vol. II : Guadalcanal 1942-43
+   Série
+   Great Naval Battles
+   Année
+   1994 (Sortie FR)
+   Genre
+   Simulation
+   Développement
+   IO Design Group
+   Edition
+   SSI (Strategic Simulations, Inc.)
+   Systèmes
+   systeme
+   Dosbox
+   Compatible avec la version 0.73
+   note0 note1 note2 note3 note4 note5 note6 note7 note8 note9 note10
+   notes notes notes notes
+   716 votes
+   [EMBED]
+
+                                 [INS: :INS]
+
+   titre Présentation
+   La série des «Great Naval Battles» est un mélange entre simulation
+   navale et wargame. Simulation, car on dirige tous les postes de chaque
+   bâtiment : tourelles, torpilles, poste de pilotage... Ces postes
+   varient d'ailleurs en fonction du bâtiment (un porte-avions n'a pas de
+   lance-torpilles, par exemple). Le point le plus novateur est la gestion
+   des avaries : un plan des niveaux internes du navire permet de
+   localiser les fuites et incendies, d'activer les pompes, tout en
+   veillant à ce que le poids et la répartition de l'eau ne fassent pas
+   chavirer le navire. Le jeu est aussi un wargame car on ne peut pas
+   diriger tous les bâtiments manuellement. Il faut en assigner à
+   l'ordinateur (ainsi que certains postes si on le souhaite), et donc
+   indiquer leur itinéraire, leurs cibles...
+   «Great Naval Battles Vol. II» retrace la bataille de Guadalcanal qui
+   opposa les Etats-Unis au Japon dans l'Océan Pacifique, entre août 1942
+   et février 1943. Le programme compte sept scénarios, deux campagnes et
+   quelques tutoriels pour se faire la main. Ces scénarios sont fidèles à
+   la réalité et sont donc les mêmes d'une partie à l'autre. On risque
+   d'en faire le tour rapidement, meme en jouant les deux camps à tour de
+   rôle.
+   La réalisation de «Great Naval Battles Vol. II» est splendide. Les
+   graphismes en haute résolution sont magnifiques, la bande-son est
+   bonne. Hélas, le moteur de jeu laisse à désirer : l'intelligence
+   artificielle est médiocre et le partie aérienne peu soignée. Reste la
+   partie simulation qui pourra intéresser les adeptes de bataille navale.
+   titre Lancement sous DOSBox
+   Exécutez le fichier GNB2.BAT. SOUND.BAT permet de régler le son.
+   Le jeu est cracké, saisissez n'importe quel mot pour passer la
+   protection.
+   titre Complétez cette fiche
+   Vous avez des screenshots, un avis personnel, des fichiers que nous ne
+   possédons pas et qui concernent ce jeu ? Vous avez remarqué une erreur
+   dans nos textes ?
+   Dans ce cas, aidez-nous à améliorer cette fiche : en nous contactant
+   via le forum.
+   titre Liens divers
+   Vous pouvez trouver de nombreuses informations en allant sur les sites
+   du Réseau Abandonware Francophone :
+   - Abandonware Forums pour trouver une aide technique, une astuce...
+   - La clinique des jeux vidéo, pour ceux qui veulent jouer avec DOSBox
+   ou VDMS.
+   [mico_tt2.png]
+     [mico_infos.png] Informations diverses
+       [version.png] Infos éditions, compils...
+       [mico_medias.png] Médias
+       [mico_credits.png] Crédits
+       [mico_comments.png] Avis & Comments (0)
+       [mico_astuces.png] Astuces (0)
+   [mico_tt1.png]
+       [mico_screens.png] Screenshots (12)
+       [mico_covers.png] Covers (2)
+       [mico_scans.png] Scans disques (1)
+   [mico_tt3.png]
+       [mico_jeux.png] Télécharger le jeu
+       [mico_manuel.png] Télécharger le manuel
+   Hoagie (Manuel)
+   Partenaires Jeux
+   PC Savegames
+   Planet Emulation
+   Dosbox
+   Planète Aventure
+   Resident Evil Fr
+   Jeux de Jadis
+   Partenaires RetroActu
+   Le mag MO5.com
+   Rom Game
+   Emu-France
+   Megatest.fr
+   Associations
+   Association WDA
+   Association MO5
+   80's
+   Another Retro World
+   Partenaires Musiques
+   Muzax
+   Sites Amis
+   Livres de G. Ermia
+   Blog BD - La Kavaseb
+   Maxou & Cie
+   Wokie.com
+   especes-menacees.fr
+   [btn_an04.gif]
+   [shootingstar.gif]
+   [btn_sout01.gif]
+   [utip.png]
+
+                 Vous pouvez aussi faire un don via Paypal :
+   PayPal - la solution de paiement en ligne la plus simple et la plus séc
+                                  urisée !
+
+   [INS: :INS]
+   © 2000-2019 LTF Abandonware France
+   Mentions légales - CGU - Politique de confidentialité - Cookies -
+   Google Analytics
+   Partenaires : Hébergement web - WoW - Association MO5 - Megatest.fr -
+   Emu-France - Association WDA - Another Retro World - Planète Aventure
+   #Abandonware France - Les News Abandonware France - Les Nouveaux Jeux
+   Abandonware France - Les Abandonware Faciles Abandonware France - Les
+   Dossiers d'Abandonware France Abandonware France - Les Solutions
+   d'Abandonware France Abandonware France
+
+   En poursuivant votre navigation sur Abandonware France, vous acceptez
+   l'utilisation de cookies pour vous proposer des publicités ciblées et
+   réaliser des statistiques de visites. OK En savoir plus
+
+   bandeau
+   Page d'accueil
+   Archives des news
+   L'agenda
+   Notre définition
+   Boutique Abw
+   ____________________ submit Jeux Abandonware
+   Abandonware facile
+   Trésors exhumés
+   Sagas/séries
+   Démos/Shareware
+   Non Abandonware
+   Chambre vaudoue
+   Manuels
+   Solutions
+   Trucs & astuces
+   Top Notes
+   Utilitaires
+   Dosbox.fr
+   F.A.Q.
+   BIIPER
+   Screenshots
+   Covers
+   Scans Disques
+   Publicités
+   Abandonware TV
+   Musiques
+   Compagnies
+   Personnalités
+   Magazines
+   Compilations
+   Livres
+   Récompenses
+   Dossiers
+   Parc Minecraft
+   Zone Membres
+   Forums
+   Facebook
+   Twitter
+   Groupe Steam
+   Tests des membres
+   Fan Arts
+   Remerciements
+   L'équipe
+   Historique
+   Livre d'or
+   Newsletter
+   Aidez-nous
+   Contact
+   Partenariats
+   Liens sélectionnés
+   Bienvenue sur Abandonware France
+   Octobre, le mois de la peur !
+   La thématique de ce mois sera donc la frousse. Et pour démarrer, on
+   commence avec The House of the Dead 3 de Sega...
+   Nouvelle rubrique : MAGAZINES
+   Plus de 130 magazines épluchés, 50 000 articles recensés, des centaines
+   de rubriques à redécouvrir ou découvrir !
+   � �
+   Les indispensables
+   [btn1.png] [btn2.png] [btn3.png] [btn4.png]
+   Suivez-nous Rejoignez sur Facebook btn_rss
+   [onglet_home.gif]
+   ABANDONWARE
+   BLOG
+   ACTUS RETRO
+   Hier [ico_1_news_ltf.png] Ils débarquent !!!
+   13/10/2019 [ico_40_news_decouverte.png] L'univers de Warthog
+   12/10/2019 [ico_1_news_ltf.png] S20e05 : De l'horreur en ro...
+   11/10/2019 [ico_8_abandonware.tv.png] Longplay !
+   10/10/2019 [ico_5_manuels.png] Hecubah reine de peur
+   07/10/2019 [ico_1_news_ltf.png] Super héros !
+   05/10/2019 [ico_1_news_ltf.png] S20e04 : Fright night
+   03/10/2019 [ico_5_manuels.png] Veni Vidi Vici
+   [12/10] Uninvited
+   [12/10] Heroes of the La...
+   [12/10] The Gold of the ...
+   [05/10] The House of the...
+   [05/10] Téléfoot Manager...
+   [05/10] La Manille
+   [28/09] Toutankhamon
+   [28/09] Days of Thunder
+   [btn_hasard.png]
+   hasard
+   Little Big Adve...
+   1997 - Aventure
+   [tn_news103253_dith5l43q1kjg5rzcnzhp9tk05y7e5yhtx5.png]
+
+News Abandonware
+
+Ils débarquent !!!
+
+[user.png] Par Mon Ours [clock.png] Hier [comments.png] 0 commentaire
+
+   Bonjour à toutes et tous,cette semaine, la news sera consacrée aux
+   visiteurs de l'espace lointain, aux petits hommes verts...et aux ovnis
+   !Nous démarrons avec une adaptation d'Alien de Ridley Scott qui
+   contribua à populariser les films sur les races lointaines...et
+   hostiles ![blocjeu_407,Alien Trilo...
+   [doc.png] Lire la suite
+   [tn_news103268_uvz03bzuthyee1qgl32cmg8kii8c6vyqw3w.jpg]
+
+News Découverte
+
+L'univers de Warthog
+
+[user.png] Par reggio52 [clock.png] 13/10/2019 [comments.png] 0 commentaire
+
+   Bonjour amis du dimanche,Une fois par mois, l'équipe éditoriale vous
+   présentera un panel de fiches compagnies et quelques remerciements à
+   appuyer en direction de vous : la communauté.Nous débutons ce tour de
+   chauffe avec l'éphémère compagnie Warthog, qui a véritablement marqué
+   l'histoire du jeu vidé...
+   [doc.png] Lire la suite
+   [tn_news103281_gsxga3xb5erjfg3bjt0m7sj5tdbuny1aw4w.jpg]
+
+News Abandonware
+
+S20e05 : De l'horreur en rouge et bleu
+
+[user.png] Par Zappy [clock.png] 12/10/2019 [comments.png] 0 commentaire
+
+   Samedi est déjà arrivé ? Le temps passe vite, et on ne s'est pas rendus
+   compte que la semaine était passée. On n'a même pas réalisé que 31
+   années presque complètes se sont écoulées depuis 1988. Pourquoi choisir
+   cette année particulièrement, nous demanderez-vous... Et bien tout
+   simplement car aujourd...
+   [doc.png] Lire la suite
+   [tn_news103270_s9t1nytnsa66zflqh5g5du3gwuzayntgmcn.jpg]
+
+Abandonware.TV
+
+Longplay !
+
+[user.png] Par Mon Ours [clock.png] 11/10/2019 [comments.png] 0 commentaire
+
+   Bonjour à toutes à tous,aujourd'hui le plaisir du jeu vidéo se décline
+   autrement... Et oui !On ne vous propose pas de jeu mais au contraire de
+   regarder une partie enregistrée !A vous de (re)découvrir Blade
+   Runner.Fan de SF, bon visionnage ! Blade RunnerEt abandowarement
+   vôtre.L'équipe d'Abandonware ...
+   [doc.png] Lire la suite
+   [tn_news103280_la7ez9x2kmxi7oedn92ks6h588zai8rtp4d.jpg]
+
+Manuels
+
+Hecubah reine de peur
+
+[user.png] Par LNP45 et Reggio [clock.png] 10/10/2019 [comments.png] 0
+commentaire
+
+   Bonjour à tous,Depuis samedi dernier, nous avons entamé un nouveau mois
+   et un nouveau thème. Pour essayer de cadrer avec la thématique de la
+   peur, voici deux superbes archives dans deux genres différents.Pour
+   commencer, nous poursuivons avec un manuel d'un jeu [cie_19,Westwood],
+   et vous pourrez déco...
+   [doc.png] Lire la suite
+   [tn_news103252_bguo7mc69hc94wk72xiruq625jmd4ukl0lf.jpg]
+
+News Abandonware
+
+Super héros !
+
+[user.png] Par Mon Ours [clock.png] 07/10/2019 [comments.png] 0 commentaire
+
+   Bonjour à toutes et à tous,aujourd'hui nous allons parler des êtres au
+   destin extraordinaire, de super pouvoirs, bref, de super-héros.Ils
+   hantent depuis longtemps les salles obscures et ils ont aussi eu leur
+   heure de gloire sur PC & Mac.Tous les titres sont en abandonware facile
+   : téléchargez, insta...
+   [doc.png] Lire la suite
+   [tn_news103271_phaf2oxteusfd5562hzf294kji61ys4tzke.jpg]
+
+News Abandonware
+
+S20e04 : Fright night
+
+[user.png] Par Zappy [clock.png] 05/10/2019 [comments.png] 1 commentaire
+
+   Un nouveau mois a commencé, et on a très envie de rester bien au chaud,
+   dans un canapé ou assis devant son bureau, pour jouer à quelque jeu
+   vidéo, ancien ou récent. Votre serviteur lui a fait une petite séance
+   sous la couette ce matin (les consoles portables, quelle invention !).
+   Nous espérons que v...
+   [doc.png] Lire la suite
+   [tn_news103195_b3qxwwvp30uw5cb83ln0lolx0d1999qq37u.jpg]
+
+Manuels
+
+Veni Vidi Vici
+
+[user.png] Par LNP45 et Reggio [clock.png] 03/10/2019 [comments.png] 0
+commentaire
+
+   Bonjour à tous,Aujourd'hui, nous venons vous parler de cette magnifique
+   saga qu'est The Settlers. Il y a une semaine, entre deux grands jeux,
+   nous évoquions la fiche de [jeu_1386,Battle Isle].C'est donc chez
+   [cie_36,Blue Byte] que nous atterrissons en ce jeudi, avec les deux
+   premiers opus de ce monu...
+   [doc.png] Lire la suite
+   [tn_news103203_kjd1wfx1siuuvh20e594pvt461hu5l8fabm.png]
+
+News Abandonware
+
+Les grands magiciens
+
+[user.png] Par Mon Ours [clock.png] 30/09/2019 [comments.png] 0 commentaire
+
+   Bonjour à tous et à toutes,qu'il me soit permis ici de remercier les
+   magiciens de notre équipe. Ô, je ne parle pas ici, de super pouvoirs
+   mais bien d'as de la technique qui ont troqué chapeaux et baguettes
+   pour des mots techniques dont l'usage m'est totalement étranger.Nos
+   passionnés, au premier ran...
+   [doc.png] Lire la suite
+   [tn_news103249_z9bosd6v8nqaw194l3spczcczhrm46695on.jpg]
+
+News Abandonware
+
+S20e03 : dernier tour de piste
+
+[user.png] Par Zappy [clock.png] 28/09/2019 [comments.png] 0 commentaire
+
+   Dernier tour de piste en ce mois de septembre, et nous avons poussé le
+   compte-tours dans le rouge. Il est vrai que la rentrée est une des
+   périodes de l'année au cours de laquelle on se donne à fond, et qui
+   parfois pousse au surmenage. Heureusement, il suffit d'un arrêt au
+   stand, et c'est reparti pou...
+   [doc.png] Lire la suite
+   [btn_an04.gif]
+   [shootingstar.gif]
+   [btn_sout01.gif]
+   [utip.png]
+
+                 Vous pouvez aussi faire un don via Paypal :
+   PayPal - la solution de paiement en ligne la plus simple et la plus séc
+                                  urisée !
+
+   [INS: :INS]
+   © 2000-2019 LTF Abandonware France
+   Mentions légales - CGU - Politique de confidentialité - Cookies -
+   Google Analytics
+   Partenaires : Hébergement web - WoW - 2001jeux.com - Association MO5 -
+   Megatest.fr - Emu-France - Association WDA - Another Retro World -
+   Planète Aventure
+                           Index of /ltf_lib/graphics
+
+   [ICO] Name Last modified Size Description

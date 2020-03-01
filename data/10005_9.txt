@@ -1,0 +1,14 @@
+
+   Jeu en direct
+   Accéder au jeu 1389 joueurs
+     * [logo.png]
+       Jouer en direct
+       1389 joueurs en ligne
+     * [logo.png]
+       Jeu en différé
+       797 parties en cours
+     * [logo.png]
+       Jouer contre l'ordinateur
+       Serez-vous le plus fort ?
+     * [logo.png]
+       Analyser une partie PGN Afficher la liste

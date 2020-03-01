@@ -1,0 +1,268 @@
+
+      2010- 2019   - Délégation académique au numérique éducatif -
+   Plan du site | Mentions légales | Flux RSS | Se connecter
+
+   DANE
+
+Délégation académique au numérique éducatif
+
+   ____________________
+
+Suivez-nous sur
+
+Restez en contact
+
+     * 01 39 23 61 61
+     * Dane de l’académie de Versailles
+       2 rue Pierre Bourdan
+       78160 Marly-le-Roi
+     * Nous contacter
+     * Venir à la DANE
+
+     * Carte des usages numeriques
+
+     * Le bar à ressources
+
+     * Les sites disciplinaires
+
+     * Accès par espace territorial
+
+     * Trouver son interlocuteur de proximité
+
+     * Annuaire DANE
+
+Cycles
+
+     * Cycle 1
+     * Cycle 2
+     * Cycle 3
+     * Cycle 4
+     * Lycée
+
+
+Usages
+
+     * Lire
+     * Visualiser - Exposer - Présenter
+     * Chercher / Enquêter / S’informer
+     * Produire / Créer
+     * Publier / Communiquer
+     * Rédiger
+     * Appliquer / S’entraîner / S’exercer
+     * Coder - Programmer
+     * Collaborer
+     * Protéger
+     * Organiser / Gérer / Traiter des données
+     * Individualiser / Différencier / Évaluer
+     * Mémoriser
+     * Observer / Explorer / Expérimenter
+     * S’exprimer / Argumenter
+     * Partager - Mutualiser
+     * Maîtrise de la langue française
+     * Compter - Calculer
+        2010- 2019   - Délégation académique au numérique éducatif -
+       Plan du site | Mentions légales | Flux RSS | Se connecter
+   #Syndiquer tout le site alternate
+
+   DANE
+   DANE
+
+Délégation académique au numérique éducatif
+
+     *
+     *
+     * Menu
+     * La DANE
+          + Qu’est ce que la Dane ?
+          + Les actions près de vous
+          + Trouver un interlocuteur proche
+          + Le maillage académique des médiapôles pour la formation
+          + Annuaire de la Dane
+     * Pratiquer
+          + e-éducation
+          + e-formation
+          + Éducation aux médias et à l’information
+          + Robotique, Objets connectés
+          + ENT
+          + Ressources numériques pédagogiques
+     * Découvrir
+          + Être accompagné, se former
+          + S’inspirer, témoigner
+          + Comprendre
+          + Le numérique disciplinaire
+          + Sites utiles
+     * Je suis ...
+          + Enseignant
+          + Ambassadeur du numérique
+          + Référent numérique 1er degré (eRun)
+          + Référent numérique 2nd degré
+          + Référent e-éducation/Éléa
+          + Référent tablettes
+          + Administrateur ENT
+          + Formateur
+          + Personnel d’encadrement
+          + Parent ou élève
+     * Événements
+          + Forums des Usages Numériques #FUNacver
+          + Challenges robotiques
+          + Webinaires - Les Jeudis de la Recherche
+          + Webinaires - Les webinaires de Magistère
+          + Salon national #EducatecTice
+          + Salon national #Eduspot
+          + Salon international - #BETT Show
+          + Netjournées
+          + Séminaires des collectivités
+          + Semaine régionale - #JournéesIDFduNum
+          + Semaine de la classe inversée
+          + Semaine de la presse et des médias
+          + Conférence
+          + Animation-Formation
+     *
+   ____________________
+
+   Accueil > Être accompagné, se former > Ram’Code : le codage pour tous
+
+   25 septembre, par Cyril Chartraire, Alban GOULLEY
+
+   Coding Challenge
+
+Ram’Code : le codage pour tous
+
+   Bassin de Rambouillet
+
+   Robotique, Objets connectés, programmation Cycle 4 Lycée Bassin de
+   Rambouillet
+
+     Vous êtes enseignant dans le bassin de Rambouillet et vous avez des
+     élèves de 4ème, de 3ème, de 2de ou de 1re ?
+     Vous désirez travailler sur la conception d’applications mobiles et
+     vous avez envie de relever des défis ?
+     Ram’Code est fait pour vous !
+
+Un tout nouveau challenge pour développer des compétences multiples
+
+     * Développer la créativité des élèves dans la conception d’une
+       application
+     * Développer la collaboration entre élèves dans la réussite du projet
+     * Résoudre les différents problèmes
+     * Développer sa logique et la pensée informatique
+     * Rédiger des écrits et présenter le projet à l’oral
+     * Rencontrer des professionnels du numérique
+
+   Les élèves travailleront sur deux applications différentes selon leur
+   niveau :
+   Pour le collège Pour le lycée
+
+   Swift Playground
+
+   xcode
+
+Envie de vous lancer ? Vous n’êtes pas seuls
+
+   Vous serez accompagné par la DANE de Versailles et des formateurs de
+   Simplon et d’Apple.
+     * Tout commence le jeudi 3 octobre 2019 à 16h au Médiapôle de
+       Rambouillet par une réunion d’information.
+     * Puis, le projet sera lancé dans votre classe durant la « code
+       week » du 5 au 20 octobre 2019, en présence d’un intervenant.
+     * Enfin, vous bénéficierez de deux demi-journées de formation : le
+       lundi 4 novembre et le jeudi 14 novembre de 14h à 17h au médiapôle
+       de Rambouillet.
+
+     Inscrivez-vous vite sur : http//acver.fr/ramcode
+
+Partenariat
+
+     * L’académie de Versailles
+     * Simplon
+     * la conseil départemental des Yvelines
+     * La région Ile de France
+
+- Évènements à venir -
+
+   3 octobre 2019
+   Challenge Ram’Code : réunion d’information
+
+   Jeudi 3 octobre 16:00-18:00
+
+   Robotique, Objets connectés, programmation Cycle 4 Lycée Bassin de
+   Rambouillet
+
+   Ram’Code : le codage pour tous
+
+   Médiapôle de Rambouillet - Lycée Louis Bascan
+   5 avenue du Général Leclerc - 78120 Rambouillet
+
+   5 octobre 2019
+   Code Week
+
+   Du 5 octobre 08:00 au 20 octobre 18:00
+
+   Robotique, Objets connectés, programmation Cycle 4 Lycée Bassin de
+   Rambouillet
+
+   Participez aux différents événements organisés pendant la Code Week.
+
+   4 novembre 2019
+
+   Ram’Code : 1/2 journée de formation
+
+   Lundi 4 novembre 14:00-17:00
+
+   Robotique, Objets connectés, programmation Cycle 4 Lycée Bassin de
+   Rambouillet
+
+   Première demi-journée de formation pour les enseignants engagés dans le
+   challenge Ram’Code
+   Ram’Code : le codage pour tous
+
+   Médiapôle de Rambouillet - Lycée Louis Bascan
+   5 avenue du Général Leclerc - 78120 Rambouillet
+
+   14 novembre 2019
+
+   Ram’Code : 1/2 journée de formation
+
+   Jeudi 14 novembre 14:00-17:00
+
+   Robotique, Objets connectés, programmation Cycle 4 Lycée Bassin de
+   Rambouillet
+
+   Seconde demi-journée de formation pour les enseignants engagés dans le
+   challenge Ram’Code
+   Ram’Code : le codage pour tous
+
+   Médiapôle de Rambouillet - Lycée Louis Bascan
+   5 avenue du Général Leclerc - 78120 Rambouillet
+
+Découvrir
+
+     * Outils
+     * La DANE
+     * Près de vous
+     * Être accompagné, se former
+     * S’inspirer, témoigner
+     * Comprendre
+     * Sites utiles
+
+Pratiquer
+
+     * e-éducation
+     * e-formation
+     * Éducation aux médias et à l’information
+     * Robotique, Objets connectés
+     * ENT
+     * Ressources numériques pédagogiques
+
+À voir aussi
+
+     * Innover, créer et coder dans un challenge international
+     * Les webinaires de m@gistère
+     * Créer une classe virtuelle sur Ma cl@sse virtuelle
+     * Open Badges
+     * Comment le GAR sécurise les données ?
+     * Econofides - Déploiement du connecteur sur monlycée.net
+
+Partager
+
+   Imprimer cette page (impression du contenu de la page)

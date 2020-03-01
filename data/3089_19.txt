@@ -1,0 +1,30 @@
+
+
+Nintendo Game Boy Advance Flash Cartridges
+
+   Game-Boy-Advance-Rewritable-Cartridges
+
+EZ-Flash IV
+
+   Unfortunately, despite being a hugely popular handheld, the Game Boy
+   Advance is yet to catch up with the rest of the gaming world when it
+   comes to ‘modern’ flash cartridge solutions. The EZ-Flash IV is without
+   the best cartridge on the market for the handheld, one equipped with a
+   MicroSD Card slot, however, getting game ROMs to boot is a fiddly
+   affair that leaves a lot to be desired.
+
+   Instead of being able to simply drag and drop your games of choice onto
+   a MicroSD Card, each and every game must be patched through EZ-Flash
+   software in order to run on the device. The software in question will
+   do the job just fine, however, once on the flash cartridge you’ll find
+   the names of each game are taken from the ROM’s header, rather than the
+   filename. This in turn means some game names are blank, some conflict
+   with each other, and others can display in Japanese characters too.
+
+   While we await a simple drag and drop solution, the EZ-Flash IV with
+   its flaws is still the best Game Boy Advance flash cartridge around.
+     * Storage: MicroSD Cards
+     * Pros: Works with up to 32gb MicroSD Cards, Custom Menu Themes
+     * Cons: Software needed to install games
+
+   Link: Buy EZ-Flash IV

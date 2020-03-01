@@ -1,0 +1,12 @@
+
+   Anthos : de nouvelles fonctionnalités pour faciliter l’opérationnel
+
+Anthos : de nouvelles fonctionnalités pour faciliter l’opérationnel
+
+   La plateforme de Google s’enrichit de quelques nouvelles
+   fonctionnalités, pour l’heure en beta. Service Mesh, basé sur Istio,
+   vient apporter une couche de maillage des microservices, tandis que
+   Cloud Run ajoute une brique serverless à Anthos, évitant aux
+   développeurs d’avoir à se préoccuper des questions d’infrastructure.
+   [Lire l'article...]
+   Publié le 17 septembre 2019 15:36 - Autres infos Cloud

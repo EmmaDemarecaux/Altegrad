@@ -1,0 +1,20 @@
+   #Home Search RSS
+
+   L'Alliance pour les Chiffres de la Presse et des Médias
+   Contact
+     * Contact
+     *
+     *
+     *
+     *
+
+   (BUTTON) Connexion
+
+   (BUTTON) Fermer
+
+Connectez-vous
+
+   ____________________
+   ____________________ Mot de passe oublié
+   (BUTTON) Me connecter
+   [ ] Rester connecté

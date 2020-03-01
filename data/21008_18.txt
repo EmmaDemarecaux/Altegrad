@@ -1,0 +1,10 @@
+
+   Team Yoast 5+ million installations actives Testé avec 5.2.3 Mise à
+   jour il y a 1 semaine
+
+Simple Taxonomy WYSIWYG
+
+   (2 notes en tout)
+
+   A very simple plugin that will convert the taxonomy/category
+   description textarea to a WYSIWYG (TinyMCE) form.

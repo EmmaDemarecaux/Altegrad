@@ -1,0 +1,17 @@
+
+   Connecteur de salle H.323/SIP
+   Connecteur de salle H.323/SIP
+     * Permettez aux systèmes de salle H.323/SIP de communiquer avec les
+       ordinateurs de bureau, les tablettes et les appareils mobiles
+     * Fonctionne avec les terminaux vidéos de Polycom, Cisco, Lifesize et
+       autres.
+     * Prend en charge les protocoles H.264, H.235, H.235 et G.722
+
+   Learn More
+   1___________________   ports port
+   Veuillez saisir un numéro valide.
+   Mensuel
+   /mois/port coût mensuel
+   Facturation mensuelle
+   Annuel
+   /mois/port coût mensuel

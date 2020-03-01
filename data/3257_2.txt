@@ -1,0 +1,30 @@
+
+Full Responsive Design
+
+   This template using Bootstrap 3x version with mobile first approach to
+   make it readily available for all devices.
+
+Lots of Icons
+
+   Vestige comes with 900+ font icons including Font Awesome complete set
+   and 150+ outlined icons.
+
+3 Header Styles
+
+   3 Header styles are there for all type of needs with topbar or not
+   along with full width menu.
+
+Boxed & Wide Layouts
+
+   2 layout choices for Wide screen and Boxed layout with option to set
+   patterns and images as background.
+
+Megamenu
+
+   The main menu is ready for the multi columns mega menu which can have
+   any kind of HTML/TEXT inside.
+
+Twitter Widget
+
+   An easy to use Twitter feeds plugin is included in the template which
+   can fetch any number of Tweets from your account.

@@ -1,0 +1,139 @@
+
+    4. Si la société n’a pas de site ou n’indique aucune coordonnée,
+       rechercher son adresse postale dans un annuaire ou un whois
+
+   Le site internet Infogreffe (Registre du commerce et des sociétés)
+   permet de trouver les coordonnées d'une société à partir de son nom ou
+   du N° SIREN.
+
+   D'autres annuaires d'entreprise référencent également des milliers
+   d'entreprises. La recherche se fait aussi par nom de société ou
+   N° SIREN.
+
+   Quelques exemples :
+     * www.societe.com
+     * www.europages.com
+     * www.hoovers.com
+
+   Les whois
+
+   Les Whois sont des annuaires de noms de domaine qui renseignent sur
+   l’identité des éditeurs des sites internet. Généralement, le whois
+   n'affiche que des informations relatives à l'hébergeur mais dans
+   certains cas, celui-ci propose également l'identité et les coordonnées
+   du titulaire du nom de domaine et celles du contact administratif.
+
+   Exemples de sites permettant d'effectuer une recherche whois :
+     * www.afnic.fr/fr/produits-et-services/services/whois/
+     * www.gandi.net/whois?lang=fr
+     * www.whois-raynette.fr/
+
+Astuces complémentaires
+
+[ASTUCE #1] - Enquêter sur les réseaux sociaux ...
+
+   Un organisme s'appuie généralement sur une page Facebook ou un compte
+   Twitter, YouTube ou LinkedIn pour communiquer. Dans certains cas (ex.
+   désinscription d’une newsletter), il peut s'avérer plus simple et
+   rapide de passer par ces réseaux sociaux pour contacter le responsable
+   d'un site.
+     * Dans le moteur de recherche Facebook, tapez " nom du site "
+     * Dans un moteur de recherche, tapez "nom du réseau social+nom du
+       site"
+     * Ou, sur Twitter, envoyez un message privé ou public @nomdusite
+
+
+[ASTUCE #2] Exhumez les archives
+
+   Vous pouvez retrouver les anciennes versions d'un site ou d'une page de
+   mentions légales grâce au moteur de recherche de l'Internet Archive.
+
+   http://archive.org/web/
+
+Vous avez réussi à retrouver les coordonnées de l’organisme ?
+
+   Le site cnil.fr met à votre disposition un générateur de
+   courrier proposant des modèles pour exercer vos droits. N'oubliez pas
+   de réaliser des captures d'écran de vos démarches. Elles vous serviront
+   de justificatifs auprès de la CNIL en cas de réponse insatisfaisante !
+
+Vous n'avez pas réussi à identifier un contact auprès de l’organisme ?
+
+   Plusieurs raisons peuvent expliquer l'absence de moyens de contact :
+     * L’organisme prétendu n’est peut-être qu’une escroquerie organisée
+       ou bien un site aux activités illégales ? Renseignez-vous et
+       signalez-le si besoin auprès de la plateforme du Ministère de
+       l'Intérieur - www.internet-signalement.gouv.fr
+     * Certains sites et blogs non-professionnels ne sont pas tenus par
+       l'obligation de révéler l'identité du responsable du site.
+       Toutefois, l'identification de l'hébergeur est toujours requise,
+       mais celui-ci - astreint au secret professionnel - ne peut a priori
+       pas vous communiquer d'informations sur le responsable du
+       site. Vous pouvez cependant lui demander de relayer cette demande
+       auprès de son client, éditeur du site.
+
+Les mots clés associés à cet article
+
+     * #Moteurs de recherche
+     * #Droit au déréférencement
+     * #Droit d'opposition
+     * #Droit d'accès
+     * #Réagir
+
+   (BUTTON)
+   (BUTTON) ×
+   Facebook est désactivé. Autorisez le dépôt de cookies pour accéder à
+   cette fonctionnalité.
+   (BUTTON) Autoriser (BUTTON) Personnaliser
+   (BUTTON)
+   (BUTTON) ×
+   Twitterest désactivé. Autorisez le dépôt de cookies pour accéder à
+   cette fonctionnalité.
+   (BUTTON) Autoriser (BUTTON) Personnaliser
+
+Ceci peut également vous intéresser ...
+
+   Conservez une preuve en vue d'une plainte à la CNIL
+   Lorsque vous adressez une plainte en ligne à la CNIL, vous devez
+   obligatoirement joindre une copie de vos démarches préalables auprès du
+   site / responsable du fichier. Lorsque ...
+   04 juillet 2018
+   Droit d'opposition
+   SPAM
+   Spam, phishing, arnaques : signaler pour agir
+   06 juillet 2017
+   SPAM
+   Les droits pour maîtriser vos données personnelles !
+   La CNIL vous informe sur les différents droits que vous pouvez exercer
+   auprès des organismes qui utilisent vos données.
+
+   Besoin d'aide
+   Abonnez-vous à la lettre d'information
+   Courriel * ____________________________________________________________
+   (Ok) Ok
+
+   Votre adresse de messagerie est uniquement utilisée pour vous envoyer
+   les lettres d'information de la CNIL. Vous pouvez à tout moment
+   utiliser le lien de désabonnement intégré dans la newsletter. En savoir
+   plus sur la gestion de vos données et vos droits
+   Logo CNIL footer
+
+   Commission Nationale de l'Informatique et des Libertés
+   Suivez-nous
+   Facebook
+   Twitter
+     * Médiathèque
+     * Glossaire
+     * Lexique FR-EN
+     * Besoin d'aide
+     * Presse
+     * FR|EN
+     * Gestion des cookies
+
+   Ma conformité au RGPD
+     * Comprendre le RGPD
+     * Passer à l'action
+     * Les outils de la conformité
+     * Suivre le Mooc RGPD
+     * Services en ligne
+     * Le contrôle de la CNIL

@@ -1,0 +1,232 @@
+   (BUTTON) RatingWidget Logo
+     * WordPress
+     * Showcase
+     * Blog
+     * Pricing
+     * Support
+     * Sign In
+     * Get Free Widget [›]
+
+     * Sign In
+     * Get Free Widget [›]
+
+Instant ratings for your website
+
+RatingWidget
+
+makes it easy to have a Star Rating System for your Blog, Online Shop, or
+Website in minutes.
+
+     *
+     *
+
+   (BUTTON) Get My Free Widget [›]
+   Works with:
+     * WordPress
+     * Blogger
+     * WiX
+     * Weebly
+     * Squarespace
+     * Shopify
+     * Tumblr
+     * AddThis
+     * jQuery
+     * JavaScript
+     * Zepo
+
+     *
+
+     With RatingWidget I easily know the opinion of my readers so I can
+     write blog posts more aligned with their needs. It's a great widget!
+       ~ David Berdié Escolano, Areatic.net
+     *
+
+     Great product, fabulous support! We've used on a number of large
+     scale projects and it worked very well.
+       ~ Andrew Gregson, media140.com
+     *
+
+     The rating-widget has been critical to my website, which runs weekly
+     writing contests. The team was always professional, receptive and
+     replied to my messages promptly.
+       ~ Donna Balon, MidlifeCollage.com
+     *
+
+     This plugin works slick and the customers service is very responsive
+     and helpful.
+       ~ Brian Larson, scgpr.com
+     *
+
+     Rating-Widget was an ideal and unexpectedly simple solution for
+     gathering feedback on our website.
+       ~ Alex Ghita, LitterPal.com
+     *
+
+     Quick to implement, simple to understand! The ratings widget is a
+     terrific tool.
+       ~ Ricardo Mejia, HomeDepot.com
+     *
+
+     Cost effective way to enable us gathering feedback on our published
+     knowledge base. The feedback allows us to continually improve the
+     quality and effectiveness of our knowledge articles.
+       ~ Lisa Renney, ncl.ac.uk (Newcastle University)
+     *
+
+     Rating-Widget adds another layer of interactivity to my website.
+     Rating-Widget offers features that many other plug-ins don't have,
+     including great support. Best ratings plug-in hands down.
+       ~ Richard Vincenti, GeekWithEnvy.com
+     *
+
+     Just what the client needed. Ratings-Widget was easy to set-up and
+     immediately the client could see which of his blog posts are more
+     popular.
+       ~ Alex Harris, DigitalPublishingAustralia.com.au
+     *
+
+     All plugin dev's should follow example of these guys, great plugin,
+     brilliant support!
+       ~ Greg McEwan-Marriott, Smeak.com
+     *
+
+     Our reviews website, GoodOrBadEmail.com, wouldn't have been possible
+     without Rating-Widget.
+       ~ Damian Davila, GoodOrBadEmail.com
+     *
+
+     I have been using RatingWidget for many years on more than 10 sites.
+     I've tried many tools, but nothing seems to be as professional as
+     RatingWidget.
+       ~ Luciano Bellaci, luciano-bellacci.dk
+
+Equipped with Powerful Features
+
+     *
+
+Only 2 minutes to setup | Swift Implementation
+       We made the setup process so simple and fast that even your mom can
+       do it.
+     *
+
+Zero effect on your load time | Lightweight Footprint
+       Our lightweight client side script is only 17kB minified and
+       gzipped. Additionaly, it's loaded asynchronously.
+     *
+
+Boost your search traffic (*) | SEO Optimized
+       Increase your SERP CTR and boost your search traffic with Google
+       Rich-Snippets integration.
+     *
+
+Hassle free setup | Hosted by us - no resource required
+       We provide our ratings solution as a service.
+       No Servers, No Storage - No IT involved!
+     *
+
+Make it shine | Fully Customizable
+       Customize your ratings' look and feel to match your unique
+       website's personality.
+     *
+
+Keep your mobile users in front | Mobile Optimized
+       Don't leave your mobile users in the dark. We made the mobile
+       user-experience highly intuitive and user-friendly.
+     *
+
+Compliant with EU regulations | GDPR Compliant
+       No personal information of your visitors is stored. Identifiable
+       cookies not created for EU visitors unless they opt-in.
+     *
+
+Select your favorite language | Multilingual
+       The Rating-Widget is multilingual and currently translated into 40
+       languages.
+
+   (*) Google Rich-Snippets integration is one of our Premium features. If
+   you are not using our WordPress or Shopify plugins, you might have to
+   integrate with our API. If you have any questions or if you are not
+   sure how it will work, please don't hesitate to contact us. Btw. if you
+   are not tech Savvy, our Customization Team can set the Rich-Snippets
+   for you with some extra setup fee.
+
+Trusted by more than 200,000 Blogs, online Shops & Websites!
+
+Questions And Answers
+
+     *
+
+What is Rating-Widget?
+       Rating-Widget is the RaaS (Rating as a Service) Star Rating System
+       for your Blog or Website. i.e., a voting control which enables
+       rating elements of content on your site by its visitors.
+     *
+
+How is Rating-Widget's Star Rating System different?
+       Unlike other solutions, you can add our star rating system to any
+       website (e.g., HTML, WordPress, Blogger, WiX). It is fully
+       customizable, cross-browser & multilingual system. Our rating
+       system has the most extensive collection of rating
+       templates/designs, both thumbs & stars. The implementation is easy
+       as copy-paste, and the best part - we host the ratings for FREE.
+     *
+
+Why should I add a Rating System for my website?
+       It's a super-effective way of capturing instant feedback from your
+       visitors, readers, and buyers, on the quality of your site's
+       content. Whether it's a blog post, store product, web page, image
+       or whatever element of your website that you want to be rated. Plus
+       our thumb & star ratings are beautiful and absolutely free!
+
+Follow us
+
+     *
+     *
+     *
+     *
+     *
+     *
+
+     * Product
+          + Customer Showcase
+          + WordPress Pricing
+          + Pricing
+          + Language Database
+          + Designs Database
+          + API Documentation
+          + PHP SDK
+          + System Status
+     * Platforms
+          + WordPress Plugin
+          + Blogger Gadget
+          + Tumblr Add-On
+          + Squarespace Add-On
+          + Shopify App
+          + AddThis Extension
+          + Zepo App
+          + WiX App
+          + jQuery
+          + Weebly
+     * Support
+          + FAQ
+          + Documentation
+          + Contact Us
+          + Change Log
+            ____________________ Search
+     * Company
+          + Press
+          + Contact
+          + Blog
+     * Privacy
+          + Privacy Policy
+          + Terms of Service
+
+Create Account
+
+   Already registered? Sign in
+   ____________________
+
+   For localhost simply use http://localhost (you can edit the address
+   later).
+   ____________________
+   [Select Category________________________________________________]

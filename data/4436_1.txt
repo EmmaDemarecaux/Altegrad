@@ -1,0 +1,10 @@
+     * Déplacer
+     * Fermer
+
+Graphisme
+
+   Daniel Habasque, NOSODA (http://www.nosoda.fr/)
+
+Conception web
+
+   STIC - Université d'Angers (http://www.univ-angers.fr)

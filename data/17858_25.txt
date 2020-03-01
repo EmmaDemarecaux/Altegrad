@@ -1,0 +1,40 @@
+
+   https://hal.inria.fr/hal-01083384
+   Contributeur : Radoniaina Andriatsimandefitra <>
+   Soumis le : lundi 17 novembre 2014 - 11:25:32
+   Dernière modification le : jeudi 21 mars 2019 - 14:41:50
+
+Lien texte intégral
+
+   istex
+
+Identifiants
+
+     * HAL Id : hal-01083384, version 1
+     * DOI : 10.1007/978-3-642-45204-8_11
+
+Collections
+
+   INSTITUT-TELECOM | UPMC | UNIV-RENNES1 | INRIA | LIP6 | SUP_CIDRE |
+   IRISA-D1 | IRISA | UR1-UFR-ISTIC | UNIV-RENNES | SORBONNE-UNIVERSITE |
+   SU-SCIENCES
+
+Citation
+
+   Mathieu Jaume, Radoniaina Andriatsimandefitra, Valérie Viet Triem Tong,
+   Ludovic Mé. Secure states versus Secure executions: From access control
+   to flow control. ICISS 2013 - 9th International Conference on
+   Information Systems Security, Dec 2013, Calcutta, India. pp.148-162,
+   ⟨10.1007/978-3-642-45204-8_11⟩. ⟨hal-01083384⟩
+
+Exporter
+
+   BibTeX TEI DC DCterms EndNote
+
+Partager
+
+Métriques
+
+   Consultations de la notice
+
+1540

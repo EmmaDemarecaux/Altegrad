@@ -1,0 +1,29 @@
+
+Horaires
+
+Fermeture des portes 20 minutes avant !
+
+   Agenda du Manoir
+    <   Août, 2019    >
+    L  M  M  J  V  S  D
+            1  2  3  4
+   5  6  7  8  9  10 11
+   12 13 14 15 16 17 18
+   19 20 21 22 23 24 25
+   26 27 28 29 30 31
+     * Manoir fermé
+     * Ouvert de 15h à 19h sans arrêt
+     * Ouvert de 18h à 22h sans arrêt
+     * Halloween
+       Ouvert de 18h à 22h sans arrêt
+     * Halloween
+       Ouvert de 16h à 22h sans arrêt
+     * Halloween
+       Ouvert de 14h à 22h sans arrêt
+     * Noël
+       Ouvert de 18h à 22h sans arrêt
+     * Noël
+       Ouvert de 15h à 19h sans arrêt
+     * Évènement Spécial - Dark Night
+       Ouvert de 18h à 22h sans arrêt
+     * Évènement spécial

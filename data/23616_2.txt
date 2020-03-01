@@ -1,0 +1,7 @@
+
+     * Recherche
+     * Équipes
+     * Membres
+     * Visiteurs
+     * Séminaires
+     * Annuaire

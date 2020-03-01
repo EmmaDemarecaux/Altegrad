@@ -1,0 +1,170 @@
+
+   Approche [fleche.gif] Crénage, Œil.
+
+   [alinea.gif] L’approche typographique est la distance qui sépare l’œil
+   et les bords latéraux de la « lettre » ; c’est donc le blanc latéral
+   fixe qui est ménagé de part et d’autre d’un signe, afin que son œil ne
+   touche pas celui des voisins. Aujourd’hui, l’approche naturelle peut
+   être modifiée, ce qui rend byzantine la distinction entre approche et
+   interlettrage. Anglais : kerning.
+   [alinea.gif] Académie 1994 : « Blanc laissé sur chaque côté d’une
+   lettre pour l’isoler des autres dans la composition. »
+   [alinea.gif] Les définitions données par Littré 1872 et Robert 1993
+   sont erronées. Hachette 1995 et Larousse 1999 ignorent l’acception
+   typographique de ce terme.
+   [alinea.gif] [evidence.gif] En composition chaude, l’approche désignait
+   également la séparation fautive de deux lettres, due à un corps
+   étranger ou à la déformation accidentelle de la matière.
+                        ____________________________
+
+   [alinea.gif] À Typographie, du 6 au 11 décembre 1998.
+   [alinea.gif] A. HURTIG : Pour être plus sérieux : un crénage entre
+   l’apostrophe et le guillemet ouvrant devrait être standard.
+   [alinea.gif] Augmenter l’approche ? Ce ne serait pas du luxe… mais
+   juste un chouïa… pas trop hein ! s’agit pas de se retrouver avec
+   l’équivalent d’une fine ! (Tiens, justement, je vais m’en octroyer
+   une.)
+   [alinea.gif] Pour le reste, il me semble que l’on accorde une
+   importance excessive aux approches de paire. Plus on en intégrera aux
+   polices… plus les paires et les triplettes délaissées sembleront
+   malhonnêtes. De nos jours, j’ai le sentiment que certains
+   typographistes crènent un peu trop les paires indignes (AV, Te, etc.).
+   Le gris, oui ! L’homogénéité ferrigi… ferrugineuse, non ! Crénons, mais
+   avec modération.
+   [alinea.gif] Par ailleurs…
+   [alinea.gif] … On peut se demander par quel miracle nos prédécesseurs
+   parvenaient à obtenir de la belle typo… (Je ne parle pas ici de
+   titrage…)
+   [alinea.gif] T. BOUCHE : « Pour le reste, il me semble que l’on accorde
+   une importance excessive aux approches de paire » : peut-être, ou
+   peut-être non. C’est que probablement les talus d’approche, donc les
+   approches de paires, sont dépassés depuis la dématérialisation des
+   types. Soit on chiade de bons talus, et les corrections d’approche sont
+   exceptionnelles et motivées (ou évitées par des ligatures
+   supplémentaires), mais alors il ne faut pas vouloir jouer trop
+   « serré ». Soit on sacrifie à l’esthétique de l’étroit, du dense, où
+   chaque µm blanc est pourchassé, et il faut ajuster toutes les paires
+   possibles pour conserver une homogénéité potable. Dans ce cas, les
+   talus d’approche sont en fait parfaitement inutiles, seules les paires
+   ont un sens, mais aucun modèle de gestion des fontes ne fonctionne
+   comme ça, je crois.
+   [alinea.gif] « On peut se demander par quel miracle nos prédécesseurs
+   parvenaient à obtenir de la belle typo… » : on peut se demander par
+   quel miracle nous trouvons beau tout ce qui est désuet.
+   [alinea.gif] Qui trouve beau tout ce qui est désuet ? Le plomb n’est
+   pas désuet, il est mort. Avec lui, on a composé des machins
+   affligeants, nuls, hideux, à chier, mais aussi des chefs-d’œuvre
+   d’élégance, d’équilibre, de lisibilité… sans avoir à se préoccuper des
+   approches de paire qui passionnent nos contemporains. Il y a bien une
+   raison… et tu as commencé à l’évoquer dans ton message. J’ajouterai
+   ceci : il est plus facile de multiplier les approches de paire que de
+   définir avec précision et talent l’approche naturelle d’un caractère…
+   beaucoup plus facile…
+   [alinea.gif] Dans bien des cas, les approches de paire sont destinées à
+   corriger des approches naturelles mal conçues… D’où l’on pourrait tirer
+   un énième principe : le nombre d’approches de paire indispensables à
+   une police est inversement proportionnel à la qualité des approches
+   naturelles de celle-ci…
+   [alinea.gif] T. BOUCHE : Alors pourquoi s’en priver ?
+   [alinea.gif] Parce que les résultats ne sont pas identiques…
+   [alinea.gif] Je reviens sur ce point : plus tu multiplies les approches
+   de paire, plus tu rends choquantes celles que tu as oubliées… et plus
+   tu cours le risque d’engendrer un interlettrage élastique. Les
+   approches naturelles participent aussi à la reconnaissance des
+   caractères et même des paires (par les petits yeux des humains).
+   S’amuser à les triturer à l’excès n’aide certainement pas la lecture.
+   Il me semble qu’ici nous sommes tous d’accord pour croire encore qu’un
+   texte composé n’est pas avant tout destiné à être vu (ah ! le beau
+   gris !) mais à être lu.
+   [alinea.gif] T. BOUCHE : Faire l’hypothèse qu’il existe de bonnes
+   approches naturelles que nos apprentis sorciers contemporains ont la
+   paresse de débusquer rend évidemment caduque la correction massive des
+   approches. Seulement, c’est une hypothèse qui n’est pas toujours
+   vérifiée, ton principe est uniquement un théorème au champ
+   d’application limité.
+   [alinea.gif] Cette hypothèse n’est pas « toujours » vérifiée, mais elle
+   l’est dans de très nombreux cas… J’irai jusqu’à dire (comme toi dans le
+   passage suivant) : dans la plupart des cas où le nombre d’approches de
+   paire est pathologiquement élevé.
+   [alinea.gif] T. BOUCHE : Il est de bon ton de nos jours de crier haro
+   sur les créneurs fous. On a vu en effet quelques excès, du genre « Mes
+   typos sont de haute qualité, elles ont au moins 1 500 paires chacune. »
+   Et dans la plupart des cas on observe que ces paires sont […] si
+   nombreuses parce que les approches sont erronées dès le départ (du
+   genre approches toujours symétriques, ou approches des italiques ne
+   tenant pas compte de la pente).
+   [alinea.gif] Serions-nous encore une fois d’accord ?
+   [alinea.gif] T. BOUCHE : Cette idéologie artisanale n’a plus aucune
+   raison d’être. Puisque sa raison d’être a disparu avec l’avènement de
+   la photocompo.
+   [alinea.gif] Tiens donc… Puis-je te rappeler que c’est toi qui as écrit
+   ceci : « Dans ce cas, les talus d’approches sont en fait parfaitement
+   inutiles, seules les paires ont un sens, mais aucun modèle de gestion
+   des fontes ne fonctionne comme ça, je crois. » Dernier mot… Faut-il
+   préciser (oui, on ne sait jamais…) que je ne suis pas parti en guerre
+   contre toutes les approches de paire ? !… Tout le monde sait qu’elles
+   sont évidemment nombreuses à constituer une véritable bénédiction
+   (singulièrement avec certaines caps, entre elles ou devant des bas de
+   casse, bref, les classiques du genre).
+   [alinea.gif] T. BOUCHE : Il est alors facile d’exhiber ce que tu
+   considères comme des exceptions pathologiques, et ce que je prends pour
+   des cas d’espèce qu’on ne peut laisser de côté.
+   [alinea.gif] Ce ne sont pas les cas d’espèce que je qualifie de
+   « pathologiques » mais les approches de paire proliférantes dont la
+   seule utilité est de corriger des défauts de conception.
+   [alinea.gif] T. BOUCHE : Euh… oui… où est le problème ?
+   [alinea.gif] Ici : « Ce fait n’a pas empêché les modèles de gestion des
+   caractères à deux dimensions de reproduire le schéma artisanal hérité
+   du plomb. […] J’imagine qu’on va nous trouver enfin quelque chose de
+   meilleur dans les années à venir. » Ma critique ne porte pas sur demain
+   mais sur aujourd’hui !
+   [alinea.gif] T. BOUCHE : Je ne suis pas opposé à un système où le blanc
+   entre deux caractères consécutifs soit toujours dynamiquement ajusté en
+   fonction du corps, et de chacun des deux caractères…
+   [alinea.gif] Comme tu le sais, des tentatives ont été faites. Tu les
+   trouves convaincantes ?
+   [alinea.gif] T. BOUCHE : … qui rendra ton point de vue non seulement
+   réactionnaire, mais hors sujet !
+   [alinea.gif] Insinuerais-tu que mon point de vue est par nature figé,
+   incapable d’évoluer en tenant compte des avancées techniques ?… Non à
+   la rétroactivité des jugements, surtout quand ils viennent du futur !
+   Réactionnaire… Tu veux vraiment la castagne ?… Provocateur…
+   [alinea.gif] T. BOUCHE : Donc à tirer une croix sur ces « approches
+   naturelles » qui  soit dit entre nous  sont une calamité en début ou
+   fin de ligne ou de mot.
+   [alinea.gif] Bof… une calamité pour le fil à plomb ouiziouigue mais non
+   pour mes yeux…
+   [alinea.gif] À F.L.L.F., le 17 août 2000.
+   [alinea.gif] F. MOLINA : Vous devez savoir que dans une police de
+   caractères bien faite et équilibrée, chaque caractère dispose d’un
+   crénage prédéfini et finement ajusté : des réglages réunis dans une
+   table qui lui permettent de bien se positionner, tout naturellement,
+   avant et après n’importe quel autre signe de la police.
+   [alinea.gif] Oh non, je l’ignorais et vivais dans l’erreur : je pensais
+   bêtement que chaque caractère avait ses approches naturelles et qu’une
+   table d’approches de paire permettait d’ajuster plus finement les
+   occurrences problématiques.
+   [alinea.gif] C’est un débat qui agite les milieux professionnels. Nous
+   vous attendons sur la liste « Typographie », où de tels développements
+   ne seront pas hors sujet. Je suis de ceux qui pensent qu’une table
+   d’approches de paire hypertrophiée (la table, pas la paire) est la
+   marque des polices mal dessinées et dont les approches naturelles ont
+   été mal conçues, en bref qu’elle n’est que du bricolage.
+   [alinea.gif] Le record serait évidemment battu avec votre description,
+   car, si je vous ai bien compris, vous croyez que les tables prévoient
+   une approche de paire pour chaque caractère en contact avec n’importe
+   quel autre caractère de la police ? Je ne suis pas mathématicien, alors
+   je laisse à d’autres le soin de calculer le nombre de paires…
+   [alinea.gif] Les approches naturelles participent aussi à la
+   reconnaissance des caractères et même des paires (par les petits yeux
+   des humains). S’amuser à les triturer à l’excès n’aide certainement pas
+   la lecture.
+   [alinea.gif] F. MOLINA : Dans de telles polices, le point
+   d’exclamation, par exemple, se détache juste ce qu’il faut de la fin du
+   mot…
+   [alinea.gif] C’est inexact. Du moins pour la composition du français
+   par de vrais typographes. Le blanc antérieur des ponctuations hautes
+   est une simple approche pour le monde non civilisé, donc (avant tout)
+   une affaire de dessinateur de caractères… alors que pour nous c’est une
+   espace, donc une affaire de compositeur. La différence n’est pas mince.
+   C’est en gros la même qu’entre contrainte et liberté.

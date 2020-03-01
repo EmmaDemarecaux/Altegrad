@@ -1,0 +1,24 @@
+
+{{filterContent.facetedTitle}}
+
+   {{contentList.dataService.numberHits}}
+   {{contentList.dataService.numberHits == 1 ? 'result' : 'results'}}
+   {{contentList.loadingText}}
+
+   {{item.publishDate}}
+
+{{item.title}}
+
+   {{item.text}}
+
+   {{item.publishDate}}
+
+{{item.title}}
+
+   {{item.text}}
+   {{contentList.loadingText}}
+   {{contentList.loadMoreLabel}} {{contentList.viewAllLabel}}
+   (BUTTON)
+   loading-player
+
+Playback of this video is not currently available

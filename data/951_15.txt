@@ -1,0 +1,68 @@
+
+     * (BUTTON)
+     *
+     *
+          +
+          +
+          +
+          +
+
+   Le présent document décrit un ensemble de mesures et de principes
+   d’architecture, dont la mise en oeuvre vise à contrer ces
+   vulnérabilités potentielles, ou du moins à en limiter l’impact.
+
+   Les recommandations qu’il formule portent sur l’ensemble des composants
+   d’un dispositif de vidéoprotection : déploiement physique des capteurs,
+   architecture du réseau support, configuration des équipements et du
+   centre de supervision.
+
+   Il ne traite en revanche en aucun cas de l’efficacité du dispositif de
+   vidéoprotection, et ne recommande pas de produits en particulier.
+
+   Enfin, l’application de ces recommandations techniques ne dispense pas
+   du respect des réglementations en vigueur, et ne doit pas se substituer
+   à une analyse de risques détaillée propre à chaque déploiement.
+
+     * [icon_dl.png]
+       pdf
+
+Note technique
+       48.98 Ko
+
+   [icon_toppage.png]
+
+     * L'ANSSI
+          + [icon_anssiBlanc_mini.png]
+          + Missions
+          + Organisation
+          + La cybersécurité en France
+          + Rayonnement scientifique
+          + Contacts
+     * Administration
+          + [icon_administrationBlanc_mini.png]
+          + Principales menaces
+          + Réglementation
+          + Visa de sécurité
+          + Bonnes pratiques
+          + Services sécurisés
+          + Formations
+          + Management du risque
+          + Glossaire
+     * Entreprise
+          + [icon_entrepriseBlanc_mini.png]
+          + Principales menaces
+          + Précautions élémentaires
+          + Réglementation
+          + Visa de sécurité
+          + Bonnes pratiques
+          + Formations
+          + Management du risque
+          + Glossaire
+     * Particulier
+          + [icon_particulierBlanc_mini.png]
+          + Principales menaces
+          + Précautions élémentaires
+          + Bonnes pratiques
+          + Logiciels préconisés par l’ANSSI
+          + Formations
+          + Glossaire

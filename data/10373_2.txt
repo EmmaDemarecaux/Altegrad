@@ -1,0 +1,60 @@
+
+   A l’ère de la domotique et des économies d’énergie, le suivi de la
+   consommation d’électricité dans nos maison devient un point
+   incontournable. Détecter les appareils électriques gourmands, optimiser
+   sa consommation en jouant sur les tarifs heures creuses/pleines, opter
+   pour des ampoules à économie d’énergie et couper ses équipements
+   multimédia lorsqu’on ne s’en sert pas : autant de gestes qui prennent
+   sens à partir du moment où l’on peut en mesurer l’effet sur sa facture
+   EDF.
+
+   Dans cet article, nous allons explorer une méthode très simple pour
+   collecter et analyser les informations de notre compteur EDF et les
+   représenter sur un graphique. Comme toujours sur magdiblog.fr, nous
+   utiliserons un Raspberry Pi pour construire ce petit système 🙂
+
+   Continuer la lecture →
+
+Partager :
+
+     * Cliquez pour partager sur Facebook(ouvre dans une nouvelle fenêtre)
+     * Cliquez pour partager sur Twitter(ouvre dans une nouvelle fenêtre)
+     * Cliquez pour partager sur Google+(ouvre dans une nouvelle fenêtre)
+     * Cliquez pour partager sur Pinterest(ouvre dans une nouvelle
+       fenêtre)
+     * Cliquez pour partager sur LinkedIn(ouvre dans une nouvelle fenêtre)
+     * Cliquez pour partager sur Tumblr(ouvre dans une nouvelle fenêtre)
+     * Cliquez pour envoyer par e-mail à un ami(ouvre dans une nouvelle
+       fenêtre)
+     *
+
+   Cette entrée a été publiée dans Domotique, GPIO, et marquée avec
+   compteur, consommation, dashboard, domotique, économie, EDF,
+   électricité, électronique, énergie, ERDF, Google Chart, gpio, heures
+   creuses, heures pleines, optocoupleur, php, raspberry pi, raspbian,
+   résistance, SFH620A, sqlite, teleinfo, TTL, ttyAMA0, UART, le août 2016
+   par Olivier.
+
+Jeu concours pour les 3 ans de MagdiBlog – MàJ – Résultats du concours !
+
+   397 réponses
+
+   magdiblog_jeu_concours
+
+Résultats du concours :
+
+   Vous avez été près de 400 participants à ce concours organisé à
+   l’occasion des 3 ans de magdiblog.fr !
+
+   Félicitations à Philippe alias ay15ho11 qui a été tiré au sort grâce au
+   plugin Comment Contest 🙂
+
+   magdiblog_concours_gagnant
+
+   Philippe, je vous invite à me contacter en utilisant la page contact du
+   site pour que je puisse vous faire parvenir vos cadeaux 🙂
+
+   Merci à toutes et à tous pour votre participation 🙂 Je vous souhaite un
+   excellent week end et un très bon été à venir !
+
+   Olivier

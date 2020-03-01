@@ -1,0 +1,194 @@
+
+   https://tel.archives-ouvertes.fr/tel-01622157
+   Contributeur : Abes Star <>
+   Soumis le : mardi 24 octobre 2017 - 10:26:20
+   Dernière modification le : vendredi 22 mars 2019 - 01:31:11
+   Document(s) archivé(s) le : jeudi 25 janvier 2018 - 12:27:21
+
+Fichier
+
+   [small]
+   these_archivage_3070090o.pdf
+   Version validée par le jury (STAR)
+
+Identifiants
+
+     * HAL Id : tel-01622157, version 1
+
+Collections
+
+   STAR | THESES-UPMC | IPLESP | UPMC | SORBONNE-UNIVERSITE | SU-MEDECINE
+
+Citation
+
+   Ce�cile Vuillermoz. Conditions de vie, état de santé et recours aux
+   soins des femmes sans logement personnel hébergées en Ile-de-France.
+   Santé publique et épidémiologie. Université Pierre et Marie Curie -
+   Paris VI, 2017. Français. ⟨NNT : 2017PA066108⟩. ⟨tel-01622157⟩
+
+Exporter
+
+   BibTeX TEI DC DCterms EndNote
+
+Partager
+
+Métriques
+
+   Consultations de la notice
+
+916
+
+   Téléchargements de fichiers
+
+984
+
+Contact
+
+   support.ccsd.cnrs.fr
+   hal.support@ccsd.cnrs.fr
+   Logo CCSD
+   #HAL
+
+   (BUTTON) Toggle navigation
+   CCSD
+     * HAL
+          + HAL
+          + HALSHS
+          + TEL
+          + MédiHAL
+          + Liste des portails
+          +
+          + AURéHAL
+          + API
+          + Data
+          + Documentation
+     * Episciences.org
+          + Episciences.org
+          + Revues
+          +
+          + Documentation
+     * Sciencesconf.org
+     * Support
+
+   (BUTTON)  Connexion (BUTTON)
+     * Connexion
+     * Connexion avec ORCID
+     * se connecter avec Fédération
+     *
+     * Créer un compte
+     *
+     * Mot de passe oublié ?
+     * Login oublié ?
+
+     * fr
+     * en
+
+   HAL - hal.archives-ouvertes.fr CCSd - Centre pour la Communication
+   Scientifique Direct
+     * Accueil
+     * Dépôt
+     * Consulter
+          + Les derniers dépôts
+          + Par discipline
+          + Par date de soutenance
+          + Consultation par collections
+     * Recherche
+     * Documentation HAL
+
+   (BUTTON) tel-01570446, version 1
+
+   (BUTTON) en (BUTTON) fr
+   Epidemiology of malaria in persons working on illegal gold mining sites
+   in French Guiana : challenges for public health
+   Epidémiologie du paludisme chez les personnes travaillant sur des sites
+   d’orpaillage illégal en Guyane : Quels enjeux pour la santé publique ?
+   Maylis Douine ^1 (BUTTON) Détails
+   1 UG - Université de Guyane
+
+       Maylis Douine ^1 AuthorId : 1310307
+     Auteur
+
+   1 UG - Université de Guyane (Campus de Troubiran - BP 20792- 97337
+   Cayenne Cedex - Guyane - Guyane française) StructId : 424370
+   (BUTTON) Masquer les détails
+   (BUTTON) en (BUTTON) fr
+   Abstract : Introduction: Although official data show a global decrease
+   of malaria in French Guiana, this disease often affects illegal gold
+   miners working in the deep Amazonian forest. The main objective of this
+   study was to evaluate the malaria prevalence in this population. The
+   secondary objectives were to evaluate and map the proportion of
+   Plasmodium species, to assess behavior, attitudes and practices
+   regarding malaria in this population, to measure the artemisinin
+   resistance level in parasites and to evaluate their general health.
+   Material and methods: Inclusions took place at the gold miners’ resting
+   sites, spread along the Maroni river. After recording their informed
+   consent, a malaria rapid test was performed, as well as a
+   questionnaire, a clinical exam and a blood sample for microscopy, PCR
+   and resistance test (RSA and PfK13 genotyping for P. falciparum
+   positive samples). Results: From January to June 2015, 421 gold miners
+   were included, mainly men (sex ratio 2.4), Brazilian nationals (93.8%),
+   with a median age of 37 years. Plasmodium prevalence using PCR was
+   22.3% (CI95%: 18.3 - 26.3), of whom 84% were asymptomatic. During the
+   last malaria attack, 52.4% selfmedicated with artemisinin derivatives
+   (93.8%) and a poor treatment adherence (37.8%). Being in French Guiana
+   when the malaria attack occurred was strongly associated with
+   selfmedication (AOR=22.1). One sample showed a survival rate higher
+   than 1% in RSA test but PfK13 genotyping did not reveal any mutation in
+   P. falciparum. Discussion: This high prevalence of asymptomatic
+   carriers constitutes a huge reservoir for malaria transmission in the
+   region. Massive use of artemisinin derivatives associated with poor
+   treatment adherence are factors that may contribute to the emergence of
+   artemisinin resistance. That would have huge sanitary and economical
+   consequences. With political will, actions are possible to limit this
+   risk, as the distribution of kits for self diagnosis and self-treatment
+   with training on resting sites.
+   Résumé : Introduction : Bien que les données officielles fassent état
+   d’une diminution globale du nombre de cas de paludisme en Guyane, les
+   orpailleurs travaillant sur les sites illégaux au cœur de la forêt
+   amazonienne semblent très touchés par cette pathologie. L’objectif
+   principal de cette étude était de déterminer la prévalence du paludisme
+   dans cette population. Les objectifs secondaires évaluaient la
+   proportion des différentes espèces plasmodiales et leur distribution
+   géographique, le niveau de résistance des parasites aux dérivés de
+   l’artémisinine, les connaissances attitudes et pratiques vis à vis de
+   cette pathologie, et des données de santé de cette population. Matériel
+   et méthodes : Les inclusions ont eu lieu sur les sites de repli des
+   orpailleurs le long du fleuve Maroni. Après recueil du consentement
+   éclairé, un test de diagnostic rapide du paludisme était effectué,
+   ainsi qu’un questionnaire, un examen clinique, et un prélèvement de
+   sang pour microscopie, PCR et tests de résistance (RSA et génotypage du
+   gène pfK13 pour les PCR positives à Plasmodium falciparum). Résultats :
+   De janvier à juin 2015, 421 orpailleurs ont été inclus, majoritairement
+   des hommes (70,6%) brésiliens (93,8%), de médiane d’âge de 37 ans. La
+   prévalence du portage de plasmodies déterminée par PCR était de 22,3%
+   (IC95% : 18,3-26,3) à 84% asymptomatiques. Les espèces identifiées
+   étaient principalement P. falciparum (47,9%) puis P. vivax (37,2%) avec
+   10,6% de coinfections. Lors du dernier accès palustre, 52,4% des
+   orpailleurs avaient eu recours à l’automédication, majoritairement avec
+   des dérivés de l’artémisinine (93,8%) avec une mauvaise observance
+   (37,8%). Le fait d’être en Guyane était fortement associé à
+   l’automédication (AOR=22,1). Le test RSA montrait un taux de survie
+   supérieur à 1% pour un échantillon mais l’analyse du gène pfK13 ne
+   mettait pas en évidence de mutations associées à la résistance à P.
+   falciparum Discussion: La prévalence élevée de porteurs asymptomatiques
+   de paludisme constitue un réservoir important pourla transmission du
+   paludisme dans la région. L’utilisation massive de dérivés de
+   l’artémisinine associée à une mauvaise observance sont des facteurs de
+   risque d’émergence de résistance, ce qui entraînerait des conséquences
+   sanitaires et économiques importantes. Avec une volonté politique, des
+   actions sont possibles pour limiter ce risque, comme la distribution de
+   kits d’autodiagnostic et d’auto-traitement avec une formation au niveau
+   des sites de repli.
+   (BUTTON) en (BUTTON) fr
+   Keywords : Epidemiology Public Health Resistance of artemisinin French
+   Guiana Malaria Gold Panning The Amazon rainforest
+   Mots-clés : Paludisme Orpaillage Guyane française Résistance à
+   l'artemisinine Santé publique Épidémiologie Amazonie
+   Type de document :
+   Thèse
+   Domaine :
+
+   Sciences du Vivant [q-bio] / Autre [q-bio.OT]
+
+   Liste complète des métadonnées (BUTTON)  Voir (BUTTON)  Masquer
+   Littérature citée [285 références]  Voir  Masquer  Télécharger

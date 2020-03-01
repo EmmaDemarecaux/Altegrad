@@ -1,0 +1,218 @@
+
+   https://hal.inria.fr/hal-01515359
+   Contributeur : Pierre Sens <>
+   Soumis le : jeudi 27 avril 2017 - 13:13:50
+   Dernière modification le : mardi 11 juin 2019 - 11:16:52
+
+Fichier
+
+   [small]
+   voron17eurosys-xen-numa.pdf
+   Fichiers produits par l'(les) auteur(s)
+
+Identifiants
+
+     * HAL Id : hal-01515359, version 1
+
+Collections
+
+   LIP6 | UPMC | INRIA2017 | INRIA | UGA | INSTITUT-TELECOM |
+   TELECOM-SUDPARIS | UNIV-PARIS-SACLAY | INRIA-ROCQ | SORBONNE-UNIVERSITE
+   | LIG_SRCPR_ERODS | LIG | LIG_SRCPR | SU-SCIENCES |
+   TSP-PARALLEL-DISTRIBUTED-SYSTEMS
+
+Citation
+
+   Gauthier Voron, Gaël Thomas, Vivien Quema, Pierre Sens. An interface to
+   implement NUMA policies in the Xen hypervisor. Twelfth European
+   Conference on Computer Systems, EuroSys 2017 , Apr 2017, Belgrade,
+   Serbia. pp.15. ⟨hal-01515359⟩
+
+Exporter
+
+   BibTeX TEI DC DCterms EndNote
+
+Partager
+
+Métriques
+
+   Consultations de la notice
+
+793
+
+   Téléchargements de fichiers
+
+1059
+
+Contact
+
+   archive-ouverte@inria.fr
+   #HAL
+
+   (BUTTON) Toggle navigation
+   CCSD
+     * HAL
+          + HAL
+          + HALSHS
+          + TEL
+          + MédiHAL
+          + Liste des portails
+          +
+          + AURéHAL
+          + API
+          + Data
+          + Documentation
+     * Episciences.org
+          + Episciences.org
+          + Revues
+          +
+          + Documentation
+     * Sciencesconf.org
+     * Support
+
+   (BUTTON)  Connexion (BUTTON)
+     * Connexion
+     * Connexion avec ORCID
+     * se connecter avec Fédération
+     *
+     * Créer un compte
+     *
+     * Mot de passe oublié ?
+     * Login oublié ?
+
+     * fr
+     * en
+
+         HAL-Inria Les publications, logiciels... des scientifiques
+   Inria
+     * Accueil
+     * Déposer
+     * Consulter tout HAL
+          + par date de publication/rédaction
+          + par domaine
+          + par type de publication
+          + par collection
+          + arXiv
+          + les derniers dépôts
+     * Publications Inria
+     * Recherche
+     * Services
+          + HalTools : créer sa page web
+          + Haltools : export RAWEB
+          + X2Hal : import par lot
+          + Consulter les structures de recherche connues de HAL
+     * Documentation
+          + Aide en ligne de HAL V3
+          + Dernières évolutions de HAL V3
+          + Documentation API HAL
+          + Ajouter des vignettes
+          + Aide en ligne Haltools
+          + Aide en ligne de Bib2hal
+     * OpenAccess
+          + Inria soutient la science ouverte
+
+   (BUTTON) hal-01352109, version 1
+
+Failure Detection and Propagation in HPC systems
+
+   George Bosilca ^1 Aurélien Bouteiller ^1 Amina Guermouche ^1 Thomas
+   Hérault ^1 Yves Robert ^2, 1 Pierre Sens ^3 Jack Dongarra ^1 (BUTTON)
+   Détails
+   1 ICL - Innovative Computing Laboratory [Knoxville]
+   2 ROMA - Optimisation des ressources : modèles, algorithmes et
+   ordonnancement
+   Inria Grenoble - Rhône-Alpes, LIP - Laboratoire de l'Informatique du
+   Parallélisme
+   3 Regal - Large-Scale Distributed Systems and Applications
+   LIP6 - Laboratoire d'Informatique de Paris 6, Inria de Paris
+
+       George Bosilca ^1 AuthorId : 555766
+     Auteur
+
+       Aurélien Bouteiller ^1 AuthorId : 147403
+     Auteur
+
+       Amina Guermouche ^1 AuthorId : 688062
+     Auteur IdHAL : aguermouche
+
+       Thomas Hérault ^1 AuthorId : 1123248
+     Auteur
+
+       Yves Robert ^2, 1 AuthorId : 1123249
+     Auteur
+
+       Pierre Sens ^3 AuthorId : 98482
+     Auteur
+
+       Jack Dongarra ^1 AuthorId : 439027
+     Auteur
+
+   1 ICL - Innovative Computing Laboratory [Knoxville] (Suite 203 Claxton
+   1122 Volunteer Blvd Knoxville, TN 37996 - États-Unis) StructId : 135613
+     * The University of Tennessee [Knoxville] ( Knoxville, Tennessee
+       37996 - États-Unis) StructId : 303308
+
+   2 ROMA - Optimisation des ressources : modèles, algorithmes et
+   ordonnancement (Laboratoire de l'Informatique du Parallélisme 46 Allée
+   d'Italie 69364 Lyon - France) StructId : 179718
+     * Inria Grenoble - Rhône-Alpes (Inovallée 655 avenue de l'Europe
+       38330 Montbonnot - France) StructId : 2497
+          + Inria - Institut National de Recherche en Informatique et en
+            Automatique (Domaine de Voluceau Rocquencourt - BP 105 78153
+            Le Chesnay Cedex - France) StructId : 300009
+     * LIP - Laboratoire de l'Informatique du Parallélisme (46 Allée
+       d'Italie 69364 LYON CEDEX 07 - France) StructId : 35418
+          + ENS Lyon - École normale supérieure - Lyon (15 parvis René
+            Descartes - BP 7000 - 69342 Lyon Cedex 07 - France) StructId :
+            6818
+          + UCBL - Université Claude Bernard Lyon 1 (43, boulevard du 11
+            novembre 1918, 69622 Villeurbanne cedex - France) StructId :
+            194495
+               o Université de Lyon (92 rue Pasteur - CS 30122, 69361 Lyon
+                 Cedex 07 - France) StructId : 301088
+          + Inria - Institut National de Recherche en Informatique et en
+            Automatique (Domaine de Voluceau Rocquencourt - BP 105 78153
+            Le Chesnay Cedex - France) StructId : 300009
+          + Université de Lyon (92 rue Pasteur - CS 30122, 69361 Lyon
+            Cedex 07 - France) StructId : 301088
+          + CNRS - Centre National de la Recherche Scientifique : UMR5668
+            (France) StructId : 441569
+
+   3 Regal - Large-Scale Distributed Systems and Applications (France)
+   StructId : 454683
+     * LIP6 - Laboratoire d'Informatique de Paris 6 (4 Place JUSSIEU 75252
+       PARIS CEDEX 05 - France) StructId : 233
+          + UPMC - Université Pierre et Marie Curie - Paris 6 (4 place
+            Jussieu - 75005 Paris - France) StructId : 93591
+          + CNRS - Centre National de la Recherche Scientifique : UMR7606
+            (France) StructId : 441569
+     * Inria de Paris (2 rue Simone Iff - CS 42112 - 75589 Paris Cedex 12
+       - France) StructId : 454310
+          + Inria - Institut National de Recherche en Informatique et en
+            Automatique (Domaine de Voluceau Rocquencourt - BP 105 78153
+            Le Chesnay Cedex - France) StructId : 300009
+
+   (BUTTON) Masquer les détails
+   Abstract : Building an infrastructure for Exascale applications
+   requires, in addition to many other key components, a stable and
+   efficient failure detector. This paper describes the design and
+   evaluation of a robust failure detector, able to maintain and
+   distribute the correct list of alive resources within proven and
+   scalable bounds. The detection and distribution of the fault
+   information follow different overlay topologies that together guarantee
+   minimal disturbance to the applications. A virtual observation ring
+   minimizes the overhead by allowing each node to be observed by another
+   single node, providing an unobtrusive behavior. The propagation stage
+   is using a non-uniform variant of a reliable broadcast over a circulant
+   graph overlay network, and guarantees a logarithmic fault propagation.
+   Extensive simulations, together with experiments on the Titan ORNL
+   supercomputer, show that the algorithm performs extremely well, and
+   exhibits all the desired properties of an Exascale-ready algorithm.
+   Type de document :
+   Communication dans un congrès
+   Domaine :
+
+   Informatique [cs] / Calcul parallèle, distribué et partagé [cs.DC]
+
+   Liste complète des métadonnées (BUTTON)  Voir (BUTTON)  Masquer
+   Littérature citée [28 références]  Voir  Masquer  Télécharger

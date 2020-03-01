@@ -1,0 +1,10 @@
+
+   Manoj Thulasidas 200+ installations actives Testé avec 4.8.10 Mise à
+   jour il y a 2 ans
+
+Better Follow Button for Jetpack
+
+   (6 notes en tout)
+
+   Adds a floating subscription button (like on WordPress.com sites) to
+   Jetpack-powered WordPress.org sites.

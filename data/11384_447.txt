@@ -1,0 +1,79 @@
+
+   Informations à compléter
+   Informations à modifier (BUTTON) Informations à modifier
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   Informations rectifiées (BUTTON) Informations rectifiées
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+
+   Destinataire
+   Nom de l'organisme
+   ____________________________________________________________
+   Adresse
+
+   __________________________________________________
+   __________________________________________________
+   __________________________________________________
+   __________________________________________________
+   Code postal
+   ____________________________________________________________
+   Ville ____________________________________________________________
+
+   Expéditeur
+   Nom ____________________________________________________________
+   Prénom ____________________________________________________________
+   Adresse
+
+   __________________________________________________
+   __________________________________________________
+   __________________________________________________
+   __________________________________________________
+   Code postal
+   ____________________________________________________________
+   Ville ____________________________________________________________
+
+   (Valider et créer le courrier) Valider et créer le courrier
+
+   Les informations de ce formulaire sont facultatives. Elles sont
+   destinées à faciliter l'exercice des droits informatique et libertés.
+   La CNIL ne conserve aucune des informations personnelles saisies.
+
+   Besoin d'aide
+   Abonnez-vous à la lettre d'information
+   Courriel * ____________________________________________________________
+   (Ok) Ok
+
+   Votre adresse de messagerie est uniquement utilisée pour vous envoyer
+   les lettres d'information de la CNIL. Vous pouvez à tout moment
+   utiliser le lien de désabonnement intégré dans la newsletter. En savoir
+   plus sur la gestion de vos données et vos droits
+   Logo CNIL footer
+
+   Commission Nationale de l'Informatique et des Libertés
+   Suivez-nous
+   Facebook
+   Twitter
+     * Médiathèque
+     * Glossaire
+     * Lexique FR-EN
+     * Besoin d'aide
+     * Presse
+     * FR|EN
+     * Gestion des cookies
+
+   Ma conformité au RGPD
+     * Comprendre le RGPD
+     * Passer à l'action
+     * Les outils de la conformité
+     * Suivre le Mooc RGPD
+     * Services en ligne
+     * Le contrôle de la CNIL

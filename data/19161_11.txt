@@ -1,0 +1,226 @@
+
+
+    Apache Sling
+
+   PwC | Caribbean
+     * (BUTTON) Search
+       Search ____________________
+     * (BUTTON) Share
+     * (BUTTON)
+     *
+
+   Skip to content Skip to footer (BUTTON)
+   Menu
+     * (BUTTON)
+     *
+
+   Share this page
+     * Services
+     * Industries
+     * About
+     * Careers
+
+     * All services
+     * Tax and legal services
+
+     * Advisory services
+
+     * Assurance services
+
+     * About us
+     * Our leadership team
+
+     * Corporate responsibility
+     * Human rights statement
+
+     * Our islands
+     * Diversity and inclusion
+
+Being a smarter risk taker through digital transformation
+
+   2019 Risk in Review Study
+   Read more
+
+Featured
+
+   Paying Taxes 2019 14 years of data & analysis of tax systems in 190
+   economies: how is technology affecting tax administration and policy?
+   Corporate responsibility It's time to accelerate the pace of change.
+   We've made new environment commitments across the Caribbean. Learn
+   more.
+
+{{filterContent.facetedTitle}}
+
+   {{contentList.loadingText}}
+
+   {{item.publishDate}}
+
+{{item.title}}
+
+   {{item.text}}
+
+   {{item.publishDate}}
+
+{{item.title}}
+
+   {{item.text}}
+   {{contentList.loadingText}}
+   {{contentList.loadMoreLabel}} {{contentList.viewAllLabel}}
+   (BUTTON)
+   loading-player
+
+Playback of this video is not currently available
+
+Who we are
+
+   We’re a group of separate PwC member firms operating in the Caribbean.
+   We serve clients across the region, providing quality assurance,
+   advisory, tax and legal services to international, regional and local
+   businesses and government organisations.
+
+   Read more
+
+Territories
+
+     * PwC Bahamas
+     * PwC Bermuda
+     * PwC British Virgin Islands
+     * PwC Cayman Islands
+     * PwC East Caribbean
+     * PwC Jamaica
+     * PwC Trinidad and Tobago
+     * PwC Turks and Caicos
+
+   Follow us [follow_twitter.png]
+     * PwC in the Caribbean
+
+   Services
+   Industries
+   About us
+   Careers
+   Press room
+   Contact us
+
+   © 2017 - Thu Oct 03 18:31:37 UTC 2019 PwC. PwC. All rights reserved.
+   PwC refers to the PwC network and/or one or more of its member firms,
+   each of which is a separate legal entity. Please see
+   www.pwc.com/structure for further details
+     * Offices worldwide
+     * Privacy
+     * Cookies info
+     * Legal
+     * About site provider
+     * Site map
+
+   PwC | Cayman Islands
+     * (BUTTON) Search
+       Search ____________________
+     * (BUTTON) Share
+     * (BUTTON)
+     *
+
+   Skip to content Skip to footer (BUTTON)
+   Menu
+     * (BUTTON)
+     *
+
+   Share this page
+     * Services
+     * Industries
+     * Careers
+     * About us
+
+     * All services
+     * Tax and legal services
+
+     * Advisory
+
+     * Audit and assurance
+
+     * All industries
+     * Insurance
+
+     * Alternative asset management
+
+     * Banking
+
+     * About PwC Cayman Islands
+     * Human rights statement
+
+     * Our leaders
+     * Code of conduct
+
+     * Alumni
+     * Diversity and inclusion
+
+Being a smarter risk taker through digital transformation
+
+   2019 Risk in Review Study
+   Read more
+
+Featured
+
+   Paying Taxes 2019 Fourteen years of data and analysis of tax systems in
+   190 economies.
+   Economic Substance - The Cayman Islands The Cayman Islands Government
+   passed The International Tax Co-operation Law, 2018, which was
+   effective January 1, 2019.
+
+{{filterContent.facetedTitle}}
+
+   {{contentList.loadingText}}
+
+   {{item.publishDate}}
+
+{{item.title}}
+
+   {{item.text}}
+
+   {{item.publishDate}}
+
+{{item.title}}
+
+   {{item.text}}
+   {{contentList.loadingText}}
+   {{contentList.loadMoreLabel}} {{contentList.viewAllLabel}}
+   (BUTTON)
+   loading-player
+
+Playback of this video is not currently available
+
+Careers
+
+   PwC is all about you. Whether you’re just starting out or are an
+   experienced professional, your future starts here.
+
+   Explore PwC careers
+
+PwC in the Caribbean
+
+   We’re a group of separate PwC member firms operating in the Caribbean.
+   We serve clients across the region, providing quality assurance,
+   advisory, tax and legal services to international, regional and local
+   businesses and government organisations.
+
+   Explore
+   Follow us [follow_twitter.png] [follow_linkedin.png]
+   [follow_facebook.png] [follow_youtube.png]
+     * Home
+
+   Services
+   Industries
+   About us
+   Careers
+   Contact us
+
+   © 2017 - Thu Oct 03 18:58:30 UTC 2019 PwC. All rights reserved. PwC
+   refers to the PwC network and/or one or more of its member firms, each
+   of which is a separate legal entity. Please see www.pwc.com/structure
+   for further details.
+     * Press room
+     * Offices worldwide
+     * Privacy
+     * Cookies info
+     * Legal
+     * About site provider
+     * Site map

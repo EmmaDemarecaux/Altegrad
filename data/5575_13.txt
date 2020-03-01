@@ -1,0 +1,29 @@
+
+   Chocolatey installs in just seconds! Learn how to get up and running
+   with Chocolatey with a basic or more advanced install method.
+   Start Learning
+    1. Course Summary, Rules, and Guidlines 10 Minutes | Critical
+       information you should know before creating your first package.
+    2. General Information and Nuspec 5 Minutes | Nuget (and Chocolatey)
+       General Information and Nuspec.
+    3. The Choco New Command 5 Minutes | Learn the exit codes, options,
+       and switches.
+    4. Naming, Description, and Versioning Recommendations 15 Minutes |
+       Learn best practices on the specification.
+    5. Installing, Upgrading, and Uninstalling Your Package 10 Minutes |
+       Learn about installation paths, upgrading, and uninstalling your
+       package.
+    6. All About Shims 5 Minutes | Learn what a shim is and what it
+       enables.
+    7. Internationalization and Localization of Packages 5 Minutes | Find
+       examples of the various techniques used to localize a package.
+    8. Building, Testing, and Pushing Your Package 10 Minutes | Learn best
+       techniques for preparing and testing your package.
+    9. Automatic Packaging 5 Minutes | Requirements and setup instructions
+       on how to automatically update a package.
+   10. Package Maintainer Handover 5 Minutes | Read the steps on how to
+       properly take of an existing package
+
+   Creating Chocolatey Packages
+
+   10 Topics | 1.5 Hours | Intermediate

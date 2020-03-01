@@ -1,0 +1,13 @@
+
+     * Le registre des traitements
+     * Les exemples de mentions d'information
+     * Les cadres de référence
+     * L'analyse d'impact (AIPD)
+     * Les transferts de données hors de l'UE et BCR
+     * La certification et les codes de conduite
+     * Les normes et les dispenses
+
+   push mooc
+
+   Suivre le Mooc RGPD
+   Services en ligne

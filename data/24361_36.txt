@@ -1,0 +1,124 @@
+
+   Si vous voulez que le tableau devienne une décoration remarquable dans
+   votre intérieur, choisissez le châssis solide de 4cm d'épaisseur. Il
+   est fabrqué du bois de la plus haute qualité qui garantira un effet
+   maximal sur votre mur.
+   Nous recommandons ce châssis surtout pour:
+     * tableaux qui joueront le rôle d'une décoration dominante ,
+     * intérieurs spacieux ( lofts, les halls d'hôtels, salles de
+       conférence )
+
+   *tech
+          ____________________
+
+          Maximum number of characters: 30
+
+   *loom
+          ____________________
+
+          Maximum number of characters: 30
+
+   extra
+
+          _________________________
+          _________________________
+          _________________________
+          _________________________
+          _________________________
+
+          Maximum number of characters: 500
+
+   technique
+          <%- technique %>____
+
+   loom
+          <%- loom %>_________
+
+   dimensions
+          <%- dimensions %>___
+
+   file_path
+          <%- file_path %>____
+
+   parts_count
+          <%- parts_count %>__
+
+   area
+          <%- area %>_________
+
+   additional
+          <%- additional %>___
+
+   listing_id
+          <%- listing_id %>___
+
+   Newsletter
+   Inscrivez-vous pour recevoir:
+     * des inspirations
+     * des conseils décoratifs
+     * des nouveautés
+
+   ____________________ [X]
+   Veuillez prendre connaissance de notre politique de confidentialité.
+   Vous pouvez à tout moment vous désabonner.
+   Vous êtes bien inscrit
+   Carte cadeau carte cadeau voir
+   Catalogue catalogue Tendances2019 voir
+   [XC529E671465CB59A48AD97FA4CB79B38.gif]
+
+   [X]
+
+Qui sommes-nous
+
+     * Découvrir bimago
+     * Nos produits
+     * Comment sont fabriqués nos produits ?
+     * Contact
+
+   [X]
+
+CGV
+
+     * Conditions générales de vente
+     * Politique de confidentialité
+     * Droit de rétractation
+     * Mentions légales
+
+   [X]
+
+Coopération
+
+     * Contact pour les médias
+     * Coopération/Dropshipping
+
+   [X]
+
+Aide
+
+     * FAQ
+     * Comment passer la commande ?
+     * Délai de réalisation
+     * Expédition
+     * Modes de paiement
+     * Instructions de montage
+
+   +33 178 900 750
+   [email protected]
+   Copyright © 2018 bimago. All Rights Reserved.
+     * UK
+     * GB
+     * FR
+     * DE
+     * IT
+     * NL
+     * PL
+     * PT
+     * RU
+     * ES
+     * SE
+
+   b8a065ba3427d51b279d10070f6416cc
+
+   Le produit a bien été ajouté au panier. Veuillez patienter
+
+   Processing...

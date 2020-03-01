@@ -1,0 +1,12 @@
+
+                         Site funded and managed by:
+                      Site funded and managed by Symas
+
+   This site is powered by open source software.
+
+                            Hosting provided by:
+                          Hosting provided by Symas
+
+   ________________
+   © Copyright 2014-2019, OpenLDAP Foundation. Privacy Statement
+   $Id: 5b1812e1fd818f0c7f87cdfbaf3149fad4ff4d08 $

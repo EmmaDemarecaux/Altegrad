@@ -1,0 +1,26 @@
+
+Chèques cadeaux acceptés par l'établissement
+
+   [coffret_header1-w350px.jpg]
+
+"Invitation au voyage"
+
+   Grâce au chèque cadeau, faites plaisir à coup sûr. Une richesse
+   d'adresses pour satisfaire toutes les envies : hôtels designs, table
+   gourmande, châteaux, abbayes, maisons d'hôtes...
+   Découvrez nos chèques cadeaux
+   Votre recherche
+   ARRIVEE
+   DEPART
+   Effacer dates
+   [ 1 Chambre_e.]
+   [ 2 Adulteses]
+   [ 0 Enfant_t.]
+   [Age enfant 1';]
+   [Age enfant 2';]
+   [Age enfant 3';]
+   [Age enfant 4';]
+   [Age enfant 5';]
+   [Age enfant 6';]
+   Veuillez renseigner l'âge de chaque enfant
+   (BUTTON) Vérifier les disponibilités

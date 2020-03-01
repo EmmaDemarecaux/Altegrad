@@ -1,0 +1,10 @@
+
+   Benjamin Denis 70 000+ installations actives Testé avec 5.2.3 Mise à
+   jour il y a 2 semaines
+
+Easy Plugin Stats
+
+   (3 notes en tout)
+
+   Easily display stats about plugins that reside in the WordPress.org
+   repository.

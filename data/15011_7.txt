@@ -1,0 +1,16 @@
+
+   IFRAME:
+   https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?st
+   ruct=NIMEC&NbAffiche=5&CB_auteur=oui&CB_titre=oui&CB_identifiant=oui&CB
+   _article=oui&CB_vignette=oui&langue=Francais&tri_exp=date_publi&ordre_a
+   ff=TA&Fen=Aff&css=../css/VisuOmbreVignettes.css
+
+   Toutes les publications sur le portail HAL »
+
+
+   IRIHS
+   Université de Caen
+   Région Normandie
+   Europe en Haute Normandie avec le FEDER
+   Université du Havre
+   Université de Rouen

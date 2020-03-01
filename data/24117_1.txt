@@ -1,0 +1,692 @@
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate
+
+   ____________________ Buscar
+     * es es
+          + en en
+          + de de
+          + fr fr
+          + pt-br pt-br
+          + ja ja
+          + ru ru
+          + zh-hans zh-hans
+          + it it
+          + he he
+          + ar ar
+     * Iniciar sesión
+     * #profile_name#
+          + Account
+          + Descargas
+          + Account Settings
+
+   (BUTTON) WPML - El plugin para construir sitios web multilingües con
+   WordPress WPML - El plugin para construir sitios web multilingües con
+   WordPress
+     * Página principal
+          + Acerca de WPML
+          + Comparar WPML con alternativas gratis y pagas
+          + Requerimientos mínimos
+          + Recursos del blogger
+          + Contáctenos
+     * Características
+     * Compra
+          + Política de soporte
+          + Política de reintegros
+          + Preguntas antes de adquirir el producto
+          + Proceso de adquisición
+     * Documentación
+          + Plugin principal de WPML y add-ons
+          + Guía de inicio
+          + Traducción del contenido
+          + Servicios de traducción para sitios web de WordPress
+          + Lista de temas “prontos para operar como multilingüe�,
+            compatibles con WPML
+          + Compatibilidad de los plugin
+          + WooCommerce Multilingual
+          + Proyectos relacionados
+          + Información para desarrolladores
+          + FAQ
+     * Noticias
+
+El plugin multilingüe de WordPress
+
+   Sitios web sencillos y multilingües con WPML, para grandes empresas o
+   simples blogs.
+   Comprar y descargar recorrido por WPML »
+
+   Compatible con WordPress 3.9 – 5.2.3 – requisitos básicos
+   Ver demostración
+
+Integral
+
+   Con WPML usted puede traducir páginas, entradas, tipos, taxonomías y
+   menús personalizados e, inclusive, textos del tema.
+
+Compatible
+
+   Todo Tema o plugin que aproveche la API de WordPress opera en modo
+   multilingüe con WPML.
+
+Confiable
+
+   Proporcionamos soporte integral para WPML, lo cual le ayuda a
+   desarrollar sitios web perfectos dentro de los plazos previstos.
+
+Compatible con su tema, plugin y desarrollador de páginas favoritos.
+
+   Trabajamos en conjunto con los otros autores para asegurarnos que WPML
+   opere perfectamente integrado a temas y plugins. Para asegurar la
+   compatibilidad, corremos pruebas automáticas con muchos temas y plugins
+   diferentes. Verificamos cada aspecto para asegurarnos que tanto sus
+   actualizamos como las nuestras estén libres de problemas.
+
+   Características nuevas | Verificado
+
+   Características anteriores | Verificado
+
+   Compatible | Verificado
+
+   Rapidez | Verificado
+
+   Seguridad | Verificado
+
+   Todas las pruebas aprobadas
+
+Estable, confiable y seguro
+
+   Con casi un millón de sitios utilizando WPML, tomamos muy seriamente
+   tanto la estabilidad como la seguridad. Corremos pruebas de calidad
+   antes de cada versión. Probamos WPML en diferentes versiones de
+   WordPress y con distintos temas y plugins populares. Usted no tiene de
+   qué preocuparse en cada lanzamiento de versión.
+
+Grandioso para SEO multilingüe
+
+   WPML le permite una optimización completa de su sitio web en relación a
+   las funciones SEO en múltiples idiomas.
+     * Usted cuenta con control completo sobre la visualización de las
+       direcciones URL.
+     * Puede definir información meta de SEO para traducciones.
+     * Las traducciones son enlazadas de manera conjunta.
+     * Los mapas de sitio incluyen las páginas correctas y cuentan con la
+       validación de Google Webmasters.
+
+   Con WPML los motores de búsqueda entienden la estructura de su sitio
+   web y generan el tráfico correcto hacia el lenguaje adecuado.
+
+Garantía de satisfacción
+
+   Estamos tan confiados en que WPML le gustará tanto que ofrecemos una
+   garantía de 30 días sin expresión de causa para la devolución de su
+   dinero. Adquiera WPML y utilícelo en su sitio web. Si no está
+   completamente satisfecho, le devolveremos el importe de su compra.
+   Comprar y descargar
+
+   © 2019 OnTheGoSystems Limited
+   Translations by ICanLocalizeEnlace corto a esta página
+   OnTheGo Systems OnTheGo Systems
+   About WPML
+   WordPress Developer and Support Jobs
+     * en en English
+     * es es Español
+     * de de Deutsch
+     * fr fr Français
+     * pt-br pt-br Português
+     * ja ja 日本語
+     * ru ru Ру��кий
+     * zh-hans zh-hans 简体中文
+     * it it Italiano
+     * he he עברית
+     * ar ar العربية
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5ZK3HXV
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate
+
+   ____________________ Suchen
+     * de de
+          + en en
+          + es es
+          + fr fr
+          + pt-br pt-br
+          + ja ja
+          + ru ru
+          + zh-hans zh-hans
+          + it it
+          + he he
+          + ar ar
+     * Einloggen
+     * #profile_name#
+          + Account
+          + Downloads
+          + Benutzerkonto – Einstellungen
+
+   (BUTTON) WPML - Das Plugin zur Erstellung mehrsprachiger
+   WordPress-Seiten WPML - Das Plugin zur Erstellung mehrsprachiger
+   WordPress-Seiten
+     * Startseite
+          + Über WPML
+          + Vergleich von WPML mit kostenlosen und kostenpflichtigen
+            Alternativen
+          + Mindestanforderungen
+          + Blogger-Ressourcen
+          + Kontaktieren Sie uns
+     * Funktionen
+     * Kaufen
+          + Support-Richtlinie
+          + Rückerstattungsrichtlinie
+          + Fragen vor dem Kauf
+          + Kaufvorgang
+     * Dokumentation
+          + WPML Kern- und Add-on-Plugins
+          + Ratgeber zum Loslegen
+          + Übersetzen Ihrer Inhalte
+          + Übersetzungsdienste für WordPress-Websites
+          + Theme-Kompatibilität
+          + Plugins-Kompatibilität
+          + WooCommerce Multilingual
+          + Ähnliche Projekte
+          + Entwickler-Informationen
+          + FAQ
+     * Support
+     * News
+
+Das Mehrsprachen-Plugin für WordPress
+
+   WPML macht das Erstellen Betreiben mehrsprachiger Seiten leicht. Es ist
+   leistungsstark für Firmen-Seiten, aber simpel für Blogs.
+   Kaufen und herunterladen WPML-Tour »
+
+   Läuft mit WordPress 3.9 – 5.2.3 – Mindestanforderungen
+   Vorführung ansehen
+
+Vollständig
+
+   Mit WPML können Sie Seiten, Beiträge, benutzerdefinierte Typen,
+   Taxonomie, Menüs und sogar die Texte aus dem Theme übersetzen.
+
+Kompatibel
+
+   Jedes Theme oder Plugin, das die WordPress-API nutzt, läuft mit WPML
+   mehrsprachig.
+
+Zuverlässig
+
+   Wir bieten kompletten Support für WPML an und helfen Ihnen, pünktlich
+   perfekte Websites abzuliefern.
+
+Kompatibel mit Ihren Lieblings-Themes, Plugins und Seitenerstellern
+
+   Wir arbeiten mit anderen Erstellern zusammen, um sicherzustellen, dass
+   WPML super mit Themes und Plugins funktioniert. Um fortwährende
+   Kompatibilität zu gewährleisten, führen wir automatisierte Tests mit
+   vielen Themes und Plugins durch. Wir achten darauf, dass nichts kaputt
+   geht, wenn andere oder wir Updates veröffentlichen.
+
+   Neue Funktionen | Getestet
+
+   Alte Funktionen | Getestet
+
+   Kompatibel | Getestet
+
+   Schnell | Getestet
+
+   Sicher | Getestet
+
+   Alle Tests bestanden
+
+Stabil, zuverlässig und sicher
+
+   Bei nahezu einer Million Websites, die WPML nutzen, nehmen wir
+   Stabilität und Sicherheit sehr ernst. Wir führen vor jeder
+   Veröffentlichung eine komplette QS durch. Wir testen an verschiedenen
+   WordPress-Versionen und mit verschiedenen beliebten Plugins und Themes.
+   Wenn eine neue Version herauskommt, können Sie sorgen- und stressfrei
+   bleiben.
+
+Toll für mehrsprachiges SEO
+
+   Mit WPML können Sie Ihre Seite in mehreren Sprachen für SEO optimieren.
+     * Sie haben die volle Kontrolle darüber, wie URLs aussehen.
+     * Sie können SEO-Meta-Daten für Übersetzungen festlegen.
+     * Die Übersetzungen sind miteinander verlinkt.
+     * Sitemaps enthalten die korrekten Seiten und bestehen die Google
+       Webmasters-Validierung.
+
+   Dank WPML verstehen Suchmaschinen Ihre Seitenstruktur und bringen den
+   richtigen Besucherverkehr zu den richtigen Sprachen.
+
+Zufriedenheitsgarantie
+
+   Wir sind so überzeugt davon, dass Ihnen WPML gefallen wird, dass wir
+   eine 30-Tage „Erstattung ohne Fragen zu stellen“ anbieten. Kaufen Sie
+   WPML und verwenden Sie es auf Ihrer Seite. Wenn Sie nicht rundum
+   zufrieden sind, geben Sie uns Bescheid, dann erstatten wir Ihnen Ihren
+   Kaufbetrag.
+   Kaufen und herunterladen
+
+   © 2019 OnTheGoSystems Limited
+   Translations by ICanLocalizeKurz-Link auf diese Seite
+   OnTheGo Systems OnTheGo Systems
+   About WPML
+   WordPress Developer and Support Jobs
+     * en en English
+     * es es Español
+     * de de Deutsch
+     * fr fr Français
+     * pt-br pt-br Português
+     * ja ja 日本語
+     * ru ru Ру��кий
+     * zh-hans zh-hans 简体中文
+     * it it Italiano
+     * he he עברית
+     * ar ar العربية
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5ZK3HXV
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate
+
+   ____________________ Buscar
+     * pt-br pt-br
+          + en en
+          + es es
+          + de de
+          + fr fr
+          + ja ja
+          + ru ru
+          + zh-hans zh-hans
+          + it it
+          + he he
+          + ar ar
+     * Login
+     * #profile_name#
+          + Account
+          + Downloads
+          + Configurações da Conta
+
+   (BUTTON) WPML - The Plugin for Building Multilingual WordPress Sites
+   WPML - The Plugin for Building Multilingual WordPress Sites
+     * Home
+          + Sobre o WPML
+          + Comparação do WPML com alternativas gratuitas e pagas
+          + Requisitos mínimos
+          + Recursos para blogueiros
+          + Entre em contato conosco
+     * Recursos
+     * Comprar
+          + Política de Suporte
+          + Política de reembolsos
+          + Perguntas pré-venda
+          + Processo de compra
+     * Documentação
+          + Plugin Principal e Complementos do WPML
+          + Guia de introdução
+          + Traduzindo conteúdo
+          + Serviços de tradução para sites em WordPress
+          + Uma lista de temas compatíveis com múltiplos idiomas e com o
+            WPML
+          + Compatibilidade de plugins
+          + WooCommerce Multilingual
+          + Projetos Relacionados
+          + Informações para desenvolvedores
+          + Perguntas frequentes
+     * Suporte
+     * Blog
+
+O Plugin WordPress Multilingual
+
+   O WPML facilita a criação e manutenção de sites multilíngues. Tem
+   recursos suficientes para sites de empresas e, ainda assim, é simples
+   para blogs.
+   Comprar e Baixar Tour do WPML »
+
+   Funciona no WordPress 3.9 – 5.2.3 – requisitos mínimos
+   Ver demonstração
+
+Completo
+
+   Com o WPML você pode traduzir páginas, posts, tipos personalizados,
+   taxonomia, menus e até mesmo os textos do tema.
+
+Compatível
+
+   Todo tema ou plugin que utilize a API do WordPress funciona em modo
+   multilíngue com o WPML.
+
+Confiável
+
+   Fornecemos suporte completo para WPML, ajudando você a entregar sites
+   no prazo.
+
+Compatível com Seus Temas, Plugins e Criadores de Páginas Favoritos
+
+   Trabalhamos com outros autores para garantir que o WPML funcione muito
+   bem com temas e plugins. Para garantir uma compatibilidade contínua,
+   executamos testes automatizados com vários temas e plugins. Verificamos
+   se tudo está funcionando bem quando eles ou nós lançamos atualizações.
+
+   Recursos novos | Testados
+
+   Recursos antigos | Testados
+
+   Compatível | Testados
+
+   Rápido | Testados
+
+   Seguro | Testados
+
+   Todos os testes aprovados
+
+Estável, Confiável e Seguro
+
+   Com quase um milhão de sites usando o WPML, levamos a estabilidade e a
+   segurança muito a sério. Realizamos controle de qualidade completo
+   antes de qualquer lançamento. Testamos o WPML em diferentes versões do
+   WordPress e com diferentes plugins e temas populares. Quando uma nova
+   versão é lançada, você não precisa se preocupar ou se estressar.
+
+Excelente para SEO Multilíngue
+
+   O WPML permite otimizar totalmente seu site para SEO em vários idiomas.
+     * Você tem controle total sobre o aspecto dos URLs.
+     * Você pode definir metainformações de SEO para traduções.
+     * As traduções estão interligadas.
+     * Os Sitemaps incluem as páginas corretas e aprovam a validação do
+       Google Webmasters.
+
+   Com o WPML, os mecanismos de pesquisa entendem a estrutura do seu site
+   e direcionam o tráfego certo para os idiomas certos.
+
+Satisfação Garantida
+
+   Acreditamos muito que você irá gostar do WPML e iremos oferecer 30 dias
+   de prazo para reembolso “sem perguntas�. Compre o WPML para usar no seu
+   site. Se você não estiver satisfeito, informe-nos e reembolsaremos o
+   seu pedido.
+   Compre e faça download
+
+   © 2019 OnTheGoSystems Limited
+   Translations by ICanLocalizeLink encurtado para esta página
+   OnTheGo Systems OnTheGo Systems
+   About WPML
+   WordPress Developer and Support Jobs
+     * en en English
+     * es es Español
+     * de de Deutsch
+     * fr fr Français
+     * pt-br pt-br Português
+     * ja ja 日本語
+     * ru ru Ру��кий
+     * zh-hans zh-hans 简体中文
+     * it it Italiano
+     * he he עברית
+     * ar ar العربية
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5ZK3HXV
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate
+
+   ____________________ 検索
+     * ja ja
+          + en en
+          + es es
+          + de de
+          + fr fr
+          + pt-br pt-br
+          + ru ru
+          + zh-hans zh-hans
+          + it it
+          + he he
+          + ar ar
+     * ログイン
+     * #profile_name#
+          + Account
+          + Downloads
+          + Account Settings
+
+   (BUTTON) WPML - 複数言語�WordPressサイトを構築�る���プラグイン WPML -
+   複数言語�WordPressサイトを構築�る���プラグイン
+     * ホーム
+          + WPML����
+          + WPML無料版�有料版�比較
+          + システム�件
+          + ブロガーリソース
+          + ������
+     * 特徴
+     * �購入
+          + サ�ート�リシー
+          + 返金�リシー
+          + 購入���質�
+          + �購入�プロセス
+     * ドキュメンテーション
+          + WPML�コアプラグイン�アドオンプラグイン
+          + スタートガイド
+          + コンテンツを翻訳�る
+          + WordPressウェブサイト�翻訳サービス
+          + テーマ��性
+          + プラグイン��性
+          + WooCommerce Multilingual – 多言語�電�商�引サイトを�営
+          + 関連プロジェクト
+          + 開発者情報
+          + FAQ
+     * Blog
+
+WordPressマル�リンガルプラグイン
+
+   WPML�多言語サイト�構築��営を容易����。 �業サイト�対応�る力を備���る一方�シンプル�ブログ�も対応�����。
+   購入�ダウンロード WPMLツアー»
+
+   WordPress��作業 3.9 – 5.2.3 – 最低�件
+   デモを閲覧
+
+完了
+
+   WPMLを使用�れ�ページ�投稿�カスタムタイプ�タクゾノミー�メニュー��ら� テーマ�テキストも翻訳����。
+
+互�性�り
+
+   WPML�WordPress APIを使�����テーマ���プラグイン�互�性を有���れらを完璧�実行���。
+
+信頼性
+
+   �客様�パーフェクト�ウェブサイトを予定通り�����るよ��完全�サ�ートを �供�����。
+
+�気�入り�テーマ�プラグイン�ページビルダー��互�性
+
+   WPML�テーマやプラグイン�滑ら��作動�るよ��他�制作者��力���。
+   互�性を継続�る����多��テーマ�プラグイン�自動テストを行�����。
+   弊社�他社製��アップデートリリース時���題�有無を確����。
+
+   新機能 | テスト済�
+
+   旧機能 | テスト済�
+
+   互�性�り | テスト済�
+
+   迅速 | テスト済�
+
+   安全 | テスト済�
+
+   全��テスト��格����
+
+安定性�信頼性�安全性
+
+   100万近�サイト�使用�れ��るWPML�����安定性�安全性����課題��。
+   リリース��完全��質�証（QA)�ェックを実施�����。
+   様々�WordPress�ージョン�よ�人気プラグイン�テーマ�よりWPMLをテスト�����。
+   新�ージョンを���る時も心���やストレス��り��ん。
+
+多言語SEO�最�
+
+   WPML��複数言語サイト�SEOを最�化���。
+     * URL�外見�完全�コントロールを掌����。
+     * SEOメタ情報を翻訳用�設定����。
+     * 翻訳�相互�リンク�れ��。
+     * サイトマップ��正�ページを���Google Webmasters�検証�も簡���格���。
+
+   WPMLを使用�れ��検索エンジン�サイト構造を�解��正��言語�正��トラフィックを導���。
+
+満足�証付�
+
+   �客様���満足������る�考������購入後30日間以内�「質����返金�を�利用������。
+   WPMLを�購入��り��客様�サイト��使用����。 WPML��満足�れ��場���注文�返金�����。
+   購入�ダウンロード
+
+   © 2019 OnTheGoSystems Limited
+   Translations by ICanLocalize��ページ��ショートリンク
+   OnTheGo Systems OnTheGo Systems
+   About WPML
+   WordPress Developer and Support Jobs
+     * en en English
+     * es es Español
+     * de de Deutsch
+     * fr fr Français
+     * pt-br pt-br Português
+     * ja ja 日本語
+     * ru ru Ру��кий
+     * zh-hans zh-hans 简体中文
+     * it it Italiano
+     * he he עברית
+     * ar ar العربية
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5ZK3HXV
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate
+
+   ____________________ Пои�к
+     * ru ru
+          + en en
+          + es es
+          + de de
+          + fr fr
+          + pt-br pt-br
+          + ja ja
+          + zh-hans zh-hans
+          + it it
+          + he he
+          + ar ar
+     * Вход
+     * #profile_name#
+          + Account
+          + Downloads
+          + �а�тройки �ккаунта
+
+   (BUTTON) WPML - The Plugin for Building Multilingual WordPress Sites
+   WPML - The Plugin for Building Multilingual WordPress Sites
+     * Главна�
+          + О WPML
+          + Сравнение WPML � бе�платными и платными альтернативами
+          + Минимальные требовани�
+          + Ре�ур�ы дл� блоггеров
+          + Контакты
+     * Функции
+     * Купить
+          + Политика поддержки
+          + Политика возврата денег
+          + Вопро�ы перед покупкой
+          + Процедура покупки
+     * Документаци�
+          + Плагины �дра и над�троек WPML
+          + Руковод�тво по началу работы
+          + Перевод контента
+          + У�луги перевода дл� �айтов на базе WordPress
+          + Совме�тимо�ть тем
+          + Совме�тимо�ть плагинов
+          + Много�зычный WooCommerce
+          + Св�занные проекты
+          + Информаци� дл� разработчиков
+          + Вопро�ы и ответы
+     * Поддержка
+     * Блог
+
+Плагин дл� �оздани� много�зычных �айтов на базе WordPress
+
+   С WPML �оздавать много�зычные �айты �тало легко. Плагин подходит как
+   дл� корпоративных �айтов, так и дл� блогов.
+   Купить и загрузить Обзор WPML »
+
+   Работает на WordPress 3.9 — 5.2.3 — минимальные требовани�
+   Демон�траци�
+
+Комплек�ное решение
+
+   При помощи WPML можно переводить �траницы, запи�и, пользователь�кие
+   виды запи�ей, так�ономию, меню и даже тек�ты тем.
+
+Совме�тимо�ть
+
+   Люба� тема или плагин, работающие � и�пользованием WordPress API,
+   �танов�т�� много�зычными � WPML.
+
+�адежно�ть
+
+   Мы обе�печиваем полную поддержку WPML, помога� вам воврем�
+   предо�тавл�ть безупречные �айты.
+
+Совме�тим � вашими любимыми темами, плагинами и по�троител�ми �траниц
+
+   Мы �отрудничаем � другими разработчиками дл� обе�печени�
+   безукоризненного взаимодей�тви� WPML � темами и плагинами. Мы выполн�ем
+   автоматизированные те�ты � множе�твом тем и плагинов. Мы провер�ем,
+   чтобы не было �боев, когда их производители или мы выпу�каем
+   обновлени�.
+
+   �овые функции | Проверено
+
+   Старые функции | Проверено
+
+   Совме�тимо�ть | Проверено
+
+   Бы�тродей�твие | Проверено
+
+   Безопа�но�ть | Проверено
+
+   В�е проверки пройдены
+
+Стабильный, надежный и безопа�ный
+
+   Учитыва� то, что WPML и�пользует�� почти на миллионе �айтов, мы очень
+   �ерьезно отно�им�� к �табильно�ти и безопа�но�ти. Мы производим полный
+   контроль каче�тва перед каждым выпу�ком. Мы провер�ем WPML на разных
+   вер�и�х WordPress и � различными попул�рными плагинами и темами. При
+   выпу�ке новой вер�ии вы не будете ни о чем бе�покоить�� или нервничать.
+
+Отлично подходит дл� много�зычной SEO
+
+   WPML позвол�ет полно�тью оптимизировать ваш �айт дл� SEO на не�кольких
+   �зыках.
+     * Формат URL-адре�ов полно�тью под вашим контролем.
+     * Вы можете задавать метаданные SEO дл� переводов.
+     * Переводы �в�заны между �обой.
+     * Карты �айтов �одержат правильные �траницы и проход�т проверку
+       Google дл� веб-ма�теров.
+
+   С WPML пои�ковые �и�темы понимают �труктуру вашего �айта и направл�ют
+   нужный трафик к нужным �зыкам.
+
+Вы о�танете�ь довольны.
+
+   Мы на�только надеем��, что WPML вам понравит��, что предлагаем
+   возмещение затрат без любых вопро�ов в течение 30 дней. Купите WPML и
+   и�пользуйте его на �воем �айте. Е�ли вы не полно�тью удовлетворены,
+   �ообщите нам, и мы возме�тим ваши затраты.
+   Купить и загрузить
+
+   © 2019 OnTheGoSystems Limited
+   Translations by ICanLocalizeКоротка� ��ылка на �ту �траницу
+   OnTheGo Systems OnTheGo Systems
+   About WPML
+   WordPress Developer and Support Jobs
+     * en en English
+     * es es Español
+     * de de Deutsch
+     * fr fr Français
+     * pt-br pt-br Português
+     * ja ja 日本語
+     * ru ru Ру��кий
+     * zh-hans zh-hans 简体中文
+     * it it Italiano
+     * he he עברית
+     * ar ar العربية
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5ZK3HXV

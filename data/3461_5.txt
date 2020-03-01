@@ -1,0 +1,1058 @@
+
+   Mentions légales
+   (BUTTON)
+
+   quis Donec Sed mattis dictum ipsum nec
+
+   Nous utilisons des cookies pour vous garantir la meilleure expérience
+   sur notre site. Pour en savoir plus, consultez notre page de mentions
+   légales en bas de page.Ok
+   #SeoMix » Flux
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-W5FDXVT
+
+   SeoMix : agence web à Nantes
+   SeoMix
+   WordPress & Référencement
+
+   Créateur de Visibilité avec WordPress Nos services
+
+     * (BUTTON) Twitter
+     * (BUTTON) Facebook
+     * (BUTTON) Instagram
+     * (BUTTON) RSS
+
+   Appelez-nous !02 40 59 09 35
+
+   SeoMix
+
+   WordPress & Référencement
+
+   (BUTTON) Menu
+     * WordPress
+          + Le CMS WordPress
+          + Référencement de WordPress
+          + Extensions
+          + Thèmes WordPress
+          + Hacks et codes
+     * Référencement naturel
+          + Les bases du référencement naturel
+          + Les audits SEO
+          + Contenus et référencement
+          + Structure et maillage interne
+          + Crawl, indexation et SEO
+          + Images et vidéos
+          + Netlinking et SEO
+          + Outils et logiciels
+     * WebMarketing
+     * L’agence SEO
+     * Nos services
+          + Audit SEO
+          + Référencement naturel
+          + Création de sites & Développement
+          + Référencement payant
+          + Formations WordPress et référencement
+               o Formation Avancée « WordPress et SEO »
+               o Formation Développeur WordPress
+     * Contact
+
+   Vous cherchez quelque chose ? Recherche ____________________ Chercher
+
+   (BUTTON)
+
+   Vous êtes ici : SeoMix → WordPress → Les thèmes de WordPress → Ajax et
+   WordPress : le guide
+
+                          Ajax et WordPress : le guide
+
+   Le 23/04/2015, mis à jour le 27/11/2018 | Par Willy Bahuaud | Dans
+   WordPress » Les thèmes de WordPress
+
+   L’Ajax est un produit d’entretien
+
+   … mais pas seulement. C’est aussi une technique qui permet aux
+   développeurs de concevoir des sites dynamiques.
+
+   J’ai déjà abordé ce sujet au travers de plusieurs articles chez SeoMix
+   et ailleurs, mais ceux-ci ne sont plus forcément à jour, la technique
+   évoluant rapidement et sa prise en charge par les moteurs également. Il
+   y a quelques semaines par exemple, Google a annoncé avoir arrêté le
+   support de l’escaped_fragment, une méthode qu’il avait lui-même créé et
+   incité à utiliser, pour permettre l’indexation de l’ajax.
+
+   Alors quand Daniel m’a proposé de revenir parler de l’ajax, j’ai
+   répondu présent. C’est une technique que j’utilise beaucoup sur les
+   sites de mes clients, et dont j’aime bien parler. Aujourd’hui, je
+   souhaite vous faire un récapitulatif assez complet sur l’utilisation de
+   l’ajax dans WordPress et les bonnes pratiques associées.
+   Comment faire de l'ajax sur WordPress Le guide pour faire de l’ajax
+   dans WordPress
+
+Qu’est ce que l’ajax ?
+
+   Avant d’aller plus loin, il faut déjà saisir de quoi nous allons
+   parler. L’ajax est l’acronyme de « Asynchronous Javascript And Xml ».
+   Il s’agit d’une architecture faisant appel à plusieurs technologies
+   afin de concevoir des applications web dynamiques, comprenez par là une
+   page web dont le contenu change sans rafraichissement.
+
+   Le fonctionnement est simple : sur un site web, un code javascript va
+   utiliser un objet XMLHttpRequest pour aller collecter des informations
+   extérieures à la page, et les renvoyer au script, qui va les parcourir,
+   les mettre en forme et les injecter dans le DOM.
+
+   Avec cela nous pouvons faire des choses nombreuses et variées telles
+   que poster un commentaire, envoyer un message, charger des articles en
+   infinite scroll, mettre à jour un contenu en temps réel, ajouter un
+   article au panier…
+
+   En terme de compatibilité, l’AJAX est compatible avec la totalité des
+   navigateurs actuels, pourvu que javascript soit activé.
+
+Comment mettre en place une requête ?
+
+   Il existe plusieurs spécifications pour l’objet XMLHttpRequest, et
+   plusieurs façons de l’utiliser en javascript vanilla.
+
+   Pour plus de simplicité  je vais vous en parler dans cet article
+   uniquement au travers de la méthode $.ajax() de jQuery. Cette méthode à
+   l’avantage d’être simple et générique (c’est le wrapper de $.get(),
+   $.post(), $.load(), $.getScript()…) et la librairie jQuery est
+   largement utilisée dans les thèmes et plugins WordPress.
+
+   Voici comment se présente une requête Ajax :
+
+   Exemple de requête ajax
+jQuery( document ).ready( function($) {
+        // j'ajoute un évènement sur le clic des liens…
+        // … ayant la class "ajax"
+        $( document ).on( 'click', 'a.ajax', function() {
+                $.ajax({
+                        url : $(this).attr('href'), // à adapter selon la ressou
+rce
+                        method : 'POST', // GET par défaut
+                        data : {
+                                var1 : 'valeur1',
+                                var2 : 'valeur2'
+                        }, // mes variables
+                        headers : {}, // si je souhaite modifier les entêtes
+                        success : function( data ) { // en cas de requête réussi
+e
+                                // Je procède à l'insertion
+                                var content = $( data ).find( '#content' ).html(
+);
+                                $( '#content' ).html( content );
+                        },
+                        error : function( data ) { // en cas d'échec
+                                // Sinon je traite l'erreur
+                                console.log( 'Erreur…' );
+                        }
+                });
+        });
+});
+
+   Ce code javascript peux être utilisé dans un fichier *.js du thème ou
+   bien d’un plugin.
+     * url désigne la ressource que l’on va intérroger pour charger du
+       contenu (nous en parlerons dans le chapitre suivant) ;
+     * method indique la méthode que l’on va employer pour notre requête,
+       post pour soumettre des données ou get pour collecter des
+       informations ;
+     * data sert à passer un tableau de variables à la ressource que nous
+       allons interroger ;
+     * headers est utile pour modifier l’entête de la requête (pour
+       s’authentifier, par exemple, bien qu’username et password puisse
+       aussi faire le job…) ;
+     * success est la fonction qui va traiter l’objet renvoyé si la
+       requête réussie ;
+     * error est la fonction qui sera exécutée le cas échant.
+
+   De nombreux autres paramètres sont disponibles et il ne faut pas
+   hésiter à lire la documentation pour faire de belles choses.
+
+   Les événements à l’origine de la requête peuvent être variés. Ce peut
+   être le clic sur un lien ou un bouton, un formulaire soumis, un
+   intervalle de temps écoulé, le scroll de la page qui atteint une
+   certaine zone… Vous n’avez de limite que votre imagination.
+
+Quelles ressources appeler ?
+
+   Jusqu’ici nous avons vu comment envoyer une requête Ajax en javascript,
+   maintenant nous allons voir quelles sont les ressources disponibles
+   dans WordPress pour renvoyer du contenu à notre page.
+
+  Le script admin-ajax.php
+
+   C’est L’URL à connaître, la méthode mise en avant dans la documentation
+   de WordPress pour utiliser l’ajax dans les thèmes et les plugins !
+
+   Admin-ajax.php est un fichier qui réceptionne les requêtes ajax et qui,
+   en fonction de la variable action qu’elle contient, déclenche les hooks
+   wp_ajax_{action} si l’utilisateur est connecté ou
+   wp_ajax_nopriv_{action} s’il ne l’est pas.
+
+   Pour rappel : un hook est un mécanisme présent à de nombreux endroits
+   du code de WordPress et qui permet de se greffer sur le code pour
+   modifier – en faisant des actions, ou en modifiant des variables – le
+   comportement de WordPress.
+
+   Si la variable action n’est pas présente, ou qu’aucun hook n’est
+   exécuté, la requête renverra la valeur -1. Voici la requête que nous
+   allons faire :
+
+   Exemple de requête via admin-ajax
+$.ajax({
+        url : adminAjax,
+        method : 'POST',
+        data : {
+                action : 'get_my_post',
+                id : 89 // en vrai, récupérer l'id du contenu en variable ;-)
+        },
+        success : function( data ) {
+                if ( data.success ) {
+                        var article = $( data.data.article );
+                        $( '#content' ).html( article );
+                } else {
+                        console.log( data.data );
+                }
+        },
+        error : function( data ) {
+                console.log( 'Erreur…' );
+        }
+});
+
+   Pour générer le contenu à retourner il faut donc écrire un peu de php
+   dans le fichier functions.php du thème ou dans un plugin.
+
+   Comment traiter une requête avec admin-ajax
+// Pour utiliser cette ressource en front,
+// … mon script a besoin de connaître l'URL d'adminAjax…
+// … pour le pousser dans la variable url !
+add_action( 'wp_enqueue_scripts', 'myenqueue' );
+function myenqueue() {
+        wp_enqueue_script( 'mon-script-ajax', get_template_directory_uri() . '/j
+s/script.js', array('jquery') );
+        wp_localize_script( 'mon-script-ajax', 'adminAjax', admin_url( 'admin-aj
+ax.php' ) );
+}
+
+// J'utilise les hooks
+add_action( 'wp_ajax_get_my_post', 'myfunction' );
+add_action( 'wp_ajax_nopriv_get_my_post', 'myfunction' );
+function myfunction() {
+        // Je teste si je peux renvoyer l'article
+        if ( isset( $_POST['id'] )
+          && 'post' == get_post_type( $_POST['id'] )
+          && 'publish' == get_post_status( $_POST['id'] ) ) {
+                $id = (int)$_POST['id'];
+                // je récupère l'article…
+                // … et je construit le HTML
+                $post = get_post( $id );
+                $data = array();
+                $data['article'] = '<h1>' . apply_filters( 'the_title', $post->p
+ost_title ) . '</h1>';
+                $data['article'] .= apply_filters( 'the_content', $post->post_co
+ntent );
+                // Je le renvoie
+                wp_send_json_success( $data );
+        } else  {
+                // Sinon j'envoie une erreur
+                wp_send_json_error( 'article indisponible' );
+        }
+}
+
+   À l’intérieur de nos fonctions nous pouvons récupérer les variables
+   poussées en paramètres de l’appel. Elle se trouvent dans $_POST ou
+   $_GET selon la méthode employée.
+
+   Il est important, pour des raisons de sécurité, d’arrêter l’exécution
+   du script à la fin de la fonction. Cela peut se faire via un die() ou
+   un exit(), mais j’ai ici préféré employer les fonctions
+   wp_send_json_success() et wp_send_json_error() qui arrêtent l’exécution
+   après avoir renvoyé un tableau de données convertit au format json –
+   format simple à parser en javascript.
+
+   A noter : le script est exécuté côté administration – puisqu’il se
+   trouve dans le répertoire wp-admin – et la condition is_admin()
+   renverra true même si l’utilisateur n’est pas connecté sur le site.
+
+  Une page du site
+
+   Parfois, nous n’avons pas besoin de passer par admin-ajax.php et
+   préferons appeler directement une page de notre site. C’est ce que font
+   la plupart des scripts d’infinite scroll. Ils ciblent le contenu de la
+   page suivante, parcourent le DOM, récupèrent les éléments qu’il
+   souhaitent et incrémentent le bouton page suivante.
+
+   Le problème avec ce type d’appel ajax, c’est qu’il va retourner une
+   page complète incluant le header, le footer, la sidebar… autant
+   d’éléments dont nous n’avons pas besoin. La requête va demander au
+   serveur de procéder à beaucoup d’opérations inutiles.
+
+   Lorsque l’objet sera retourné à javascript, il faudra le filtrer via
+   jQuery pour récupérer la portion de contenu qui nous intéresse.
+
+  La WP REST API
+
+   Actuellement disponible sous forme de plugin et bientôt intégrée au
+   cœur de WordPress, cette API permet de récupérer des informations au
+   format json simplement en adressant des requêtes à une URL
+   particulière. Cette URL prend la forme
+   http://example.com/wp-json/{ma-requête}. Vous n’aurez donc aucun code
+   PHP à écrire pour récupérer les contenus de votre site.
+
+   Il faudra par contre écrire un peu de javascript pour construire l’URL
+   et lui assigner les paramètres voulus. Pour en savoir plus sur les
+   possibilités offertes il faut, là encore, lire la documentation.
+
+   Voici, par exemple, comment faire une recherche dynamique en ajax :
+
+   Le formulaire
+<form action="" id="search" method="post">
+        <input type="search" name="s" id="s">
+        <button type="submit">Chercher</button>
+</form>
+
+   Le code javascript
+$( document ).on( 'submit', '#search', function(e) {
+        e.preventDefault();
+        $.ajax({
+                url : 'http://example.com/wp-json/posts',
+                method : 'GET',
+                data : {
+                        filter : {
+                                search : $( '#s' ).val(),
+                                posts_per_page : 10,
+                                post_type :'post'
+                        }
+                },
+                success : function( data ) {
+                        var out = '';
+                        $.each( data, function( i, el ) {
+                                out += '<a href="' + el.link + '">' + el.title +
+ '</a>';
+                        });
+                        $( '#content' ).html( out );
+                },
+                error : function( data ) {
+                        console.log( 'Erreur…' );
+                }
+        });
+});
+
+   Avec cette méthode, récupérer les contenus à charger est relativement
+   simple. En revanche il faut composer une partie du code HTML côté
+   javascript avant de procéder à l’insertion du contenu. Ce n’est pas
+   très intuitif, et également moins performant que de le faire en PHP.
+
+  Un template dédié à l’ajax
+
+   C’est la méthode que je préfère utiliser sur les sites à navigation
+   full-ajax. Je ne vais pas entrer dans le rouages de son fonctionnement,
+   car je l’ai déjà fait chez boiteAWeb, mais je vais vous en faire une
+   présentation sommaire.
+
+   En fait, cette technique me plait particulièrement car elle est
+   totalement transparente au niveau du référencement. Il suffit d’ajouter
+   des événements javascripts sur les liens internes d’un site. Au clic,
+   on envoie une requête ajax vers l’attribut href de ces liens, en
+   poussant une entête indiquant que nous souhaitons un contenu json prêt
+   à insérer.
+   Ensuite, on vérifie au moment du template_include la présence de cette
+   entête pour utiliser un template spécifique à l’ajax et à la page
+   souhaitée.
+
+   On va donc récupérer le contenu normalement présent à cette URL, mais
+   sous une forme alternative adaptée à son utilisation en ajax.
+
+   L’avantage par rapport à admin-ajax c’est que l’on n’a pas à analyser
+   un chemin critique pour deviner quel contenu servir en fonction de
+   l’URL du lien ; l’avantage par rapport à l’appel d’une page du site
+   c’est que seules les informations requises sont calculées puis
+   retournées.
+
+   C’est donc une méthode performante et simple à mettre en place :-)
+
+La navigation
+
+   Je pense qu’il faut distinguer deux usages de l’ajax :
+     * une utilisation anecdotique, de l’ordre de l’User Experience –
+       comme par exemple soumettre un commentaire en ajax ou valider un
+       formulaire ;
+     * une utilisation de l’ajax dans le cadre de la navigation sur
+       l’ensemble du site, ce que je nomme « full-ajax ».
+
+   Dans le deuxième cas il y a quelques règles à respecter si vous ne
+   voulez pas plomber l’expérience de vos visiteurs, ou votre
+   référencement…
+
+  L’API History d’HTML5
+
+   Ce qui va suivre est un élément essentiel à prendre en compte lorsque
+   vous concevez un site à la navigation entièrement en ajax.
+
+   À chaque contenu chargé doit correspondre une URL. L’internaute doit
+   savoir en permanence où il se trouve sur votre site et doit pouvoir
+   revenir en arrière, ou avant dans sa navigation s’il le souhaite. C’est
+   ce que permet l’API history.
+
+   Avant son implémentation dans les navigateurs la seule méthode
+   disponible était de passer par les ancres (souvenez-vous, Twitter
+   fonctionnait comme ça) car il était à l’époque impossible de changer
+   l’URL sans provoquer un chargement de la page. Heureusement ce temps
+   est révolu !
+
+   Une fois la requête ajax effectuée, et le contenu chargé dans le DOM,
+   procéder ainsi pour changer l’URL du navigateur :
+
+   History.pushState
+success : function( data ) {
+        // Faire votre insertion puis,
+        // … en supposant que…
+        // … la nouvelle url soit data.link…
+        // … et le titre data.title :
+        history.pushState(data, data.title, data.link);
+}
+
+   Pour détecter un changement d’URL via les boutons précédent ou suivant
+   du navigateur, et lancer une nouvelle requête ajax pour rétablir un
+   contenu, faites comme ceci :
+
+   L'événement popstate
+window.addEventListener( 'popstate', function(e) {
+        // e.state = le state précédent, si ce n'est pas la page originale
+    e.preventDefault();
+    var url = window.location.href;
+    $.ajax({
+        // Mettez ici les arguments nécessaires…
+        // … pour récupérer le contenu de la précédente page
+        //
+        // Vous pouvez utiliser l'url de la page,
+        // … ou directement l'objet e.state, s'il existe :-)
+    })
+} );
+
+   Si l’API History et ses méthodes ne sont pas supportées par le
+   navigateur du client, je vous conseille vivement de ne pas activer
+   votre navigation ajax. Voici comment tester son support :
+
+   Tester le support de l'API History
+if ( window.history && window.history.pushState ) {
+  // Do stuff…
+}
+
+  L’ajax sert à faire des transitions
+
+   Voici une idée clef pour garantir une indexation correcte de votre
+   site : il faut que chaque page chargée via ajax soit identique à sa
+   version « normale ».
+
+   L’utilisateur doit pouvoir bookmarker une URL et retrouver le contenu à
+   l’identique s’il revient sur le site. De même s’il partage un lien,
+   celui-ci doit pointer vers un contenu présenté exactement de la même
+   façon. L’ajax sert à faire des transitions entre deux états de votre
+   site, pas à servir un contenu différent.
+
+   Cela parait être une idée logique, et pourtant de nombreux sites ne
+   respectent pas cette consigne, comme par exemple ceux qui font de
+   l’infinite scroll : qu’est-ce qui vous fait penser que ce qui intéresse
+   vos visiteurs est en début de page ? Pour bien faire il faudrait
+   supprimer/masquer le contenu de la page 1 au moment ou on injecte celui
+   de la page 2, tout en changeant l’URL.
+
+   De même après chaque insertion de contenu, il ne faut pas oublier de
+   mettre à jour certains éléments tels que le titre de la fenêtre ou bien
+   le fil d’ariane. Il est important d’aller au bout des transitions pour
+   garantir la meilleure expérience possible.
+
+    Une fois le contenu chargé…
+
+   Après chaque insertion de contenu, lorsque la page est complètement
+   mise à jour, il ne faut pas oublier de relancer certaines fonctions
+   javascript. Les traqueurs des outils de stats (Google Analytics,
+   Piwik…) doivent être re-exécutés via les fonctions correspondantes :
+
+   Traqueurs analytics et Ajax
+success : function( data ) {
+        // Faire votre insertion
+        // Pour Google Analytics :
+        ga('send', 'pageview', window.location.pathname);
+}
+
+   Si vous utilisez des plugins, tels que Pastacode ou Mention Comment’s
+   Authors qui modifient le DOM, il faut aussi appliquer leurs scripts au
+   contenu fraichement inséré :
+
+   Ré-appliquer les filtres JS de vos plugins
+success : function( data ) {
+        // Faire votre insertion puis…
+        // Pour Pastacode :
+        Prism.highlightAll();
+
+        // Pour Mention Comment's authors :
+        mcaAjaxChange();
+}
+
+   La plupart des autres évènements javascript, s’il sont ajoutés via les
+   fonctions $(document).on() ou $.live(), seront automatiquement attachés
+   à votre nouvelle page.
+
+  Insertion de contenu «en douceur»
+
+   L’ajax existe dans le but d’améliorer l’expérience utilisateur. On met
+   à jour le contenu sans provoquer le rafraîchissement de la page. Si
+   votre insertion de contenu se fait de façon brutale ou brouillon, vous
+   risquez de passer à côté des bénéfices de cette technique. Pensez à
+   travailler vos «transitions» grâce à des effets CSS. Essayez de trouver
+   une manière élégante de faire disparaitre le contenu obsolète et de
+   faire apparaître le nouveau.
+
+   Ma méthode est d’ajouter, en javascript, des classes CSS sur les
+   éléments à masquer dès que la requête est réussie. Les styles associés
+   à ces classes déplacent ces éléments hors du champ de vision avant de
+   les supprimer. La propriété transition est votre amie !
+
+   Entre temps je calcule la place nécessaire à l’insertion du nouvel
+   article et j’adapte la hauteur de la page en CSS. Pour calculer cela
+   j’injecte le contenu dans une zone hors-champ en position absolute,
+   d’une largeur identique au conteneur, et je récupère les dimensions en
+   javascript.
+
+   Pour finir, j’applique des classes CSS au contenu à insérer pour le
+   faire apparaitre de façon gracieuse, tout en remontant le scroll
+   doucement en haut de page… Voici le code détaillé :
+
+   Mon Balisage HTML
+<body>
+        <div id="temp" class="temp"></div>
+        <div id="content-wrapper" class="content-wrapper">
+                <div class="content">Mon contenu</div>
+        </div>
+</body>
+
+   Le CSS qui va avec
+.temp,
+        .content-wrapper{
+                width:100%;
+        }
+        .temp{
+                position:absolute;
+                left:-200%;
+                top:0;
+                display:none;
+        }
+        .content{
+                transition:all 1s;
+        }
+        .to-appear{
+                margin-left:100%;
+        }
+        .to-disappear{
+                margin-left:-100%;
+        }
+
+   L'insertion de contenu en javascript
+success : function( data ) {
+        // Avant d'insérer, j'ajoute une classe…
+        // … pour mettre le nouveau contenu hors-champ
+        var $newContent = $( data.data.content );
+        $newContent.addClass('to-appear');
+
+        // Je mets l'ancien contenu hors-champ
+        $('.content').addClass('to-disappear');
+
+        // Je mesure
+        $temp.append( $newContent );
+        var size = $temp.innerHeight();
+
+        // Je redimensionne et j'insère
+        $('#content-wrapper').animate({'height': size},
+            1000, 'linear', fucntion() {
+                $temp.children().detach().prependTo('#content-wrapper');
+                $('.to-disappear').remove();
+                $('#content-wrapper').css('height','auto');
+                $('.to-appear').removeClass('to-appear');
+
+                // Et le scroll
+                $('body,html').animate({
+            scrollTop:0
+        }, 500);
+        });
+}
+
+L’ajax accessible
+
+   L’ajax c’est du bonus, il faut que le site puisse fonctionner sans lui,
+   et que la navigation ne soit pas perturbée si l’utilisateur a désactivé
+   javascript – ce qui est le cas des moteurs, rappelons-le ^^
+
+   Je vais vous présenter quelques méthodes pour garantir cette
+   accessibilité.
+
+  Le script admin-post.php
+
+   Admin-post est un script php qui fonctionne exactement comme
+   admin-ajax, mais est destiné à traiter des actions synchrones.
+
+   Prenons par exemple un formulaire de contact. Nous avons déjà vu qu’il
+   est possible de valider ce formulaire en ajax via un événement
+   javascript. Mais si javascript est désactivé, comment allons nous
+   traiter ce formulaire ? On ne va tout de même pas traiter sa soumission
+   dans le template (c’est sale)…
+
+   La solution «propre» est d’indiquer la valeur /wp-admin/admin-post.php
+   en tant qu’attribut action du formulaire. Ainsi, si javascript est
+   désactivé et que le formulaire est soumis, le script admin-post recevra
+   les champs à traiter et appellera le hook admin_post_{action} ou
+   admin_post_nopriv_{action} si l’utilisateur n’est pas connecté.
+
+   En ajax, vous auriez fait :
+
+   Avec admin_ajax()
+add_action( 'wp_ajax_submit_contact', 'contact_me' );
+add_action( 'wp_ajax_nopriv_submit_contact', 'contact_me' );
+function contact_me() {
+        if ( isset( $POST['mail'], $POST['message'], $POST['nom'] ) {
+                // … je squizz l'envoi du message …
+                // … ce n'est pas le sujet de l'article !
+                // Puis :
+                wp_send_json_success( 'Message envoyé !' );
+        }
+}
+
+   Et pour avoir la compatibilité no-ajax il suffit de faire :
+
+   Compatibilité no-ajax
+add_action( 'wp_ajax_submit_contact', 'contact_me' );
+add_action( 'wp_ajax_nopriv_submit_contact', 'contact_me' );
+// On ajoute ces deux hooks :
+add_action( 'admin_post_submit_contact', 'contact_me' );
+add_action( 'admin_post_nopriv_submit_contact', 'contact_me' );
+function contact_me() {
+        if ( isset( $POST['mail'], $POST['message'], $POST['nom'] ) {
+                // … je squizz l'envoi du message […] !
+                // Si ce n'est pas une requête ajax, on shinte :
+                if ( ! defined( 'DOING_AJAX' ) ) {
+                        wp_safe_redirect( wp_get_referer() );
+                }
+                wp_send_json_success( 'Message envoyé !' );
+        }
+}
+
+   Via ces hooks nous pourrons traiter notre formulaire puis, au lieu de
+   quitter simplement le script comme nous le ferions en ajax, on redirige
+   l’utilisateur vers une page du front office grâce à la fonction
+   wp_safe_redirect().
+
+   Mon conseil est de toujours commencer par développer le site de façon
+   classique, puis d’appliquer l’ajax comme une surcouche. Pour un
+   tutoriel très complet sur cette partie, je vous incite à lire l’article
+   de Julio sur le sujet.
+
+  Un peu d’ARIA
+
+   Le javascript systématiquement désactivé sur les navigateurs des
+   malvoyants, c’est un mythe !
+
+   Le javascript s’y éxécute parfaitement – l’ajax aussi, par conséquence
+   – et la méthode qui garantie l’accessibilité de l’ajax sur les lecteurs
+   d’écrans est l’utilisation des attributs aria. Aria est une
+   spécification technique destinée à rendre les applications web
+   accessibles. Cela passe par des attributs dits «aria» dans le marquage
+   HTML de la page.
+
+   Il existe des attributs qui indiquent à l’utilisateur, via le
+   navigateur, que certaines zones de la page ont/vont être mises à jour.
+   L’attribut qui indique qu’une zone est «dynamique» s’appelle aria-live,
+   il peut prendre plusieurs valeurs :
+     * aria-live="off", l’utilisateur ne sera pas informé lorsque le
+       contenu de la balise aura changé ;
+     * aria-live="polite", l’utilisateur sera informé de la modification,
+       une fois qu’il aura fini sa tâche courante ;
+     * aria-live="assertive", le lecteur d’écran indiquera la changement à
+       l’internaute sans attendre.
+
+   Combiné à cet attribut, nous pouvons également utiliser aria-relevant,
+   sur la même balise HTML qu’aria-live, afin de définir quels seront les
+   changements dont devra être informé l’internaute. Les valeurs possibles
+   de cet attribut sont :
+     * aria-relevant="additions" l’utilisateur sera informé uniquement de
+       l’ajout de nouveaux nœuds dans la zone dynamique ;
+     * aria-relevant="removals" il lui sera indiqué seulement les
+       suppressions de balises ou de textes dans la zone aria-live ;
+     * aria-relevant="text" le lecteur d’écran informera seulement des
+       changements de textes ;
+     * aria-relevant="all" cette valeur compile les 3 que l’on vient de
+       voir ;
+     * il est aussi possible de saisir différentes valeurs en les séparant
+       par une espace.
+
+   Un autre attribut qui peut améliorer l’accessibilité des modifications
+   opérées en ajax est aria-atomic. Il se place sur la balise de la région
+   live, et indique si le lecteur doit présenter la zone comme un
+   ensemble. Si non, il listera les changements comme des éléments isolés.
+   Il ne peut prendre que deux valeurs : true ou false (par défaut).
+
+   Enfin, si vous souhaitez masquer certaines zones mises à jour aux
+   technologies d’assistance, vous pouvez ajouter l’attribut aria-hidden
+   sur les éléments à dissimuler. Par contre, il faut se poser la
+   question : pourquoi voudrait-on masquer du contenu à un type
+   d’utilisateur ?…
+
+   Si vous souhaitez en savoir davantage sur la lecture d’écran, les rôles
+   aria et l’ajax, je vous invite à consulter ce lien. Vous pouvez aussi
+   tester ce dernier avec un lecteur d’écran tel que VoiceOver (installé
+   par défaut sur mac, ⌘+F5).
+
+Mise en cache des requêtes
+
+   Je ne pourrai pas finir cet article sans vous parler de la mise en
+   cache des requêtes ajax.
+
+   Avant de lire la suite, il faut être prudent par rapport aux requêtes
+   que WordPress ou ses plugins sont susceptibles de mettre en cache. Si
+   l’utilisateur est connecté, les contenus qui seront retournés sont
+   susceptibles d’être personnalisés, voir de contenir des informations
+   sensibles… Ne mettez jamais en cache les requêtes d’un utilisateur
+   connecté ; elles risqueraient d’être resservie à un utilisateur
+   lambda !
+
+   À l’heure actuelle, je ne connais pas de plugin capable de cacher
+   automatiquement des requêtes ajax – et si je me trompe, merci de
+   laisser un commentaire – il faudra donc le faire à la main. Ma méthode
+   utilise l’API des transients. Les transients sont des données
+   transitoires qui sont stockées en base de données ou dans le cache
+   objet du serveur. Ces informations sont vouées à disparaître ou être
+   mises à jour au bout d’un certain temps. Parfait pour un système de
+   cache donc :-)
+
+   Voici comment utiliser cette API, dans le cadre des templates ajax
+   alternatifs (le 4e type de ressources, vous savez…) :
+
+   Exemple de template ajax avec cache transient
+// URL de la page
+$url = 'http://' . $_SERVER["HTTP_HOST"] . $_SERVER["REQUEST_URI"];
+// On teste si un transient existe
+if( false === ( $o = get_transient( 'URLajax' . md5( $url ) ) ) ) {
+
+        // Je récupère mon contenu
+        ob_start();
+        get_template_part( 'loop' );
+        $content = ob_get_clean();
+
+        // Je créé un transient pour 1 jour
+        set_transient( 'URLajax' . md5( $url ), $content, DAY_IN_SECONDS );
+}
+// Je renvoie les données
+wp_send_json_success( $content );
+
+   Petite précision : cela ne sert à rien de mettre en cache des infos qui
+   ne seront jamais redemandées. Pire, cela peut alourdir inutilement
+   votre site ; un transient n’est détruit qu’au moment où il est appelé,
+   si sa date d’expiration est dépassée. Il faut donc exclure les requêtes
+   de recherche.
+
+   Pas de cache pour les utilisateurs connectés
+// Juste avant de créer un transient :
+if ( ! is_user_logged_in()
+  && ! is_search() ) {
+        set_transient( 'URLajax' . md5( $url ), $content, 84600 );
+}
+
+   Il est important de supprimer les transients lorsque les contenus
+   concernés seront modifiés. Pour faire cela, il faut se hooker sur
+   plusieurs actions afin de faire le nettoyage. Voici par exemple comment
+   je procède sur mon site, Wabeo :
+
+   Supprimer les transients à la mise à jour
+// La fonction de flush
+function flush_url_transient( $id ) {
+        $urls = array();
+        // Home
+        $urls[] = 'URLajax' . md5( home_url('/') );
+        // La page mise à jour
+        $urls[] = 'URLajax' . md5( get_permalink( $id ) );
+        // Les tags
+    $tags = wp_get_post_tags( $post_id, array( 'fields' => 'ids' ) );
+    foreach( $tags as $tag ) {
+        $urls[] = 'URLajax' . md5( get_tag_link( $tag ) );
+    }
+    // Les catégories
+    $tags = wp_get_post_cats( $post_id, array( 'fields' => 'ids' ) );
+    foreach( $cats as $cat ) {
+        $urls[] = 'URLajax' . md5( get_category_link( $cat ) );
+    }
+
+        //flush
+    foreach ( $urls as $url ) {
+        delete_transient( $url );
+    }
+}
+
+// à la mise à jour d'article
+add_action( 'save_post', 'flush_page_transient' );
+function flush_page_transient( $id ) {
+        if ( ! wp_is_post_revision( $id ) ) {
+                $urls = array();
+
+                flush_urls_transient( $id );
+        }
+}
+
+// à la modification de commentaire
+add_action( 'wp_set_comment_status', 'flush_page_transient_on_comment_update', 1
+0, 2 );
+function flush_page_transient_on_comment_update( $comment_id, $status ) {
+        $comment = get_comment( $comment_id );
+    if( $comment ) {
+        $post_id = $comment->comment_post_ID;
+        flush_urls_transient( $post_id );
+    }
+}
+
+// à la modification de term
+add_action( 'edited_term_taxonomy', 'flush_taxonomy_transient_page', 10, 2 );
+function flush_taxonomy_transient_page( $term_id, $taxonomy ) {
+    if ( in_array( $taxonomy, array( 'post_tag', 'category' ) ) {
+        // Ici on flush directement la page du terme
+        $url = 'URLajax' . md5( get_term_link( $term_id, $taxonomy ) );
+        delete_transient( $url );
+    }
+}
+
+   Pour finir, si vous souhaitez faire automatiquement le ménage des
+   transients arrivés à expiration, le plus simple est d’utiliser ce code
+   ce Rarst.
+
+   Voilà, pour ce tour d’horizon de l’ajax sur WordPress !
+
+   L’article était long car mon souhait était de traiter ce sujet dans sa
+   globalité, merci (et bravo !) de l’avoir lu jusqu’au bout. J’espère
+   avoir été assez clair dans mes explications sur ce qu’est l’ajax, les
+   possibilités d’utilisation et les bonnes pratiques « WordPressiennes »
+   qui lui sont associées. N’hésitez pas à me faire part de vos remarques
+   en commentaire !
+
+Un projet ? Besoin d'aide et d'expertise ?
+
+   Parlons-en !
+
+Vous aimerez aussi
+
+     * Fonctionnement d'un CDN
+       Installer un CDN sur WordPress
+       Pourquoi et comment installer un CDN (Content Delivery Network) sur
+       WordPress ? Suivez ce tutoriel pour améliorer votre temps de
+       chargement.
+     * Un exemple de sommaire mis en page sur WordPress
+       Créer un sommaire dans WordPress
+       Quel est l’intérêt et comment ajouter de manière efficace un
+       sommaire ou une table des matières dans un site WordPress ? La
+       réponse par Daniel Roch de SeoMix
+     * Créez une page plan de site sur Wordpress
+       Un plan de site dynamique sous WordPress
+       Les pages plan de site sont un atout pour le référencement naturel
+       d’un site. Mais Wordpress n’en dispose pas par défaut. Voici un
+       tuto pour en créer un
+
+L'auteur du mix
+
+   Willy Bahuaud
+   Willy Bahuaud
+
+   Développeur freelance, spécialiste de WordPress
+
+Vous avez aimé ? Réagissez !
+
+    1. Benjamin par Benjamin, le 23 Avr 2015
+       Excellent article !
+       Quelques petites fautes dans le code  » Comment traiter une requête
+       avec admin-ajax « , il faut écrire adminAjax à la place de adminUrl
+       dans le JS, et « $_POST » au lieu de « $POST ».
+       :)
+         1. Willy Bahuaud par Willy Bahuaud, le 25 Avr 2015
+            @benjamin Merci de m’avoir remonté ces fautes, je les corrige
+            de ce pas :-)
+    2. posykrat par posykrat, le 29 Avr 2015
+       Très complet, merci.
+    3. jetXS par jetXS, le 31 Mai 2015
+       Bonjour Willy,
+       J’ai essayé d’adapter le tutoriel dispo sur BaW, cependant, je ne
+       comprends pas vraiment la partie concernant le wp_localize_script()
+       pour switch entre template disons « single-project » par exemple et
+       le template « taxonomy-projectcat » par exemple.
+       J’ai regardé le code dispo ici
+       (https://gist.github.com/willybahuaud/1ad49811b8af2cf5abe5) en
+       lisant les commentaires mais il n’y a pas de trace de
+       wp_localize_script… Si j’ai bien compris son usage, on le met dans
+       la fonction exécutée par le requête AJAX non ?
+       Du coup, j’ai fait comme suit, mais je ne suis pas convaincu par ma
+       manip et ceci ne semble pas marcher… (erreur JS).
+       add_filter( 'template_include', 'md_template_include' );
+       function md_template_include( $template ) {
+       if( isset( $_SERVER['HTTP_X_REQUESTED_WITH'] ) &&
+       $_SERVER['HTTP_X_REQUESTED_WITH']== 'MDXMLHttpRequest' ):
+       $pre = dirname( $template );
+       $suf = basename( $template );
+       $_template = $pre . '/ajax-' . $suf;
+       if( !file_exists( $_template ) )
+       $_template = $template;
+       $template = $_template;
+       endif;
+       wp_localize_script('md-script', 'the_template',
+       array('the_current_template' => $template));
+       return $template;
+       }
+       Et erreur après le parse disant que la variable n’est pas définie
+       dans le JS (voir commentaire):
+       function perform_ajax_request( url ) {
+       $.ajax({
+       url  : url,
+       type  : 'POST',
+       headers: {
+       'X-Requested-With':'MDXMLHttpRequest'
+       }
+       }).done( function( data ) {
+       var data = $.parseJSON( data );
+       //La ligne suivante pause problème, si elle n'est pas présente,
+       c'est celle d'après, dans tous les cas "the_template" ou
+       "current_template" ne sont pas définis.
+       var current_template=the_template.the_current_template;
+       switch_content( current_template, data );
+       }).error( function() {
+       // Error
+       alert( 'Unable to update the content, an error occured.' );
+       });
+       }
+       Merci d’avance pour ton temps et éventuel aide :)
+    4. lavegute par lavegute, le 12 Jan 2018
+       Bon article mais perso j’ai une extension que j’ai faite moi même,
+       j’ai voulu mettre de l’ajax pour changer SIMPLEMENT la couleur
+       d’une phrase a la soumission d’un formulaire , ça fait 5 jours que
+       je suis dessus j’abandonne, des milliers de lignes de codes pur
+       changer une couleur dans un langage incompréhensible avec une
+       syntaxe qui provoque des crises d’épilepsie, je préfère faire un
+       bouton tout deg avec un OnClick pour actualiser la page, 2 mots et
+       sa ira.
+       Je suis sur que d’apprendre le russe et le mandarin en même temps
+       est beaucoup plus aisé lol
+
+   Tapez votre commentaire ci-dessous
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+
+   Pour ajouter du code, utilisez "<code>"
+
+   Votre nom* ______________________________
+
+   Votre email* ______________________________
+
+   Valider le commentaire
+
+   Vous aimez ?
+
+   Partager la publication "Ajax et WordPress : le guide"
+     * (BUTTON) Facebook
+     * (BUTTON) Linkedin
+     * (BUTTON) Twitter
+     * (BUTTON) Adresse mail
+
+   Un projet ? Besoin d'aide ?
+
+   Parlons-en !
+
+   Au sommaire
+
+     * Qu'est ce que l'ajax ?
+     * Comment mettre en place une requête ?
+     * Quelles ressources appeler ?
+          + Le script admin-ajax.php
+          + Une page du site
+          + La WP REST API
+          + Un template dédié à l'ajax
+     * La navigation
+          + L'API History d'HTML5
+          + L'ajax sert à faire des transitions
+          + Insertion de contenu «en douceur»
+     * L'ajax accessible
+          + Le script admin-post.php
+          + Un peu d'ARIA
+     * Mise en cache des requêtes
+     * Commentaires
+
+   Veuillez laisser ce champ vide ____________________
+
+   Abonnez-vous à notre newsletter !
+
+   ____________________
+
+   Valider
+
+   Et rejoignez nos 676 mixeurs. Recevez des astuces sur WordPress et en
+   SEO, nos derniers articles, nos dates de formation et des cadeaux
+   bonus.
+
+   Vérifiez votre boîte de réception ou vos indésirables afin de confirmer
+   votre abonnement.
+
+   Daniel Roch
+
+   L'agence SeoMix, c'est avant tout une passion : le CMS WordPress, le
+   référencement naturel, et le juste mix entre les deux. Créé en 2010 par
+   Daniel Roch, retrouvez sur notre site nos articles et tutoriels, mais
+   surtout découvrez nos services et notre expertise pour faire du web, de
+   Google et de WordPress un monde meilleur, ou presque. Ne manquez pas
+   non plus SEO KEY, notre projet d'extension de référencement naturel
+   pour WordPress !
+   Le cœur de métier du mixeur Nantais ? L'optimisation de WordPress pour
+   le SEO. Tout y passe : réglages, thème et extensions WordPress, gestion
+   de contenu, audit SEO, analyse de positionnement et bien entendu un
+   vrai accompagnement mensuel par des experts du CMS et la visibilité
+   dans les moteurs de recherche !
+
+   Notre expertise sur le SEO et WordPress :
+     * Optimiser son référencement WordPress, le livre
+     * Agence Web certifiée Adwords
+     * Agence web certifiée Analytics
+     * Agence web certifiée Google Partners
+
+   Retrouvez SeoMix sur :
+     * Twitter
+     * Facebook
+     * Instagram
+     * RSS
+
+   L'agence SeoMix en quelques chiffres :
+   18 594 mixeurs abonnés 257 publications 4993 commentaires 32 auteurs
+
+   Nos références clients :
+
+   Indépendants, TPE, PME, grands groupes
+   Ils nous font confiance pour le référencement naturel et WordPress
+     * Casal Sport
+     * Carla de Sousa Psychologue
+     * Kiabi
+     * APHP
+     * Radio France
+     * Abondance
+     * Petit Bag
+     * Dassault Aviation
+
+   Retrouvez ici le blog de Daniel Roch, consultant SEO à Nantes et
+   fondateur de l'agence SeoMix
+
+   © 2010 - 2019 SeoMix : WordPress & Référencement
+   Agence web nantaise spécialisée sur WordPress et le référencement
+   Propulsé par WordPress et Daniel Roch - Logo par Willy Bahuaud - Design
+   par Vincent Perhirin
+   Nos domaines d'expertises depuis 2010 : l'audit et l'accompagnement
+   SEO, le référencement naturel, la création de sites et le développement
+   WordPress !
+   Notre adresse : SeoMix, 19 avenue Louise Michel 44400 Rezé - 02 40 59
+   09 35 - contact@seomix.fr

@@ -1,0 +1,245 @@
+   [lock.png] Login
+   (BUTTON) Toggle navigation [logo_mail_fr.png]
+     * mail.fr
+     * Fonctions
+     * Produits
+     * Sécurité
+     * Société
+
+    1.
+    2.
+    3.
+    4.
+    5.
+    6.
+    7.
+
+Profitez de votre liberté !
+FreeMail mail.fr
+
+     * Aucuns frais
+     * Un anonymat complet
+     * Une sécurité optimale
+     * Aucune durée de contrat
+     * Une adresse e-mail courte et précise
+
+   S'inscrire gratuitement
+
+Aucun compromis
+
+     * Espace de stockage de 2 Go pour les e-mails et les données
+     * Consultation des e-mails via IMAP et POP3
+     * Application mobile pour Android et iPhone
+     * Calendrier avec fonction de synchronisation via CardDAV
+     * Espace de stockage en ligne pour fichiers et documents
+     * Protection professionnelle contre les spams et les virus lors de la
+       réception et de l'envoi d'e-mails
+
+   S'inscrire gratuitement
+
+Pour votre sphère privée
+
+     * Pseudonyme à la place de votre nom
+     * Enregistrement possible avec peu de données
+     * Aucune donnée personnelle à fournir
+     * Paiement anonyme (pour le pack à 1 EUR sans publicité)
+     * Prenez votre décision après avoir testé (FreeMail ou PlusMail)
+
+   S'inscrire gratuitement
+
+Partout où vous êtes et où vous vous déplacez
+
+     * Application mobile pour Android et iPhone
+     * Communication par e-mail sécurisée et chiffrée
+     * Fonction Push pour vos e-mails
+     * E-mails, carnet d'adresses, calendrier et stockage en ligne :
+       toutes ces fonctions sont réunies dans une appli
+     * Gestion de plusieurs comptes mail.fr dans une appli
+     * Apparence personnalisée grâce aux différents fonds disponibles
+
+   S'inscrire gratuitement
+
+   App Store Get it on Google Play
+
+Un sentiment toujours agréable
+Sécurité et chiffrement
+
+     * Chiffrement du transport (SSL/TLS)
+     * Signature DKIM
+     * Sécurisation du transport des e-mails via DANE/TLSA
+     * Perfekt Forward Secrecy (PFS)
+     * Connexion sécurisée avec des noms de connexion individuels
+     * Authentification à deux facteurs avec U2F ou l'authentificateur
+       mail.fr
+     * Entrée e-mails : chiffrement PGP et S/MIME
+     * Désactivation des protocoles non utilisés
+
+   S'inscrire gratuitement
+
+Écologique et durable
+
+     * Électricité 100 % verte
+     * Choix du site effectué en fonction de critères durables
+     * Matériel consommant peu d'énergie
+     * Développement de logiciel rentable
+     * Infrastructure de serveurs en fonction des besoins
+     * Rapport annuel écologique et de transparence
+
+   S'inscrire gratuitement
+
+Nos récompenses
+
+   [PCM_0317_Testsieger.jpg] « Au cours du test auquel le fournisseur
+   mail.de a été soumis, il a su convaincre grâce aux nombreuses fonctions
+   proposées et une intégration particulièrement réussie de l'espace de
+   stockage en ligne. » Voir plus
+   [zeo2_testlogo_platz1.jpg] Gagnant du test écologique ! « Les personnes
+   qui ouvrent un compte e-mail sur mail.de font des économies notables
+   d'énergie et contribuent ainsi au respect de l'environnement ! »
+   (Rédaction zeo2) Voir plus
+   [Computer_Testsieger.png] Test des cinq plus grands fournisseurs
+   allemands de messagerie électronique du magazine spécialisé « Computer
+   - das Magazin für die Praxis » « mail.de propose des prestations avec
+   un haut niveau d'équipement et des fonctions de sécurité attrayantes.
+   La rédaction conclut par cette déclaration : N'attendez pas et passez
+   chez mail.de ! »
+   (La rédaction) Voir plus
+   [PSW_group_testsieger_mail-de.jpg] « Le fournisseur mail.de est de loin
+   le fournisseur d'adresses e-mail gratuites le plus sûr. Allier confort
+   et sécurité sera donc bientôt possible ! »
+   (Bianca Wellbrock - Rédaction) Voir plus
+   Pr�c�dent Suivant
+
+Des produits adaptés à chacun :
+aperçu comparatif
+
+   Espace de stockage pour e-mails et espace de stockage en ligne
+   Volumes de transfert (trafic)
+   Taille maximum des pièces jointes (réception et envoi)
+   Utilisation confortable via notre appli (pour iPhone/Android)
+   Signature e-mail personnalisée (Nombre)
+   Détection des spams à la réception et lors de l'envoi
+   Consultation des e-mails via IMAP et POP3
+   Boîte aux lettres sans publicité/aucune newsletter mail.fr
+   Service de sauvegarde d'e-mails (inclus)
+   Signature HTML avec photo/logo
+
+Durée du contrat
+
+   Aucune 12 mois
+   Free Mail
+   Free
+   0^,00EUR / mois
+   2 Go
+   4Go / mois
+   60 Mo
+   limité
+   1
+   Oui
+   Oui
+   Plus Mail
+   Plus
+   1^,00EUR / mois^*
+   5 Go
+   10 Go / mois
+   100 Mo
+   Oui
+   2
+   Oui
+   Oui
+   Oui
+   Oui
+   Oui
+   S'inscrire gratuitement
+   ^*Tous les prix s'entendent TVA comprise au taux actuellement en
+   vigueur.
+
+Mobilité et indépendance
+
+Avec nos applications pour smartphones et tablettes
+
+Une appli - Toutes les fonctions
+
+   Avec mail.fr, soyez mobile et indépendant grâce à une seule
+   application. Cette application réunit toutes les fonctions importantes
+   pour communiquer et vous permet d'accéder à tous vos messages,
+   dossiers, contacts, événements et fichiers.
+
+   Télécharger maintenant dans iTunes ou dans le Google Play Store.
+
+   App Store Get it on Google Play
+   mail.ch mobile
+
+Bénéficiez d'une sécurité optimale grâce à une technique de chiffrement
+ultra-moderne
+
+Avec notre messagerie facile à utiliser
+
+   [screen_fr_00.jpg] [screen_fr_01.jpg] [screen_fr_02.jpg]
+   [screen_fr_03.jpg] [screen_fr_04.jpg] [screen_fr_05.jpg]
+   [screen_fr_06.jpg] [screen_fr_07.jpg] [screen_fr_08.jpg]
+   Précédent Suivant
+
+Aperçu des avantages d'une adresse e-mail chez mail.fr
+
+   [icon-mail.png]
+   Adresse e-mail sécurisée et anonyme
+   [icon-laptop.png]
+   Utilisation simple de la messagerie web partout où vous êtes
+   [icon-storage.png]
+   Espace de stockage important pour vos e-mails et vos fichiers
+   [icon-spamfree.png]
+   Protection professionnelle contre les spams entrants et sortants
+   [icon-security.png]
+   Sécurité optimale grâce à un chiffrement SSL
+   [icon-heart.png]
+   Compte e-mail personnalisable
+
+   Enregistrez-vous en une minute et testez notre messagerie ! Utilisez
+   mail.fr pendant 30 jours gratuitement et sans publicité. Vous pouvez
+   passer du pack FreeMail gratuit au pack Premium PlusMail quand vous le
+   souhaitez.
+
+L'équipe dirigeante
+
+   [facepic_fabian.jpg?v=1]
+
+Fabian Bock
+
+Chief Executive Officer
+
+   Fabian Bock est le fondateur et le gérant de mail.de GmbH. En 1998, il
+   a commencé son parcours professionnel comme Key Account Manager dans
+   l'entreprise allemande de télécommunications Talkline. Voir plus
+   [facepic_norman.jpg?v=1]
+
+Norman Schulz
+
+Chief Technical Officer
+
+   Norman Schulz, le directeur technique de mail.de GmbH, a acquis ces
+   vingt dernières années de nombreuses expériences dans le domaine du
+   développement de logiciel et de l'assurance qualité de... Voir plus
+   [facepic_michael.jpg]
+
+Michael Kliewe
+
+Chief Security Officer
+
+   Michael Kliewe travaille également chez mail.de GmbH depuis le tout
+   début, il est très intéressé par les dernières fonctions de sécurité
+   sur Internet et veille à ce que le niveau de sécurité de l'entreprise
+   reste toujours extrêmement... Voir plus
+
+Protection des données vérifiée
+
+   DATATREE AG
+
+Boutique en ligne certifiée
+
+   Trusted Shops mail.de est une boutique en ligne vérifiée par Trusted
+   Shops (certificat et protection acheteur).
+
+Sécurité élevée
+
+   TLS Secured Tous les sites de mail.ch utilisent le chiffrement par TLS.

@@ -1,0 +1,86 @@
+
+LEXICON
+
+   IP address(es): means an identification number composed of four series
+   of figures (e.g. 000.000.000.000), which is generally assigned on a
+   temporary basis to a User’s Device by an Internet Service Provider when
+   they connect to the internet, and which we may process when the Device
+   concerned views a Site, in response to statutory obligations or to
+   determine the country in which the connection originated, for example.
+
+   Browser(s) or Internet Browser(s): means a software application for
+   displaying websites, download files and carry out searches. There are
+   many different Browsers, for any kind of Device (computer, tablet,
+   phones, etc.) and for any kind of operating system (GNU/Linux, Windows,
+   Mac OS, iOS, Android, etc.). The most popular Browsers are Google
+   Chrome, Mozilla Firefox, Internet Explorer, Safari and Opera.
+
+   Customer(s): means any company other than those that make up Sirdata,
+   with which we have entered into an agreement relating to the provision
+   of Sirdata products and/or services, which allows them to publish an
+   advertisement or personalised message.
+
+   Cookie(s): means a text file that is saved temporarily, subject to the
+   User’s agreement in accordance with the applicable French and/or
+   European legislation, when viewing the Site of one of our Sites
+   Operators. A cookie file allows the issuer to identify the Internet
+   Browser of the Device it is saved on, while the Cookie remains valid or
+   during the period it is saved for.
+
+   Device(s): means the hardware (computer, smartphone, tablet and/or all
+   connected devices, etc.) and their software components (operating
+   system, Browser, etc.) that allow the User to access the Site of a Site
+   Operator.
+
+   Partner(s): means any company other than those that make up Sirdata,
+   with which we have entered an agreement relating to the provision of
+   Sirdata services, which allow Sirdata to distribute Data to its
+   Customer(s) and/or to the Partner’s customers.
+
+   Personal Data: means, in accordance with the General Data Protection
+   Regulation 2016/679 of 26 April 2017 (“GDPR�), all information that
+   allows a data subject to be identified either directly or indirectly,
+   regardless of the device used by the User. Personal data include
+   sociodemographic, browsing or interaction data relating to a Device’s
+   connection to the internet or a Site at a given moment (IP address,
+   date and time of a Device’s connection to a Site, the identity of the
+   Device or its browsing software, the Browser’s user languages, the type
+   and version of the Browser used by a Device, the operating system used
+   by the Device, etc.).
+
+   Processing of Personal Data: means any operation(s) applied to Personal
+   Data, in particular collection, saving, organisation, viewing, use,
+   storage, transfer or any means of providing access, limiting, erasure
+   or destruction, comparison or interconnection.
+
+   Sensitive Data: means those Personal Data that reveal a person’s racial
+   or ethnic origin, political opinions, religious or philosophical
+   beliefs, trade-union membership, genetic status or state of health, or
+   sexual orientation. It is important to note that Sirdata does not
+   collect any Sensitive Data.
+
+   Site(s) Operator(s): means any company other than those that make up
+   Sirdata, with which we have entered into an agreement relating to the
+   provision of Sirdata services, which allows Sirdata to gather Data.
+
+   Site(s): means, in accordance with the French Act on Confidence in the
+   Digital Economy no. 2004/575 of 21 June 2004 (LCEN), the transmission
+   of digital data of any kind, which do not represent private
+   correspondence, by an electronic communications process, of signs,
+   signals, texts, images, sounds or images of any kind, implemented by
+   our Sites Operators, to offer Users their products and services.
+
+   Sirdata, we, our: means Group companies and our service providers who
+   may, under certain conditions, gather, use, save or share Personal Data
+   that has been created or modified when the User accesses, receives an
+   offer from or visits the Site of one of our Sites Operators.
+
+   Subcontractor(s): means any company that may process Personal Data on
+   behalf of a principal, which is responsible for processing Data. Where
+   Sirdata acts on behalf of a Customer, Sirdata may be a subcontractor.
+   Where a Sirdata service provider acts on behalf of Sirdata and on its
+   instructions, Sirdata is responsible for the Data processed by said
+   service provider subcontractor. User(s): means any physical person who
+   accesses, uses, views via a given Internet Browser or is a member of a
+   Site Operator’s department, whose Personal Data we may process in order
+   to serve our Partners and Customers.

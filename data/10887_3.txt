@@ -1,0 +1,89 @@
+   .]
+
+Investment Service Provider's Tied Agent
+
+   [_] Investment Service Provider's Tied Agent (ALPSI)
+
+Crowdfunding Advisor
+
+   [_] Crowdfunding Advisor (CIP) CIP association:
+   [ ..................................................]
+
+Crowdfunding Intermediary
+
+   [_] Crowdfunding Intermediary (IFP)
+
+   Search
+     * Home
+     * Consumer Area
+     * Business Area
+
+     * Useful links
+     * Glossary
+     * Faq
+
+     * Site map
+     * Legal notice
+     * Contact
+
+     * Legal library
+     * User account
+     * Web Service Registration
+
+
+                                     Orias
+
+   Search the register for an intermediary :  ____________________ Search
+   Advanced search
+
+   (BUTTON) [flag_france.png] Français
+   (BUTTON) [flag_uk.png] English
+
+     * Page Icon Consumer Area
+     * Page Icon Business Area
+
+Search for an intermediary
+
+Search criteria
+
+   Name, SIREN, Registration, Contact :
+   ____________________
+   Address:
+   ____________________
+   Postcode/City:
+   ____________________
+
+   Categories
+
+Insurance Intermediary
+
+   [ ] Insurance or Reinsurance Broker (COA) [ ] General Insurance Agent
+   (AGA) [ ] Insurance Representative (MA) [ ] Insurance Intermediary
+   Representative (MIA) [ ] European Insurance Intermediary Country:
+   [ _____________]
+
+   Mandator's name:
+   ____________________
+
+Banking Transactions and Payment Services Intermediary
+
+   [ ] Banking Transactions and Payment Services Broker (COBSP) [ ]
+   Banking Transactions and Payment Services Exclusive Representative
+   (MOBSPL) [ ] Banking Transactions and Payment Services Non-Exclusive
+   Representative (MOBSP) [ ] Banking Transactions and Payment Services
+   Intermediary Representative (MIOBSP)
+
+Banking transactions
+
+   [ ] Payment services
+   [ ] Consumer credit agreements
+   [ ] Debt consolidation
+   [ ] Real estate loan agreements
+   [ ] Reverse mortgages
+   [ ] Other activities
+   [ ] Not completed
+   [ ] European Real Estate Loan Intermediary Country:  [ _____________]
+
+Financial Investment Advisor
+
+   [ ] Financial Investment Advisor (CIF) CIF association:

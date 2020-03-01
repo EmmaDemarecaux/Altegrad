@@ -1,0 +1,9 @@
+
+   THANK YOU!
+
+   Thank you for registering! We have sent a confirmation email to
+   {USEREMAIL}. Click the link to confirm your email address.
+
+   Please check your spam folder for the email, if it does not arrive,
+   click this link...
+   resend verification emailCancel

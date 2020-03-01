@@ -1,0 +1,11 @@
+
+   La nouvelle version 6.5 de CouchBase en Beta
+
+La nouvelle version 6.5 de CouchBase en Beta
+
+   L’éditeur de solutions de gestion de base de données NoSQL vient de
+   lancer le programme Beta de la nouvelle version de sa base de données
+   garantissant l’intégrité des données ACID (atomicité, cohérence,
+   isolation, durabilité) sur les transactions multi-documents. [Lire
+   l'article...]
+   Publié le 30 septembre 2019 15:42 - Autres infos Solutions, Logiciel

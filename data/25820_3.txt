@@ -1,0 +1,23 @@
+
+   Continue as Guest (BUTTON) Continue as Guest
+
+   [ ]   Continue as a Guest User
+
+NEW CUSTOMERS
+
+   If you don't have an account with us, or are just unsure then enter
+   your information below.
+
+   ____________________
+   ____________________
+   ____________________
+   ____________________
+
+   Password should have at least a minimum of one letter, one number and
+   is at least 8 characters long
+   ____________________
+   (*)
+   Male
+   ( )
+   Female
+   ____________________

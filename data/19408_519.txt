@@ -1,0 +1,12 @@
+
+   iOS 13 a fait le plein de bugs
+
+iOS 13 a fait le plein de bugs
+
+   Le correctif iOS 13.1 devait sortir le 30 septembre mais face aux
+   multiples signalements de problèmes de gravité variée, Apple a diffusé
+   le patch hier. Sans toutefois corriger l’ensemble des bugs, une
+   vulnérabilité liée aux permissions des claviers ayant été découverte
+   peu après. [Lire l'article...]
+   Publié le 25 septembre 2019 16:24 - Autres infos Sécurité, Mobilité,
+   Logiciel

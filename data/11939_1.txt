@@ -1,0 +1,73 @@
+   #HAL
+
+   (BUTTON) Toggle navigation
+   CCSD
+     * HAL
+          + HAL
+          + HALSHS
+          + TEL
+          + MédiHAL
+          + Liste des portails
+          +
+          + AURéHAL
+          + API
+          + Data
+          + Documentation
+     * Episciences.org
+          + Episciences.org
+          + Revues
+          +
+          + Documentation
+     * Sciencesconf.org
+     * Support
+
+   (BUTTON)  Connexion (BUTTON)
+     * Connexion
+     * Connexion avec ORCID
+     * se connecter avec Fédération
+     *
+     * Créer un compte
+     *
+     * Mot de passe oublié ?
+     * Login oublié ?
+
+     * fr
+     * en
+
+     * Accueil
+     * Dépôt
+          + Je dépose
+          + Questions pratiques
+          + Questions juridiques
+          + C'est quoi l'OA ?
+     * Consultation
+          + Consultation par période
+          + Consultation par auteur
+          + Consultation par collections
+          + Consultation par type de publication
+          + Consultation par structure
+          + Consultation par discipline
+          + Consultation des derniers dépôts
+     * Recherche
+     * Services
+          + Créer son IdHAL et CVHAL
+          + Outils
+               o ExtractionHAL
+               o MediHAL
+               o OcdHAL
+               o X2HAL
+          + Le pôle IST
+
+    1. Accueil
+
+CONTACT
+
+   pole-ist@centralesupelec.fr
+
+Sherpa/Roméo
+
+   [sherpa-romeo.gif]
+   (*) Titre du journal   ( ) Editeur
+   ____________________ (BUTTON)
+   (*) Est exactement   ( ) Commence par   ( ) Contient   ( ) ISSN
+   ( ) Est exactement   (*) Tous les mots-clés   ( ) Contient

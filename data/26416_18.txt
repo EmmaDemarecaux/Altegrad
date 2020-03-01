@@ -1,0 +1,6 @@
+
+Animations proposées
+
+     * Billard
+     * Flipper
+     * Photomaton

@@ -1,0 +1,8 @@
+
+     * Désigner un délégué (DPO)
+     * Notifier une violation de données personnelles
+     * Déclarer la CNIL autorité chef de file
+     * Envoyer son AIPD à la CNIL
+     * Déclarer un fichier
+
+   Le contrôle de la CNIL

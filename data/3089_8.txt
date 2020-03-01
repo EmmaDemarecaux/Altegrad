@@ -1,0 +1,30 @@
+
+NEO SNES / SFC Myth
+
+   Neoflash are very proactive team of hardware developers that have
+   brought countless solutions to ROM loading devices and import adapters
+   over the years. Unfortunately though, their chance to fill a huge gap
+   in the market with their NEO range of flash cartridges, was met by a
+   huge mistake several years ago. Simply put, Neoflash’s intention was to
+   create a family of flash cards that all relied on the same storage
+   solution - their existing Game Boy Advance flash cards.
+
+   Using clunky PC based software you’re supposed to load up your Super
+   Nintendo ROMs onto the Game Boy Advance flash card, which would then
+   plug into the top of the NEO SNES / SFC Myth cartridge. This also
+   allowed you to use part of the cartridge for your Mega Drive ROMs (for
+   use with the NEO MD Myth and NEO N64 Myth at the same time. While
+   sounding great as an all-in-one solution on paper, the small capacity
+   of these cartridges filled up pretty quick and you found yourself
+   needing at least one card for each flash cartridge - which was
+   expensive to say the least.
+
+   Given it is the one of the most expensive Super Nintendo flash
+   cartridge on offer, you’d be better investing a little more and getting
+   the ultimate SD2SNES.
+     * Storage: Neoflash Game Boy Advance Flash Cards
+     * Pros: Great if you have the other NEO Myth cards, near perfect
+       compatibility
+     * Cons: Expensive, clunky, outdated
+
+   Link: Buy NEO SNES / SFC Myth

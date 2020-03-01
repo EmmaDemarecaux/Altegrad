@@ -1,0 +1,1018 @@
+
+   Mentions légales
+   (BUTTON)
+
+   mattis porta. lectus neque. ultricies quis pulvinar Aenean non
+
+   Nous utilisons des cookies pour vous garantir la meilleure expérience
+   sur notre site. Pour en savoir plus, consultez notre page de mentions
+   légales en bas de page.Ok
+   #SeoMix » Flux
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-W5FDXVT
+
+   SeoMix : agence web à Nantes
+   SeoMix
+   WordPress & Référencement
+
+   Créateur de Visibilité avec WordPress Nos services
+
+     * (BUTTON) Twitter
+     * (BUTTON) Facebook
+     * (BUTTON) Instagram
+     * (BUTTON) RSS
+
+   Appelez-nous !02 40 59 09 35
+
+   SeoMix
+
+   WordPress & Référencement
+
+   (BUTTON) Menu
+     * WordPress
+          + Le CMS WordPress
+          + Référencement de WordPress
+          + Extensions
+          + Thèmes WordPress
+          + Hacks et codes
+     * Référencement naturel
+          + Les bases du référencement naturel
+          + Les audits SEO
+          + Contenus et référencement
+          + Structure et maillage interne
+          + Crawl, indexation et SEO
+          + Images et vidéos
+          + Netlinking et SEO
+          + Outils et logiciels
+     * WebMarketing
+     * L’agence SEO
+     * Nos services
+          + Audit SEO
+          + Référencement naturel
+          + Création de sites & Développement
+          + Référencement payant
+          + Formations WordPress et référencement
+               o Formation Avancée « WordPress et SEO »
+               o Formation Développeur WordPress
+     * Contact
+
+   Vous cherchez quelque chose ? Recherche ____________________ Chercher
+
+   (BUTTON)
+
+   Vous êtes ici : SeoMix → WordPress → Extensions WordPress → La nouvelle
+   ère des plugins Premium WordPress
+
+                 La nouvelle ère des plugins Premium WordPress
+
+   Le 17/09/2012, mis à jour le 27/11/2018 | Par Patrice Albertus | Dans
+   WordPress » Extensions WordPress
+
+   Tout d’abord merci à Daniel de me laisser tribune sur un sujet dont lui
+   et moi sommes très passionnés, WordPress !
+
+Une nouvelle ère ?
+
+   Le titre un peu vendeur, mais pas anodin. La popularité toujours plus
+   importante de WordPress (même les agences qui snobaient se spécialisent
+   ah ah!…), et l’arrivée de nouvelles marketplace pour les thèmes et les
+   plugins payants a bousculé le développement précedemment « amateur »
+   des outils du CMS vers un écosystème beaucoup plus professionnel où le
+   prix implique une qualité sans concession. Réponse à cette évolution,
+   WordPress.org a aussi revu ses pages plugins gratuits de la communauté
+   vers un format beaucoup plus visuel (bannière, favoris), peut-être une
+   prochaine version communauté/prodev?…
+
+   Bref, le « marché » du plugin WordPress n’est plus une niche, en
+   témoigne les pics record de 30 000 installations quotidienne du plugin
+   XML Sitemaps, et les plugins premium sont venus concurrencer
+   l’historique repository de WordPress.org. Heureusement ces derniers
+   n’ont pas pour objectif de cannibaliser le travail de la communauté,
+   mais plutôt créer de la valeur ajoutée sur les produits livrés (et de
+   la valeur $$$, à raison de 10$ prix moyen de vente sur CodeCanyon).
+
+Pourquoi je devrais payer ?
+
+   Premium en 4 points :
+     * qualité supérieure,
+     * service client,
+     * rendu pro
+     * mises à jours fréquentes.
+
+   Bien sûr ces 4 arguments se retrouvent aussi sur les meilleurs plugins
+   gratuits de WordPress.org, à l’instar des plugins réalisés par Joost de
+   Valk : Google Analytics, WordPress SEO (2 millions d’installations),
+   breadcrumbs et de nombreux autres fervents serviteurs WP.
+
+   Mais malheureusement la repository de WordPress ne peut garantir un
+   niveau de qualité équivoque sur les 21 095 plugins disponibles,
+   d’autant que certains plugins/thèmes malicieux sont utilisés à des fins
+   de mauvais seo (cheval de troie de scripts parfois dangereux). Dans le
+   premium et les marketplace, la concurrence et les prix impliquent aux
+   vendeurs de constamment mettre à jour et évoluer leurs plugins, ce qui
+   est moins le cas dans l’univers du gratuit.
+
+   Un bon panachage entre du plugin gratuit recommandé et du premium vous
+   permettront de livrer un blog/site exceptionnel.
+
+Les plugins premiums
+
+   Note de Daniel Roch : cet article de Patrice Albertus présente des
+   plugins WordPress payant de qualité. L’article contient des liens
+   d’affiliation
+
+  Optimisation et SEO
+
+     * LandingPages: Attention, missile. De nombreux référenceurs vont
+       tout simplement se rejouir lorsqu’il vont lire la suite et se dire
+       #§@°##! pourquoi ils l’ont pas trouvé avant … et avant Penguin…  Ce
+       plugin est un outil de gestion de landing pages dynamiques capable
+       de créer des page en combinant des expressions selon plusieurs
+       listes et en publiant progressivement, un pur outil de contenu SEO.
+       Il ne vous reste plus qu’à construire un template landing page
+       sympa (à défaut d’utiliser celui de vos articles) et combiner avec
+       le plugin gratuit Custom Post Template pour faire une équipe
+       performante.
+
+   Plugin WordPress Landing Pages Plugin WordPress Landing Pages
+     * Premise et Scribe 2.0 proposé par CopyBlogger. Pionnier dans les
+       framework sous WordPress payants, cette solution complète vous
+       servira à améliorer la rédaction de vos contenus, optimiser vos
+       articles avec les mots-clés levier de trafic ou bien générer des
+       landing pages pour booster vos leads.
+     * Security Ninja : Une checklist des étapes à verrouiller pour
+       assurer à vos clients (et vous même) de dormir tranquillement la
+       nuit. Bien que de nombreuses solution gratuites existent et son
+       très compètes (Better WP Security, WP security Scan), ce plugin va
+       plus loin que faire le check, il propose des solutions et des
+       conseils pour optimiser votre serveur, ça vaut bien 10$ (au moins
+       une fois …).
+
+  Webdesign
+
+     * UberMenu : fan de menus de navigation développés et proposant du
+       contenu riche, des bannières ou même de la vidéo? Effet positif
+       visiteur garantit avec UberMenu qui propose des top menus validés
+       responsive, qui s’intègre dans l’outil natif des menus
+       personnalisés de WordPress avec 20 styles prédéfinis et de la
+       customisation. Mode Vertical ou horizontal.
+
+   Plugin WordPress Uber Menu Plugin WordPress Uber Menu
+     * CSS3 Mega Menu : encore un plugin pour les megas menu.
+     * Le slider étant devenu un élément incontournable de vos pages,
+       voici alors un incontournable plugin de slider premium : SlideDeck
+       2. Format responsive, sources de Instagram à 500px pour l’image, en
+       passant par la vidéo et le microblogging et Google+.
+
+   Plugin WordPress SlideDeck Plugin WordPress SlideDeck
+
+     * Au même titre que Kriesi pour les thèmes haut de gamme WordPress,
+       RightHere est un top contributor pour les plugins WordPress sur la
+       plate-forme Envato. Ils proposent Style with Shortcode, un plugin
+       qui apporte à votre thème une armada de codes CSS pré-définis
+       (colonnes, box, div, zoom image, lightbox, …). Et surtout la
+       possibilité de créer vos propres shorcodes pour agrémenter selon le
+       besoin de vos articles. Il existe aussi sous forme d’achats
+       intégrés des styles préformatés.
+
+   Plugin WordPress Styles With Shortcodes Plugin WordPress Styles With
+   Shortcodes
+     * Lightbox Evolution : vraiment du luxe, il est présent dans cette
+       liste car je sais que nombreux sont encore deçus des plugins
+       gratuits de lightbox. Lightbox Evolution est la réponse en premium,
+       avec effectivement un choix de style et de paramètres pou
+       personnaliser vos fenêtre selon le look’n feel de votre site.
+
+  Publicité et Marketing online
+
+     * LePopup : comme son nom l’indique, ce plugin permet de gérer des
+       popups à l’affichage de votre homepage par exemple. Une technique
+       très répandue pour faire la promotion de votre page fan Facebook ou
+       encore des livres blancs du moment. Vous pourrez ainsi pousser du
+       contenu image ou HTML et la gestion de l’affichage est configurable
+       selon la session, un temps écoulé, des intervalles et bien sûr
+       la(es) landing pages. sélectionnée(s).
+
+   Plugin WordPress lepopup Plugin WordPress lepopup
+     * Pippity : Sur le même créneau que LePopup, Pippity est une solution
+       pour afficher des formulaires en popup (ou bien d’autres contenus
+       en HTML). J’ai cependant eu des soucis de fonctionnement sur
+       certains thèmes, vérifiez bien si vous n’avez pas de conflits
+       lightbox/JQuery, la licence est transférable.
+     * WordPress Email Newsletter Plugin : Pour les sites à caractère
+       éditorial à la recherche d’une gestion dédiée aux envois de
+       newsletter, ce plugin est une réponse bien développée et intégrant
+       les fonctionnalités essentielles à la création, la mis en forme et
+       l’envoi. Même si ma préférence dans la payant va plutôt vers des
+       applications complètes type MailChimp, CampaignMonitor (dont il
+       existe des plugins WordPress), il faut dire que pour 25$ ce plugin
+       est plus que bon marché.
+
+   Plugin WordPress Email Newsletter Plugin WordPress Email Newsletter
+
+     * LikeBox Slider : très recherché et souvent pas assez « design
+       friendly » dans les plugins gratuits, ce plugin slider bord de page
+       est très complet. Il s’intègre très soigneusement dans votre site
+       et propose tous les derniers réseaux sociaux et la remontée de
+       leurs flux (Pinterest, Google plus). Mode icône, bandeau ou widget,
+       les 15$ sont franchement bien investis.
+
+   Plugin WordPress Likebox Slider Plugin WordPress Likebox Slider
+     * Advanced Store Locator : Une solution intégrée pour gérer vos
+       boutiques et afficher une carte vos pages. Très simple, très bien
+       monté sous l’API de Google Maps.
+     * CSS3 Pricing Tables : Les offres prix et le tableau de comparaison
+       entre les solutions sont incontournables sur vos sites (à moins que
+       vous ne vendiez des Airbus…), et l’élégance peut être un critère
+       important dans la conversion. Ce plugin est tout simplement
+       magnifique! Malgré une création du tableau un peu fastidieuse (on
+       espère que la prochaine version intègre du mode drag’n drop), le
+       rendu vaut la peine, voir ci-dessous.
+
+   Plugin WordPress CSS3 Pricing Tables Plugin WordPress CSS3 Pricing
+   Tables
+
+  Autres plugins payants à retenir
+
+     * Usernoise : un gestionnaire de feedback/debugger façon Uservoice /
+       Getsatisfaction intégré dans votre tableau de bord WordPress (pour
+       ceux qui privilégient le tout intégré).
+
+   Plugin WordPress UserNoise Plugin WordPress UserNoise
+     * AJDE Event Calendar : permet de gérer vos évènements via un Custom
+       Post Type et afficher une très belle page calendrier AJAX en front.
+       Le plugin intègre un process de paiement pour les événements
+       payants et de nombreuses fonctionnalités tel l’API Google Maps.
+     * WPML (WordPress Multilingual plugin) : Pour ceux qui veulent aller
+       plus loin que le plugin de traduction gratuit CodeStlyling
+       Localization, la suite WPML propose une version Blog et CMS. Le
+       plus de cette solution se situe dans une traduction complète de
+       WordPress (les autres se limitent à traduire les mots trouvés dans
+       les fichiers .po/.mo).
+     * White Label, un plugin pour customiser à 100% le backend WordPress
+       et proposer un outil sous marque blanche (personnalisation logo,
+       menus selon membres, icônes)
+     * ManageWP : Bien que pas un plugin à proprement dit, cette solution
+       rassemble le meilleur de nombreux plugin et outil tierces pour vous
+       aider dans le backup, les audits sécurité, le déploiement massif
+       sur plusieurs sites hébergés WP simultanément et le maintien à jour
+       de l’environnement.
+
+Conclusion
+
+   J’espère que cette petite introduction aux plugins premium aura permit
+    :
+    1. à ceux qui ne connaissais pas de leur présenter un nouveau canal
+       pour trouver la perle rare du plugin, celui qui fait ce qu’un
+       gratuit n’arrivait pas à assouvir
+    2. aux développeurs de trouver de l’inspiration pour aller créer à
+       leur tour des outils exceptionnels, remonter dans la catégorie
+       « popular » et très bien les vendre (opportunité à saisir :
+       véritable marketplace FR!)
+    3. aux  webdesigners, intégrateurs et agence de gagner un temps énorme
+       et proposer à leur client des sites powered WordPress encore plus
+       impressionnants
+
+   Un grand merci au passage à Olivier Gobet (@gd6d) pour les conseils
+   très pratiques et les pistes qu’il me distille au fur et à mesure sur
+   des plugins premium.
+
+   N’hésitez pas à retweeter, commenter et faire se développer cet article
+   grâce à vos plugins premium.
+
+   Patrice (@palbertus).
+
+Un projet ? Besoin d'aide et d'expertise ?
+
+   Parlons-en !
+
+Vous aimerez aussi
+
+     * Wordpress Plugins
+       21 plugins et extensions WordPress à éviter
+       Partout, des blogueurs conseillent un liste longue comme le bras
+       d’extensions Wordpress à installer. Voici son pendant : les 21
+       plugins Wordpress à ne pas installer !
+     * WordPress Plugin Security Checker
+       Plugin Security Checker : N’installez plus de plugins WordPress
+       vulnérables !
+       Plugin Security Checker est un plugin de sécurité qui va vérifier
+       si vos plugins WordPress ne posent pas de problèmes.
+     * SX No Pagination
+       SX No Pagination : désactivez la pagination de WordPress
+       Comment faire pour désactiver proprement et définitivement la
+       pagination dans WordPress ? Tout simplement avec un des plugins SX
+       No Pagination
+
+L'auteur du mix
+
+   Patrice Albertus
+   Patrice Albertus
+
+   [ï mar ké teûr] depuis 10ans
+
+Vous avez aimé ? Réagissez !
+
+    1. Aurélien par Aurélien, le 17 Sep 2012
+       Très bonnes trouvailles. Le tout premier me surprend : que vaut la
+       qualité des pages ainsi créées ? Ça paraît trop beau.
+    2. Francois Lamotte par Francois Lamotte, le 17 Sep 2012
+       Dans la gestion de reseaux de WP, en alternative a l’excellent
+       ManageWP qui est un service en mode abonnement , vient de sortir
+       InfiniteWP qui est une appli standalone en 2 parties (gratuite) et
+       addons.
+       Jusqu’au 30 septembre, un pack a 199$ est offert pour les 9
+       plugins, cadeau de lancement …
+       Je l’ai decouvert ce w-e, interface très soignée, forum support
+       dynamique, … Il va faire mal a ManageWP
+    3. Julio Potier (BoiteAWeb.fr) par Julio Potier (BoiteAWeb.fr), le 17
+       Sep 2012
+       Hello
+       Petite ortho : « vérouiller » c’est « verrouiller ».
+       Je souhaite ajouter un bémol et préciser qu’un plugin (ou thème)
+       premium peut aussi contenir des failles de sécurité involontaires !
+       Je ne parle donc pas ici de code malicieux déposé par l’auteur mais
+       de « mauvais » code qui rend le plugin impropre à l’utilisation.
+       Je suis d’ailleurs (comme par hasard) en train de terminer un
+       article sur le sujet (ou presque). Merci !
+    4. Arnaud par Arnaud, le 17 Sep 2012
+       Merci pour l’article. On découvre des plug-in qu’on aurait pas
+       forcément testé vu qu’ils sont payants.
+       J’en retiens quelques un très intéressant qui valent le coup de
+       dépenser quelques dollars comme la table de prix, je trouve ça
+       sympa.
+    5. David Création @Ressources pour Webmaster par David Création
+       @Ressources pour Webmaster, le 17 Sep 2012
+       Je rejoins Julio sur le fait que certains themes premium peuvent
+       contenir des failles de sécurité notamment la fameuse faille
+       TimbThumb…
+       Il faut rester prudent mais lorsque l’on achète un theme premium
+       nous n’avons malheureusement pas accés aux sources pour vérifier
+       les failles :-(
+    6. Maximilien par Maximilien, le 17 Sep 2012
+       Article très intéressant, ayant plutôt l’habitude de baser mes
+       sites WP à 100 % sur des plugins gratuits mais de qualité et
+       {fréquemment|énormément} utilisés, il est vrai que ces solutions
+       payantes apportent un véritable plus que les versions gratuites
+       n’offrent pas forcément.
+       J’ai particulièrement été bluffé par la qualité de certains plugins
+       comme le LikeBox Slider, le LightBox Evolution ou encore le CSS3
+       Pricing Tables qui permettent d’économiser un temps précieux de
+       développement.
+       Je bookmark l’article qui me servira très certainement pour le
+       lancement d’un site d’envergure prochainement ;)
+    7. Palbertus par Palbertus, le 17 Sep 2012
+       @Julio : sorry pour la coquille ;)
+       @François : je ne connaissais pas InfiniteWP et suis ravi d’en
+       découvrir grâce à vos comments, je vais tester de suite et pourquoi
+       pas en faire un prochain article benchmark entre ces nouvelles
+       solutions de gestion multi-instances!
+       @Aurélien (le meilleur pour la fin) : Moi aussi j’en revenais pas,
+       mais je peux t’assurer (du moins jusqu’à ce que GG me prouve le
+       contraire) que l’intérêt de ces pages existe, nous l’avons utilisé
+       pour des contenus géolocalisés. Mais attention, il faut prévoir des
+       templates bien optimisés.
+    8. Geek vintage par Geek vintage, le 17 Sep 2012
+       Enorme les découvertes de plugin ! Excellent article, bravo à son
+       auteur !
+       Je vais tester LandingPages et LePopup.
+    9. Sylvain par Sylvain, le 17 Sep 2012
+       Effectivement, les plugins payants sont loin d’être à écarter !
+       En ce qui me concerne, je dissocie l’aspect payant/gratuit de
+       premium.
+       Un plugin ou un thème premium, c’est celui qui embarque des
+       fonctionnalités avancées, qui est mis à jour, fiable et efficace.
+       Il existe des plugins gratuits que je qualifie de premium
+       (typiquement, wordpress seo de joost) et des plugins payants d’une
+       qualité affligeante, non mis à jour, fork parfois de plugins
+       gratuits oubliés de tous.
+       Bref, c’est pour moi le développeur et le support qui font le
+       premium ;)
+   10. Rémy par Rémy, le 17 Sep 2012
+       Pas de Gravity Forms ? C’est sans doute LE plugin WordPress pour la
+       gestion de formulaires, un immanquable quand on commence à avoir
+       des besoins un peu avancés (inscription de membres, newsletter,
+       produits…)
+   11. Arnaud par Arnaud, le 17 Sep 2012
+       Très bonne présentation des plugins premium.
+       Je ne me suis jamais orienter vers cette solution, mais c’est vrai
+       qu’en les comparant avec des plugins gratuit il y a vraiment un
+       grand écart !
+       Merci
+   12. Aurélien par Aurélien, le 17 Sep 2012
+       @Palbertus. Merci beaucoup pour ta réponse. Mais je suis vraiment
+       très curieux, tu as des exemples de site sur lequel c’est utilisé ?
+       (envoie-moi un mail, un DM s’il faut que ce soit « secret »)
+   13. Christian@best spinner français par Christian@best spinner
+       français, le 17 Sep 2012
+       CSS3 Pricing Tables me plait pas mal.
+       Je suis plus réservé pour le tout premier plugin proposé.
+       J’ai bookmarké cette page, assurément à garder quelque part pour le
+       jour j.
+   14. Djolhan par Djolhan, le 18 Sep 2012
+       Et voici un article que je vais garder sous la main.
+       Le mega menu m’a pas mal intéressé, mais j’avoue que le Style with
+       Shortcode encore plus !
+       Merci Daniel de nous avoir fait découvrir cet auteur ! ;)
+   15. Mat par Mat, le 19 Sep 2012
+       +1 pour Gravity Forms, très vite un indispensable.
+       Allez voir la vidéo sur le site pour découvrir à quel point il est
+       pratique (mais pas donné.)
+   16. Frantz par Frantz, le 20 Sep 2012
+       Super article ! merci !
+   17. Palbertus par Palbertus, le 20 Sep 2012
+       @Mat Je viens de tester Gravity Form, effectivement c’est bien
+       développé, mais en élargissant je suis aussi tombé sur Quform (sur
+       CodeCanyon évidemment!) et c’est encore plus complet, ça se
+       rapproche d’ailleurs d’un bon Wufoo que je voulais remplacer sur un
+       projet. Fait!
+   18. Loiseau2nuit par Loiseau2nuit, le 26 Sep 2012
+       Alors franchement, pour ceux qui me connaissent le propos ne
+       paraitra surement pas objectif (de notoriété, moi je suis SPIP et
+       point barre ! les autres CMS je ne m’y colle que sous la torture !)
+       mais pour avoir bossé avec WordPress quand même un minimum, j’ai
+       moi aussi cru au fait que payant = qualité. Eh bien je suis désolé
+       de vous le dire mais les meilleures ressources que j’ai pu trouver
+       pour ce CMS étaient gratuites !
+       Entre les plugins au BL caché à la pelle, avec des failles de
+       sécurité php grosses comme la brèche du Titanic ou les templates
+       HTML codés à la hache et vendu + de 40 $, les ressources
+       soit-disant « premium » pour WordPress c’est proprement du vol et
+       de l’abus de newbie.
+       Quand je paie 40 $ pour un template et que je dois passer autant de
+       temps derrière à le mettre d’aplomb, que je n’en aurait pris à
+       coder moi même un template propre en partant de zéro, j’ai perdu à
+       la fois mon temps et mon argent, et en contexte de prod, c’est
+       proprement pas envisageable.
+       Mieux vaut une petite communauté restreinte qui propose du bon
+       gratuit (cf SPIP) qu’une grosse communauté de branquignoles qui
+       pratiquent l’escroquerie 2.0 de masse.
+       Désolé mais mes dernières expériences m’empêchent vraiment de
+       rester calme et courtois sur ce sujet et je m’en excuse mais,
+       Daniel, c’est pas la 1ère fois que je viens commenter ici, tu sais
+       que ce n’est pas mon habitude et que si je monte au créneau, ca
+       n’est jamais gratuit… :-/
+   19. Julio Potier (BoiteAWeb) par Julio Potier (BoiteAWeb), le 27 Sep
+       2012
+       Hum…
+       Comment oser comparer SPIP et WordPress.
+       Non pas que WP est mieux (je l’ai pas dit !) mais simplement car
+       ils n’ont en commun que le mot « CMS ».
+       Ce n’est pas possible de comparer 2 CMS , 1 qui a 35000 sites dont
+       moins de 10% à jour (page stats de spip) et un autre avec plus de
+       73 millions de sites …
+       Comment comparer Spip avec ses 1840 plugins contre plus de 21000
+       pour WordPress (sur leur repo officiel).
+       La taille des communautés amène forcément plus de monde sur WP et
+       tout le monde peut créer un plugin !
+       La qualité de ces développements n’est pas de la faute de WordPress
+       mais de celle des développeurs de ces extensions.
+       Alors oui, il y a des plugins premiums de merde, mais comme j’ai
+       déjà dit, un premium n’est rien autre qu’un plugin payant, cela ne
+       signifie pas qu’il est secure ou bien codé, malheureusement.
+       Je te conseille même d’en informer l’auteur et demander
+       remboursement, pourquoi pas si tu n’es pas satisfait, lui as-tu
+       signalé ?
+       Bref, de ce fait, tu insultes de « branquignoles » une communauté à
+       cause de tes mauvaises expériences utilisateurs concernant des
+       plugins payants qui ne sont même pas hébergés sur les serveurs WP.
+       o__O’
+       Tu es bien moche …
+       ps : attention, ton site iboo-technologies.fr est sous WP.
+   20. GeekPress par GeekPress, le 27 Sep 2012
+       @Loiseau2nuit : « de notoriété, moi je suis SPIP et point barre ! »
+       Et bien mon coco, tu ne vas pas avoir beaucoup d’avenir dans ta
+       carrière de développeur. Déjà que tu développes sur un CMS qui est
+       quasiment devenu obsolete, tu n’as apparemment pas les capacités
+       nécessaires pour un apprendre l’un des meilleurs CMS au monde…
+       Oui, je dis bien « l’un des meilleurs » et non « LE meilleur »
+       puisque Drupal et WordPress ont tout deux leurs avantages et chacun
+       est libre de préféré l’un ou l’autre.
+       Tu dois être de ceux qui disent : « WordPress, c’est que pour faire
+       des blogs… », sans vraiment avoir pris le temps de maitriser ses
+       capacités.
+       C’est comme si tu nous disais que tu développes encore des
+       e-commerce avec OS-commerce sans prendre le temps de vraiment
+       étudier Prestashop ou Magento ;)
+       Ensuite, je reste calme, mais ne met pas toute la communauté de
+       WordPress dans tes « branquignoles » parce que tu as eu le
+       malchance de tomber sur une extension bourré de failles.
+       « Entre les plugins au BL caché à la pelle, avec des failles de
+       sécurité php grosses comme la brèche du Titanic »
+       Parce que TOUTES les extensions SPIP sont parfaites ? Aucune
+       faille ? Zéro backlink ? Wow, on va décerner l’Award du « CMS
+       composé des meilleurs développeurs du monde sans pouvoir décoller
+       depuis quelques années »…
+       Tu fais du SPIP, donc tu es développeur, nous sommes d’accord ?
+       Alors tu dois être censé connaître les réflexes que l’on doit avoir
+       qu’on décide d’installer une extension (gratuite ou payante) ?
+       Un petit rappel ne fera pas de mal :
+       – on regarde la date de dernière mise à jour
+       – on regarde les notes des utilisateurs
+       – on regarde si l’auteur prend le temps de répondre aux questions
+       posées sur le support
+       – on regarde le nombre de téléchargement
+       Si tu ne prends pas 2 minutes pour faire cela, c’est clair que tu
+       risque d’être déçu pas mal de fois dans ta vie ;)
+       Tu crois qu’une extension payante bourré de failles va se vendre
+       des milliers de fois ? Je suis désolé, mais je crois que les gens
+       font un minimum attention avant de jeter leur argent.
+       Ensuite, les thèmes payants ne sont pas dédiés aux développeurs,
+       mais aux personnes souhaitant créer un site Internet sans devoir
+       toucher au code. Pour 40$, ces personnes peuvent avoir LEUR site
+       Internet, c’est tout de même merveilleux non ? Alors oui, parfois
+       ça bug, mais à quoi tu t’attends pour ce prix là ? Tu veux avoir un
+       leboncoin bis pour ce tarif ?!
+       « Mieux vaut une petite communauté restreinte qui propose du bon
+       gratuit »
+       Tu as fait un tour des meilleures extensions gratuites de
+       WordPress ? Tu as déjà fait un tour sur Github pour voir les bons
+       scripts partagés ? Laisse moi en douter pour dire une telle merde.
+       https://github.com/GeekPress/,
+       http://profiles.wordpress.org/GeekPress/
+       Ose me dire que mon code est de la merde ;)
+       Enfin, si tu es assez bête pour proposer à tes clients un thème
+       payant, je pense qu’il faut changer de métier dès maintenant.
+       PS : oui je suis aggressif, mais le lynchage gratuit sans
+       connaissance de cause, j’ai horreur de ça ;)
+       PS2 : Quand tu t’attaques à un gros, il faut assumer de pouvoir se
+       faire soit même lyncher par des personnes qui savent maitriser ce
+       que tu critiques. J’espère que tu sera capable de faire cela ;)
+   21. Patrice Albertus par Patrice Albertus, le 27 Sep 2012
+       @GeekPress et @BAW : le droit de réponse était tellement tentant
+       que vous m’avez devancé !
+       @Loiseau2nuit : Il existe plusieurs école et à aucun moment je n’ai
+       fait l’éloge de WP qui n’a plus à démontrer sa suprématie. Moi je
+       préfère les Audi c’est tout…
+       Maintenant je vais pas ajouter de l’huile sur le feu (expression à
+       la mode) sur le débat WP/reste du monde. L’un des axes de l’article
+       au-delà de présenter de supers plugins pro (et sans malware) a
+       aussi été de montrer que l’écosytème change, évolue, se
+       perfectionne avec un univers payant et c’est une bonne chose.
+       Hier encore je testais un thème WP édité par GoodLayers et j’en
+       suis tombé sur le cul tellement le backend est impressionnant. On
+       fabrique ses pages en drag’n drop, un slider nivo par si, un
+       galerie par là, un liste 4×2 d’articles de cette catégorie.
+       Bref,… le prix et surtout les opportunités de ventes apportes une
+       valeur ajoutée énorme… mais cela attire aussi des « branquignoles »
+       du spamming et du blackhat, certes… la balle est maintenant sur les
+       plate-forme d’affiliation (type WooTheme, Envato) pour faire le
+       filtrage, ce que ne fait pas forcémment le repository des
+       open-source, car leur objectif est le développement… Un mal pour un
+       bien!
+   22. Greg par Greg, le 27 Sep 2012
+       Spip c’est pas l’écureuil de Spirou ?
+   23. Loiseau2nuit par Loiseau2nuit, le 27 Sep 2012
+       Ca va vous êtes en forme les loulous ! :-D Alors, chacun son tour,
+       il y en aura pour tout le monde ! ^^
+       @Julio :
+       >> Non pas que WP est mieux (je l’ai pas dit !) mais simplement car
+       ils n’ont en commun que le mot « CMS ».
+       => euh… oui et non. Depuis maintenant plusieurs versions SPIP
+       devient de plus en plus un framework qu’un CMS à dire vrai, même si
+       la dénomination présentée par la communauté officielle reste
+       « CMS »
+       >> Comment comparer Spip avec ses 1840 plugins contre plus de 21000
+       pour WordPress (sur leur repo officiel).
+       => Sincèrement je me fout du nombre. Pour ma part je ne suis pas là
+       pour savoir qui à la plus grosse car autant que pour le sexe, c’est
+       encore la manière dont on s’en sert qui compte.
+       Et entre nous soit dit, je pense que 1840 plugins suffisent
+       amplement à répondre aux besoins de 99 sites sur 100.
+       D’ailleurs pour info, si on en a aussi peu, c’est que sur les repos
+       officiels, on essaie au max de faire contribuer les devs
+       volontaires aux ressources existantes plutôt que de balancer des
+       doublons-forks à tout va. Comme ça au moins on est sûr que la
+       plupart des projets « qui marchent » sont suivi dans le temps et
+       suivent la timeline officielle du dev du core. C’est une approche.
+       Je ne prétends pas qu’elle soit meilleure que d’autres mais en tout
+       cas, ça marche pas trop mal pour ce que j’en vois :-)
+       >> La qualité de ces développements n’est pas de la faute de
+       WordPress mais de celle des développeurs de ces extensions.
+       => tout à fait d’accord avec ça :-)
+       >> Bref, de ce fait, tu insultes de « branquignoles » une
+       communauté à cause de tes mauvaises expériences utilisateurs
+       Non non non ! Ma phrase était un peu expéditive mais entendons nous
+       bien : ce sont bien les dev qui te vendent (parfois fort cher) un
+       taff bancal que je traite de branqu’ et non toute une communauté,
+       je ne me permettrai pas (pas comme certains visiblement, si j’en
+       juge par la hargne de ton voisin d’en dessous)
+       >> Je te conseille même d’en informer l’auteur et demander
+       remboursement, pourquoi pas si tu n’es pas satisfait, lui as-tu
+       signalé ?
+       => Oui, et je pense que je ne surprendrai personne si je dis que je
+       n’ai pas eu la moindre réponse…
+       >> ps : attention, ton site iboo-technologies.fr est sous WP.
+       => HEIN ? oO Sans rire ? Ah… oui :-D
+       Plus sérieusement il avait été fait avant que j’arrive dans la
+       boite et va surement rester sous WP, ya pas de raison. Je vais
+       juste refaire le template à terme parce que celui là ne nous plait
+       pas et n’est pas tip top point de vue qualité de code (mais bon, là
+       on s’en fout, celui là était gratuit ^^)
+       Au suivant de ces messieurs maintenant :-)
+   24. Christian par Christian, le 27 Sep 2012
+       Proposer du SPIP aujourd’hui, voilà qui est original !
+   25. Loiseau2nuit par Loiseau2nuit, le 27 Sep 2012
+       @GeekPress maintenant, et je m’excuse par avance de le formulrer
+       tel quel mais ce commentaire me prouve par 9 que tu es encore moins
+       renseigné sur SPIP, avec lequel je présume (peut être à tort ?) que
+       tu n’as jamais rien fait, que moi sur WordPress avec tout de même
+       quelques projets à mon actif. Bref …
+       >> Et bien mon coco, tu ne vas pas avoir beaucoup d’avenir dans ta
+       carrière de développeur.
+       => Ecoute, 13 ans après je suis encore là, j’en déduis donc que je
+       ne m’en tire pas si mal que ça, si ? ^^
+       >> Déjà que tu développes sur un CMS qui est quasiment devenu
+       obsolete, tu n’as apparemment pas les capacités nécessaires pour un
+       apprendre l’un des meilleurs CMS au monde…
+       => alors je me savais troll mais là tu dépasses de loin tout ce que
+       j’ai pu immaginer ! Respect !
+       En tout cas, ca n’est pas parce que ce que tu connais de SPIP date
+       de plusieurs années et que tu as choisis d’en rester à la traine,
+       que le projet t’a attendu pour évoluer, excuse nous d’exister et
+       d’avancer hein ! :-D
+       >> Tu dois être de ceux qui disent : « WordPress, c’est que pour
+       faire des blogs… », sans vraiment avoir pris le temps de maitriser
+       ses capacités.
+       => Ca ira, je suis un troll mais j’essaie quand même d’être
+       constructif, à la différence de certains ^^
+       >> Un petit rappel ne fera pas de mal :
+       – on regarde la date de dernière mise à jour
+       => Non sans rire ? ‘taiiin j’aurais jamais cru ! Merci Maître, de
+       m’apprendre mon métier ^^
+       >> – on regarde les notes des utilisateurs
+       => Quand il y en a (pas le cas de 9 extens WP sur 10 que j’ai pu
+       croiser. Idem chez Joomla d’ailleurs, mais là c’est une histoire
+       bien pire que celle qui nous pré-occupe ^^)
+       >> – on regarde si l’auteur prend le temps de répondre aux
+       questions posées sur le support
+       => Pour ma part, je connais IRL la plupart des devs SPIP qui ont
+       codé les plugins que j’utilise donc si j’ai une question, elle
+       reste rarement sans réponse, mais c’est gentil de t’en inquiéter
+       merci :-D
+       >> – on regarde le nombre de téléchargement
+       => Gné ? M’en fout du nombre de DL. Si la ressource est bien codée,
+       répond au besoin et aux
+       3 pré-requis précédents. Au contraire même, moins elle est DL et
+       plus c’est une valeur ajoutée.
+       En plus je veux pas dire mais sur un coup de comm bien placé, une
+       ressource de m… peut prendre le pas sur une bonne ressource et j’ai
+       déjà vu ça plein de fois. Sur le web, c’est pas le meilleur dev qui
+       gagne, c’est celui qui a la plus grande gu… Ca a toujours été et ca
+       sera toujours (peut être même pour cette raison précise que je
+       n’irai même pas voir ton dépot git hub d’ailleurs …)
+       >> Enfin, si tu es assez bête pour proposer à tes clients un thème
+       payant, je pense qu’il faut changer de métier dès maintenant.
+       => Me dit-il alors que nous postons sous un article faisant la
+       promo d’un dépot de plugins payant ! Je LOL tout de suite ou
+       j’attends encore un peu ? ^^
+       >> PS : oui je suis aggressif, mais le lynchage gratuit sans
+       connaissance de cause, j’ai horreur de ça ;)
+       => pour ca que tu le pratiques 10 fois mieux et plus virulent que
+       moi ? Chapeau bas Maëstro ! :-)
+       >> Quand tu t’attaques à un gros, il faut assumer de pouvoir se
+       faire soit même lyncher par des personnes qui savent maitriser ce
+       que tu critiques. J’espère que tu sera capable de faire cela ;)
+       =>Oh, ne te dévalorises pas comme ça, je suis sûr que tu n’es pas
+       si gros que ça. Pis comme tu le vois, je le vis plutôt bien.
+       D’ailleurs si je te réponds, c’est que tu m’as bien fait rire,
+       sinon tu serais parti tout droit dans le néant du /dev/null.
+       Après que les gens soient ou non d’accord avec moi, qu’ils soient
+       gros ou petits, qu’ils soient en train de me lyncher ou pas, ca ne
+       m’empêche nullement de dormir et surtout, ca ne change rien à mon
+       chèque de fin de mois donc j’ai presqu’envie de te dire : Lynche
+       tant que tu veux, tu te fatigueras avant moi, et de loin ! :-D
+   26. Julio Potier (BoiteAWeb) par Julio Potier (BoiteAWeb), le 27 Sep
+       2012
+       @geekpress : « rocket launched »
+       @patrice : Tu as raison, il y a bien sur aussi des tueries de
+       plugins et thèmes très bien faits.
+       @greg : sisi
+       @loiseau : Le repo WP laisse sa chance à tout le monde de créer son
+       plugin et de devenir le plugin de référence. C’est effectivement
+       une autre façon de penser.
+       Je compare le nombre pour te montrer la taille de la communauté,
+       mais si le repo Spip n’accepte pas tous les plugins, ce nombre
+       n’est pas comparable côté Spip alors.
+       @Christian : hahaha excellente
+   27. Loiseau2nuit par Loiseau2nuit, le 27 Sep 2012
+       @Greg : oui, entre autre
+       @Christian : pas plus que proposer du Drupal ou du joomla ou même
+       (et je ne rigole même pas en plus) de l’OsCommerce pour certaines
+       des agences où on a repêché certains de nos clients.
+   28. Christian par Christian, le 27 Sep 2012
+       @ Loiseau2nuit
+       je te confirme que SPIP dans son domaine ne vaut pas mieux
+       qu’OsCommerce dans le sien…
+       Mais en même temps, tu as aussi des tas de programmeurs en Cobol…
+       ensuite, entre maintenir un existant et développer un truc nouveau,
+       ce n’est pas la même chose.
+       Par contre, je salues ton courage de venir te faire massacrer ainsi
+       mais chacun son truc ;-)
+   29. David Création par David Création, le 27 Sep 2012
+       +1 avec Julio à 200% il ne faut pas sous entendre que les
+       utilisateurs/trices de WordPress sont des baltringues, la preuve en
+       est que nous pouvons voir dans la communauté WP de plus en plus
+       « d’expert WordPress » tel que Daniel par exemple ou tel que Julio
+       et l’équipe de boite à Web ainsi que toutes les personnes qui
+       utilisent WP alors qu’ils codent depuis qu’ils ont eu leur premier
+       modem 56k ;-)
+       Libre ensuite à chacun de choisir LE CMS qui lui conviendra le
+       mieux pour ce qu’il doit en faire, que cela soit pour WordPress,
+       SPIP, OS Commerce, Presta, etc…être dév’ n’est pas aussi pour
+       échanger dans un but constructif et non dans le but de dénigrer
+       sauf si c’est vraiment merdique ce qui n’est pas le cas pour aucun
+       des CMS cités jusqu’ici ;-)
+   30. Loiseau2nuit par Loiseau2nuit, le 27 Sep 2012
+       @Christian (comme aux autres d’ailleurs) essayez d’utiliser SPIP au
+       moins autant que j’ai utilisé WP et on en reparle ;)
+       Je ne critique d’ailleurs pas WP que j’utilise et recommande par
+       ailleurs. Chacun ses avantages et inconvénients
+       Et quand tu dis « je te confirme que SPIP dans son domaine… » de
+       quel domaine parles tu ? PArce que SPIP n’appartient pas qu’à un
+       seul domaine. En ce qui me concerne il a même répondu a de nombreux
+       projets dans de nombreux domaines y compris, même si dans une
+       moindre mesure, à des projets de boutique en ligne.
+       Sincèrement, plus je vous lis et plus je me demande si vous n’avez
+       pas gardé de SPIP ce qu’il était en 2001 lorsqu’il a été créé. Les
+       gars, c’est pas parce que vous êtes pas venu voir ce qu’on a fait
+       qu’on a rien fait. On est en 2012 quand même, faudrait se réveiller
+       un jour … oO
+   31. Julio Potier (BoiteAWeb) par Julio Potier (BoiteAWeb), le 27 Sep
+       2012
+       Ca me fait penser à ça :
+       http://baw.li/db/diehard2nuit.png
+   32. GeekPress par GeekPress, le 27 Sep 2012
+       Le troll j’aime ça =D Je vais certainement modifier mon gravatar
+       par une troll face.
+       Quand tu t’attaques à un gros = Quand tu t’attaques à WordPress.
+       Tu penses bien que je ne permettrai pas de m’auto-proclamer Big
+       Boss de la mort des progs sous WordPress.
+       « Quand il y en a (pas le cas de 9 extens WP sur 10 que j’ai pu
+       croiser. »
+       Décidément, tu adores être de mauvaise foi…
+       Le nombre de téléchargement d’une extension n’est pas un élément
+       indispensable, mais il permet d’avoir une très bonne indication sur
+       la viabilité du code, mais on est d’accord que ce n’est pas un
+       critère éliminatoire.
+       « Au contraire même, moins elle est DL et plus c’est une valeur
+       ajoutée. »
+       Ah bon ? En quoi c’est une valeur ajoutée ? C’est la première que
+       l’on me dit : moins une extension a de DL et puis elle a de la
+       valeur ajoutée. Merci pour le fou rire ;)
+       « Me dit-il alors que nous postons sous un article faisant la promo
+       d’un dépot de plugins payant ! Je LOL tout de suite ou j’attends
+       encore un peu ? ^^ »
+       Merci de ne pas confondre un THEME et une EXTENSION. Ce sont deux
+       choses totalement différentes et qui répondent à des besoins
+       différents ;)
+       Petit exemple tout bête : je dois faire un site multilingue avec un
+       thème perso. Pourquoi je vais me faire chier à coder un système de
+       multilingue alors que WPML à 80$ fait très bien son job ?
+       « Sur le web, c’est pas le meilleur dev qui gagne, c’est celui qui
+       a la plus grande gu… Ca a toujours été et ca sera toujours »
+       Tu sors ça d’où ? Déjà, pourquoi tu parles de combat ? Je connais
+       aucun développeurs qui cherchent à savoir qui est le meilleur… Au
+       contraire, ils cherchent tous à apprendre des autres. Je pense que
+       tu fais un gros HS sur ce sujet ;)
+       Petit cadeau ;)
+       http://dl.dropbox.com/u/45956904/ScreenShots/baw_diehard2nuit.png
+       Ah puis j’ai oublié un détail par rapport à Github où le fait de
+       créer des extensions gratuites :
+       « Donne à l’Open Source autant que tu lui prends ».
+       Médites dessus avant de dire une nouvelle bétise ;)
+   33. Palbertus par Palbertus, le 28 Sep 2012
+       « (comme aux autres d’ailleurs) essayez d’utiliser SPIP au moins
+       autant que j’ai utilisé WP et on en reparle ;) »
+       … autant que tu as testé la version 1.6 de WP c ça? C’est drôle
+       mais c’est la même remarque anti-wp que j’ai eu d’un de mes dev
+       lorsque j’ai commencé à introduire WP dans l’environnement.
+       Effectivement la 1.6 était uniquement pour faire du blog, mais
+       depuis il s’en est passé.
+       Va faire une tour sur ThemeForest, investit 50$ dans un thème
+       populaire et installes-le sur la last de WP, tu vas toi même
+       t’étonner.
+       Faut arrêter d’avoir des a priori!
+       Et enfin, ici on est là parce qu’on trippe sur WordPress et on
+       partage des infos, alors WP soit tu l’aime ou soit tu le quittes :p
+   34. Loiseau2nuit par Loiseau2nuit, le 28 Sep 2012
+       Bravo pour l’image les gars, j’avoue c’est bien trouvé ^^
+   35. Julio Potier (BoiteAWeb) par Julio Potier (BoiteAWeb), le 28 Sep
+       2012
+       C’est de moi, non pas pour d’enfoncer ni t’offenser mais, je te
+       sens comme ça dans ce post, je peux t’appeler Bruce ? ;)
+       Attention je ne dit pas que tu hais WP, tout comme B.W. hais les
+       blacks ;)
+       Bon, j’espère que personne ne t’a forcé à venir sous la menace de
+       mort d’un ecureuil !
+       ps : on me dit qu’il est déjà mort cet écureuil.
+   36. Loiseau2nuit par Loiseau2nuit, le 28 Sep 2012
+       Hey mais arretez de penser que j’ai des à priori anti-WP c’est
+       absoluement faux ! :-D
+       J’ai juste une haine viscérale et non négociable face aux extens’
+       payantes qui ne méritent pas les biftons qu’elles réclament, c’est
+       tout ! :-D
+       WordPress, j’ai fait des choses avec et j’ai rien contre, c’est
+       juste que je préfère autre chose, ca va pas plus loin hein ;)
+       Et pour vous prouver que j’ai AUSSI de l’humour :  ;)
+   37. Loiseau2nuit par Loiseau2nuit, le 28 Sep 2012
+       @GeekPress
+       >> Merci de ne pas confondre un THEME et une EXTENSION. Ce sont
+       deux choses totalement différentes et qui répondent à des besoins
+       différents ;)
+       => Oh mais qu’il est susceptible alors ! :-D Non mais ok, je sens
+       bien que je t’ai vexé avec cette histoire. Non, plus sérieusement,
+       l’histoire, c’est que le thème en question m’avait été imposé par
+       le client, qui l’a acheté déjà en format HTRML brut (alors que le
+       même WP ready était juste à côté. Déjà ca part mal ^^)
+       La dessus je récupère le truc et je tombe sur un thème sympa MAIS
+       au code tout pourrite. Certains passage qu’on aurait dit tout droit
+       sorti des premières versions de frontpage, aucun respect dans la
+       hiérarchie des titrages Hx, des choix technos désastreux sur le
+       scripting : JS non progressif, devait être responsive mais c’était
+       ni fait ni à faire, perf abominables… bref… j’ai finit par faire un
+       screenshot et tout recréé de zéro.
+       Bilan des cources, mon client, qui s’était déjà fait extorqué 47
+       balles (de mémoire) par le site en question, a du en plus casquer
+       une journée d’inté pour avoir un truc d’applomb.
+       Perso c’est ce que j’appelle perdre son temps et son argent.
+       >> Décidément, tu adores être de mauvaise foi…
+       => Ouais, un peu j’avoue ^^ Je précise et je complète : (pas le cas
+       de 9 extens WP sur 10 que j’ai pu croiser EN DEHORS DES REPOS
+       OFFICIELS)
+       Entendons nous bien sur ce dont on parle : des extens’ développées
+       en dehors de tout cadre officiel.
+       >> Tu sors ça d’où ? Déjà, pourquoi tu parles de combat ?
+       => C’est une image, très cher :-) Il n’est bien évidement pas
+       question de combat mais de promo, et je maintiens : en ce domaine,
+       celui qui gagne c’est encore et toujours celui qui aura la plus
+       grande gu… tant mieux si c’est aussi le meilleur dev (mais c’est
+       pas souvent ^^)
+       >> Au contraire, ils cherchent tous à apprendre des autres.
+       => Dans un monde parfait oui.
+       Moi aussi avant je croyais au Père Noël, mais depuis j’ai grandi …
+       Le milieux du web est loin d’être aussi idéaliste, à plus forte
+       raison dans les communautés aussi large que WP, donc
+       statistiquement, plus à même de comporter quelques brebis galeuses
+       égocentriques qu’une poignée d’écureuils (même si on a nos boulets
+       aussi, hein, ne me faites pas dire ce que j’ai pas dit ^^).
+       Après, encore heureux que certains soient et restent animé par ce
+       genre de principe; auquel j’adhère complètement.
+       >> « Donne à l’Open Source autant que tu lui prends ».
+       Médites dessus avant de dire une nouvelle bétise ;)
+       => Tu me tends la perche là aussi Espèce de troll des cavernes
+       va :-D
+       Je contribue également au libre. Peut être pas autant que je lui
+       prends selon ton point de vue (est-ce seulement possible pour un
+       humain ?) mais je suis rarement passif lorsque je tombe face à un
+       projet auquel je crois. (SPIP et Debian notamment, un peu plus à
+       hauteur de mes maigres compétences pour le second mais je dépanne
+       quand même des gens sur IRC quand le besoin se fait sentir)
+       @Julio :
+       >> Attention je ne dit pas que tu hais WP, tout comme B.W. hais les
+       blacks ;)
+       => Non, toi, je sais que tu le dis pas. Palbertus et GeekPress en
+       revanche, en bons trolls bien velus, vous avez quand même une ‘tite
+       tendance naturelle à aimer déformer mes propos, je me trompe ? :-D
+       >> Bon, j’espère que personne ne t’a forcé à venir sous la menace
+       de mort d’un ecureuil !
+       => Que Dalle ! D’ailleurs, tous les soirs avant de se coucher,
+       Chuck Norris vérifie que mes écureuils sont pas cachés sous son
+       lit ! ^^
+       >> ps : on me dit qu’il est déjà mort cet écureuil.
+       => Celui de la caisse d’épargne peut être ? Faut pas croire ce que
+       racontent les journaux ;)
+       (surtout s’ils sont publiés sous WP, Gniarf gniarf gniarf ;-D )
+       /me ====> [ sortie de secours ]
+   38. Gilles par Gilles, le 22 Nov 2012
+       Le plugin « lepopup » c’est bien celui qui te met un popup dès que
+       tu arrives sur le site pour te dire de faire ça ou ça ou te
+       rappeler un truc ?
+       C’est efficace : je ferme le site direct.
+       Saleté de popup :(
+   39. franckwylliams par franckwylliams, le 23 Nov 2012
+       Ubermenu et pippity sont des valeurs sur, il faudrait sans doute
+       ajouter seo scorer pour l’optimisation seo qui se révèle être
+       complémentaire à wordpress seo.
+       Amicalement
+   40. Artech par Artech, le 13 Déc 2012
+       Un nouveau plug-in WordPress Premium est également présent depuis
+       peu : LiveOptim.
+       Il permet une optimisation dynamique de vos mots et
+       expressions-clés on-site (balisage, maillage interne). Tout votre
+       site se voit optimisé en temps réel.
+       A tester!
+       Cordialement
+
+   Tapez votre commentaire ci-dessous
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+
+   Pour ajouter du code, utilisez "<code>"
+
+   Votre nom* ______________________________
+
+   Votre email* ______________________________
+
+   Valider le commentaire
+
+   Vous aimez ?
+
+   Partager la publication "La nouvelle ère des plugins Premium WordPress"
+     * (BUTTON) Facebook
+     * (BUTTON) Linkedin
+     * (BUTTON) Twitter
+     * (BUTTON) Adresse mail
+
+   Un projet ? Besoin d'aide ?
+
+   Parlons-en !
+
+   Au sommaire
+
+     * Une nouvelle ère ?
+     * Pourquoi je devrais payer ?
+     * Les plugins premiums
+          + Optimisation et SEO
+          + Webdesign
+          + Publicité et Marketing online
+          + Autres plugins payants à retenir
+     * Conclusion
+     * Commentaires
+
+   Veuillez laisser ce champ vide ____________________
+
+   Abonnez-vous à notre newsletter !
+
+   ____________________
+
+   Valider
+
+   Et rejoignez nos 676 mixeurs. Recevez des astuces sur WordPress et en
+   SEO, nos derniers articles, nos dates de formation et des cadeaux
+   bonus.
+
+   Vérifiez votre boîte de réception ou vos indésirables afin de confirmer
+   votre abonnement.
+
+   Daniel Roch
+
+   L'agence SeoMix, c'est avant tout une passion : le CMS WordPress, le
+   référencement naturel, et le juste mix entre les deux. Créé en 2010 par
+   Daniel Roch, retrouvez sur notre site nos articles et tutoriels, mais
+   surtout découvrez nos services et notre expertise pour faire du web, de
+   Google et de WordPress un monde meilleur, ou presque. Ne manquez pas
+   non plus SEO KEY, notre projet d'extension de référencement naturel
+   pour WordPress !
+   Le cœur de métier du mixeur Nantais ? L'optimisation de WordPress pour
+   le SEO. Tout y passe : réglages, thème et extensions WordPress, gestion
+   de contenu, audit SEO, analyse de positionnement et bien entendu un
+   vrai accompagnement mensuel par des experts du CMS et la visibilité
+   dans les moteurs de recherche !
+
+   Notre expertise sur le SEO et WordPress :
+     * Optimiser son référencement WordPress, le livre
+     * Agence Web certifiée Adwords
+     * Agence web certifiée Analytics
+     * Agence web certifiée Google Partners
+
+   Retrouvez SeoMix sur :
+     * Twitter
+     * Facebook
+     * Instagram
+     * RSS
+
+   L'agence SeoMix en quelques chiffres :
+   18 594 mixeurs abonnés 257 publications 4993 commentaires 32 auteurs
+
+   Nos références clients :
+
+   Indépendants, TPE, PME, grands groupes
+   Ils nous font confiance pour le référencement naturel et WordPress
+     * Casal Sport
+     * Carla de Sousa Psychologue
+     * Kiabi
+     * APHP
+     * Radio France
+     * Abondance
+     * Petit Bag
+     * Dassault Aviation
+
+   Retrouvez ici le blog de Daniel Roch, consultant SEO à Nantes et
+   fondateur de l'agence SeoMix
+
+   © 2010 - 2019 SeoMix : WordPress & Référencement
+   Agence web nantaise spécialisée sur WordPress et le référencement
+   Propulsé par WordPress et Daniel Roch - Logo par Willy Bahuaud - Design
+   par Vincent Perhirin
+   Nos domaines d'expertises depuis 2010 : l'audit et l'accompagnement
+   SEO, le référencement naturel, la création de sites et le développement
+   WordPress !
+   Notre adresse : SeoMix, 19 avenue Louise Michel 44400 Rezé - 02 40 59
+   09 35 - contact@seomix.fr

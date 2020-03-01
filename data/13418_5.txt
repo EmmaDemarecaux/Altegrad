@@ -1,0 +1,3 @@
+
+   Varnish cache server
+                            301 Moved Permanently

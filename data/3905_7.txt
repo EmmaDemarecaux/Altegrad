@@ -1,0 +1,222 @@
+
+   https://tel.archives-ouvertes.fr/tel-01721316
+   Contributeur : Abes Star <>
+   Soumis le : vendredi 2 mars 2018 - 01:02:12
+   Dernière modification le : jeudi 11 avril 2019 - 08:28:09
+
+Fichier
+
+   [small]
+   73955_KUDJAWU_2017_diffusion.p...
+   Version validée par le jury (STAR)
+
+Identifiants
+
+     * HAL Id : tel-01721316, version 1
+
+Collections
+
+   STAR
+
+Citation
+
+   Yao Cyril Kudjawu. Délais d’accès au traitement des patients atteints
+   de cancers en France et impact des inégalités sociales de santé : étude
+   à partir des bases de données médico-administratives. Santé publique et
+   épidémiologie. Université Paris-Saclay, 2017. Français. ⟨NNT :
+   2017SACLS023⟩. ⟨tel-01721316⟩
+
+Exporter
+
+   BibTeX TEI DC DCterms EndNote
+
+Partager
+
+Métriques
+
+   Consultations de la notice
+
+277
+
+   Téléchargements de fichiers
+
+260
+
+Contact
+
+   support.ccsd.cnrs.fr
+   hal.support@ccsd.cnrs.fr
+   Logo CCSD
+   #HAL
+
+   (BUTTON) Toggle navigation
+   CCSD
+     * HAL
+          + HAL
+          + HALSHS
+          + TEL
+          + MédiHAL
+          + Liste des portails
+          +
+          + AURéHAL
+          + API
+          + Data
+          + Documentation
+     * Episciences.org
+          + Episciences.org
+          + Revues
+          +
+          + Documentation
+     * Sciencesconf.org
+     * Support
+
+   (BUTTON)  Connexion (BUTTON)
+     * Connexion
+     * Connexion avec ORCID
+     * se connecter avec Fédération
+     *
+     * Créer un compte
+     *
+     * Mot de passe oublié ?
+     * Login oublié ?
+
+     * fr
+     * en
+
+   HAL - hal.archives-ouvertes.fr CCSd - Centre pour la Communication
+   Scientifique Direct
+     * Accueil
+     * Dépôt
+     * Consulter
+          + Les derniers dépôts
+          + Par discipline
+          + Par date de soutenance
+          + Consultation par collections
+     * Recherche
+     * Documentation HAL
+
+   (BUTTON) tel-01687719, version 1
+
+   (BUTTON) en (BUTTON) fr
+   Clinomics Information Retrieval in Electronic Health Records :
+   Modelling, Implantation and Evaluation
+   Recherche d'information clinomique dans le Dossier Patient Informatisé
+   : modélisation, implantation et évaluation.
+   Chloé Cabot ^1 (BUTTON) Détails
+   1 LITIS - Laboratoire d'Informatique, de Traitement de l'Information et
+   des Systèmes
+
+       Chloé Cabot ^1 AuthorId : 1168985
+     Auteur
+
+   1 LITIS - Laboratoire d'Informatique, de Traitement de l'Information et
+   des Systèmes (Avenue de l'Université 76800 Saint-Étienne-du-Rouvray -
+   France) StructId : 23832
+     * INSA Rouen Normandie - Institut national des sciences appliquées
+       Rouen Normandie (Avenue de l’Université 76801
+       Saint-Étienne-du-Rouvray Cedex - France) StructId : 301288
+          + INSA - Institut National des Sciences Appliquées (France)
+            StructId : 301232
+          + NU - Normandie Université (Esplanade de la Paix - CS 14032 -
+            14032 Caen Cedex 5 - France) StructId : 455934
+     * UNIROUEN - Université de Rouen Normandie : EA4108 (1, rue Thomas
+       Becket 76821 Mont-Saint-Aignan Cedex - France) StructId : 300318
+          + NU - Normandie Université (Esplanade de la Paix - CS 14032 -
+            14032 Caen Cedex 5 - France) StructId : 455934
+     * ULH - Université Le Havre Normandie (25 rue Philippe Lebon - BP
+       1123 - 76063 Le Havre Cedex France - France) StructId : 300317
+          + NU - Normandie Université (Esplanade de la Paix - CS 14032 -
+            14032 Caen Cedex 5 - France) StructId : 455934
+
+   (BUTTON) Masquer les détails
+   (BUTTON) en (BUTTON) fr
+   Abstract : The aim of this thesis is part of the broad issue of
+   information retrieval in Electronic Health Records (EHRs). The aspects
+   tackled in this topic are numerous : on the one hand clinomics
+   information retrieval within EHRs and secondly information retrieval
+   within unstructured data from EHRs. As a first step, one of the
+   objectives is to integrate in EHRs information beyond the scope of
+   medicine to integrate data, information and knowledge from molecular
+   biology ; omic data from genomics, proteomics or metabolomics. The
+   integration of this type of data improves health information systems,
+   their interoperability and the processing and exploitation of data for
+   clinical purposes. An important challenge is to ensure the integration
+   of heterogeneous data, through research on conceptual models of data,
+   ontology and terminology servers, and semantic data warehouses. The
+   integration of this data and their interpretation into a conceptual
+   data model is an important challenge. Finally, it is important to
+   integrate clinical research and fundamental research in order to ensure
+   continuity of knowledge between research and clinical practice and to
+   understand personalized medicine challenges. This thesis thus leads to
+   the design and development of a generic model of omics data exploited
+   in a prototype application for information retrieval and visualization
+   in omic and clinical data within a sample of 2,000 patients. The second
+   objective of this thesis is the multi-terminological indexing of
+   medical documents through the development of the Extracting Concepts
+   with Multiple Terminologies tool (ECMT). It uses terminologies embedded
+   in the Health Terminology/Ontology Portal (HeTOP) to identify concepts
+   in unstructured documents. From a document written by a human, and
+   therefore potentially showing typing errors, spelling or grammar
+   mistakes, the challenge is to identify concepts and thus structure the
+   information contained in the text. In health information retrieval,
+   indexing is of great interest for information retrieval in unstructured
+   documents, such as reports and medical notes. This thesis proposes
+   several methods and their evaluation along two axes : the indexing of
+   medical texts using several terminologies and the processing of natural
+   language in narrative medical notes.
+   Résumé : Les objectifs de cette thèse s’inscrivent dans la large
+   problématique de recherche d’information dans les données issues du
+   Dossier Patient Informatisé (DPI). Les aspects abordés dans cette
+   problématique sont multiples : d’une part la mise en oeuvre d’une
+   recherche d’information clinomique au sein du DPI et d’autre part la
+   recherche d’information au sein de données non structurées issues du
+   DPI. Dans un premier temps, l’un des objectifs de cette thèse est
+   d’intégrer au sein du DPI des informations dépassant le cadre de la
+   médecine pour intégrer des données, informations et connaissances
+   provenant de la biologie moléculaire ; les données omiques, issues de
+   la génomique, protéomique ou encore métabolomique. L’intégration de ce
+   type de données permet d’améliorer les systèmes d’information en santé,
+   leur interopérabilité ainsi que le traitement et l’exploitation des
+   données à des fins cliniques. Un enjeu important est d’assurer
+   l’intégration de données hétérogènes, grâce à des recherches sur les
+   modèles conceptuels de données, sur les ontologies et serveurs
+   terminologiques et sur les entrepôts sémantiques. L’intégration de ces
+   données et leur interprétation selon un même modèle de données
+   conceptuel sont un verrou important. Enfin, il est important d’intégrer
+   recherche clinique et recherche fondamentale afin d’assurer une
+   continuité des connaissances entre recherche et pratique clinique et
+   afin d’appréhender la problématique de personnalisation des soins.
+   Cette thèse aboutit ainsi à la conception et au développement d’un
+   modèle générique des données omiques exploité dans une application
+   prototype de recherche et visualisation dans les données omiques et
+   cliniques d’un échantillon de 2 000 patients. Le second objectif de ma
+   thèse est l’indexation multi terminologique de documents médicaux à
+   travers le développement de l’outil Extracteur de Concepts
+   Multi-Terminologique (ECMT). Il exploite les terminologies intégrées au
+   portail terminologique Health Terminology/Ontology Portal (HeTOP) pour
+   identifier des concepts dans des documents non structurés. Ainsi, à
+   partir d’un document rédigé par un humain, et donc porteur
+   potentiellement d’erreurs de frappe, d’orthographe ou de
+   grammaire,l’enjeu est d’identifier des concepts et ainsi structurer
+   l’information contenue dans le document. Pour la recherche
+   d’information médicale, l’indexation présente un intérêt incontournable
+   pour la recherche dans les documents non structurés, comme
+   lescomptes-rendus de séjour ou d’examens. Cette thèse propose plusieurs
+   méthodes et leur évaluation suivant deux axes : l’indexation de textes
+   médicaux à l’aide de plusieurs terminologies et le traitement du
+   langage naturel dans les textes médicaux narratifs.
+   (BUTTON) en (BUTTON) fr
+   Keywords : Information retrieval Electronic Health Records Modelling
+   Information Extraction Controlled Vocabularies Natural Language
+   Processing
+   Mots-clés : Recherche d'information Dossiers patients informatisés
+   Modélisation Extraction d'information Vocabulaires contrôlés Traitement
+   du langage naturel
+   Type de document :
+   Thèse
+   Domaine :
+
+   Informatique [cs] / Traitement du texte et du document
+
+   Liste complète des métadonnées (BUTTON)  Voir (BUTTON)  Masquer
+   Littérature citée [198 références]  Voir  Masquer  Télécharger

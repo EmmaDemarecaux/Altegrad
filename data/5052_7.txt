@@ -1,0 +1,610 @@
+
+   (BUTTON) ×
+
+Sélectionnez pays / régions sans frais
+
+   [ ] Sélectionner tous les pays / régions Ligne fixe Appareil mobile
+   [ ] Afrique du Sud {{ tollfree_rate['ZA']['landLineRate'] |
+   filterAudioRate }} {{ tollfree_rate['ZA']['mobileRate'] |
+   filterAudioRate }}
+   [ ] Allemagne {{ tollfree_rate['DE']['landLineRate'] | filterAudioRate
+   }} {{ tollfree_rate['DE']['mobileRate'] | filterAudioRate }}
+   [ ] Anguilla {{ tollfree_rate['AI']['landLineRate'] | filterAudioRate
+   }} {{ tollfree_rate['AI']['mobileRate'] | filterAudioRate }}
+   [ ] Antigua-et-Barbuda {{ tollfree_rate['AG']['landLineRate'] |
+   filterAudioRate }} {{ tollfree_rate['AG']['mobileRate'] |
+   filterAudioRate }}
+   [ ] Arabie Saoudite {{ tollfree_rate['SA']['landLineRate'] |
+   filterAudioRate }} {{ tollfree_rate['SA']['mobileRate'] |
+   filterAudioRate }}
+   [ ] Argentina {{ tollfree_rate['AR']['landLineRate'] | filterAudioRate
+   }} {{ tollfree_rate['AR']['mobileRate'] | filterAudioRate }}
+   [ ] Australia {{ tollfree_rate['AU']['landLineRate'] | filterAudioRate
+   }} {{ tollfree_rate['AU']['mobileRate'] | filterAudioRate }}
+   [ ] Austria {{ tollfree_rate['AT']['landLineRate'] | filterAudioRate }}
+   {{ tollfree_rate['AT']['mobileRate'] | filterAudioRate }}
+   [ ] Bahamas {{ tollfree_rate['BS']['landLineRate'] | filterAudioRate }}
+   {{ tollfree_rate['BS']['mobileRate'] | filterAudioRate }}
+   [ ] Bahreïn {{ tollfree_rate['BH']['landLineRate'] | filterAudioRate }}
+   {{ tollfree_rate['BH']['mobileRate'] | filterAudioRate }}
+   [ ] Barbados {{ tollfree_rate['BB']['landLineRate'] | filterAudioRate
+   }} {{ tollfree_rate['BB']['mobileRate'] | filterAudioRate }}
+   [ ] Belgique {{ tollfree_rate['BE']['landLineRate'] | filterAudioRate
+   }} {{ tollfree_rate['BE']['mobileRate'] | filterAudioRate }}
+   [ ] Bermudes {{ tollfree_rate['BM']['landLineRate'] | filterAudioRate
+   }} {{ tollfree_rate['BM']['mobileRate'] | filterAudioRate }}
+   [ ] Bolivie {{ tollfree_rate['BO']['landLineRate'] | filterAudioRate }}
+   {{ tollfree_rate['BO']['mobileRate'] | filterAudioRate }}
+   [ ] Bosnie-Herzégovine {{ tollfree_rate['BA']['landLineRate'] |
+   filterAudioRate }} {{ tollfree_rate['BA']['mobileRate'] |
+   filterAudioRate }}
+   [ ] Botswana {{ tollfree_rate['BW']['landLineRate'] | filterAudioRate
+   }} {{ tollfree_rate['BW']['mobileRate'] | filterAudioRate }}
+   [ ] Brésil {{ tollfree_rate['BR']['landLineRate'] | filterAudioRate }}
+   {{ tollfree_rate['BR']['mobileRate'] | filterAudioRate }}
+   [ ] British Virgin Islands {{ tollfree_rate['VG']['landLineRate'] |
+   filterAudioRate }} {{ tollfree_rate['VG']['mobileRate'] |
+   filterAudioRate }}
+   [ ] Bulgaria {{ tollfree_rate['BG']['landLineRate'] | filterAudioRate
+   }} {{ tollfree_rate['BG']['mobileRate'] | filterAudioRate }}
+   [ ] Cambodge {{ tollfree_rate['KH']['landLineRate'] | filterAudioRate
+   }} {{ tollfree_rate['KH']['mobileRate'] | filterAudioRate }}
+   [ ] Chili {{ tollfree_rate['CL']['landLineRate'] | filterAudioRate }}
+   {{ tollfree_rate['CL']['mobileRate'] | filterAudioRate }}
+   [ ] Chine {{ tollfree_rate['CN']['landLineRate'] | filterAudioRate }}
+   {{ tollfree_rate['CN']['mobileRate'] | filterAudioRate }}
+   [ ] Colombie {{ tollfree_rate['CO']['landLineRate'] | filterAudioRate
+   }} {{ tollfree_rate['CO']['mobileRate'] | filterAudioRate }}
+   [ ] Corée [du Sud], République de {{
+   tollfree_rate['KR']['landLineRate'] | filterAudioRate }} {{
+   tollfree_rate['KR']['mobileRate'] | filterAudioRate }}
+   [ ] Costa Rica {{ tollfree_rate['CR']['landLineRate'] | filterAudioRate
+   }} {{ tollfree_rate['CR']['mobileRate'] | filterAudioRate }}
+   [ ] Croatia {{ tollfree_rate['HR']['landLineRate'] | filterAudioRate }}
+   {{ tollfree_rate['HR']['mobileRate'] | filterAudioRate }}
+   [ ] Cyprus {{ tollfree_rate['CY']['landLineRate'] | filterAudioRate }}
+   {{ tollfree_rate['CY']['mobileRate'] | filterAudioRate }}
+   [ ] Denmark {{ tollfree_rate['DK']['landLineRate'] | filterAudioRate }}
+   {{ tollfree_rate['DK']['mobileRate'] | filterAudioRate }}
+   [ ] Dominica {{ tollfree_rate['DM']['landLineRate'] | filterAudioRate
+   }} {{ tollfree_rate['DM']['mobileRate'] | filterAudioRate }}
+   [ ] Égypte {{ tollfree_rate['EG']['landLineRate'] | filterAudioRate }}
+   {{ tollfree_rate['EG']['mobileRate'] | filterAudioRate }}
+   [ ] Émirats arabes unis {{ tollfree_rate['AE']['landLineRate'] |
+   filterAudioRate }} {{ tollfree_rate['AE']['mobileRate'] |
+   filterAudioRate }}
+   [ ] Equateur {{ tollfree_rate['EC']['landLineRate'] | filterAudioRate
+   }} {{ tollfree_rate['EC']['mobileRate'] | filterAudioRate }}
+   [ ] Espagne {{ tollfree_rate['ES']['landLineRate'] | filterAudioRate }}
+   {{ tollfree_rate['ES']['mobileRate'] | filterAudioRate }}
+   [ ] Estonie {{ tollfree_rate['EE']['landLineRate'] | filterAudioRate }}
+   {{ tollfree_rate['EE']['mobileRate'] | filterAudioRate }}
+   [ ] États-Unis {{ tollfree_rate['US']['landLineRate'] | filterAudioRate
+   }} {{ tollfree_rate['US']['mobileRate'] | filterAudioRate }}
+   [ ] Fédération de Russie {{ tollfree_rate['RU']['landLineRate'] |
+   filterAudioRate }} {{ tollfree_rate['RU']['mobileRate'] |
+   filterAudioRate }}
+   [ ] Fidji {{ tollfree_rate['FJ']['landLineRate'] | filterAudioRate }}
+   {{ tollfree_rate['FJ']['mobileRate'] | filterAudioRate }}
+   [ ] Finlande {{ tollfree_rate['FI']['landLineRate'] | filterAudioRate
+   }} {{ tollfree_rate['FI']['mobileRate'] | filterAudioRate }}
+   [ ] France {{ tollfree_rate['FR']['landLineRate'] | filterAudioRate }}
+   {{ tollfree_rate['FR']['mobileRate'] | filterAudioRate }}
+   [ ] Géorgie {{ tollfree_rate['GE']['landLineRate'] | filterAudioRate }}
+   {{ tollfree_rate['GE']['mobileRate'] | filterAudioRate }}
+   [ ] Ghana {{ tollfree_rate['GH']['landLineRate'] | filterAudioRate }}
+   {{ tollfree_rate['GH']['mobileRate'] | filterAudioRate }}
+   [ ] Grèce {{ tollfree_rate['GR']['landLineRate'] | filterAudioRate }}
+   {{ tollfree_rate['GR']['mobileRate'] | filterAudioRate }}
+   [ ] Grenada {{ tollfree_rate['GD']['landLineRate'] | filterAudioRate }}
+   {{ tollfree_rate['GD']['mobileRate'] | filterAudioRate }}
+   [ ] Guam {{ tollfree_rate['GU']['landLineRate'] | filterAudioRate }} {{
+   tollfree_rate['GU']['mobileRate'] | filterAudioRate }}
+   [ ] Guatemala {{ tollfree_rate['GT']['landLineRate'] | filterAudioRate
+   }} {{ tollfree_rate['GT']['mobileRate'] | filterAudioRate }}
+   [ ] Honduras {{ tollfree_rate['HN']['landLineRate'] | filterAudioRate
+   }} {{ tollfree_rate['HN']['mobileRate'] | filterAudioRate }}
+   [ ] Hong Kong, Chine {{ tollfree_rate['HK']['landLineRate'] |
+   filterAudioRate }} {{ tollfree_rate['HK']['mobileRate'] |
+   filterAudioRate }}
+   [ ] Hongrie {{ tollfree_rate['HU']['landLineRate'] | filterAudioRate }}
+   {{ tollfree_rate['HU']['mobileRate'] | filterAudioRate }}
+   [ ] Îles Caïmans {{ tollfree_rate['KY']['landLineRate'] |
+   filterAudioRate }} {{ tollfree_rate['KY']['mobileRate'] |
+   filterAudioRate }}
+   [ ] Inde {{ tollfree_rate['IN']['landLineRate'] | filterAudioRate }} {{
+   tollfree_rate['IN']['mobileRate'] | filterAudioRate }}
+   [ ] Indonésie {{ tollfree_rate['ID']['landLineRate'] | filterAudioRate
+   }} {{ tollfree_rate['ID']['mobileRate'] | filterAudioRate }}
+   [ ] Ireland {{ tollfree_rate['IE']['landLineRate'] | filterAudioRate }}
+   {{ tollfree_rate['IE']['mobileRate'] | filterAudioRate }}
+   [ ] Islande {{ tollfree_rate['IS']['landLineRate'] | filterAudioRate }}
+   {{ tollfree_rate['IS']['mobileRate'] | filterAudioRate }}
+   [ ] Israël {{ tollfree_rate['IL']['landLineRate'] | filterAudioRate }}
+   {{ tollfree_rate['IL']['mobileRate'] | filterAudioRate }}
+   [ ] Italie {{ tollfree_rate['IT']['landLineRate'] | filterAudioRate }}
+   {{ tollfree_rate['IT']['mobileRate'] | filterAudioRate }}
+   [ ] Jamaica {{ tollfree_rate['JM']['landLineRate'] | filterAudioRate }}
+   {{ tollfree_rate['JM']['mobileRate'] | filterAudioRate }}
+   [ ] Japon {{ tollfree_rate['JP']['landLineRate'] | filterAudioRate }}
+   {{ tollfree_rate['JP']['mobileRate'] | filterAudioRate }}
+   [ ] Jordanie {{ tollfree_rate['JO']['landLineRate'] | filterAudioRate
+   }} {{ tollfree_rate['JO']['mobileRate'] | filterAudioRate }}
+   [ ] Kazakhstan {{ tollfree_rate['KZ']['landLineRate'] | filterAudioRate
+   }} {{ tollfree_rate['KZ']['mobileRate'] | filterAudioRate }}
+   [ ] Kenya {{ tollfree_rate['KE']['landLineRate'] | filterAudioRate }}
+   {{ tollfree_rate['KE']['mobileRate'] | filterAudioRate }}
+   [ ] Lettonie {{ tollfree_rate['LV']['landLineRate'] | filterAudioRate
+   }} {{ tollfree_rate['LV']['mobileRate'] | filterAudioRate }}
+   [ ] Lithuania {{ tollfree_rate['LT']['landLineRate'] | filterAudioRate
+   }} {{ tollfree_rate['LT']['mobileRate'] | filterAudioRate }}
+   [ ] Luxembourg {{ tollfree_rate['LU']['landLineRate'] | filterAudioRate
+   }} {{ tollfree_rate['LU']['mobileRate'] | filterAudioRate }}
+   [ ] Macao, Chine {{ tollfree_rate['MO']['landLineRate'] |
+   filterAudioRate }} {{ tollfree_rate['MO']['mobileRate'] |
+   filterAudioRate }}
+   [ ] Macédoine {{ tollfree_rate['MK']['landLineRate'] | filterAudioRate
+   }} {{ tollfree_rate['MK']['mobileRate'] | filterAudioRate }}
+   [ ] Malaysia {{ tollfree_rate['MY']['landLineRate'] | filterAudioRate
+   }} {{ tollfree_rate['MY']['mobileRate'] | filterAudioRate }}
+   [ ] Malta {{ tollfree_rate['MT']['landLineRate'] | filterAudioRate }}
+   {{ tollfree_rate['MT']['mobileRate'] | filterAudioRate }}
+   [ ] Maroc {{ tollfree_rate['MA']['landLineRate'] | filterAudioRate }}
+   {{ tollfree_rate['MA']['mobileRate'] | filterAudioRate }}
+   [ ] Maurice {{ tollfree_rate['MU']['landLineRate'] | filterAudioRate }}
+   {{ tollfree_rate['MU']['mobileRate'] | filterAudioRate }}
+   [ ] Mexique {{ tollfree_rate['MX']['landLineRate'] | filterAudioRate }}
+   {{ tollfree_rate['MX']['mobileRate'] | filterAudioRate }}
+   [ ] Monaco {{ tollfree_rate['MC']['landLineRate'] | filterAudioRate }}
+   {{ tollfree_rate['MC']['mobileRate'] | filterAudioRate }}
+   [ ] Montserrat {{ tollfree_rate['MS']['landLineRate'] | filterAudioRate
+   }} {{ tollfree_rate['MS']['mobileRate'] | filterAudioRate }}
+   [ ] Népal {{ tollfree_rate['NP']['landLineRate'] | filterAudioRate }}
+   {{ tollfree_rate['NP']['mobileRate'] | filterAudioRate }}
+   [ ] Nicaragua {{ tollfree_rate['NI']['landLineRate'] | filterAudioRate
+   }} {{ tollfree_rate['NI']['mobileRate'] | filterAudioRate }}
+   [ ] Nigéria {{ tollfree_rate['NG']['landLineRate'] | filterAudioRate }}
+   {{ tollfree_rate['NG']['mobileRate'] | filterAudioRate }}
+   [ ] Northern Mariana Islands {{ tollfree_rate['MP']['landLineRate'] |
+   filterAudioRate }} {{ tollfree_rate['MP']['mobileRate'] |
+   filterAudioRate }}
+   [ ] Norvège {{ tollfree_rate['NO']['landLineRate'] | filterAudioRate }}
+   {{ tollfree_rate['NO']['mobileRate'] | filterAudioRate }}
+   [ ] Nouvelle-Zélande {{ tollfree_rate['NZ']['landLineRate'] |
+   filterAudioRate }} {{ tollfree_rate['NZ']['mobileRate'] |
+   filterAudioRate }}
+   [ ] Oman {{ tollfree_rate['OM']['landLineRate'] | filterAudioRate }} {{
+   tollfree_rate['OM']['mobileRate'] | filterAudioRate }}
+   [ ] Ouganda {{ tollfree_rate['UG']['landLineRate'] | filterAudioRate }}
+   {{ tollfree_rate['UG']['mobileRate'] | filterAudioRate }}
+   [ ] Ouzbékistan {{ tollfree_rate['UZ']['landLineRate'] |
+   filterAudioRate }} {{ tollfree_rate['UZ']['mobileRate'] |
+   filterAudioRate }}
+   [ ] Panama {{ tollfree_rate['PA']['landLineRate'] | filterAudioRate }}
+   {{ tollfree_rate['PA']['mobileRate'] | filterAudioRate }}
+   [ ] Paraguay {{ tollfree_rate['PY']['landLineRate'] | filterAudioRate
+   }} {{ tollfree_rate['PY']['mobileRate'] | filterAudioRate }}
+   [ ] Pays-Bas {{ tollfree_rate['NL']['landLineRate'] | filterAudioRate
+   }} {{ tollfree_rate['NL']['mobileRate'] | filterAudioRate }}
+   [ ] Peru {{ tollfree_rate['PE']['landLineRate'] | filterAudioRate }} {{
+   tollfree_rate['PE']['mobileRate'] | filterAudioRate }}
+   [ ] Philippines {{ tollfree_rate['PH']['landLineRate'] |
+   filterAudioRate }} {{ tollfree_rate['PH']['mobileRate'] |
+   filterAudioRate }}
+   [ ] Pologne {{ tollfree_rate['PL']['landLineRate'] | filterAudioRate }}
+   {{ tollfree_rate['PL']['mobileRate'] | filterAudioRate }}
+   [ ] Portugal {{ tollfree_rate['PT']['landLineRate'] | filterAudioRate
+   }} {{ tollfree_rate['PT']['mobileRate'] | filterAudioRate }}
+   [ ] Puerto Rico {{ tollfree_rate['PR']['landLineRate'] |
+   filterAudioRate }} {{ tollfree_rate['PR']['mobileRate'] |
+   filterAudioRate }}
+   [ ] Qatar {{ tollfree_rate['QA']['landLineRate'] | filterAudioRate }}
+   {{ tollfree_rate['QA']['mobileRate'] | filterAudioRate }}
+   [ ] République dominicaine {{ tollfree_rate['DO']['landLineRate'] |
+   filterAudioRate }} {{ tollfree_rate['DO']['mobileRate'] |
+   filterAudioRate }}
+   [ ] République tchèque {{ tollfree_rate['CZ']['landLineRate'] |
+   filterAudioRate }} {{ tollfree_rate['CZ']['mobileRate'] |
+   filterAudioRate }}
+   [ ] Roumanie {{ tollfree_rate['RO']['landLineRate'] | filterAudioRate
+   }} {{ tollfree_rate['RO']['mobileRate'] | filterAudioRate }}
+   [ ] Royaume-Uni {{ tollfree_rate['GB']['landLineRate'] |
+   filterAudioRate }} {{ tollfree_rate['GB']['mobileRate'] |
+   filterAudioRate }}
+   [ ] Saint-Kitts-et-Nevis {{ tollfree_rate['KN']['landLineRate'] |
+   filterAudioRate }} {{ tollfree_rate['KN']['mobileRate'] |
+   filterAudioRate }}
+   [ ] Serbie {{ tollfree_rate['RS']['landLineRate'] | filterAudioRate }}
+   {{ tollfree_rate['RS']['mobileRate'] | filterAudioRate }}
+   [ ] Singapour {{ tollfree_rate['SG']['landLineRate'] | filterAudioRate
+   }} {{ tollfree_rate['SG']['mobileRate'] | filterAudioRate }}
+   [ ] Slovaquie {{ tollfree_rate['SK']['landLineRate'] | filterAudioRate
+   }} {{ tollfree_rate['SK']['mobileRate'] | filterAudioRate }}
+   [ ] Slovénie {{ tollfree_rate['SI']['landLineRate'] | filterAudioRate
+   }} {{ tollfree_rate['SI']['mobileRate'] | filterAudioRate }}
+   [ ] Sri Lanka {{ tollfree_rate['LK']['landLineRate'] | filterAudioRate
+   }} {{ tollfree_rate['LK']['mobileRate'] | filterAudioRate }}
+   [ ] Suède {{ tollfree_rate['SE']['landLineRate'] | filterAudioRate }}
+   {{ tollfree_rate['SE']['mobileRate'] | filterAudioRate }}
+   [ ] Suisse {{ tollfree_rate['CH']['landLineRate'] | filterAudioRate }}
+   {{ tollfree_rate['CH']['mobileRate'] | filterAudioRate }}
+   [ ] Taïwan {{ tollfree_rate['TW']['landLineRate'] | filterAudioRate }}
+   {{ tollfree_rate['TW']['mobileRate'] | filterAudioRate }}
+   [ ] Tanzanie {{ tollfree_rate['TZ']['landLineRate'] | filterAudioRate
+   }} {{ tollfree_rate['TZ']['mobileRate'] | filterAudioRate }}
+   [ ] Thaïlande {{ tollfree_rate['TH']['landLineRate'] | filterAudioRate
+   }} {{ tollfree_rate['TH']['mobileRate'] | filterAudioRate }}
+   [ ] Trinité-et-Tobago {{ tollfree_rate['TT']['landLineRate'] |
+   filterAudioRate }} {{ tollfree_rate['TT']['mobileRate'] |
+   filterAudioRate }}
+   [ ] Turks and Caicos Islands {{ tollfree_rate['TC']['landLineRate'] |
+   filterAudioRate }} {{ tollfree_rate['TC']['mobileRate'] |
+   filterAudioRate }}
+   [ ] Turquie {{ tollfree_rate['TR']['landLineRate'] | filterAudioRate }}
+   {{ tollfree_rate['TR']['mobileRate'] | filterAudioRate }}
+   [ ] Ukraine {{ tollfree_rate['UA']['landLineRate'] | filterAudioRate }}
+   {{ tollfree_rate['UA']['mobileRate'] | filterAudioRate }}
+   [ ] Uruguay {{ tollfree_rate['UY']['landLineRate'] | filterAudioRate }}
+   {{ tollfree_rate['UY']['mobileRate'] | filterAudioRate }}
+   [ ] Venezuela {{ tollfree_rate['VE']['landLineRate'] | filterAudioRate
+   }} {{ tollfree_rate['VE']['mobileRate'] | filterAudioRate }}
+   [ ] Vietnam {{ tollfree_rate['VN']['landLineRate'] | filterAudioRate }}
+   {{ tollfree_rate['VN']['mobileRate'] | filterAudioRate }}
+   Remarque : Tous les tarifs affichés sont par minute, par participant.
+   (BUTTON) Save (BUTTON) Cancel
+   (BUTTON) ×
+
+Choisir les pays/régions pour le numéro payant
+
+   Remarque : Tous les tarifs affichés sont par minute, par participant.
+   [ ] Sélectionner tous les pays / régions Ligne fixe Appareil mobile
+   [ ] Algérie {{ premium_rate['DZ']['landLineRate'] | filterAudioRate }}
+   {{ premium_rate['DZ']['mobileRate'] | filterAudioRate }}
+   [ ] Angola {{ premium_rate['AO']['landLineRate'] | filterAudioRate }}
+   {{ premium_rate['AO']['mobileRate'] | filterAudioRate }}
+   [ ] Chine {{ premium_rate['CN']['landLineRate'] | filterAudioRate }} {{
+   premium_rate['CN']['mobileRate'] | filterAudioRate }}
+   [ ] Costa Rica {{ premium_rate['CR']['landLineRate'] | filterAudioRate
+   }} {{ premium_rate['CR']['mobileRate'] | filterAudioRate }}
+   [ ] Hong Kong, Chine {{ premium_rate['HK']['landLineRate'] |
+   filterAudioRate }} {{ premium_rate['HK']['mobileRate'] |
+   filterAudioRate }}
+   [ ] Îles Caïmans {{ premium_rate['KY']['landLineRate'] |
+   filterAudioRate }} {{ premium_rate['KY']['mobileRate'] |
+   filterAudioRate }}
+   [ ] Inde {{ premium_rate['IN']['landLineRate'] | filterAudioRate }} {{
+   premium_rate['IN']['mobileRate'] | filterAudioRate }}
+   [ ] Indonésie {{ premium_rate['ID']['landLineRate'] | filterAudioRate
+   }} {{ premium_rate['ID']['mobileRate'] | filterAudioRate }}
+   [ ] Jamaica {{ premium_rate['JM']['landLineRate'] | filterAudioRate }}
+   {{ premium_rate['JM']['mobileRate'] | filterAudioRate }}
+   [ ] Kazakhstan {{ premium_rate['KZ']['landLineRate'] | filterAudioRate
+   }} {{ premium_rate['KZ']['mobileRate'] | filterAudioRate }}
+   [ ] Koweït {{ premium_rate['KW']['landLineRate'] | filterAudioRate }}
+   {{ premium_rate['KW']['mobileRate'] | filterAudioRate }}
+   [ ] Macao, Chine {{ premium_rate['MO']['landLineRate'] |
+   filterAudioRate }} {{ premium_rate['MO']['mobileRate'] |
+   filterAudioRate }}
+   [ ] Maroc {{ premium_rate['MA']['landLineRate'] | filterAudioRate }} {{
+   premium_rate['MA']['mobileRate'] | filterAudioRate }}
+   [ ] Nigéria {{ premium_rate['NG']['landLineRate'] | filterAudioRate }}
+   {{ premium_rate['NG']['mobileRate'] | filterAudioRate }}
+   [ ] Ouganda {{ premium_rate['UG']['landLineRate'] | filterAudioRate }}
+   {{ premium_rate['UG']['mobileRate'] | filterAudioRate }}
+   [ ] Pakistan {{ premium_rate['PK']['landLineRate'] | filterAudioRate }}
+   {{ premium_rate['PK']['mobileRate'] | filterAudioRate }}
+   [ ] Philippines {{ premium_rate['PH']['landLineRate'] | filterAudioRate
+   }} {{ premium_rate['PH']['mobileRate'] | filterAudioRate }}
+   [ ] Sri Lanka {{ premium_rate['LK']['landLineRate'] | filterAudioRate
+   }} {{ premium_rate['LK']['mobileRate'] | filterAudioRate }}
+   [ ] Taïwan {{ premium_rate['TW']['landLineRate'] | filterAudioRate }}
+   {{ premium_rate['TW']['mobileRate'] | filterAudioRate }}
+   [ ] Thaïlande {{ premium_rate['TH']['landLineRate'] | filterAudioRate
+   }} {{ premium_rate['TH']['mobileRate'] | filterAudioRate }}
+   [ ] Trinité-et-Tobago {{ premium_rate['TT']['landLineRate'] |
+   filterAudioRate }} {{ premium_rate['TT']['mobileRate'] |
+   filterAudioRate }}
+   [ ] Tunisie {{ premium_rate['TN']['landLineRate'] | filterAudioRate }}
+   {{ premium_rate['TN']['mobileRate'] | filterAudioRate }}
+   [ ] Vietnam {{ premium_rate['VN']['landLineRate'] | filterAudioRate }}
+   {{ premium_rate['VN']['mobileRate'] | filterAudioRate }}
+   [ ] Zimbabwe {{ premium_rate['ZW']['landLineRate'] | filterAudioRate }}
+   {{ premium_rate['ZW']['mobileRate'] | filterAudioRate }}
+   (BUTTON) Save (BUTTON) Cancel
+   (BUTTON) ×
+
+Sélectionnez Appeler les pays / régions
+
+   Remarque : Tous les tarifs affichés sont par minute, par participant.
+   [ ] Sélectionner tous les pays / régions Ligne fixe Appareil mobile
+   [ ] Afrique du Sud {{ callout_rate['ZA']['landLineRate'] |
+   filterAudioRate }} {{ callout_rate['ZA']['mobileRate'] |
+   filterAudioRate }}
+   [ ] Algérie {{ callout_rate['DZ']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['DZ']['mobileRate'] | filterAudioRate }}
+   [ ] Allemagne {{ callout_rate['DE']['landLineRate'] | filterAudioRate
+   }} {{ callout_rate['DE']['mobileRate'] | filterAudioRate }}
+   [ ] Angola {{ callout_rate['AO']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['AO']['mobileRate'] | filterAudioRate }}
+   [ ] Anguilla {{ callout_rate['AI']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['AI']['mobileRate'] | filterAudioRate }}
+   [ ] Antigua-et-Barbuda {{ callout_rate['AG']['landLineRate'] |
+   filterAudioRate }} {{ callout_rate['AG']['mobileRate'] |
+   filterAudioRate }}
+   [ ] Arabie Saoudite {{ callout_rate['SA']['landLineRate'] |
+   filterAudioRate }} {{ callout_rate['SA']['mobileRate'] |
+   filterAudioRate }}
+   [ ] Argentina {{ callout_rate['AR']['landLineRate'] | filterAudioRate
+   }} {{ callout_rate['AR']['mobileRate'] | filterAudioRate }}
+   [ ] Australia {{ callout_rate['AU']['landLineRate'] | filterAudioRate
+   }} {{ callout_rate['AU']['mobileRate'] | filterAudioRate }}
+   [ ] Austria {{ callout_rate['AT']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['AT']['mobileRate'] | filterAudioRate }}
+   [ ] Bahamas {{ callout_rate['BS']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['BS']['mobileRate'] | filterAudioRate }}
+   [ ] Bahreïn {{ callout_rate['BH']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['BH']['mobileRate'] | filterAudioRate }}
+   [ ] Bangladesh {{ callout_rate['BD']['landLineRate'] | filterAudioRate
+   }} {{ callout_rate['BD']['mobileRate'] | filterAudioRate }}
+   [ ] Barbados {{ callout_rate['BB']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['BB']['mobileRate'] | filterAudioRate }}
+   [ ] Belgique {{ callout_rate['BE']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['BE']['mobileRate'] | filterAudioRate }}
+   [ ] Bermudes {{ callout_rate['BM']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['BM']['mobileRate'] | filterAudioRate }}
+   [ ] Bolivie {{ callout_rate['BO']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['BO']['mobileRate'] | filterAudioRate }}
+   [ ] Bosnie-Herzégovine {{ callout_rate['BA']['landLineRate'] |
+   filterAudioRate }} {{ callout_rate['BA']['mobileRate'] |
+   filterAudioRate }}
+   [ ] Botswana {{ callout_rate['BW']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['BW']['mobileRate'] | filterAudioRate }}
+   [ ] Brésil {{ callout_rate['BR']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['BR']['mobileRate'] | filterAudioRate }}
+   [ ] British Virgin Islands {{ callout_rate['VG']['landLineRate'] |
+   filterAudioRate }} {{ callout_rate['VG']['mobileRate'] |
+   filterAudioRate }}
+   [ ] Brunei {{ callout_rate['BN']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['BN']['mobileRate'] | filterAudioRate }}
+   [ ] Bulgaria {{ callout_rate['BG']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['BG']['mobileRate'] | filterAudioRate }}
+   [ ] Cambodge {{ callout_rate['KH']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['KH']['mobileRate'] | filterAudioRate }}
+   [ ] Canada {{ callout_rate['CA']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['CA']['mobileRate'] | filterAudioRate }}
+   [ ] Chili {{ callout_rate['CL']['landLineRate'] | filterAudioRate }} {{
+   callout_rate['CL']['mobileRate'] | filterAudioRate }}
+   [ ] Chine {{ callout_rate['CN']['landLineRate'] | filterAudioRate }} {{
+   callout_rate['CN']['mobileRate'] | filterAudioRate }}
+   [ ] Colombie {{ callout_rate['CO']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['CO']['mobileRate'] | filterAudioRate }}
+   [ ] Corée [du Sud], République de {{ callout_rate['KR']['landLineRate']
+   | filterAudioRate }} {{ callout_rate['KR']['mobileRate'] |
+   filterAudioRate }}
+   [ ] Costa Rica {{ callout_rate['CR']['landLineRate'] | filterAudioRate
+   }} {{ callout_rate['CR']['mobileRate'] | filterAudioRate }}
+   [ ] Croatia {{ callout_rate['HR']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['HR']['mobileRate'] | filterAudioRate }}
+   [ ] Cyprus {{ callout_rate['CY']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['CY']['mobileRate'] | filterAudioRate }}
+   [ ] Denmark {{ callout_rate['DK']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['DK']['mobileRate'] | filterAudioRate }}
+   [ ] Dominica {{ callout_rate['DM']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['DM']['mobileRate'] | filterAudioRate }}
+   [ ] Égypte {{ callout_rate['EG']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['EG']['mobileRate'] | filterAudioRate }}
+   [ ] El Salvador {{ callout_rate['SV']['landLineRate'] | filterAudioRate
+   }} {{ callout_rate['SV']['mobileRate'] | filterAudioRate }}
+   [ ] Émirats arabes unis {{ callout_rate['AE']['landLineRate'] |
+   filterAudioRate }} {{ callout_rate['AE']['mobileRate'] |
+   filterAudioRate }}
+   [ ] Equateur {{ callout_rate['EC']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['EC']['mobileRate'] | filterAudioRate }}
+   [ ] Espagne {{ callout_rate['ES']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['ES']['mobileRate'] | filterAudioRate }}
+   [ ] Estonie {{ callout_rate['EE']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['EE']['mobileRate'] | filterAudioRate }}
+   [ ] États-Unis {{ callout_rate['US']['landLineRate'] | filterAudioRate
+   }} {{ callout_rate['US']['mobileRate'] | filterAudioRate }}
+   [ ] Fédération de Russie {{ callout_rate['RU']['landLineRate'] |
+   filterAudioRate }} {{ callout_rate['RU']['mobileRate'] |
+   filterAudioRate }}
+   [ ] Fidji {{ callout_rate['FJ']['landLineRate'] | filterAudioRate }} {{
+   callout_rate['FJ']['mobileRate'] | filterAudioRate }}
+   [ ] Finlande {{ callout_rate['FI']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['FI']['mobileRate'] | filterAudioRate }}
+   [ ] France {{ callout_rate['FR']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['FR']['mobileRate'] | filterAudioRate }}
+   [ ] Géorgie {{ callout_rate['GE']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['GE']['mobileRate'] | filterAudioRate }}
+   [ ] Ghana {{ callout_rate['GH']['landLineRate'] | filterAudioRate }} {{
+   callout_rate['GH']['mobileRate'] | filterAudioRate }}
+   [ ] Grèce {{ callout_rate['GR']['landLineRate'] | filterAudioRate }} {{
+   callout_rate['GR']['mobileRate'] | filterAudioRate }}
+   [ ] Grenada {{ callout_rate['GD']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['GD']['mobileRate'] | filterAudioRate }}
+   [ ] Guam {{ callout_rate['GU']['landLineRate'] | filterAudioRate }} {{
+   callout_rate['GU']['mobileRate'] | filterAudioRate }}
+   [ ] Guatemala {{ callout_rate['GT']['landLineRate'] | filterAudioRate
+   }} {{ callout_rate['GT']['mobileRate'] | filterAudioRate }}
+   [ ] Honduras {{ callout_rate['HN']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['HN']['mobileRate'] | filterAudioRate }}
+   [ ] Hong Kong, Chine {{ callout_rate['HK']['landLineRate'] |
+   filterAudioRate }} {{ callout_rate['HK']['mobileRate'] |
+   filterAudioRate }}
+   [ ] Hongrie {{ callout_rate['HU']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['HU']['mobileRate'] | filterAudioRate }}
+   [ ] Îles Caïmans {{ callout_rate['KY']['landLineRate'] |
+   filterAudioRate }} {{ callout_rate['KY']['mobileRate'] |
+   filterAudioRate }}
+   [ ] Inde {{ callout_rate['IN']['landLineRate'] | filterAudioRate }} {{
+   callout_rate['IN']['mobileRate'] | filterAudioRate }}
+   [ ] Indonésie {{ callout_rate['ID']['landLineRate'] | filterAudioRate
+   }} {{ callout_rate['ID']['mobileRate'] | filterAudioRate }}
+   [ ] Ireland {{ callout_rate['IE']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['IE']['mobileRate'] | filterAudioRate }}
+   [ ] Islande {{ callout_rate['IS']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['IS']['mobileRate'] | filterAudioRate }}
+   [ ] Israël {{ callout_rate['IL']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['IL']['mobileRate'] | filterAudioRate }}
+   [ ] Italie {{ callout_rate['IT']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['IT']['mobileRate'] | filterAudioRate }}
+   [ ] Jamaica {{ callout_rate['JM']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['JM']['mobileRate'] | filterAudioRate }}
+   [ ] Japon {{ callout_rate['JP']['landLineRate'] | filterAudioRate }} {{
+   callout_rate['JP']['mobileRate'] | filterAudioRate }}
+   [ ] Jordanie {{ callout_rate['JO']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['JO']['mobileRate'] | filterAudioRate }}
+   [ ] Kazakhstan {{ callout_rate['KZ']['landLineRate'] | filterAudioRate
+   }} {{ callout_rate['KZ']['mobileRate'] | filterAudioRate }}
+   [ ] Kenya {{ callout_rate['KE']['landLineRate'] | filterAudioRate }} {{
+   callout_rate['KE']['mobileRate'] | filterAudioRate }}
+   [ ] Koweït {{ callout_rate['KW']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['KW']['mobileRate'] | filterAudioRate }}
+   [ ] Lettonie {{ callout_rate['LV']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['LV']['mobileRate'] | filterAudioRate }}
+   [ ] Lithuania {{ callout_rate['LT']['landLineRate'] | filterAudioRate
+   }} {{ callout_rate['LT']['mobileRate'] | filterAudioRate }}
+   [ ] Luxembourg {{ callout_rate['LU']['landLineRate'] | filterAudioRate
+   }} {{ callout_rate['LU']['mobileRate'] | filterAudioRate }}
+   [ ] Macao, Chine {{ callout_rate['MO']['landLineRate'] |
+   filterAudioRate }} {{ callout_rate['MO']['mobileRate'] |
+   filterAudioRate }}
+   [ ] Macédoine {{ callout_rate['MK']['landLineRate'] | filterAudioRate
+   }} {{ callout_rate['MK']['mobileRate'] | filterAudioRate }}
+   [ ] Malaysia {{ callout_rate['MY']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['MY']['mobileRate'] | filterAudioRate }}
+   [ ] Malta {{ callout_rate['MT']['landLineRate'] | filterAudioRate }} {{
+   callout_rate['MT']['mobileRate'] | filterAudioRate }}
+   [ ] Maroc {{ callout_rate['MA']['landLineRate'] | filterAudioRate }} {{
+   callout_rate['MA']['mobileRate'] | filterAudioRate }}
+   [ ] Maurice {{ callout_rate['MU']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['MU']['mobileRate'] | filterAudioRate }}
+   [ ] Mexique {{ callout_rate['MX']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['MX']['mobileRate'] | filterAudioRate }}
+   [ ] Monaco {{ callout_rate['MC']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['MC']['mobileRate'] | filterAudioRate }}
+   [ ] Montserrat {{ callout_rate['MS']['landLineRate'] | filterAudioRate
+   }} {{ callout_rate['MS']['mobileRate'] | filterAudioRate }}
+   [ ] Népal {{ callout_rate['NP']['landLineRate'] | filterAudioRate }} {{
+   callout_rate['NP']['mobileRate'] | filterAudioRate }}
+   [ ] Nigéria {{ callout_rate['NG']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['NG']['mobileRate'] | filterAudioRate }}
+   [ ] Norvège {{ callout_rate['NO']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['NO']['mobileRate'] | filterAudioRate }}
+   [ ] Nouvelle-Zélande {{ callout_rate['NZ']['landLineRate'] |
+   filterAudioRate }} {{ callout_rate['NZ']['mobileRate'] |
+   filterAudioRate }}
+   [ ] Oman {{ callout_rate['OM']['landLineRate'] | filterAudioRate }} {{
+   callout_rate['OM']['mobileRate'] | filterAudioRate }}
+   [ ] Ouganda {{ callout_rate['UG']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['UG']['mobileRate'] | filterAudioRate }}
+   [ ] Ouzbékistan {{ callout_rate['UZ']['landLineRate'] | filterAudioRate
+   }} {{ callout_rate['UZ']['mobileRate'] | filterAudioRate }}
+   [ ] Pakistan {{ callout_rate['PK']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['PK']['mobileRate'] | filterAudioRate }}
+   [ ] Panama {{ callout_rate['PA']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['PA']['mobileRate'] | filterAudioRate }}
+   [ ] Paraguay {{ callout_rate['PY']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['PY']['mobileRate'] | filterAudioRate }}
+   [ ] Pays-Bas {{ callout_rate['NL']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['NL']['mobileRate'] | filterAudioRate }}
+   [ ] Peru {{ callout_rate['PE']['landLineRate'] | filterAudioRate }} {{
+   callout_rate['PE']['mobileRate'] | filterAudioRate }}
+   [ ] Philippines {{ callout_rate['PH']['landLineRate'] | filterAudioRate
+   }} {{ callout_rate['PH']['mobileRate'] | filterAudioRate }}
+   [ ] Pologne {{ callout_rate['PL']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['PL']['mobileRate'] | filterAudioRate }}
+   [ ] Portugal {{ callout_rate['PT']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['PT']['mobileRate'] | filterAudioRate }}
+   [ ] Puerto Rico {{ callout_rate['PR']['landLineRate'] | filterAudioRate
+   }} {{ callout_rate['PR']['mobileRate'] | filterAudioRate }}
+   [ ] Qatar {{ callout_rate['QA']['landLineRate'] | filterAudioRate }} {{
+   callout_rate['QA']['mobileRate'] | filterAudioRate }}
+   [ ] République dominicaine {{ callout_rate['DO']['landLineRate'] |
+   filterAudioRate }} {{ callout_rate['DO']['mobileRate'] |
+   filterAudioRate }}
+   [ ] République tchèque {{ callout_rate['CZ']['landLineRate'] |
+   filterAudioRate }} {{ callout_rate['CZ']['mobileRate'] |
+   filterAudioRate }}
+   [ ] Roumanie {{ callout_rate['RO']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['RO']['mobileRate'] | filterAudioRate }}
+   [ ] Royaume-Uni {{ callout_rate['GB']['landLineRate'] | filterAudioRate
+   }} {{ callout_rate['GB']['mobileRate'] | filterAudioRate }}
+   [ ] Rwanda {{ callout_rate['RW']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['RW']['mobileRate'] | filterAudioRate }}
+   [ ] Sainte-Lucie {{ callout_rate['LC']['landLineRate'] |
+   filterAudioRate }} {{ callout_rate['LC']['mobileRate'] |
+   filterAudioRate }}
+   [ ] Saint-Kitts-et-Nevis {{ callout_rate['KN']['landLineRate'] |
+   filterAudioRate }} {{ callout_rate['KN']['mobileRate'] |
+   filterAudioRate }}
+   [ ] Saint Vincent and the Grenadines {{
+   callout_rate['VC']['landLineRate'] | filterAudioRate }} {{
+   callout_rate['VC']['mobileRate'] | filterAudioRate }}
+   [ ] Samoa américaines {{ callout_rate['AS']['landLineRate'] |
+   filterAudioRate }} {{ callout_rate['AS']['mobileRate'] |
+   filterAudioRate }}
+   [ ] Singapour {{ callout_rate['SG']['landLineRate'] | filterAudioRate
+   }} {{ callout_rate['SG']['mobileRate'] | filterAudioRate }}
+   [ ] Sint Maarten {{ callout_rate['SX']['landLineRate'] |
+   filterAudioRate }} {{ callout_rate['SX']['mobileRate'] |
+   filterAudioRate }}
+   [ ] Slovaquie {{ callout_rate['SK']['landLineRate'] | filterAudioRate
+   }} {{ callout_rate['SK']['mobileRate'] | filterAudioRate }}
+   [ ] Slovénie {{ callout_rate['SI']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['SI']['mobileRate'] | filterAudioRate }}
+   [ ] Sri Lanka {{ callout_rate['LK']['landLineRate'] | filterAudioRate
+   }} {{ callout_rate['LK']['mobileRate'] | filterAudioRate }}
+   [ ] Suède {{ callout_rate['SE']['landLineRate'] | filterAudioRate }} {{
+   callout_rate['SE']['mobileRate'] | filterAudioRate }}
+   [ ] Suisse {{ callout_rate['CH']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['CH']['mobileRate'] | filterAudioRate }}
+   [ ] Taïwan {{ callout_rate['TW']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['TW']['mobileRate'] | filterAudioRate }}
+   [ ] Tanzanie {{ callout_rate['TZ']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['TZ']['mobileRate'] | filterAudioRate }}
+   [ ] Thaïlande {{ callout_rate['TH']['landLineRate'] | filterAudioRate
+   }} {{ callout_rate['TH']['mobileRate'] | filterAudioRate }}
+   [ ] Trinité-et-Tobago {{ callout_rate['TT']['landLineRate'] |
+   filterAudioRate }} {{ callout_rate['TT']['mobileRate'] |
+   filterAudioRate }}
+   [ ] Turks and Caicos Islands {{ callout_rate['TC']['landLineRate'] |
+   filterAudioRate }} {{ callout_rate['TC']['mobileRate'] |
+   filterAudioRate }}
+   [ ] Turquie {{ callout_rate['TR']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['TR']['mobileRate'] | filterAudioRate }}
+   [ ] U.S. Virgin Islands {{ callout_rate['VI']['landLineRate'] |
+   filterAudioRate }} {{ callout_rate['VI']['mobileRate'] |
+   filterAudioRate }}
+   [ ] Ukraine {{ callout_rate['UA']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['UA']['mobileRate'] | filterAudioRate }}
+   [ ] Uruguay {{ callout_rate['UY']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['UY']['mobileRate'] | filterAudioRate }}
+   [ ] Venezuela {{ callout_rate['VE']['landLineRate'] | filterAudioRate
+   }} {{ callout_rate['VE']['mobileRate'] | filterAudioRate }}
+   [ ] Vietnam {{ callout_rate['VN']['landLineRate'] | filterAudioRate }}
+   {{ callout_rate['VN']['mobileRate'] | filterAudioRate }}
+   (BUTTON) Save (BUTTON) Cancel
+   Enregistrement dans le nuage
+   Enregistrement dans le nuage
+     * Obtenez jusqu'à 3 To d'espace de stockage en plus pour vos
+       enregistrements sur le nuage
+     * Forfait mensuel à partir de 40 $
+
+   Learn More
+   Le compte pro inclut 1Go/mois de stockage d’enregistrement sur le
+   cloud. Ajoutez de l’espace de stockage en sélectionnant l’une des
+   options ci-dessous.
+   /mois
+   100 GB included
+   ({{buyPlan.cmr40.price}}/GB/mo)
+   {{buyPlan.cmr40.excessPrice}} per GB for any usage in excess
+   /mois
+   500 GB included
+   ({{buyPlan.cmr100.price}}/GB/mo)
+   {{buyPlan.cmr100.excessPrice}} per GB for any usage in excess
+   /mois
+   3 To inclus
+   ({{buyPlan.cmr500.price}}/GB/mo)
+   {{buyPlan.cmr500.excessPrice}} per GB for any usage in excess

@@ -1,0 +1,205 @@
+
+   https://tel.archives-ouvertes.fr/tel-01755242
+   Contributeur : Abes Star <>
+   Soumis le : vendredi 30 mars 2018 - 14:55:08
+   Dernière modification le : jeudi 12 septembre 2019 - 03:09:06
+
+Fichier
+
+   [small]
+   71304_CADWALLADER_2018_archiva...
+   Version validée par le jury (STAR)
+
+Identifiants
+
+     * HAL Id : tel-01755242, version 1
+
+Collections
+
+   STAR | CESP | UVSQ | UNIV-PARIS-SACLAY
+
+Citation
+
+   Jean-Sébastien Cadwallader. TCA-MG : Prise en charge des patients
+   atteints de troubles des conduites alimentaires par les médecins
+   généralistes français. Santé publique et épidémiologie. Université
+   Paris-Saclay, 2018. Français. ⟨NNT : 2018SACLS015⟩. ⟨tel-01755242⟩
+
+Exporter
+
+   BibTeX TEI DC DCterms EndNote
+
+Partager
+
+Métriques
+
+   Consultations de la notice
+
+601
+
+   Téléchargements de fichiers
+
+1155
+
+Contact
+
+   support.ccsd.cnrs.fr
+   hal.support@ccsd.cnrs.fr
+   Logo CCSD
+   #HAL
+
+   (BUTTON) Toggle navigation
+   CCSD
+     * HAL
+          + HAL
+          + HALSHS
+          + TEL
+          + MédiHAL
+          + Liste des portails
+          +
+          + AURéHAL
+          + API
+          + Data
+          + Documentation
+     * Episciences.org
+          + Episciences.org
+          + Revues
+          +
+          + Documentation
+     * Sciencesconf.org
+     * Support
+
+   (BUTTON)  Connexion (BUTTON)
+     * Connexion
+     * Connexion avec ORCID
+     * se connecter avec Fédération
+     *
+     * Créer un compte
+     *
+     * Mot de passe oublié ?
+     * Login oublié ?
+
+     * fr
+     * en
+
+   HAL - hal.archives-ouvertes.fr CCSd - Centre pour la Communication
+   Scientifique Direct
+     * Accueil
+     * Dépôt
+     * Consulter
+          + Les derniers dépôts
+          + Par discipline
+          + Par date de soutenance
+          + Consultation par collections
+     * Recherche
+     * Documentation HAL
+
+   (BUTTON) tel-01577727, version 1
+
+   (BUTTON) en (BUTTON) fr
+   Associated factors to the heterogeneity of French general
+   practitioners' practices
+   Facteurs associés à l’hétérogénéité des pratiques vaccinales des
+   médecins généralistes en France
+   Marion Le Mare�chal ^1 (BUTTON) Détails
+   1 APEMAC - Maladies chroniques, santé perçue, et processus d'adaptation
+
+       Marion Le Mare�chal ^1 AuthorId : 1602330
+     Auteur IdRef : https://www.idref.fr/203648366
+
+   1 APEMAC - Maladies chroniques, santé perçue, et processus d'adaptation
+   (Université de Lorraine, Faculté de Médecine, 9 avenue de la Forêt de
+   Haye, 54505 Vandoeuvre Les Nancy - France) StructId : 209763
+     * UPD5 - Université Paris Descartes - Paris 5 : EA4360 (12, rue de
+       l'École de Médecine - 75270 Paris cedex 06 - France) StructId :
+       301664
+     * UL - Université de Lorraine : EA4360 (34 cours Léopold - CS 25233 -
+       54052 Nancy cedex - France) StructId : 413289
+
+   (BUTTON) Masquer les détails
+   (BUTTON) en (BUTTON) fr
+   Abstract : In France, vaccination relies mainly on general
+   practitioners (GPs). The increase in the public's unfavourable opinion
+   on vaccination, associated with the insufficient vaccination coverage,
+   demonstrates the importance of taking into account the attitudes and
+   perceptions of GPs regarding vaccination. The objectives were to assess
+   the knowledge, perceptions, attitudes, and practices of French GPs
+   regarding vaccines with insufficient vaccination coverage and / or for
+   which controversies exist. In 2014, a telephone survey questionnaire
+   was conducted on 1582 French GPs to learn more about their behaviours,
+   attitudes and vaccine practices. Our results have highlighted the
+   heterogeneity of GPs’ practices and perceptions regarding vaccination.
+   First, we found that GPs reported discordances between their vaccine
+   practices for their own children and their vaccine recommendations for
+   their patients. Then, we studied the GPs’ perception of the vaccine
+   polemics concerning adverse effects of some vaccines. However, the
+   interviewed GPs were either sensitive to the polemics or rejected them,
+   without being associated with the well-founded nature of the
+   controversy. Then we looked at GPs’ recommendations for meningococcal C
+   vaccination to their patients, which were very low in our study. These
+   low recommendations contributes to the low vaccine coverage of this
+   vaccine. The lack of communication about this vaccine could be partly
+   attributed to an insufficient vaccination campaign. Subsequently, we
+   examined GPs’ decision facing a child to be vaccinated, but presenting
+   an uncomplicated common cold. A majority of GPs decided to postpone
+   this vaccination, with fever being the most important factor
+   influencing this decision. The French official recommendations do not
+   define clearly the attitude to be adopted in this situation. Finally,
+   we described the tools that GPs would find useful to improve their
+   daily immunization practice. Some of these tools exist but seem to lack
+   visibility. In conclusion, GPs can only improve their practices with
+   specific immunization training, identified and available tools, and
+   with the support of public authorities who commit themselves with clear
+   recommendations
+   Résumé : En France, la vaccination repose principalement sur l’action
+   des médecins généralistes (MG). L’augmentation de l’opinion défavorable
+   du public envers la vaccination, associée au constat d’une couverture
+   vaccinale insuffisante, démontre l’importance de prendre en compte les
+   attitudes et perceptions des MG vis-à-vis de la vaccination. Les
+   objectifs de ce travail de thèse étaient d’évaluer les connaissances,
+   perceptions, attitudes, et pratiques des MG français vis-à-vis de
+   certains vaccins, pour lesquels la couverture vaccinale est
+   sub-optimale et/ou pour lesquelles des polémiques existent. En 2014,
+   une vague d’enquêtes par questionnaire téléphonique a été mise en place
+   auprès de 1582 MG français pour mieux connaître leurs comportements,
+   attitudes et pratiques vaccinales. Plusieurs résultats ont mis en
+   évidence l’hétérogénéité des pratiques et des perceptions des MG
+   concernant la vaccination. Tout d’abord, nous avons mis en évidence que
+   les MG avaient une attitude discordante entre leurs pratiques
+   vaccinales pour leurs propres enfants et leurs recommandations
+   vaccinales pour leurs patients. Ensuite, nous avons étudié la
+   perception par les MG des polémiques vaccinales concernant les effets
+   indésirables des vaccins. Cependant, les MG interrogés étaient soit
+   sensibles aux polémiques, soit les rejetaient, sans que cela soit
+   associé au caractère fondé ou non de la polémique. Puis nous avons
+   étudié les recommandations des MG pour la vaccination à méningocoque C,
+   qui étaient très insuffisantes dans notre étude, ce qui participe à la
+   couverture vaccinale basse de ce vaccin. Le manque de communication
+   autour de ce vaccin pourrait être imputé en partie à une campagne de
+   vaccination insuffisante. Par la suite, nous avons étudié la décision
+   des MG face à un enfant devant être vacciné, mais présentant une
+   infection mineure fébrile. Une majorité des MG a préféré reporter cette
+   vaccination, la fièvre étant le facteur influençant le plus cette
+   décision. Les recommandations officielles françaises ne permettent pas
+   de définir clairement l’attitude à adopter dans cette situation. Enfin,
+   nous avons décrit les outils plébiscités par les MG pour améliorer leur
+   pratique vaccinale au quotidien. Certains de ces outils existent mais
+   semblent manquer de visibilité. En conclusion, les MG ne peuvent
+   améliorer leurs pratiques qu’avec une formation spécifique à la
+   vaccination, des outils identifiés et disponibles, et un soutien des
+   pouvoirs publics qui s’engagent avec des recommandations claires
+   (BUTTON) en (BUTTON) fr
+   Keywords : Anti-vaccination movements General practitioners Primary
+   health care Cross-sectional studies
+   Mots-clés : Médecin généraliste Vaccination Perception des risques
+   Polémiques vaccinales France Soins primaires Étude observationnelle
+   transversale nationale
+   Type de document :
+   Thèse
+   Domaine :
+
+   Sciences du Vivant [q-bio] / Médecine humaine et pathologie
+   Sciences du Vivant [q-bio] / Immunologie / Vaccinologie
+
+   Liste complète des métadonnées (BUTTON)  Voir (BUTTON)  Masquer
+   Littérature citée [41 références]  Voir  Masquer  Télécharger

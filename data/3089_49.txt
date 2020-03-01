@@ -1,0 +1,4 @@
+
+Coleco Adam
+
+     * IDE Card

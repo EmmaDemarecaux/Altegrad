@@ -1,0 +1,2034 @@
+
+   https://hal.archives-ouvertes.fr/hal-02169764
+   Contributeur : Arnaud Munch <>
+   Soumis le : lundi 1 juillet 2019 - 14:48:46
+   Dernière modification le : mercredi 3 juillet 2019 - 01:21:23
+
+Fichier
+
+   [small]
+   ControleBeamAsymptotic_1July20...
+   Fichiers produits par l'(les) auteur(s)
+
+Identifiants
+
+     * HAL Id : hal-02169764, version 1
+
+Collections
+
+   INSMI | PRES_CLERMONT | UMR6620
+
+Citation
+
+   Carlos Castro, Arnaud Munch. Singular asymptotic expansion of the exact
+   control for a linear model of the Rayleigh beam. 2019. ⟨hal-02169764⟩
+
+Exporter
+
+   BibTeX TEI DC DCterms EndNote
+
+Partager
+
+Métriques
+
+   Consultations de la notice
+
+121
+
+   Téléchargements de fichiers
+
+56
+
+Contact
+
+   support.ccsd.cnrs.fr
+   hal.support@ccsd.cnrs.fr
+   Logo CCSD
+   #HAL
+
+   (BUTTON) Toggle navigation
+   CCSD
+     * HAL
+          + HAL
+          + HALSHS
+          + TEL
+          + MédiHAL
+          + Liste des portails
+          +
+          + AURéHAL
+          + API
+          + Data
+          + Documentation
+     * Episciences.org
+          + Episciences.org
+          + Revues
+          +
+          + Documentation
+     * Sciencesconf.org
+     * Support
+
+   (BUTTON)  Connexion (BUTTON)
+     * Connexion
+     * Connexion avec ORCID
+     * se connecter avec Fédération
+     *
+     * Créer un compte
+     *
+     * Mot de passe oublié ?
+     * Login oublié ?
+
+     * fr
+     * en
+
+   hal
+     * Accueil
+     * Dépôt
+     * Consultation
+          + Les derniers dépôts
+          + Par type de publication
+          + Par discipline
+          + Par année de publication
+          + Par structure de recherche
+          + Les portails de l'archive
+          + Les collections
+     * Recherche
+     * Documentation
+
+   (BUTTON) hal-02311263, version 1
+
+THE FIRST COMBINED SEARCH FOR NEUTRINO POINT-SOURCES IN THE SOUTHERN
+HEMISPHERE WITH THE ANTARES AND ICECUBE NEUTRINO TELESCOPES
+
+   S. Adrián-Martínez ^1 A. Albert M. Andre ^2 G. Anton M. Ardid ^1 J.-J.
+   Aubert ^3 B. Baret ^4 J. Barrios-Martí S. Basa ^3 V. Bertin ^3 S. Biagi
+   ^5 R. Bormuth ^3 M. Bouwhuis R. Bruijn J. Brunner ^3 J. Busto ^6 A.
+   Capone ^7 L. Caramete J. Carr ^3 T. Chiarusi M. Circella ^8 R.
+   Coniglione ^9 H. Costantini ^3 P. Coyle ^3 A. Creusot ^4 I. Dekeyser
+   ^10 A. Deschamps ^11 G. de Bonis C. Distefano C. Donzaud ^12, 4 D.
+   Dornic ^3 D. Drouhin ^13 A. Dumas ^14 T. Eberl ^15 D. Elsässer A.
+   Enzenhöfer ^3 K. Fehn I. Felis P. Fermani F. Folger L. Fusco S. Galatà
+   ^3, 4 P. Gay ^4 S. Geißelsöder K. Geyer ^16 V. Giordano ^17 A. Gleixner
+   R. Gracia-Ruiz ^4 K. Graf S. Hallmann ^15 H. van Haren ^18 A. Heijboer
+   Y. Hello ^19 J. Hernández-Rey J. Hößl ^15 J. Hofestadt ^20 C. Hugon ^21
+   C. James M. De Jong M. Kadler O. Kalekin ^15 U. Katz D. Kießling P.
+   Kooijman ^22 A. Kouchner ^23 M. Kreter I. Kreykenbohm ^15 V.
+   Kulikovskiy ^3 R. Lahmann ^15 D. Lefèvre E. Leonora S. Loucatos ^4 M.
+   Marcelin ^24 A. Margiotta ^5 A. Marinelli J. Martínez-Mora A. Mathieu
+   ^25 T. Michael P. Migliozzi A. Moussa C. Mueller E. Nezri ^24 G.
+   Păvălaş C. Pellegrino C. Perrina P. Piattelli ^9 V. Popa ^26 T. Pradier
+   ^6 C. Racca ^27 G. Riccobene R. Richter K. Roensch M. Saldaña D.
+   Samtleben ^28 A. Sanchez-Losa ^29 M. Sanguineti P. Sapienza ^9 J.
+   Schmid J. Schnabel F. Schüssler ^30 T. Seitz C. Sieger M. Spurio ^5 J.
+   Steijger Th. Stolarczyk ^30 M. Taiuti ^5 C. Tamburini A. Trovato C.
+   Tönnis B. Vallage ^31 C. Vallee ^32 V. van Elewyck ^12, 4 E. Visser D.
+   Vivolo S. Wagner J. Wilms ^15 J. Zornoza J. Zúñiga ^29 M. Aartsen K.
+   Abraham M. Ackermann J. Adams J. Aguilar M. Ahlers M. Ahrens D. Altmann
+   T. Anderson I. Ansseau M. Archinger C. Arguelles T. Arlen J. Auffenberg
+   ^33 X. Bai ^34 S. Barwick V. Baum R. Bay J. Beatty J. Becker Tjus K.-H.
+   Becker E. Beiser P. Berghaus ^35 D. Berley ^36 E. Bernardini A.
+   Bernhard D. Besson ^37 G. Binder D. Bindig M. Bissok ^38 E. Blaufuss
+   ^36 J. Blumenthal D. Boersma C. Bohm M. Börner F. Bos D. Bose S. Böser
+   O. Botner J. Braun L. Brayeur H.-P. Bretz N. Buzinsky J. Casey M.
+   Casier E. Cheung D. Chirkin ^39 A. Christov K. Clark L. Classen S.
+   Coenders D. Cowen A. Cruz Silva J. Daughhetee J. Davis M. Day J. de
+   André C. de Clercq E. del Pino Rosendo H. Dembinski S. de Ridder P.
+   Desiati ^39 K. de Vries G. de Wasseige ^4 M. de With T. de Young ^40 J.
+   Díaz-Vélez V. Di Lorenzo J. Dumm M. Dunkman B. Eberhardt T. Ehrhardt B.
+   Eichmann S. Euler ^38 P. Evenson S. Fahey A. Fazely J. Feintzeig J.
+   Felde K. Filimonov C. Finley T. Fischer-Wasels S. Flis C.-C. Fösig T.
+   Fuchs T. Gaisser R. Gaior ^41 J. Gallagher ^42 L. Gerhardt K. Ghorbani
+   D. Gier L. Gladstone M. Glagla T. Glüsenkamp ^38 A. Goldschmidt G.
+   Golup J. Gonzalez ^43 D. Góra D. Grant Z. Griffith A. Groß ^44 C. Ha
+   ^45 C. Haack A. Haj Ismail A. Hallgren F. Halzen ^39 E. Hansen B.
+   Hansmann K. Hanson D. Hebecker D. Heereman K. Helbing R. Hellauer S.
+   Hickford ^46 J. Hignight G. Hill K. Hoffman R. Hoffmann K. Holzapfel A.
+   Homeier ^47 K. Hoshina F. Huang M. Huber ^48 W. Huelsnitz ^36 P. Hulth
+   K. Hultqvist S. In A. Ishihara E. Jacobi G. Japaridze M. Jeong K. Jero
+   M. Jurkovic ^49 A. Kappes ^15 T. Karg A. Karle ^39 M. Kauer A. Keivani
+   J. Kelley ^12 J. Kemp A. Kheirandish J. Kiryluk J. Kläs S. Klein ^50 G.
+   Kohnen ^51 R. Koirala ^52 H. Kolanoski R. Konietz L. Köpke C. Kopper
+   ^15 S. Kopper D. Koskinen M. Kowalski ^53 K. Krings G. Kroll M. Kroll
+   G. Krückl J. Kunnen N. Kurahashi T. Kuwabara ^54 M. Labare ^55 J.
+   Lanfranchi M. Larson M. Lesiak-Bzdak M. Leuermann J. Leuner L. Lu J.
+   Lünemann ^56 J. Madsen G. Maggi K. Mahn M. Mandelartz R. Maruyama K.
+   Mase H. Matis R. Maunu F. Mcnally K. Meagher ^36 M. Medici ^57 A. Meli
+   ^58 T. Menne G. Merino T. Meures ^38 S. Miarecki E. Middell L. Mohrmann
+   T. Montaruli ^39 R. Morse R. Nahnhauer U. Naumann G. Neer H.
+   Niederhausen S. Nowicki D. Nygren A. Obertacke Pollmann A. Olivas A.
+   Omairat A. O’murchadha T. Palczewski H. Pandya D. Pankova L. Paul J.
+   Pepper C. Pérez de los Heros ^59 C. Pfendner D. Pieloth ^60 E. Pinat J.
+   Posselt ^33 P. Price G. Przybylski J. Putz ^61 M. Quinnan C. Raab L.
+   Rädel M. Rameez K. Rawlins ^62 R. Reimann M. Relich E. Resconi ^44 W.
+   Rhode ^60 M. Richman S. Richter B. Riedel ^63 S. Robertson M. Rongen C.
+   Rott T. Ruhe ^60 D. Ryckbosch L. Sabbatini ^64 H.-G. Sander ^56 A.
+   Sandrock ^65 J. Sandroos S. Sarkar ^66 K. Schatto ^56 F. Scheriau M.
+   Schimp T. Schmidt M. Schmitz S. Schoenen S. Schöneberg A. Schönwald L.
+   Schulte L. Schumacher D. Seckel ^54 S. Seunarine ^67 D. Soldin M. Song
+   G. Spiczak C. Spiering M. Stahlberg M. Stamatikos T. Stanev ^35 A.
+   Stasik A. Steuer T. Stezelberger ^68 R. Stokstad A. Stößl R. Ström N.
+   Strotjohann G. Sullivan M. Sutherland H. Taavola I. Taboada ^69 J.
+   Tatar S. Ter-Antonyan A. Terliuk G. Tešić S. Tilav ^54 P. Toale M.
+   Tobin S. Toscano D. Tosi M. Tselengidou A. Turcati E. Unger M. Usner S.
+   Vallecorsa J. Vandenbroucke N. van Eijndhoven S. Vanheule J. van Santen
+   ^47 J. Veenkamp M. Vehring M. Voge M. Vraeghe C. Walck A. Wallace M.
+   Wallraff N. Wandkowsky ^70 Ch. Weaver C. Wendt S. Westerhoff B. Whelan
+   K. Wiebe C. Wiebusch L. Wille D. Williams H. Wissing M. Wolf ^71 T.
+   Wood K. Woschnagg D. Xu X. Xu ^72 Y. Xu ^73 J. Yanez ^74 G. Yodh ^75 S.
+   Yoshida M. Zoll (BUTTON) Détails
+   1 IGIC - Institut d’Investigació per a la Gestió Integrada de Zones
+   Costaneres
+   2 LAB-UPC - Laboratory of Applied Bioacoustics
+   3 CPPM - Centre de Physique des Particules de Marseille
+   4 APC - UMR 7164 - AstroParticule et Cosmologie
+   5 Enrico Fermi - Dipartimento di Fisica
+   6 LAL - Laboratoire de l'Accélérateur Linéaire
+   7 Department of Physics [Roma La Sapienza]
+   8 University of Bari and INFN section of Bari
+   9 INFN - Laboratori Nazionali del Sud
+   10 COM - Centre d'océanologie de Marseille
+   11 GEOAZUR - Géoazur
+   12 IPNO - Institut de Physique Nucléaire d'Orsay
+   13 GRPHE - Groupe de Recherche en Physique des Hautes Energies
+   14 LPC - Laboratoire de Physique Corpusculaire - Clermont-Ferrand
+   15 ECAP - Erlangen Centre for Astroparticle Physics
+   16 IBERS, Institute of Biological, Environmental and Rural Sciences
+   17 FEMTO-ST - Franche-Comté Électronique Mécanique, Thermique et
+   Optique - Sciences et Technologies (UMR 6174)
+   18 NIOZ - Royal Netherlands Institute for Sea Research
+   19 GEOAZUR - Géoazur
+   20 FAU - Friedrich-Alexander Universität Erlangen-Nürnberg
+   21 DACM - Département des Accélérateurs, de Cryogénie et de Magnétisme
+   (ex SACM)
+   22 NIKHEF - National Institute for Subatomic Physics Nikhef [Amsterdam]
+   23 APC - AHE - APC - Astrophysique des Hautes Energies
+   APC - UMR 7164 - AstroParticule et Cosmologie, Dipartimento di
+   Astronomia, Universita degli Studi di Bologna
+   24 LAM - Laboratoire d'Astrophysique de Marseille
+   25 LC-L - Laboratoire Central Lafarge
+   26 ISS - Institute of Space Science [Bucharest-Măgurele]
+   27 IReS - Institut de Recherches Subatomiques
+   28 Leiden University
+   29 IFIC - Instituto de Fisica Corpuscular
+   30 DPP - Département de Physique des Particules (ex SPP)
+   31 DAPNIA - Département d'Astrophysique, de physique des Particules, de
+   physique Nucléaire et de l'Instrumentation Associée
+   32 LTM - Laboratoire des technologies de la microélectronique
+   33 Dept. of Physics
+   34 MSSMat - Laboratoire de mécanique des sols, structures et matériaux
+   35 PCC - Physique Corpusculaire et Cosmologie - Collège de France
+   36 Dept. of Physics
+   37 UMR CNRS 8179
+   38 RWTH - Rheinisch-Westfälische Technische Hochschule Aachen
+   39 Dept. of Physics
+   40 Dept. of Physics
+   41 LPNHE - Laboratoire de Physique Nucléaire et de Hautes Énergies
+   42 Dept. of Astronomy
+   43 ULA - Universidad de Los Andes [Venezuela]
+   44 MPIK - Max-Planck-Institut für Kernphysik
+   45 CHRU Nîmes - Centre Hospitalier Régional Universitaire de Nîmes
+   46 DPA - Department of Physics and Astronomy [Christchurch]
+   47 Humboldt Universität zu Berlin
+   48 Service de dermatologie et vénéréologie (CHUV Lausanne)
+   49 Universités de Zagreb
+   50 IPCMS - Institut de Physique et Chimie des Matériaux de Strasbourg
+   51 UMons - Université de Mons
+   52 CEA-LETI - Laboratoire d'Electronique et des Technologies de
+   l'Information
+   53 L2S - Laboratoire des signaux et systèmes
+   54 University of Delaware [Newark]
+   55 Science Faculty CP230
+   56 University of Mainz
+   57 CIC Grenoble - Centre d'Investigation Clinique [Grenoble]
+   58 PhyMedExp - Physiologie & médecine expérimentale du Cœur et des
+   Muscles [U 1046]
+   59 Department of Physics and Astronomy [Uppsala]
+   60 Dept. of Physics
+   61 ARN - Architecture et réactivité de l'ARN
+   62 Dept. of Physics and Astronomy
+   63 Technische Universität Braunschweig [Braunschweig]
+   64 ARENA - Antarctic Research a European Network for Astrophysics
+   65 Biogen Idec Inc.
+   66 University of Oxford [Oxford]
+   67 Dept. of Physics
+   68 LBNL - Lawrence Berkeley National Laboratory [Berkeley]
+   69 Georgia Institute of Technology [Atlanta]
+   70 KIT - Karlsruhe Institute of Technology
+   71 Institute of Neuropathology
+   72 Grenoble INP - Institut polytechnique de Grenoble - Grenoble
+   Institute of Technology
+   73 Zhejiang University
+   74 Forschungszentrum Karlsruhe
+   75 Department of Physics and Astronomy [Irvine]
+
+       S. Adrián-Martínez ^1 AuthorId : 645353
+     Auteur
+
+       A. Albert AuthorId : 11544184
+     Auteur IdHAL : alexandre-albert
+
+       M. Andre ^2 AuthorId : 186761
+     Auteur
+
+       G. Anton AuthorId : 14630
+     Auteur
+
+       M. Ardid ^1 AuthorId : 41337
+     Auteur
+
+       J.-J. Aubert ^3 AuthorId : 44726
+     Auteur
+
+       B. Baret ^4 AuthorId : 36162
+     Auteur
+
+       J. Barrios-Martí AuthorId : 887368
+     Auteur
+
+       S. Basa ^3 AuthorId : 5101
+     Auteur
+
+       V. Bertin ^3 AuthorId : 4752
+     Auteur
+
+       S. Biagi ^5 AuthorId : 16392
+     Auteur
+
+       R. Bormuth ^3 AuthorId : 1028525
+     Auteur
+
+       M. Bouwhuis AuthorId : 16605
+     Auteur
+
+       R. Bruijn AuthorId : 48386
+     Auteur
+
+       J. Brunner ^3 AuthorId : 16689
+     Auteur
+
+       J. Busto ^6 AuthorId : 16229
+     Auteur
+
+       A. Capone ^7 AuthorId : 22729
+     Auteur
+
+       L. Caramete AuthorId : 227261
+     Auteur
+
+       J. Carr ^3 AuthorId : 6102
+     Auteur
+
+       T. Chiarusi AuthorId : 44592
+     Auteur
+
+       M. Circella ^8 AuthorId : 31843
+     Auteur
+
+       R. Coniglione ^9 AuthorId : 14557
+     Auteur
+
+       H. Costantini ^3 AuthorId : 389239
+     Auteur
+
+       P. Coyle ^3 AuthorId : 6103
+     Auteur
+
+       A. Creusot ^4 AuthorId : 41960
+     Auteur
+
+       I. Dekeyser ^10 AuthorId : 141978
+     Auteur
+
+       A. Deschamps ^11 AuthorId : 44737
+     Auteur
+
+       G. de Bonis AuthorId : 170446
+     Auteur
+
+       C. Distefano AuthorId : 71774
+     Auteur
+
+       C. Donzaud ^12, 4 AuthorId : 5768
+     Auteur
+
+       D. Dornic ^3 AuthorId : 147038
+     Auteur
+
+       D. Drouhin ^13 AuthorId : 389240
+     Auteur
+
+       A. Dumas ^14 AuthorId : 820606
+     Auteur
+
+       T. Eberl ^15 AuthorId : 50776
+     Auteur
+
+       D. Elsässer AuthorId : 695170
+     Auteur
+
+       A. Enzenhöfer ^3 AuthorId : 645359
+     Auteur
+
+       K. Fehn AuthorId : 701412
+     Auteur
+
+       I. Felis AuthorId : 1080790
+     Auteur
+
+       P. Fermani AuthorId : 645360
+     Auteur
+
+       F. Folger AuthorId : 556759
+     Auteur
+
+       L. Fusco AuthorId : 193228
+     Auteur
+
+       S. Galatà ^3, 4 AuthorId : 574052
+     Auteur
+
+       P. Gay ^4 AuthorId : 1245157
+     Auteur
+
+       S. Geißelsöder AuthorId : 1019827
+     Auteur
+
+       K. Geyer ^16 AuthorId : 679994
+     Auteur
+
+       V. Giordano ^17 AuthorId : 19958
+     Auteur
+
+       A. Gleixner AuthorId : 735970
+     Auteur
+
+       R. Gracia-Ruiz ^4 AuthorId : 1196902
+     Auteur
+
+       K. Graf AuthorId : 71776
+     Auteur
+
+       S. Hallmann ^15 AuthorId : 1245158
+     Auteur
+
+       H. van Haren ^18 AuthorId : 324953
+     Auteur
+
+       A. Heijboer AuthorId : 16736
+     Auteur
+
+       Y. Hello ^19 AuthorId : 44746
+     Auteur
+
+       J. Hernández-Rey AuthorId : 1546494
+     Auteur
+
+       J. Hößl ^15 AuthorId : 71778
+     Auteur
+
+       J. Hofestadt ^20 AuthorId : 1028540
+     Auteur
+
+       C. Hugon ^21 AuthorId : 348816
+     Auteur
+
+       C. James AuthorId : 77474
+     Auteur
+
+       M. De Jong AuthorId : 5771
+     Auteur
+
+       M. Kadler AuthorId : 399500
+     Auteur
+
+       O. Kalekin ^15 AuthorId : 389243
+     Auteur
+
+       U. Katz AuthorId : 44753
+     Auteur
+
+       D. Kießling AuthorId : 1080835
+     Auteur
+
+       P. Kooijman ^22 AuthorId : 16738
+     Auteur
+
+       A. Kouchner ^23 AuthorId : 760092
+     Auteur
+
+       M. Kreter AuthorId : 1245159
+     Auteur
+
+       I. Kreykenbohm ^15 AuthorId : 645365
+     Auteur
+
+       V. Kulikovskiy ^3 AuthorId : 556761
+     Auteur
+
+       R. Lahmann ^15 AuthorId : 7501
+     Auteur
+
+       D. Lefèvre AuthorId : 198761
+     Auteur
+
+       E. Leonora AuthorId : 887374
+     Auteur
+
+       S. Loucatos ^4 AuthorId : 16718
+     Auteur
+
+       M. Marcelin ^24 AuthorId : 75710
+     Auteur
+
+       A. Margiotta ^5 AuthorId : 31856
+     Auteur
+
+       A. Marinelli AuthorId : 889726
+     Auteur
+
+       J. Martínez-Mora AuthorId : 1530894
+     Auteur
+
+       A. Mathieu ^25 AuthorId : 142224
+     Auteur
+
+       T. Michael AuthorId : 887375
+     Auteur
+
+       P. Migliozzi AuthorId : 19430
+     Auteur
+
+       A. Moussa AuthorId : 76759
+     Auteur
+
+       C. Mueller AuthorId : 204476
+     Auteur
+
+       E. Nezri ^24 AuthorId : 24406
+     Auteur
+
+       G. Păvălaş AuthorId : 1530895
+     Auteur
+
+       C. Pellegrino AuthorId : 55801
+     Auteur
+
+       C. Perrina AuthorId : 887376
+     Auteur
+
+       P. Piattelli ^9 AuthorId : 11048
+     Auteur
+
+       V. Popa ^26 AuthorId : 31865
+     Auteur
+
+       T. Pradier ^6 AuthorId : 20242
+     Auteur
+
+       C. Racca ^27 AuthorId : 4249
+     Auteur
+
+       G. Riccobene AuthorId : 31867
+     Auteur
+
+       R. Richter AuthorId : 7408
+     Auteur
+
+       K. Roensch AuthorId : 556762
+     Auteur
+
+       M. Saldaña AuthorId : 1080836
+     Auteur
+
+       D. Samtleben ^28 AuthorId : 889047
+     Auteur
+
+       A. Sanchez-Losa ^29 AuthorId : 701420
+     Auteur
+
+       M. Sanguineti AuthorId : 887377
+     Auteur
+
+       P. Sapienza ^9 AuthorId : 14562
+     Auteur
+
+       J. Schmid AuthorId : 393752
+     Auteur
+
+       J. Schnabel AuthorId : 735962
+     Auteur
+
+       F. Schüssler ^30 AuthorId : 227310
+     Auteur
+
+       T. Seitz AuthorId : 645373
+     Auteur
+
+       C. Sieger AuthorId : 887378
+     Auteur
+
+       M. Spurio ^5 AuthorId : 31874
+     Auteur
+
+       J. Steijger AuthorId : 889048
+     Auteur
+
+       Th. Stolarczyk ^30 AuthorId : 5482
+     Auteur IdHAL : thierry-stolarczyk ORCID :
+     https://orcid.org/0000-0002-0551-7581
+
+       M. Taiuti ^5 AuthorId : 8130
+     Auteur
+
+       C. Tamburini AuthorId : 142016
+     Auteur
+
+       A. Trovato AuthorId : 735963
+     Auteur
+
+       C. Tönnis AuthorId : 1122606
+     Auteur
+
+       B. Vallage ^31 AuthorId : 6204
+     Auteur
+
+       C. Vallee ^32 AuthorId : 7068
+     Auteur
+
+       V. van Elewyck ^12, 4 AuthorId : 153248
+     Auteur
+
+       E. Visser AuthorId : 1307109
+     Auteur
+
+       D. Vivolo AuthorId : 889742
+     Auteur
+
+       S. Wagner AuthorId : 7666
+     Auteur
+
+       J. Wilms ^15 AuthorId : 378037
+     Auteur
+
+       J. Zornoza AuthorId : 889049
+     Auteur
+
+       J. Zúñiga ^29 AuthorId : 71787
+     Auteur
+
+       M. Aartsen AuthorId : 11596332
+     Auteur
+
+       K. Abraham AuthorId : 789436
+     Auteur
+
+       M. Ackermann AuthorId : 1386410
+     Auteur
+
+       J. Adams AuthorId : 34827
+     Auteur
+
+       J. Aguilar AuthorId : 397731
+     Auteur
+
+       M. Ahlers AuthorId : 258232
+     Auteur
+
+       M. Ahrens AuthorId : 1050019
+     Auteur
+
+       D. Altmann AuthorId : 32615
+     Auteur
+
+       T. Anderson AuthorId : 103217
+     Auteur
+
+       I. Ansseau AuthorId : 1245161
+     Auteur
+
+       M. Archinger AuthorId : 1245162
+     Auteur
+
+       C. Arguelles AuthorId : 1050020
+     Auteur
+
+       T. Arlen AuthorId : 430627
+     Auteur
+
+       J. Auffenberg ^33 AuthorId : 671540
+     Auteur
+
+       X. Bai ^34 AuthorId : 44183
+     Auteur
+
+       S. Barwick AuthorId : 11596333
+     Auteur
+
+       V. Baum AuthorId : 1050022
+     Auteur
+
+       R. Bay AuthorId : 671541
+     Auteur
+
+       J. Beatty AuthorId : 27472
+     Auteur
+
+       J. Becker Tjus AuthorId : 779364
+     Auteur
+
+       K.-H. Becker AuthorId : 671546
+     Auteur
+
+       E. Beiser AuthorId : 1245163
+     Auteur
+
+       P. Berghaus ^35 AuthorId : 31729
+     Auteur
+
+       D. Berley ^36 AuthorId : 671548
+     Auteur
+
+       E. Bernardini AuthorId : 185637
+     Auteur
+
+       A. Bernhard AuthorId : 1050024
+     Auteur
+
+       D. Besson ^37 AuthorId : 196488
+     Auteur
+
+       G. Binder AuthorId : 39868
+     Auteur
+
+       D. Bindig AuthorId : 1050025
+     Auteur
+
+       M. Bissok ^38 AuthorId : 671550
+     Auteur
+
+       E. Blaufuss ^36 AuthorId : 671551
+     Auteur
+
+       J. Blumenthal AuthorId : 1050026
+     Auteur
+
+       D. Boersma AuthorId : 11596334
+     Auteur
+
+       C. Bohm AuthorId : 8009
+     Auteur
+
+       M. Börner AuthorId : 1245164
+     Auteur
+
+       F. Bos AuthorId : 276953
+     Auteur
+
+       D. Bose AuthorId : 430692
+     Auteur
+
+       S. Böser AuthorId : 454721
+     Auteur
+
+       O. Botner AuthorId : 9529
+     Auteur
+
+       J. Braun AuthorId : 322212
+     Auteur
+
+       L. Brayeur AuthorId : 1050027
+     Auteur
+
+       H.-P. Bretz AuthorId : 1682085
+     Auteur
+
+       N. Buzinsky AuthorId : 1245165
+     Auteur
+
+       J. Casey AuthorId : 759272
+     Auteur
+
+       M. Casier AuthorId : 1050029
+     Auteur
+
+       E. Cheung AuthorId : 37160
+     Auteur
+
+       D. Chirkin ^39 AuthorId : 671553
+     Auteur
+
+       A. Christov AuthorId : 190880
+     Auteur
+
+       K. Clark AuthorId : 57793
+     Auteur
+
+       L. Classen AuthorId : 1028529
+     Auteur
+
+       S. Coenders AuthorId : 1050030
+     Auteur
+
+       D. Cowen AuthorId : 11596335
+     Auteur
+
+       A. Cruz Silva AuthorId : 11596336
+     Auteur
+
+       J. Daughhetee AuthorId : 1050032
+     Auteur
+
+       J. Davis AuthorId : 31479
+     Auteur
+
+       M. Day AuthorId : 627091
+     Auteur
+
+       J. de André AuthorId : 11596337
+     Auteur
+
+       C. de Clercq AuthorId : 9594
+     Auteur
+
+       E. del Pino Rosendo AuthorId : 1682090
+     Auteur
+
+       H. Dembinski AuthorId : 153116
+     Auteur
+
+       S. de Ridder AuthorId : 1050033
+     Auteur
+
+       P. Desiati ^39 AuthorId : 671560
+     Auteur
+
+       K. de Vries AuthorId : 283821
+     Auteur
+
+       G. de Wasseige ^4 AuthorId : 1245167
+     Auteur
+
+       M. de With AuthorId : 1050034
+     Auteur
+
+       T. de Young ^40 AuthorId : 736548
+     Auteur
+
+       J. Díaz-Vélez AuthorId : 11596338
+     Auteur
+
+       V. Di Lorenzo AuthorId : 1245169
+     Auteur
+
+       J. Dumm AuthorId : 840014
+     Auteur
+
+       M. Dunkman AuthorId : 1050035
+     Auteur
+
+       B. Eberhardt AuthorId : 743162
+     Auteur
+
+       T. Ehrhardt AuthorId : 1245170
+     Auteur
+
+       B. Eichmann AuthorId : 1050037
+     Auteur
+
+       S. Euler ^38 AuthorId : 671569
+     Auteur
+
+       P. Evenson AuthorId : 11596339
+     Auteur
+
+       S. Fahey AuthorId : 14196
+     Auteur
+
+       A. Fazely AuthorId : 11596340
+     Auteur
+
+       J. Feintzeig AuthorId : 1050038
+     Auteur
+
+       J. Felde AuthorId : 730019
+     Auteur
+
+       K. Filimonov AuthorId : 33268
+     Auteur
+
+       C. Finley AuthorId : 669617
+     Auteur
+
+       T. Fischer-Wasels AuthorId : 1050039
+     Auteur
+
+       S. Flis AuthorId : 1050040
+     Auteur
+
+       C.-C. Fösig AuthorId : 1682092
+     Auteur
+
+       T. Fuchs AuthorId : 583123
+     Auteur
+
+       T. Gaisser AuthorId : 11596341
+     Auteur
+
+       R. Gaior ^41 AuthorId : 618378
+     Auteur
+
+       J. Gallagher ^42 AuthorId : 341115
+     Auteur
+
+       L. Gerhardt AuthorId : 571999
+     Auteur
+
+       K. Ghorbani AuthorId : 1245173
+     Auteur
+
+       D. Gier AuthorId : 1050042
+     Auteur
+
+       L. Gladstone AuthorId : 671578
+     Auteur
+
+       M. Glagla AuthorId : 1245174
+     Auteur
+
+       T. Glüsenkamp ^38 AuthorId : 671579
+     Auteur
+
+       A. Goldschmidt AuthorId : 302389
+     Auteur
+
+       G. Golup AuthorId : 227274
+     Auteur
+
+       J. Gonzalez ^43 AuthorId : 44239
+     Auteur
+
+       D. Góra AuthorId : 234713
+     Auteur
+
+       D. Grant AuthorId : 289402
+     Auteur
+
+       Z. Griffith AuthorId : 1245175
+     Auteur
+
+       A. Groß ^44 AuthorId : 671582
+     Auteur
+
+       C. Ha ^45 AuthorId : 671586
+     Auteur
+
+       C. Haack AuthorId : 1050046
+     Auteur
+
+       A. Haj Ismail AuthorId : 11596342
+     Auteur
+
+       A. Hallgren AuthorId : 9674
+     Auteur
+
+       F. Halzen ^39 AuthorId : 259285
+     Auteur
+
+       E. Hansen AuthorId : 441223
+     Auteur
+
+       B. Hansmann AuthorId : 1245176
+     Auteur
+
+       K. Hanson AuthorId : 361771
+     Auteur
+
+       D. Hebecker AuthorId : 1050049
+     Auteur
+
+       D. Heereman AuthorId : 1050050
+     Auteur
+
+       K. Helbing AuthorId : 14636
+     Auteur
+
+       R. Hellauer AuthorId : 1050052
+     Auteur
+
+       S. Hickford ^46 AuthorId : 671587
+     Auteur
+
+       J. Hignight AuthorId : 627126
+     Auteur
+
+       G. Hill AuthorId : 176378
+     Auteur
+
+       K. Hoffman AuthorId : 83891
+     Auteur
+
+       R. Hoffmann AuthorId : 135898
+     Auteur
+
+       K. Holzapfel AuthorId : 1245177
+     Auteur
+
+       A. Homeier ^47 AuthorId : 671590
+     Auteur
+
+       K. Hoshina AuthorId : 476736
+     Auteur
+
+       F. Huang AuthorId : 282849
+     Auteur
+
+       M. Huber ^48 AuthorId : 14973
+     Auteur
+
+       W. Huelsnitz ^36 AuthorId : 671591
+     Auteur
+
+       P. Hulth AuthorId : 18791
+     Auteur
+
+       K. Hultqvist AuthorId : 9692
+     Auteur
+
+       S. In AuthorId : 1245178
+     Auteur
+
+       A. Ishihara AuthorId : 28672
+     Auteur
+
+       E. Jacobi AuthorId : 337750
+     Auteur
+
+       G. Japaridze AuthorId : 11596343
+     Auteur
+
+       M. Jeong AuthorId : 1324927
+     Auteur
+
+       K. Jero AuthorId : 1050055
+     Auteur
+
+       M. Jurkovic ^49 AuthorId : 50779
+     Auteur
+
+       A. Kappes ^15 AuthorId : 44751
+     Auteur
+
+       T. Karg AuthorId : 44750
+     Auteur
+
+       A. Karle ^39 AuthorId : 542015
+     Auteur
+
+       M. Kauer AuthorId : 399878
+     Auteur
+
+       A. Keivani AuthorId : 464469
+     Auteur
+
+       J. Kelley ^12 AuthorId : 27105
+     Auteur
+
+       J. Kemp AuthorId : 612359
+     Auteur
+
+       A. Kheirandish AuthorId : 1050058
+     Auteur
+
+       J. Kiryluk AuthorId : 33270
+     Auteur
+
+       J. Kläs AuthorId : 1050059
+     Auteur
+
+       S. Klein ^50 AuthorId : 22573
+     Auteur
+
+       G. Kohnen ^51 AuthorId : 671602
+     Auteur
+
+       R. Koirala ^52 AuthorId : 1245179
+     Auteur
+
+       H. Kolanoski AuthorId : 6894
+     Auteur
+
+       R. Konietz AuthorId : 1245180
+     Auteur
+
+       L. Köpke AuthorId : 170981
+     Auteur
+
+       C. Kopper ^15 AuthorId : 141991
+     Auteur
+
+       S. Kopper AuthorId : 1050062
+     Auteur
+
+       D. Koskinen AuthorId : 11596344
+     Auteur
+
+       M. Kowalski ^53 AuthorId : 28966
+     Auteur
+
+       K. Krings AuthorId : 1050064
+     Auteur
+
+       G. Kroll AuthorId : 671605
+     Auteur
+
+       M. Kroll AuthorId : 1050065
+     Auteur
+
+       G. Krückl AuthorId : 1245181
+     Auteur
+
+       J. Kunnen AuthorId : 1050066
+     Auteur
+
+       N. Kurahashi AuthorId : 1050067
+     Auteur
+
+       T. Kuwabara ^54 AuthorId : 47859
+     Auteur
+
+       M. Labare ^55 AuthorId : 671607
+     Auteur
+
+       J. Lanfranchi AuthorId : 11596345
+     Auteur
+
+       M. Larson AuthorId : 292625
+     Auteur
+
+       M. Lesiak-Bzdak AuthorId : 1050069
+     Auteur
+
+       M. Leuermann AuthorId : 1050070
+     Auteur
+
+       J. Leuner AuthorId : 1245183
+     Auteur
+
+       L. Lu AuthorId : 14862
+     Auteur
+
+       J. Lünemann ^56 AuthorId : 671608
+     Auteur
+
+       J. Madsen AuthorId : 1708151
+     Auteur
+
+       G. Maggi AuthorId : 5929
+     Auteur
+
+       K. Mahn AuthorId : 627170
+     Auteur
+
+       M. Mandelartz AuthorId : 1245185
+     Auteur
+
+       R. Maruyama AuthorId : 671610
+     Auteur
+
+       K. Mase AuthorId : 639576
+     Auteur
+
+       H. Matis AuthorId : 261876
+     Auteur
+
+       R. Maunu AuthorId : 1245186
+     Auteur
+
+       F. Mcnally AuthorId : 1050073
+     Auteur
+
+       K. Meagher ^36 AuthorId : 671612
+     Auteur
+
+       M. Medici ^57 AuthorId : 366265
+     Auteur
+
+       A. Meli ^58 AuthorId : 11202631
+     Auteur IdHAL : albano-meli ORCID :
+     https://orcid.org/0000-0002-1727-3027
+
+       T. Menne AuthorId : 1245187
+     Auteur
+
+       G. Merino AuthorId : 5917
+     Auteur
+
+       T. Meures ^38 AuthorId : 671614
+     Auteur
+
+       S. Miarecki AuthorId : 1050074
+     Auteur
+
+       E. Middell AuthorId : 671615
+     Auteur
+
+       L. Mohrmann AuthorId : 763464
+     Auteur
+
+       T. Montaruli ^39 AuthorId : 31860
+     Auteur
+
+       R. Morse AuthorId : 32970
+     Auteur
+
+       R. Nahnhauer AuthorId : 6958
+     Auteur
+
+       U. Naumann AuthorId : 671619
+     Auteur
+
+       G. Neer AuthorId : 1245188
+     Auteur
+
+       H. Niederhausen AuthorId : 1050076
+     Auteur
+
+       S. Nowicki AuthorId : 11596346
+     Auteur
+
+       D. Nygren AuthorId : 30856
+     Auteur
+
+       A. Obertacke Pollmann AuthorId : 1682109
+     Auteur
+
+       A. Olivas AuthorId : 21346
+     Auteur
+
+       A. Omairat AuthorId : 1050079
+     Auteur
+
+       A. O’murchadha AuthorId : 11596347
+     Auteur
+
+       T. Palczewski AuthorId : 871938
+     Auteur
+
+       H. Pandya AuthorId : 1245189
+     Auteur
+
+       D. Pankova AuthorId : 11596348
+     Auteur
+
+       L. Paul AuthorId : 27154
+     Auteur
+
+       J. Pepper AuthorId : 11596349
+     Auteur
+
+       C. Pérez de los Heros ^59 AuthorId : 732722
+     Auteur
+
+       C. Pfendner AuthorId : 392032
+     Auteur
+
+       D. Pieloth ^60 AuthorId : 671625
+     Auteur
+
+       E. Pinat AuthorId : 1050083
+     Auteur
+
+       J. Posselt ^33 AuthorId : 671627
+     Auteur
+
+       P. Price AuthorId : 11596350
+     Auteur
+
+       G. Przybylski AuthorId : 23092
+     Auteur
+
+       J. Putz ^61 AuthorId : 7327
+     Auteur
+
+       M. Quinnan AuthorId : 1050084
+     Auteur
+
+       C. Raab AuthorId : 1245191
+     Auteur
+
+       L. Rädel AuthorId : 1050085
+     Auteur
+
+       M. Rameez AuthorId : 1050086
+     Auteur
+
+       K. Rawlins ^62 AuthorId : 671630
+     Auteur
+
+       R. Reimann AuthorId : 637619
+     Auteur
+
+       M. Relich AuthorId : 1245192
+     Auteur
+
+       E. Resconi ^44 AuthorId : 25362
+     Auteur
+
+       W. Rhode ^60 AuthorId : 18010
+     Auteur
+
+       M. Richman AuthorId : 1050088
+     Auteur
+
+       S. Richter AuthorId : 91607
+     Auteur
+
+       B. Riedel ^63 AuthorId : 322792
+     Auteur
+
+       S. Robertson AuthorId : 7952
+     Auteur
+
+       M. Rongen AuthorId : 1050090
+     Auteur
+
+       C. Rott AuthorId : 47977
+     Auteur
+
+       T. Ruhe ^60 AuthorId : 671634
+     Auteur
+
+       D. Ryckbosch AuthorId : 12461
+     Auteur
+
+       L. Sabbatini ^64 AuthorId : 65542
+     Auteur
+
+       H.-G. Sander ^56 AuthorId : 54444
+     Auteur
+
+       A. Sandrock ^65 AuthorId : 648272
+     Auteur
+
+       J. Sandroos AuthorId : 1050093
+     Auteur
+
+       S. Sarkar ^66 AuthorId : 4598
+     Auteur
+
+       K. Schatto ^56 AuthorId : 671637
+     Auteur
+
+       F. Scheriau AuthorId : 1050094
+     Auteur
+
+       M. Schimp AuthorId : 1245193
+     Auteur
+
+       T. Schmidt AuthorId : 14219
+     Auteur
+
+       M. Schmitz AuthorId : 72172
+     Auteur
+
+       S. Schoenen AuthorId : 1050095
+     Auteur
+
+       S. Schöneberg AuthorId : 1050096
+     Auteur
+
+       A. Schönwald AuthorId : 458380
+     Auteur
+
+       L. Schulte AuthorId : 1050097
+     Auteur
+
+       L. Schumacher AuthorId : 1245194
+     Auteur
+
+       D. Seckel ^54 AuthorId : 34155
+     Auteur
+
+       S. Seunarine ^67 AuthorId : 671644
+     Auteur
+
+       D. Soldin AuthorId : 1050100
+     Auteur
+
+       M. Song AuthorId : 451636
+     Auteur
+
+       G. Spiczak AuthorId : 11596351
+     Auteur
+
+       C. Spiering AuthorId : 185660
+     Auteur
+
+       M. Stahlberg AuthorId : 1245195
+     Auteur
+
+       M. Stamatikos AuthorId : 399014
+     Auteur
+
+       T. Stanev ^35 AuthorId : 33201
+     Auteur
+
+       A. Stasik AuthorId : 1050102
+     Auteur
+
+       A. Steuer AuthorId : 1245196
+     Auteur
+
+       T. Stezelberger ^68 AuthorId : 298610
+     Auteur
+
+       R. Stokstad AuthorId : 251049
+     Auteur
+
+       A. Stößl AuthorId : 1050103
+     Auteur
+
+       R. Ström AuthorId : 1050104
+     Auteur
+
+       N. Strotjohann AuthorId : 11596352
+     Auteur
+
+       G. Sullivan AuthorId : 1272555
+     Auteur
+
+       M. Sutherland AuthorId : 67028
+     Auteur
+
+       H. Taavola AuthorId : 732855
+     Auteur
+
+       I. Taboada ^69 AuthorId : 671653
+     Auteur
+
+       J. Tatar AuthorId : 1245197
+     Auteur
+
+       S. Ter-Antonyan AuthorId : 671656
+     Auteur
+
+       A. Terliuk AuthorId : 1050106
+     Auteur
+
+       G. Tešić AuthorId : 494086
+     Auteur
+
+       S. Tilav ^54 AuthorId : 16749
+     Auteur
+
+       P. Toale AuthorId : 11596353
+     Auteur
+
+       M. Tobin AuthorId : 14984
+     Auteur
+
+       S. Toscano AuthorId : 389255
+     Auteur
+
+       D. Tosi AuthorId : 671657
+     Auteur
+
+       M. Tselengidou AuthorId : 1028560
+     Auteur
+
+       A. Turcati AuthorId : 1245199
+     Auteur
+
+       E. Unger AuthorId : 1050108
+     Auteur
+
+       M. Usner AuthorId : 1050109
+     Auteur
+
+       S. Vallecorsa AuthorId : 91638
+     Auteur
+
+       J. Vandenbroucke AuthorId : 536336
+     Auteur
+
+       N. van Eijndhoven AuthorId : 16413
+     Auteur
+
+       S. Vanheule AuthorId : 1245200
+     Auteur
+
+       J. van Santen ^47 AuthorId : 671659
+     Auteur
+
+       J. Veenkamp AuthorId : 1245201
+     Auteur
+
+       M. Vehring AuthorId : 1050110
+     Auteur
+
+       M. Voge AuthorId : 467437
+     Auteur
+
+       M. Vraeghe AuthorId : 1050111
+     Auteur
+
+       C. Walck AuthorId : 9972
+     Auteur
+
+       A. Wallace AuthorId : 1245202
+     Auteur
+
+       M. Wallraff AuthorId : 671661
+     Auteur
+
+       N. Wandkowsky ^70 AuthorId : 818638
+     Auteur
+
+       Ch. Weaver AuthorId : 732856
+     Auteur
+
+       C. Wendt AuthorId : 22903
+     Auteur
+
+       S. Westerhoff AuthorId : 153256
+     Auteur
+
+       B. Whelan AuthorId : 11596354
+     Auteur
+
+       K. Wiebe AuthorId : 671663
+     Auteur
+
+       C. Wiebusch AuthorId : 44346
+     Auteur
+
+       L. Wille AuthorId : 263926
+     Auteur
+
+       D. Williams AuthorId : 25511
+     Auteur
+
+       H. Wissing AuthorId : 671666
+     Auteur
+
+       M. Wolf ^71 AuthorId : 20567
+     Auteur
+
+       T. Wood AuthorId : 1206140
+     Auteur
+
+       K. Woschnagg AuthorId : 10204
+     Auteur
+
+       D. Xu AuthorId : 11981
+     Auteur
+
+       X. Xu ^72 AuthorId : 171029
+     Auteur
+
+       Y. Xu ^73 AuthorId : 89301
+     Auteur
+
+       J. Yanez ^74 AuthorId : 1007638
+     Auteur
+
+       G. Yodh ^75 AuthorId : 259235
+     Auteur
+
+       S. Yoshida AuthorId : 31731
+     Auteur
+
+       M. Zoll AuthorId : 1245203
+     Auteur
+
+   1 IGIC - Institut d’Investigació per a la Gestió Integrada de Zones
+   Costaneres (Paranimf 1 46730 Grao de Gandia, Valencia - Espagne)
+   StructId : 411019
+     * UPV - Universitat Politècnica de València (Camino de Vera s/n 46022
+       Valencia - Espagne) StructId : 411018
+
+   2 LAB-UPC - Laboratory of Applied Bioacoustics (Espagne) StructId :
+   30172
+     * UPC - Universidad Polytecnica de Cataluña (Espagne) StructId :
+       308884
+
+   3 CPPM - Centre de Physique des Particules de Marseille (163, avenue de
+   Luminy - Case 902 - 13288 Marseille cedex 09 - France) StructId :
+   199968
+     * CNRS - Centre National de la Recherche Scientifique : UMR7346
+       (France) StructId : 441569
+     * IN2P3 - Institut National de Physique Nucléaire et de Physique des
+       Particules du CNRS (France) StructId : 300046
+     * AMU - Aix Marseille Université : UMR7346 (Aix-Marseille Université
+       Jardins du Pharo 58 Boulevard Charles Livon 13284 Marseille cedex 7
+       - France) StructId : 198056
+
+   4 APC - UMR 7164 - AstroParticule et Cosmologie (APC - UMR 7164,
+   Université Paris Diderot, 10 rue Alice Domon et Léonie Duquet, case
+   postale 7020, F-75205 Paris Cedex 13 - France) StructId : 1969
+     * CEA - Commissariat à l'énergie atomique et aux énergies
+       alternatives : DRF/IRFU (Centre de Saclay Centre de Grenoble Centre
+       de Cadarache etc - France) StructId : 300016
+     * UPD7 - Université Paris Diderot - Paris 7 (5 rue Thomas-Mann -
+       75205 Paris cedex 13 - France) StructId : 300301
+     * Observatoire de Paris (61 Av de l'Observatoire 75014 PARIS -
+       France) StructId : 300055
+          + PSL - PSL Research University (France) StructId : 349745
+     * CNRS - Centre National de la Recherche Scientifique : UMR7164
+       (France) StructId : 441569
+     * IN2P3 - Institut National de Physique Nucléaire et de Physique des
+       Particules du CNRS (France) StructId : 300046
+
+   5 Enrico Fermi - Dipartimento di Fisica (Dipartimento di Fisica "E.
+   Fermi" - Largo Bruno Pontecorvo 3, 56127 Pisa - Italie) StructId : 3567
+     * University of Pisa - Università di Pisa (Lungarno Pacinotti 43 -
+       56126 Pisa - Italie) StructId : 366408
+
+   6 LAL - Laboratoire de l'Accélérateur Linéaire (Centre Scientifique
+   d'Orsay B.P. 34 91898 ORSAY Cedex - France) StructId : 132
+     * UP11 - Université Paris-Sud - Paris 11 (Bâtiment 300 - 91405 Orsay
+       cedex - France) StructId : 92966
+     * IN2P3 - Institut National de Physique Nucléaire et de Physique des
+       Particules du CNRS (France) StructId : 300046
+     * CNRS - Centre National de la Recherche Scientifique : UMR8607
+       (France) StructId : 441569
+
+   7 Department of Physics [Roma La Sapienza] (via dei Taurini, 19,
+   I-00185 Roma - Italie) StructId : 10799
+     * Università degli Studi di Roma "La Sapienza" [Rome] (Piazzale Aldo
+       Moro 5, 00185 Roma - Italie) StructId : 229915
+
+   8 University of Bari and INFN section of Bari (Italie) StructId : 72128
+     * University of Bari and INFN section of Bari (France) StructId :
+       319124
+
+   9 INFN - Laboratori Nazionali del Sud (Via Sofia 62 - I-95123 Catania -
+   Italie) StructId : 39337
+     * INFN - National Institute for Nuclear Physics (Italie) StructId :
+       300039
+
+   10 COM - Centre d'océanologie de Marseille (Faculté de Luminy - Case
+   901 Bâtiment TPR1 - Entrée F 13009 MARSEILLE - France) StructId : 1861
+     * CNRS - Centre National de la Recherche Scientifique : UMS2196
+       (France) StructId : 441569
+     * INSU - CNRS - Institut national des sciences de l'Univers
+       (INSU-CNRS 3 rue Michel-Ange, 75794 Paris Cedex 16 - France)
+       StructId : 300045
+     * Université de la Méditerranée - Aix-Marseille 2 (58, boulevard
+       Charles Livon - 13284 Marseille cedex 07 - France) StructId : 5033
+
+   11 GEOAZUR - Géoazur (Bât 1, 250 rue Albert Einstein Les Lucioles 1,
+   Sophia Antipolis 06560 VALBONNE - France) StructId : 239385
+     * IRD - Institut de Recherche pour le Développement (Siège Le Sextant
+       44, bd de Dunkerque CS 90009 13572 Marseille cedex 02 - France)
+       StructId : 67872
+     * UNS - Université Nice Sophia Antipolis (Parc Valrose - BP 2135 -
+       06103 Nice cedex 2 - France) StructId : 117617
+          + UCA - Université Côte d'Azur (Parc Valrose, 28 avenue Valrose
+            06108 Nice Cedex 2 - France) StructId : 523042
+     * INSU - CNRS - Institut national des sciences de l'Univers
+       (INSU-CNRS 3 rue Michel-Ange, 75794 Paris Cedex 16 - France)
+       StructId : 300045
+     * Observatoire de la Côte d'Azur (France) StructId : 302144
+          + UCA - Université Côte d'Azur (Parc Valrose, 28 avenue Valrose
+            06108 Nice Cedex 2 - France) StructId : 523042
+     * CNRS - Centre National de la Recherche Scientifique : UMR7329
+       (France) StructId : 441569
+
+   12 IPNO - Institut de Physique Nucléaire d'Orsay (IPN - 15, rue Georges
+   Clemenceau - 91406 ORSAY CEDEX - France) StructId : 119
+     * UP11 - Université Paris-Sud - Paris 11 (Bâtiment 300 - 91405 Orsay
+       cedex - France) StructId : 92966
+     * IN2P3 - Institut National de Physique Nucléaire et de Physique des
+       Particules du CNRS (France) StructId : 300046
+     * CNRS - Centre National de la Recherche Scientifique : UMR8608
+       (France) StructId : 441569
+
+   13 GRPHE - Groupe de Recherche en Physique des Hautes Energies (34 rue
+   du Grillenbreit, 68 008 Colmar - France) StructId : 121677
+     * Institut Universitaire de Technologie de Colmar (France) StructId :
+       329597
+     * Université de Haute-Alsace (UHA) - Université de Haute-Alsace (UHA)
+       Mulhouse - Colmar : EA3438 (2, rue des Frères Lumière F-68093
+       Mulhouse Cedex - France) StructId : 237692
+
+   14 LPC - Laboratoire de Physique Corpusculaire - Clermont-Ferrand
+   (Campus des Cézeaux / 24 avenue des Landais / BP 80026 / 63171 Aubière
+   Cedex - France) StructId : 131
+     * UBP - Université Blaise Pascal - Clermont-Ferrand 2 (34, avenue
+       Carnot - BP 185 / 63006 Clermont-Ferrand cedex - France) StructId :
+       205618
+     * IN2P3 - Institut National de Physique Nucléaire et de Physique des
+       Particules du CNRS (France) StructId : 300046
+     * CNRS - Centre National de la Recherche Scientifique : UMR6533
+       (France) StructId : 441569
+
+   15 ECAP - Erlangen Centre for Astroparticle Physics
+   (Friedrich-Alexander-Universität Erlangen-Nürnberg, Erwin-Rommel-Str. 1
+   D-91058 Erlangen - Allemagne) StructId : 188332
+     * FAU - Friedrich-Alexander Universität Erlangen-Nürnberg
+       (Schlossplatz 4, 91054 Erlangen, Germany - Allemagne) StructId :
+       311714
+
+   16 IBERS, Institute of Biological, Environmental and Rural Sciences
+   (Royaume-Uni) StructId : 442019
+     * Biotechnology and Biological Sciences Research Council (France)
+       StructId : 300214
+
+   17 FEMTO-ST - Franche-Comté Électronique Mécanique, Thermique et
+   Optique - Sciences et Technologies (UMR 6174) (32 avenue de
+   l'Observatoire 25044 BESANCON CEDEX - France) StructId : 866
+     * UFC - Université de Franche-Comté (France) StructId : 458810
+     * CNRS - Centre National de la Recherche Scientifique : UMR6174
+       (France) StructId : 441569
+     * ENSMM - Ecole Nationale Supérieure de Mécanique et des
+       Microtechniques (École Nationale Supérieure de Mécanique et des
+       Microtechniques 26, rue de l'épitaphe CS 51813 25030 BESANÇON CEDEX
+       - FRANCE - France) StructId : 300360
+     * UTBM - Université de Technologie de Belfort-Montbeliard (France)
+       StructId : 300261
+
+   18 NIOZ - Royal Netherlands Institute for Sea Research (1790 AB Den
+   Burg, Texel, Pays-Bas - Pays-Bas) StructId : 303271
+   19 GEOAZUR - Géoazur (France) StructId : 915
+     * UPMC - Université Pierre et Marie Curie - Paris 6 (4 place Jussieu
+       - 75005 Paris - France) StructId : 93591
+     * UNS - Université Nice Sophia Antipolis (Parc Valrose - BP 2135 -
+       06103 Nice cedex 2 - France) StructId : 117617
+          + UCA - Université Côte d'Azur (Parc Valrose, 28 avenue Valrose
+            06108 Nice Cedex 2 - France) StructId : 523042
+     * INSU - CNRS - Institut national des sciences de l'Univers
+       (INSU-CNRS 3 rue Michel-Ange, 75794 Paris Cedex 16 - France)
+       StructId : 300045
+     * Observatoire de la Côte d'Azur (France) StructId : 302144
+          + UCA - Université Côte d'Azur (Parc Valrose, 28 avenue Valrose
+            06108 Nice Cedex 2 - France) StructId : 523042
+     * CNRS - Centre National de la Recherche Scientifique : UMR6526
+       (France) StructId : 441569
+
+   20 FAU - Friedrich-Alexander Universität Erlangen-Nürnberg
+   (Schlossplatz 4, 91054 Erlangen, Germany - Allemagne) StructId : 311714
+   21 DACM - Département des Accélérateurs, de Cryogénie et de Magnétisme
+   (ex SACM) (France) StructId : 40248
+     * IRFU - Institut de Recherches sur les lois Fondamentales de
+       l'Univers : DRF/IRFU/DACM (CEA Saclay F-91191 Gif sur Yvette cedex
+       - France) StructId : 53946
+          + CEA - Commissariat à l'énergie atomique et aux énergies
+            alternatives : DRF/IRFU (Centre de Saclay Centre de Grenoble
+            Centre de Cadarache etc - France) StructId : 300016
+          + Université Paris-Saclay (Espace Technologique, Bat. Discovery
+            - RD 128 - 2e ét., 91190 Saint-Aubin - France) StructId :
+            419361
+
+   22 NIKHEF - National Institute for Subatomic Physics Nikhef [Amsterdam]
+   (Nikhef Science Park 105 1098 XG Amsterdam - Pays-Bas) StructId :
+   472404
+   23 APC - AHE - APC - Astrophysique des Hautes Energies (Italie)
+   StructId : 391833
+     * APC - UMR 7164 - AstroParticule et Cosmologie (APC - UMR 7164,
+       Université Paris Diderot, 10 rue Alice Domon et Léonie Duquet, case
+       postale 7020, F-75205 Paris Cedex 13 - France) StructId : 1969
+          + CEA - Commissariat à l'énergie atomique et aux énergies
+            alternatives : DRF/IRFU (Centre de Saclay Centre de Grenoble
+            Centre de Cadarache etc - France) StructId : 300016
+          + UPD7 - Université Paris Diderot - Paris 7 (5 rue Thomas-Mann -
+            75205 Paris cedex 13 - France) StructId : 300301
+          + Observatoire de Paris (61 Av de l'Observatoire 75014 PARIS -
+            France) StructId : 300055
+               o PSL - PSL Research University (France) StructId : 349745
+          + CNRS - Centre National de la Recherche Scientifique : UMR7164
+            (France) StructId : 441569
+          + IN2P3 - Institut National de Physique Nucléaire et de Physique
+            des Particules du CNRS (France) StructId : 300046
+     * Dipartimento di Astronomia, Universita degli Studi di Bologna
+       (Italie) StructId : 59596
+          + UNIBO - Università di Bologna [Bologna] (Via Zamboni, 33 -
+            40126 Bologna - Italie) StructId : 30978
+
+   24 LAM - Laboratoire d'Astrophysique de Marseille (Pôle de l'Étoile
+   Site de Château-Gombert 38, rue Frédéric Joliot-Curie 13388 Marseille
+   cedex 13 - France) StructId : 179944
+     * AMU - Aix Marseille Université : UMR7326 (Aix-Marseille Université
+       Jardins du Pharo 58 Boulevard Charles Livon 13284 Marseille cedex 7
+       - France) StructId : 198056
+     * INSU - CNRS - Institut national des sciences de l'Univers
+       (INSU-CNRS 3 rue Michel-Ange, 75794 Paris Cedex 16 - France)
+       StructId : 300045
+     * CNES - Centre National d'Études Spatiales [Toulouse] : UMR7326 (18
+       avenue Edouard Belin 31401 Toulouse - France) StructId : 307314
+     * CNRS - Centre National de la Recherche Scientifique : UMR7326
+       (France) StructId : 441569
+
+   25 LC-L - Laboratoire Central Lafarge (France) StructId : 123121
+     * Lafarge (France) StructId : 321724
+
+   26 ISS - Institute of Space Science [Bucharest-Măgurele] (Atomistilor
+   409, P.O. Box MG-23 Bucharest-Măgurele RO-077125 - Roumanie) StructId :
+   79298
+   27 IReS - Institut de Recherches Subatomiques (23 rue du Loess - BP 28
+   - 67037 Strasbourg Cedex 2 - France) StructId : 125
+     * IN2P3 - Institut National de Physique Nucléaire et de Physique des
+       Particules du CNRS (France) StructId : 300046
+     * Cancéropôle du Grand Est (France) StructId : 300247
+     * Université Louis Pasteur - Strasbourg I (France) StructId : 300320
+     * CNRS - Centre National de la Recherche Scientifique : UMR7500
+       (France) StructId : 441569
+
+   28 Leiden University (Pays-Bas) StructId : 474741
+   29 IFIC - Instituto de Fisica Corpuscular (Edificio Institutos de
+   Investigación Apartado de Correos 22085 46071 Valencia - Espagne)
+   StructId : 6747
+     * CSIC - Consejo Superior de Investigaciones Científicas [Spain]
+       (Serrano 117, 28006 Madrid - Espagne) StructId : 302649
+     * UV - Universitat de València (Av. de Blasco Ibáñez, 13, 46010
+       València - Espagne) StructId : 303680
+
+   30 DPP - Département de Physique des Particules (ex SPP) (France)
+   StructId : 40265
+     * IRFU - Institut de Recherches sur les lois Fondamentales de
+       l'Univers : DRF/IRFU/DPP (CEA Saclay F-91191 Gif sur Yvette cedex -
+       France) StructId : 53946
+          + CEA - Commissariat à l'énergie atomique et aux énergies
+            alternatives : DRF/IRFU (Centre de Saclay Centre de Grenoble
+            Centre de Cadarache etc - France) StructId : 300016
+          + Université Paris-Saclay (Espace Technologique, Bat. Discovery
+            - RD 128 - 2e ét., 91190 Saint-Aubin - France) StructId :
+            419361
+
+   31 DAPNIA - Département d'Astrophysique, de physique des Particules, de
+   physique Nucléaire et de l'Instrumentation Associée (France) StructId :
+   40222
+     * CEA - Commissariat à l'énergie atomique et aux énergies
+       alternatives : DSM/DAPNIA (Centre de Saclay Centre de Grenoble
+       Centre de Cadarache etc - France) StructId : 300016
+
+   32 LTM - Laboratoire des technologies de la microélectronique (LETI/DTS
+   17 rue des martyrs 38054 GRENOBLE CEDEX 9 - France) StructId : 616
+     * UJF - Université Joseph Fourier - Grenoble 1 (BP 53 - 38041
+       Grenoble Cedex 9 - France) StructId : 51016
+     * Commissariat à l'Énergie Atomique et aux Énergies Alternatives
+       (CEA) - Grenoble (France) StructId : 301286
+     * CNRS - Centre National de la Recherche Scientifique : UMR5129
+       (France) StructId : 441569
+     * UGA - Université Grenoble Alpes (CS 40700 - 38058 Grenoble cedex -
+       France) StructId : 445543
+
+   33 Dept. of Physics (Allemagne) StructId : 177444
+     * University of Wuppertal (Gaußstraße 20, 42119 Wuppertal -
+       Allemagne) StructId : 314862
+
+   34 MSSMat - Laboratoire de mécanique des sols, structures et matériaux
+   (CentraleSupélec - Bâtiment Eiffel - 3 rue Joliot Curie - 91190
+   GIF-SUR-YVETTE - France) StructId : 1332
+     * CNRS - Centre National de la Recherche Scientifique : UMR8579
+       (France) StructId : 441569
+     * CentraleSupélec (3, rue Joliot Curie, Plateau de Moulon, 91192
+       GIF-SUR-YVETTE Cedex - France) StructId : 411575
+
+   35 PCC - Physique Corpusculaire et Cosmologie - Collège de France (11,
+   place Marcelin Berthelot - 75231 Paris Cedex 05 - France) StructId :
+   133
+     * CdF - Collège de France (France) StructId : 300026
+     * IN2P3 - Institut National de Physique Nucléaire et de Physique des
+       Particules du CNRS (France) StructId : 300046
+     * UPD7 - Université Paris Diderot - Paris 7 (5 rue Thomas-Mann -
+       75205 Paris cedex 13 - France) StructId : 300301
+     * CNRS - Centre National de la Recherche Scientifique : UMR7553
+       (France) StructId : 441569
+
+   36 Dept. of Physics (États-Unis) StructId : 177450
+     * University of Maryland [College Park] (College Park, MD 20742 -
+       États-Unis) StructId : 75866
+          + University of Maryland System (États-Unis) StructId : 566144
+
+   37 UMR CNRS 8179 (France) StructId : 423722
+     * Université de Lille, Sciences et Technologies (Cité Scientifique -
+       59655 Villeneuve d'Ascq Cedex - France) StructId : 92973
+     * CNRS - Centre National de la Recherche Scientifique (France)
+       StructId : 441569
+
+   38 RWTH - Rheinisch-Westfälische Technische Hochschule Aachen (RWTH
+   Aachen Templergraben 55 52062 Aachen (Hausanschrift) 52056 Aachen
+   (Postanschrift) - Allemagne) StructId : 303510
+   39 Dept. of Physics (États-Unis) StructId : 177440
+     * University of Wisconsin-Madison (Madison, WI 53706 - États-Unis)
+       StructId : 44110
+
+   40 Dept. of Physics (États-Unis) StructId : 177454
+     * University Park (France) StructId : 334258
+
+   41 LPNHE - Laboratoire de Physique Nucléaire et de Hautes Énergies
+   (Barre 12-22, 1er étage 4 Place Jussieu 75252 Paris Cedex 05 - France)
+   StructId : 120
+     * UPMC - Université Pierre et Marie Curie - Paris 6 (4 place Jussieu
+       - 75005 Paris - France) StructId : 93591
+     * IN2P3 - Institut National de Physique Nucléaire et de Physique des
+       Particules du CNRS (France) StructId : 300046
+     * UPD7 - Université Paris Diderot - Paris 7 (5 rue Thomas-Mann -
+       75205 Paris cedex 13 - France) StructId : 300301
+     * CNRS - Centre National de la Recherche Scientifique : UMR7585
+       (France) StructId : 441569
+
+   42 Dept. of Astronomy (États-Unis) StructId : 177460
+     * University of Wisconsin-Madison (Madison, WI 53706 - États-Unis)
+       StructId : 44110
+
+   43 ULA - Universidad de Los Andes [Venezuela] (Venezuela) StructId :
+   422834
+   44 MPIK - Max-Planck-Institut für Kernphysik (Saupfercheckweg 1, 69117
+   Heidelberg - Allemagne) StructId : 4675
+     * Max-Planck-Gesellschaft (Jägerstrasse, 10-11, D-10117 Berlin -
+       Allemagne) StructId : 5247
+
+   45 CHRU Nîmes - Centre Hospitalier Régional Universitaire de Nîmes (4
+   Rue du Professeur Robert Debré, 30029 Nîmes - France) StructId : 361498
+   46 DPA - Department of Physics and Astronomy [Christchurch] (University
+   of Canterbury, Private Bag 4800, Christchurch 8140, New Zealand -
+   Nouvelle-Zélande) StructId : 266647
+     * University of Canterbury [Christchurch] (Nouvelle-Zélande) StructId
+       : 300998
+
+   47 Humboldt Universität zu Berlin (Unter den Linden 6 10099 Berlin -
+   Allemagne) StructId : 139189
+   48 Service de dermatologie et vénéréologie (CHUV Lausanne) (Service de
+   dermatologie CHUV Avenue de Beaumont 29 CH - 1011 Lausanne, Vaud,
+   Suisse - Suisse) StructId : 549149
+     * CHUV - Centre Hospitalier Universitaire Vaudois [Lausanne] (Rue du
+       Bugnon 21 CH-1011 Lausanne, Vaud - Suisse) StructId : 329903
+
+   49 Universités de Zagreb (Croatie) StructId : 175435
+     * University of Zagreb (p.p. 407 Trg maršala Tita 14 HR-10002 ZAGREB,
+       CROATIA Phone: (+385 1) 4564 111 Fax: (+ 385 1) 4830 602 - Croatie)
+       StructId : 28059
+
+   50 IPCMS - Institut de Physique et Chimie des Matériaux de Strasbourg
+   (23 rue du Loess - BP 43 - 67034 Strasbourg Cedex 2 - France - France)
+   StructId : 182
+     * Université Louis Pasteur - Strasbourg I (France) StructId : 300320
+     * CNRS - Centre National de la Recherche Scientifique : UMR7504
+       (France) StructId : 441569
+
+   51 UMons - Université de Mons (20, place du Parc, B7000 Mons -
+   Belgique) StructId : 160918
+   52 CEA-LETI - Laboratoire d'Electronique et des Technologies de
+   l'Information (MINATEC 17, rue des Martyrs, 38054, Grenoble Cedex 9 -
+   France) StructId : 40214
+     * DRT (CEA) - Direction de Recherche Technologique (CEA) : DRT
+       (France) StructId : 440043
+          + CEA - Commissariat à l'énergie atomique et aux énergies
+            alternatives : DRT (Centre de Saclay Centre de Grenoble Centre
+            de Cadarache etc - France) StructId : 300016
+     * UGA - Université Grenoble Alpes (CS 40700 - 38058 Grenoble cedex -
+       France) StructId : 445543
+
+   53 L2S - Laboratoire des signaux et systèmes (Plateau de Moulon 3 rue
+   Joliot Curie 91192 GIF SUR YVETTE CEDEX - France) StructId : 1289
+     * UP11 - Université Paris-Sud - Paris 11 (Bâtiment 300 - 91405 Orsay
+       cedex - France) StructId : 92966
+     * CentraleSupélec (3, rue Joliot Curie, Plateau de Moulon, 91192
+       GIF-SUR-YVETTE Cedex - France) StructId : 411575
+     * CNRS - Centre National de la Recherche Scientifique (France)
+       StructId : 441569
+
+   54 University of Delaware [Newark] (Newark, DE 19716 USA - États-Unis)
+   StructId : 93432
+   55 Science Faculty CP230 (Belgique) StructId : 177449
+     * ULB - Université Libre de Bruxelles [Bruxelles] (Avenue Franklin
+       Roosevelt 50 - 1050 Bruxelles - Belgique) StructId : 92969
+
+   56 University of Mainz (Allemagne) StructId : 194760
+     * JGU - Johannes Gutenberg - University of Mainz (55099 Mainz -
+       Allemagne) StructId : 439176
+
+   57 CIC Grenoble - Centre d'Investigation Clinique [Grenoble] (Boulevard
+   Chantourne - BP 217 - Galerie de Liaison Rdc Haut - 38043 Grenoble
+   Cedex 09 - France) StructId : 417746
+     * UGA - Université Grenoble Alpes (CS 40700 - 38058 Grenoble cedex -
+       France) StructId : 445543
+     * UJF - Université Joseph Fourier - Grenoble 1 (BP 53 - 38041
+       Grenoble Cedex 9 - France) StructId : 51016
+     * CHU Grenoble (France) StructId : 300071
+     * INSERM - Institut National de la Santé et de la Recherche Médicale
+       : CIC1406 (101, rue de Tolbiac, 75013 Paris - France) StructId :
+       303623
+     * Hôpital Michallon (France) StructId : 300199
+
+   58 PhyMedExp - Physiologie & médecine expérimentale du Cœur et des
+   Muscles [U 1046] (371 Avenue du Doyen G. Giraud, CHU Arnaud de
+   Villeneuve, Bâtiment INSERM Crastes de Paulet - 34295 Montpellier Cedex
+   5 - France) StructId : 449667
+     * CNRS - Centre National de la Recherche Scientifique : UMR9214
+       (France) StructId : 441569
+     * INSERM - Institut National de la Santé et de la Recherche Médicale
+       : U1046 (101, rue de Tolbiac, 75013 Paris - France) StructId :
+       303623
+     * UM - Université de Montpellier : UMR9214 (163 rue Auguste
+       Broussonnet - 34090 Montpellier - France) StructId : 410122
+
+   59 Department of Physics and Astronomy [Uppsala] (751 05 Uppsala -
+   Suède) StructId : 146005
+     * Uppsala University (Box 256, SE-751 05 Uppsala - Suède) StructId :
+       50873
+
+   60 Dept. of Physics (Allemagne) StructId : 177455
+     * TU - Technische Universität Dortmund [Dortmund] (44221 Dortmund -
+       Allemagne) StructId : 133089
+
+   61 ARN - Architecture et réactivité de l'ARN (Institut de Biologie
+   Moléculaire et Cellulaire 15 rue René Descartes 67084 STRASBOURG Cedex
+   - France) StructId : 18579
+     * Université Louis Pasteur - Strasbourg I (France) StructId : 300320
+     * CNRS - Centre National de la Recherche Scientifique : UPR9002
+       (France) StructId : 441569
+
+   62 Dept. of Physics and Astronomy (États-Unis) StructId : 177464
+     * University of Alaska [Anchorage] (3211 Providence Drive Anchorage,
+       AK 99508 - États-Unis) StructId : 344819
+
+   63 Technische Universität Braunschweig [Braunschweig] (38092
+   Braunschweig - Allemagne) StructId : 71839
+   64 ARENA - Antarctic Research a European Network for Astrophysics
+   (France) StructId : 58617
+     * CEA - Commissariat à l'énergie atomique et aux énergies
+       alternatives (Centre de Saclay Centre de Grenoble Centre de
+       Cadarache etc - France) StructId : 300016
+
+   65 Biogen Idec Inc. (Cambridge, MA. - États-Unis) StructId : 170618
+     * Biogen Idec Inc. (France) StructId : 343236
+
+   66 University of Oxford [Oxford] (Wellington Square, Oxford OX1 2JD -
+   Royaume-Uni) StructId : 302612
+   67 Dept. of Physics (Barbade) StructId : 177465
+     * University of the West Indies (France) StructId : 336202
+
+   68 LBNL - Lawrence Berkeley National Laboratory [Berkeley] (1 Cyclotron
+   Rd. MS 50A-1148, Berkeley, CA 94720 - États-Unis) StructId : 82005
+   69 Georgia Institute of Technology [Atlanta] (North Avenue, Atlanta, GA
+   30332 - États-Unis) StructId : 301990
+   70 KIT - Karlsruhe Institute of Technology (Campus North,
+   Hermann-von-Helmholtz-Platz 1, 76344 Eggenstein-Leopoldshafen / Campus
+   South, Kaiserstraße 12, 76131 Karlsruhe - Allemagne) StructId : 150665
+   71 Institute of Neuropathology (Zurich - Suisse) StructId : 99074
+     * University hospital of Zurich [Zurich] (Rämistrasse 100 8091 Zurich
+       - Suisse) StructId : 309388
+
+   72 Grenoble INP - Institut polytechnique de Grenoble - Grenoble
+   Institute of Technology (46 avenue Félix Viallet 38031 Grenoble Cedex 1
+   - France) StructId : 89889
+   73 Zhejiang University (866 Yuhangtang Road * Hangzhou * Zhejiang
+   Province * 310058 * P. R. China - Chine) StructId : 8138
+   74 Forschungszentrum Karlsruhe (Allemagne) StructId : 301791
+   75 Department of Physics and Astronomy [Irvine] (4129 Frederick Reines
+   Hall, Irvine, CA 92697-4575 - États-Unis) StructId : 236245
+     * UCI - University of California [Irvine] (Irvine, CA 92697 -
+       États-Unis) StructId : 445806
+          + University of California (États-Unis) StructId : 471291
+
+   (BUTTON) Masquer les détails
+   Type de document :
+   Article dans une revue
+   Domaine :
+
+   Physique [physics]
+   Physique [physics] / Astrophysique [astro-ph]
+
+   Liste complète des métadonnées (BUTTON)  Voir (BUTTON)  Masquer

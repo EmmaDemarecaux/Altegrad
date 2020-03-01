@@ -1,0 +1,10 @@
+   #alternate RSS ATOM
+
+   smartcity-mag
+     *
+          + In the world
+          + En France
+          + Villes Smart
+          + e-Santé
+          + Dossiers
+          + Web TV

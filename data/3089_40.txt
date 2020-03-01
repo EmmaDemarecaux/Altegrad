@@ -1,0 +1,18 @@
+
+
+Sony PlayStation 1
+
+   PlayStation-1-ISO-Loader-PSIO
+
+PSIO
+
+   Believe it or not, a device is nearing release that can play Sony
+   PlayStation discs from SD card. The upcoming PSIO slots into the
+   parallel port of the older PlayStation models, and with a bit of
+   modification to the motherboard can turn the 32-bit system into a
+   powerhouse.
+
+   As of speaking the PSIO is in a beta testing phase, however, will soon
+   become available.
+
+   Link: PSIO Official Website

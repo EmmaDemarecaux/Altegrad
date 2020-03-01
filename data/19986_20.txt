@@ -1,0 +1,16 @@
+
+​​TP 3
+
+Autoassemblage des alcanes étudié par AFM
+
+   Microscope à force atomique (AFM) pour mesures physiques ©
+   P.Avavian/CEA
+   Microscope à force atomique (AFM) pour mesures physiques
+   © P.Avavian/CEA
+
+   Ce TP propose d’analyser les images et mesures effectuées sur l’AFM vu
+   lors de la formation. Des calculs portant sur la géométrie des
+   molécules d’hexadécane sont utilisés afin de modéliser l’épitaxie de
+   ces molécules sur un support de graphite. Un corrigé est fourni.
+
+   Commandez le TP

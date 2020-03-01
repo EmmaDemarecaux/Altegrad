@@ -1,0 +1,349 @@
+
+Connect
+
+     * Contact Us
+     * Support
+     * Newsletter
+     * Shop
+     * Report a Bug
+     * Status
+     * Careers
+     * Follow Chocolatey Software on Twitter Follow Chocolatey Software on
+       Facebook Find Chocolatey Software on GitHub Subscribe to Chocolatey
+       Software on YouTube
+
+   © 2019 Chocolatey Software, Inc.
+
+   Deployed from 8cb40d1c5e. You are on web.1. Page generated 04 Oct 2019
+   03:20:32 +00:00.
+
+   Chocolatey.org uses cookies to enhance the user experience of the site.
+   (BUTTON) I accept (BUTTON) I accept
+   #Chocolatey Search
+
+   Chocolatey has a new look! Check out the blog post to learn about some
+   exciting key features! (BUTTON) ×
+
+   Chocolatey Software Chocolatey Software (BUTTON)
+
+     * Overview
+       Go Back
+
+Overview
+          + Why Chocolatey?
+            Chocolatey is a software management solution unlike anything
+            else you've ever experienced on Windows. Chocolatey brings the
+            concepts of true package management to allow you to version
+            things, manage dependencies and installation order, better
+            inventory management, and other features.
+          + How Chocolatey Works
+          + Use Cases
+          + Server
+          + Desktop
+          + Cloud / Containers
+          + Integrations
+          + Customer Stories
+          + Puppet
+          + Yelp
+          + CME Group
+     * Product
+       Go Back
+
+Product
+          + Chocolatey for Business
+            Chocolatey for Business (C4B) is the enterprise offering that
+            enables companies to adopt a DevOps approach to managing their
+            Windows environment, allowing you to deliver applications to
+            your users more reliably and faster.
+          + Pro Edition
+            Pro is a personal, named license that grants having licensed
+            versions of Chocolatey on up to 8 machines and provides the
+            ultimate Chocolatey experience!
+          + Open Source
+            Chocolatey has the largest online registry of Windows
+            packages. Learn how Open Source Chocolatey can support your
+            next project.
+          + Compare Editions
+            Learn the difference between the Chocolatey Editions and what
+            will fit your needs the best.
+          + Pricing
+          + Try Chocolatey for Business Free
+          + Purchase
+            I'm ready to get started now!
+          + Support
+     * Community
+       Go Back
+
+Community
+          + Community Packages
+            Search the largest online registry of Windows packages.
+            Chocolatey packages encapsulate everything required to manage
+            a particular piece of software into one deployment artifact by
+            wrapping installers, executables, zips, and scripts into a
+            compiled package file.
+          + Community Resources
+          + Chocolatey on GitHub
+          + Blog
+     * Learn
+       Go Back
+
+Learn
+          + Install Chocolatey
+            Get step-by-step instructions on how to install Chocolatey.
+          + Getting Started Course
+            New to Chocolatey? Learn the requirements and how to get
+            Chocolatey up and running in no time!
+          + Resource Library
+          + Docs
+          + Videos
+          + Case Studies
+          + Courses
+          + Media Kit
+          + Support
+            Need help? Read our Support FAQ to find out the next steps.
+          + Blog
+          + Newsletter
+     * Partners
+       Go Back
+
+Partners
+          + Overview
+          + Become a Partner
+          + Technology Partners
+          + Resellers
+     * About
+       Go Back
+
+About
+          + About Chocolatey
+            Chocolatey Software is focused on helping our community,
+            customers, and partners with solutions that help fill the gaps
+            that are often ignored. We offer a simple, pragmatic, and open
+            approach to software management.
+          + Careers
+          + Contact
+     * Install Now Install Now
+
+   (BUTTON) Documentation Table of Contents
+     * Docs Home
+     * Why Chocolatey?
+     * Security
+
+   Features
+     * Free
+          + Create your own packages
+          + Host packages internally
+          + Integrates with everything
+          + Package Shims
+          + Custom Package Templates
+          + Package Extensions
+     * Paid
+          + Runtime Malware Protection (Pro+)
+          + Download CDN Cache (Pro+)
+          + Package Reducer (Pro+)
+          + Ubiquitous Install Directory Option (Pro+)
+          + Package Throttle (Pro+)
+          + Package Synchronizer (Pro+ Auto / C4B Sync Command)
+          + Self-Service / Background Mode (C4B)
+          + Chocolatey Central Management (C4B)
+          + Package Builder (C4B)
+          + Package Internalizer (C4B)
+          + Package Audit (C4B)
+          + Branding Chocolatey Applications (C4B)
+          + Windows Service Management PowerShell Functions (C4B)
+
+   General
+     * Release Notes
+     * Licensed Release Notes
+     * Troubleshooting
+     * FAQs
+     * Chocolatey.org Moderation
+     * Chocolatey.org Packages Disclaimer
+     * Software Vendor?
+
+   Usage
+     * How to install
+     * How to install licensed edition
+     * Configuration / chocolatey.config
+     * How to uninstall
+     * Getting Started
+     * Proxy Settings
+     * Commands
+          + Passing args to choco
+          + Complete Reference
+          + List / Search
+          + Info
+          + Install
+          + Pin
+          + Outdated
+          + Upgrade
+          + Uninstall
+          + Config
+          + Source / Sources
+          + Feature
+          + Download
+
+   Creating Packages
+     * Create Packages
+     * Quick Start
+     * Commands
+          + New
+          + Pack
+          + Apikey
+          + Push
+     * PowerShell References
+          + Function and Variable Reference
+          + Install-ChocolateyPackage
+          + Install-ChocolateyZipPackage
+          + Install-ChocolateyPowershellCommand
+          + Install-ChocolateyVsixPackage
+          + Get-ChocolateyWebFile
+          + Install-ChocolateyInstallPackage
+     * Automatic Packaging
+
+   How To's
+     * Use Chocolatey w/Proxy Server
+     * Change Download Cache Location aka Don't use TEMP for downloads
+     * Install/Upgrade a Package w/out running install scripts
+     * Request Package Fixes/Updates
+     * Manually Recompile Packages, Embedding/Internalizing Remote
+       Resources
+     * Request Package
+     * Maintain Packages for My Software
+     * Become a Maintainer
+     * Take Over Package Maintenance Exclusively
+     * Parse Package Parameters
+     * Mount Iso
+     * Create Custom Package Templates
+     * Extend Chocolatey With PowerShell Modules (extensions)
+     * Deprecate a Package
+     * Install licensed edition
+     * Host Your Own Package Repository Server
+     * Set up the Chocolatey.Server
+     * Set up Chocolatey for internal/organizational use
+     * Automate Package Internalizer (MSP/C4B)
+
+   Use Cases
+     * Development Environment
+     * Host on MyGet
+
+   Learning Resources
+     * Resources
+     * Videos
+     * Presentations
+
+   Additional Information
+     * Legal
+     * History
+
+Chocolatey - Software Management for Windows
+
+   Chocolatey Logo
+
+What is Chocolatey?
+
+   Chocolatey is a software management solution unlike anything else
+   you've ever experienced on Windows. It focuses on simplicity, security,
+   and scalability. You write a software deployment in PowerShell once for
+   any software (not just installers), then you can deploy it everywhere
+   you have Windows with any solution that can manage systems
+   (configuration management, endpoint management, etc) and track and
+   manage updates of that software over time. Manage software on-premise,
+   in the "Cloud"�, or in Docker containers with Chocolatey.
+
+   Whew, that was a mouthful! For a bit more detail into what all of that
+   means and more, see What is Chocolatey?
+
+Requirements
+
+     * Windows 7+/Windows 2003+ (Server Core also, but not Windows Nano
+       Server)
+     * Windows PowerShell v2+ (not PowerShell Core aka PowerShell 6 yet)
+     * .NET Framework 4.x+
+     * See Requirements
+
+Information
+
+     * Frequently Asked Questions
+     * Why Chocolatey
+     * License Acceptance Terms
+     * Waiver of Responsibility
+     * Release Notes
+
+Using Chocolatey
+
+     * Installing Chocolatey
+     * Uninstalling Chocolatey
+     * Getting Started
+     * Command Reference
+     * Use Chocolatey to set up source code development environments!
+     * What distinction does Chocolatey make between an installable and a
+       portable application?
+
+Packages
+
+     * Creating packages
+     * Keep in Mind Distribution Rights
+     * Package Function and Variable Reference
+     * Outdated packages? Triage process
+
+Walkthroughs / How To Links
+
+     * Parse PackageParameters Argument
+     * Mount an Iso in Chocolatey Package
+     * Deprecate a Chocolatey Package
+     * Host Your Own Feed
+     * Deploy Chocolatey in an Organization
+
+Road Map
+
+   Where are we? Where are we going?
+
+Important Reference Links
+
+     * Chocolatey Website and Community Package Repository
+     * Mailing List / Release Announcements Only Mailing List / Build
+       Status Mailing List
+     * Twitter / Facebook / Github
+     * Blog / Newsletter
+     * Documentation / Support / Gitter
+
+See It In Action
+
+   Chocolatey Install
+
+Who Are We?
+
+   You can find all of the members of the Chocolatey Team here.
+
+   Table of Contents:
+     * What is Chocolatey?
+     * Requirements
+     * Information
+     * Using Chocolatey
+     * Packages
+     * Walkthroughs / How To Links
+     * Road Map
+          + Important Reference Links
+     * See It In Action
+     * Who Are We?
+
+Signup for the Newsletter!
+
+   ____________________
+   ____________________
+   (BUTTON) Subscribe
+
+   Be the first to know about upcoming features, security releases, and
+   news about Chocolatey.
+
+Overview
+
+     * About
+     * Getting Started Guide
+     * Why Chocolatey
+     * How Chocolatey Works
+     * Security
+     * Kickstarter
+     * Partner
+     * Customer Stories

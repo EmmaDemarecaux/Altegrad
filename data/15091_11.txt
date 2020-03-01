@@ -1,0 +1,92 @@
+
+   Présentation
+
+   Un parcours dans la filière algèbres d’opérateurs, géométrie non
+   commutative contenant 3 cours de 9 ECTS chacun est proposé. Ce parcours
+   s’appuie sur les liens profond existant entre les algèbres
+   d’opérateurs, la théorie géométrique et la théorie mesurée des groupes
+   discrets dénombrables. Les algèbres d’opérateurs, introduites par
+   Murray et von Neumann entre 1940 et 1950 dans l’optique de formaliser
+   les concepts de la mécanique quantique, ont connu des progrès
+   spectaculaires, en lien avec la théorie ergodique et la théorie des
+   groupes, ces 15 dernières années. Ce parcours présentera quelques uns
+   de ces résultats très récents ainsi que les techniques modernes qui
+   permettent de les obtenir.
+
+   Le premier cours de ce parcours est une introduction aux algèbres
+   d’opérateurs : C*-algèbres et algèbres de von Neumann. Dans le second
+   cours, différentes propriétés d’approximations pour les groupes et
+   algèbres de von Neumann, dont l’utilisation permet d’obtenir des
+   résultats surprenant de rigidité, seront présentées et étudiées en
+   détails. Enfin, le dernier cours portera sur les sous algèbres
+   abéliennes maximales d’une algèbre de von Neumann finie. On verra le
+   lien entre ces dernières et les actions préservant une mesure de
+   probabilité de groupes dénombrables. Plusieurs résultats profonds, tels
+   que l’unicité de la Cartan dans le facteur hyperfini II�
+   (Connes-Feldman-Weiss, 1981) et la trivialité du groupe fondamental de
+   L(SL₂(Z)⋉Z²) (Popa, 2001), seront démontrés.
+
+   Programme
+   I. Algèbres d’opérateurs - Georges Skandalis (9 ECTS),
+   septembre-octobre.
+     * C*-algèbres, algèbres de von Neumann, exemples.
+          + Le théorème de bicommutant de von Neumann
+          + C*-algèbres et théorie de Gelfand
+          + Exemples d’algèbres de von Neumann
+     * Algèbres de von Neumann finies
+          + Classification des facteurs en types
+          + Facteurs de type II� et trace
+          + Exemples de facteurs de type II�.
+
+   II. Propriétés d’approximations des groupes et algèbres de von Neumann
+   - Pierre Fima (9 ECTS), novembre-décembre.
+     * Bimodules sur les algèbres de von Neumann finies.
+     * Groupes moyennables, algèbres de von Neumann hyperfinies, le
+       facteur hyperfini II�.
+     * Propriété de Haagerup et moyennabilité faible.
+     * Propriété (T ), (T ) relative, exemple de SL₂(Z)⋉Z².
+
+   III. Sous-algèbres maximales abéliennes et équivalence orbitale -
+   François Le Maître (9 ECTS), janvier-février.
+     * Masas dans les facteurs II� :
+          + Types : Cartan, semi-régulier, singulier
+          + Exemples en provenance des groupes
+          + Invariant de Pukanzky
+     * Théorie ergodique et masas
+          + Bases de la théorie spectrale des transformations préservant
+            une mesure de probabilité, exemples.
+          + Masa associée à une transformation p.m.p., conjecture de
+            Neshveyev-Størmer.
+          + Construction d’une relation d’équivalence p.m.p. à partir
+            d’une Cartan. Équivalence orbitale.
+          + Toute relation d’équivalence moyennable est hyperfinie
+            (Connes-Feldman-Weiss). Unicité de Cartan
+            dans le facteur hyperfini II� .
+     * Coût et trivialité du groupe fondamental de L(SL₂(Z)⋉Z²)
+          + Relations d’équivalence p.m.p., exemples en provenance
+            d’actions de groupes. Coût des relations d’équivalence p.m.p.,
+            coût des produits amalgamés (Gaboriau).
+          + Trivialité du groupe fondamental de L(SL₂(Z)⋉Z²) (Popa).
+
+   Connaissances requises
+
+   Une connaissance de l’analyse fonctionnelle de M1 est utile.
+
+   Bibliographie
+
+   Partie I : Un polycopié sera distribué pour la Partie I.
+     * J. Dixmier, Les C*-algèbres et leurs représentations.
+     * J. Dixmier, Les algèbres de von Neumann dans l’espace hilbertien.
+     * G. J. Murphy, C*-algebras and operator theory.
+     * M. Takesaki, Theory of operator algebras. I.
+
+   Partie II :
+     * V. Jones et V.S. Sunders, Introduction to subfactors.
+     * N. Brown et N. Ozawa, C*-algebras and Finite-Dimensional
+       Approximations.
+     * B. Bekka, P. de la Harpe et A. Valette, Kazhdan’s Property (T ).
+
+   Partie III :
+     * A.M. Sinclair et R.R. Smith, Finite von Neumann algebras and masas.
+     * A.S. Kechris et B. Miller, Topics in orbit equivalence.
+     * C. Anantharaman et S. Popa, An introduction to II 1 factors.

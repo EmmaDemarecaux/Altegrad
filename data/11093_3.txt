@@ -1,0 +1,10 @@
+
+   You can browse AWStats demo (real-time update feature has been
+   disabled) to see a sample of most important information AWStats shows
+   you...
+   Demo for web server log files
+   Static demo for ftp log files
+   Static demo for mail log files
+   AWStats web demo AWStats web demo AWStats ftp demo AWStats mail demo
+
+Features

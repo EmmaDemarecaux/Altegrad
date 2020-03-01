@@ -1,0 +1,67 @@
+
+   Realizado por Realist © 2004-2019 (WEB1)
+
+Loggin
+
+   (BUTTON)
+
+   Indique as suas identificações Green-Acres:
+   E-mail ou Identificação Green-Acres
+   ____________________
+   Palavra-passe
+   ____________________
+
+   Palavra-passe esquecida? Clique aqui
+   (BUTTON) Ligação
+
+Envio da password
+
+   (BUTTON)
+   O seu e-mail ou identificação Green-Acres
+   ____________________
+   (BUTTON) Enviar a password
+
+Loggin
+
+   (BUTTON)
+
+   Para memorizar os seus favoritos, entre em:
+
+Utilize uma rede social:
+
+   (BUTTON) Facebook
+
+   Ou utilize as suas identificações:
+   Email
+   ____________________
+   Palavra-passe
+   ____________________
+
+   Palavra-passe esquecida? Clique aqui
+   (BUTTON) Ligação
+
+Ainda não está inscrito?
+
+   Inscreva-se em clique aqui
+
+Inscrição
+
+   (BUTTON)
+   [ ]
+   Estado civil    [Sr._]
+   ( ) Sra.
+   (*) Sr.
+   Nome
+   ____________________
+   Apelido
+   ____________________
+   Endereço email
+   ____________________
+   Palavra-passe
+   ____________________
+   (BUTTON) Subscrever
+
+Envio da password
+
+   (BUTTON)
+   ____________________ (BUTTON) Validar
