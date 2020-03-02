@@ -9,9 +9,6 @@ import numpy as np
 import networkx as nx
 from random import randint
 from gensim.models import Word2Vec
-from sklearn.linear_model import LogisticRegression
-from sklearn.manifold import SpectralEmbedding
-from sklearn.metrics import accuracy_score
 
 
 
@@ -59,33 +56,20 @@ def deepwalk(G, num_walks, walk_length, n_dim):
     return model
 
 
-with open("train.csv", 'r') as f:
-    train_data = f.read().splitlines()
+if __name__== '__main__' :
 
-train_hosts = list()
-y_train = list()
-for row in train_data:
-    host, label = row.split(",")
-    train_hosts.append(host)
-    y_train.append(label.lower())
-y_train = np.array(y_train)
-
-with open("test.csv", 'r') as f:
-    test_hosts = f.read().splitlines()
-    
-
-G = nx.read_weighted_edgelist('edgelist.txt', create_using=nx.DiGraph())
+    G = nx.read_weighted_edgelist('edgelist.txt', create_using=nx.DiGraph())
 
 
-n = len(train_hosts)
-n_dim = 128
-n_walks = 100
-walk_length = 20
-model = deepwalk(G,n_walks,walk_length,n_dim)
+
+    n_dim = 10
+    n_walks = 10
+    walk_length = 20
+    model = deepwalk(G,n_walks,walk_length,n_dim)
 
 
-embeddings = np.zeros((G.number_of_nodes(), n_dim))
-for i, node in enumerate(G.nodes()):
-    embeddings[i,:] = model.wv[str(node)]
+    embeddings = np.zeros((G.number_of_nodes(), n_dim))
+    for i, node in enumerate(G.nodes()):
+        embeddings[i,:] = model.wv[str(node)]
 
 
