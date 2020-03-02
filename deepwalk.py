@@ -15,13 +15,21 @@ from sklearn.metrics import accuracy_score
 
 
 
+
 def random_walk(G, node, walk_length):
+
 
     walk = [node]
     for i in range(walk_length):
       neighbors = list(G.neighbors(walk[-1]))
       if len(neighbors)>0 :
-        walk.append(neighbors[randint(0,len(neighbors)-1)])
+        weights = list()
+        for neigh in neighbors :
+            weights.append(G[walk[-1]][neigh]['weight'])
+        weights = np.array(weights)
+        weights = weights/np.sum(weights)
+        indice = np.random.choice(np.arange(0,len(neighbors)),size=1,p=weights)[0]
+        walk.append(neighbors[indice])
       else :
         break
     walk = [str(node) for node in walk]
@@ -79,26 +87,5 @@ model = deepwalk(G,n_walks,walk_length,n_dim)
 embeddings = np.zeros((G.number_of_nodes(), n_dim))
 for i, node in enumerate(G.nodes()):
     embeddings[i,:] = model.wv[str(node)]
-
-idx = np.random.RandomState(seed=42).permutation(n)
-idx_train = idx[:int(0.8*n)]
-idx_test = idx[int(0.8*n):]
-
-X_train = embeddings[idx_train,:]
-X_test = embeddings[idx_test,:]
-
-Y_train = y_train[idx_train]
-Y_test = y_train[idx_test]
-
-
-
-
-
-LG = LogisticRegression(solver='lbfgs', multi_class='auto', max_iter=2000)
-LG.fit(X_train,Y_train)
-Y_pred = LG.predict(X_test)
-LG.score(X_test,Y_test)
-
-
 
 
