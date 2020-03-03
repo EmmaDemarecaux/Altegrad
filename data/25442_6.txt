@@ -1,9 +1,0 @@
-
-Groupe
-
-     * [X] Admin
-     * [X] Chef de projets
-     * [X] Membres
-     * [X] Modérateur
-     * [X] Super Modo
-     * [X] Technicien confirmé

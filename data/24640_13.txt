@@ -1,7 +1,0 @@
-
-
-   Dans le cadre d'une chaire conjointe FSMP/PSL, Christian Schmeiser,
-   accueilli 4 mois (2 mois par la FSMP et 2 mois par PSL). Il travaillera
-   en collaboration avec le LJLL, CEREMADE, DMA, IMJ et Inria. Professeur
-   à la Faculté de Mathématiques de l'Université de Vienne, sa spécialité
-   porte sur les équations aux dérivées partielles non linéaires.

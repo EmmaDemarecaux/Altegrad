@@ -1,9 +1,0 @@
-
-   Varnish cache server
-                               Error 403 Go away
-
-   Go away
-
-  Guru Meditation:
-
-   XID: 612284057

@@ -1,8 +1,0 @@
-
-     * Marchand Trusted Shops Ce marchand adhère aux engagements qualité
-       Trusted Shops (Détails).
-     * La garantie de remboursement (Détails) Couvert pour 30 jours par la
-       garantie Trusted Shops (Détails).
-     * Service client Si vous avez des questions, merci de contacter cette
-       boutique ou, si nécessaire, Trusted Shops.
-

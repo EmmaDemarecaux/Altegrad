@@ -1,7 +1,0 @@
-
-     * Connaître les principes clés
-     * Comprendre mes traces
-     * Configurer ses outils
-     * Réagir en cas de problème
-
-   Agir

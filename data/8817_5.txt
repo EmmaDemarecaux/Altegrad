@@ -1,9 +1,0 @@
-
-     * Comment utiliser le nouveau trombinoscope interactif de votre liste
-       ?
-     * Mode d’emploi du trombinoscope
-          + Créer son compte sur le trombino
-          + Créer son « album » sur le trombino
-          + Mettre en ligne son texte de présentation
-          + Mettre en ligne ses photos
-     * Visualiser les différentes présentations des colistiers

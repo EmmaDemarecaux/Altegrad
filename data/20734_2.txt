@@ -1,6 +1,0 @@
-
-     * Mon compte
-     * Mon panier
-     * Trouver un magasin
-     * Demander un devis
-       [Choisissez______________]

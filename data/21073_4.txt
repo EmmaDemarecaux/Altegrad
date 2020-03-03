@@ -1,9 +1,0 @@
-
-JIM'2019
-
-   L’édition 2019 des Journées d’Informatique Musicale se déroulera à
-   Bayonne, du 13 au 15 mai 2019.
-   Elles sont organisées par le LaBRI Laboratoire Bordelais de Recherche
-   en Informatique, le SCRIME Studio de Création et de Recherche en
-   Informatique et Musiques Expérimentales et le GDRI MIAMI de l'UMR 8131
-   du CNRS.

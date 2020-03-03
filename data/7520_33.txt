@@ -1,5 +1,0 @@
-
-   Un outil de Gestion de Réservation des Ressources (GRR) vous permettra
-   prochainement de réserver ces équipements en ligne.
-
-Ressources et activités pour le robot BeeBot

@@ -1,3 +1,0 @@
-
-
-    Apache/2.4.27 (Ubuntu) Server at fitnesspark.fr Port 80

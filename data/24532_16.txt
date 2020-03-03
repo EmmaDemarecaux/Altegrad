@@ -1,4 +1,0 @@
-
-   Disponibilité en magasin
-   Choisir un magasin
-     * Chargement des stocks magasin Loading

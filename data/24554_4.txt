@@ -1,4 +1,0 @@
-
-   AJOUTER UNE ROOM
-   [ ] Plusieurs nouvelles room's
-   Nom de la room : ________________________________________

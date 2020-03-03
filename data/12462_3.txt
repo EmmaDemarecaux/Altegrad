@@ -1,6 +1,0 @@
-
-
-    Apache/2.2.15 (CentOS) Server at www.ensg.univ-lorraine.fr Port 80
-                               Moved Permanently
-
-   The document has moved here.

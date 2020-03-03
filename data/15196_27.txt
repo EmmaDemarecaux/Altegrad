@@ -1,9 +1,0 @@
-
-     * Annuaire
-          + Post-Docs, ATER, Contrats
-          + Tous les personnels
-          + Directeurs de Recherche, Professeurs
-          + Maîtres de conférences, Chargés de Recherche
-          + Ingénieurs, Techniciens, Adjoints techniques
-          + CDD Ingénieurs, administratifs et techniciens
-          + Doctorants

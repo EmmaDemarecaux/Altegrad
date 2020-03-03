@@ -1,7 +1,0 @@
-
-   [PARENTDIR] Parent Directory   -
-   [DIR] css/ 2019-09-09 13:57 -
-   [DIR] images/ 2019-09-09 13:57 -
-   [DIR] js/ 2019-09-09 13:57 -
-   [DIR] lib/ 2019-09-09 13:57 -
-   [DIR] shapes/ 2019-09-09 13:57 -

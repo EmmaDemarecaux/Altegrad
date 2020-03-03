@@ -1,6 +1,0 @@
-
-   Features/Softwares AWStats  Webalizer
-   Version - Date       7.2     2.01-10
-   See the feature comparison page here...
-
-Support AWStats / Donate

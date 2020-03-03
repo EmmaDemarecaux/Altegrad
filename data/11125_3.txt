@@ -1,3 +1,0 @@
-
-                            nginx/1.14.0 (Ubuntu)
-                            301 Moved Permanently

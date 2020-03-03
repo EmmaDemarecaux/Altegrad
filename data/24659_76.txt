@@ -1,8 +1,0 @@
-
-     *
-          + Accueil
-          + Qui sommes-nous ?
-          + Mentions Légales
-          + Rédaction
-          + Devenir auteur
-          + Contact

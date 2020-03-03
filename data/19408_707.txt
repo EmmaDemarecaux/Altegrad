@@ -1,2 +1,0 @@
-
-   La nouvelle version 6.5 de CouchBase en Beta

@@ -1,3 +1,0 @@
-
-                                nginx/1.10.3
-                            301 Moved Permanently

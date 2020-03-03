@@ -1,8 +1,0 @@
-
-Commodore 64
-
-     * SD2IEC
-     * EasyFlash 3
-     * 1541-III
-     * 1541 Ultimate-II
-     * C64SD

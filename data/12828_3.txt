@@ -1,8 +1,0 @@
-
-     * Démarches en ligne
-     * Carte interactive
-     * Logothèque
-     * Mentions légales
-     * Contact
-     * Accessibilité
-     * Plan du site

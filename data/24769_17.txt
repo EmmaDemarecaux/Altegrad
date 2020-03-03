@@ -1,9 +1,0 @@
-
-   Statut :*
-
-   (*)
-   ( ) Particulier
-   ( ) Entreprise
-   ( ) Organisme
-
-   Dénomination :

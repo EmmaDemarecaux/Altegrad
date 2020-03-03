@@ -1,5 +1,0 @@
-
-     * Nous contacter
-     * Fil RSS du site
-     * Plan du site
-     * Crédits et mentions légales

@@ -1,3 +1,0 @@
-
-                                nginx/1.15.8
-                           308 Permanent Redirect

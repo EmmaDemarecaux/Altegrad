@@ -1,4 +1,0 @@
-
-     * Gestion des cookies
-     * Mentions légales
-     * Crédits

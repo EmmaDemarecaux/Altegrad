@@ -1,7 +1,0 @@
-
-     * Je souhaite obtenir un acte de naissance
-     * Je souhaite obtenir un acte de mariage
-     * Je souhaite obtenir un acte de décès
-     * Je m’inscris pour le recensement citoyen
-
-Vos questions sur l'état civil

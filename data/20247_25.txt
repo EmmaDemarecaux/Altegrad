@@ -1,4 +1,0 @@
-
-   Longueur (cm)
-     * [ ] 90.0 (2)
-     * [ ] 70.0 (3) Voir plus

@@ -1,4 +1,0 @@
-
-     * Enseignement
-     * Diplôme de l'ENS - spécialité informatique
-     * MPRI

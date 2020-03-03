@@ -1,6 +1,0 @@
-   Width ____________
-   Height ____________
-   Align [Center]
-   [ ] Autoplay
-   [ ] Lightbox
-   Thumbnail Image alt

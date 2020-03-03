@@ -1,5 +1,0 @@
-
-Blog
-
-   The CoqHoTT project has its own blog, intelligently named
-   CoqHoTT-minute (thanks to Éric Tanter for the suggestion).

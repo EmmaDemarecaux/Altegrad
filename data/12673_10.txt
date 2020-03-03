@@ -1,6 +1,0 @@
-
-     * Voir le plan d'accès
-     * Télécharger la plaquette
-     * Plan du site
-     * Mentions légales
-     * © ENSMM 2015

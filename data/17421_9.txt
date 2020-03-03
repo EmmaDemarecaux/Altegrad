@@ -1,4 +1,0 @@
-
-   Label FFTRI
-   Label FFA
-   Label FFA 2

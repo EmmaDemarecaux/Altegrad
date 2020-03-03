@@ -1,8 +1,0 @@
-
-                                    nginx
-
-
-                                   Forbidden
-
-   You don't have permission to access /fr/fr/ on this server.
-                            301 Moved Permanently
