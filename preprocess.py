@@ -86,24 +86,6 @@ def generate_data(data_hosts, texts): # text_path = 'text/text/'
             
     return data
 
-train_file = 'train.csv'
-train_hosts, y_train = remove_duplicates(train_file)
-texts_path = 'text/text'
-texts = import_texts(texts_path)
-
-with open("test.csv", 'r') as f:
-    test_hosts = f.read().splitlines()
-    
-train_data = generate_data(train_hosts, texts)
-test_data = generate_data(test_hosts, texts)
-
-# Preprocessing texts
-tokenizer = TweetTokenizer()
-punctuation = string.punctuation + '’“”.»«…'
-stpwords = stopwords.words('french')
-
-cleaned_train_data = clean_host_texts(data=train_data, tok=tokenizer, stpwds=stpwords, punct=punctuation)
-cleaned_test_data = clean_host_texts(data=test_data, tok=tokenizer, stpwds=stpwords, punct=punctuation)
 
 
 

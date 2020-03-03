@@ -7,6 +7,8 @@ from sklearn.model_selection import train_test_split
 from sklearn.pipeline import Pipeline
 from sklearn.metrics import log_loss
 from preprocess import * 
+import numpy as np
+
 
 train_file = 'train.csv'
 train_hosts, y_train = remove_duplicates(train_file)
