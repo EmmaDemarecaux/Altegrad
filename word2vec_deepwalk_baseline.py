@@ -27,7 +27,7 @@ from sklearn.pipeline import Pipeline
 import pickle
 import collections
 from sklearn.metrics import log_loss
-from my_graph_baseline import deepwalk
+from deepwalk import deepwalk
 
 
 def clean_host_texts(data, tok, stpwds, punct, verbosity=5):

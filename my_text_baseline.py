@@ -22,6 +22,9 @@ def clean_host_texts(data, tok, stpwds, punct, verbosity=5):
         # converting article to lowercase already done
         temp = BeautifulSoup(host_text, 'lxml')
         text = temp.get_text()  # removing HTML formatting
+        text = text.replace('{html}',"") 
+        text = re.sub(r'http\S+', '', text)
+        text = re.sub(r'\S*@\S*\s?', '', text)
         text = text.translate(str.maketrans(punct, ' '*len(punct)))
         text = ''.join([l for l in text if not l.isdigit()])
         text = re.sub(' +', ' ', text)  # striping extra white space
@@ -38,7 +41,7 @@ def clean_host_texts(data, tok, stpwds, punct, verbosity=5):
             print(counter, '/', len(data), 'text cleaned')
     return [' '.join(l for l in sub_cleaned_data) for 
             sub_cleaned_data in cleaned_data]
-
+    
 
 # Read training data: hosts + labels
 with open("train.csv", 'r') as f:
@@ -79,7 +82,7 @@ for host in train_hosts:
 
 # Preprocessing texts
 tokenizer = TweetTokenizer()
-punctuation = string.punctuation + '’“”.»«'
+punctuation = string.punctuation + '’“”.»«…'
 stpwords = stopwords.words('french')
 cleaned_train_data = clean_host_texts(data=train_data, tok=tokenizer, stpwds=stpwords, punct=punctuation)
 
@@ -93,7 +96,8 @@ with open('cleaned_train_data.pkl', 'rb') as f:
 
 
 # LGR
-clf_lgr = Pipeline([('vect', TfidfVectorizer(decode_error='ignore', min_df=0.03, max_df=0.5)),
+clf_lgr = Pipeline([('vect', TfidfVectorizer(decode_error='ignore', min_df=0.03, max_df=0.8,
+                                             sublinear_tf=True)),
                     ('clf', LogisticRegression(solver='lbfgs',
                                                multi_class='auto', max_iter=1000))])
 

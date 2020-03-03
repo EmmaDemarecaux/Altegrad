@@ -14,7 +14,7 @@ from sklearn.pipeline import Pipeline
 import pickle
 import collections
 from sklearn.metrics import log_loss
-from my_graph_baseline import deepwalk
+from deepwalk import deepwalk
 import networkx as nx
 import numpy as np
 

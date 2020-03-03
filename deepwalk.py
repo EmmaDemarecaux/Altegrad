@@ -9,19 +9,24 @@ import numpy as np
 import networkx as nx
 from random import randint
 from gensim.models import Word2Vec
-from sklearn.linear_model import LogisticRegression
-from sklearn.manifold import SpectralEmbedding
-from sklearn.metrics import accuracy_score
+
 
 
 
 def random_walk(G, node, walk_length):
 
+
     walk = [node]
     for i in range(walk_length):
       neighbors = list(G.neighbors(walk[-1]))
       if len(neighbors)>0 :
-        walk.append(neighbors[randint(0,len(neighbors)-1)])
+        weights = list()
+        for neigh in neighbors :
+            weights.append(G[walk[-1]][neigh]['weight'])
+        weights = np.array(weights)
+        weights = weights/np.sum(weights)
+        indice = np.random.choice(np.arange(0,len(neighbors)),size=1,p=weights)[0]
+        walk.append(neighbors[indice])
       else :
         break
     walk = [str(node) for node in walk]
@@ -51,54 +56,20 @@ def deepwalk(G, num_walks, walk_length, n_dim):
     return model
 
 
-with open("train.csv", 'r') as f:
-    train_data = f.read().splitlines()
+if __name__== '__main__' :
 
-train_hosts = list()
-y_train = list()
-for row in train_data:
-    host, label = row.split(",")
-    train_hosts.append(host)
-    y_train.append(label.lower())
-y_train = np.array(y_train)
-
-with open("test.csv", 'r') as f:
-    test_hosts = f.read().splitlines()
-    
-
-G = nx.read_weighted_edgelist('edgelist.txt', create_using=nx.DiGraph())
-
-
-n = len(train_hosts)
-n_dim = 128
-n_walks = 100
-walk_length = 20
-model = deepwalk(G,n_walks,walk_length,n_dim)
-
-
-embeddings = np.zeros((G.number_of_nodes(), n_dim))
-for i, node in enumerate(G.nodes()):
-    embeddings[i,:] = model.wv[str(node)]
-
-idx = np.random.RandomState(seed=42).permutation(n)
-idx_train = idx[:int(0.8*n)]
-idx_test = idx[int(0.8*n):]
-
-X_train = embeddings[idx_train,:]
-X_test = embeddings[idx_test,:]
-
-Y_train = y_train[idx_train]
-Y_test = y_train[idx_test]
+    G = nx.read_weighted_edgelist('edgelist.txt', create_using=nx.DiGraph())
 
 
 
+    n_dim = 10
+    n_walks = 10
+    walk_length = 20
+    model = deepwalk(G,n_walks,walk_length,n_dim)
 
 
-LG = LogisticRegression(solver='lbfgs', multi_class='auto', max_iter=2000)
-LG.fit(X_train,Y_train)
-Y_pred = LG.predict(X_test)
-LG.score(X_test,Y_test)
-
-
+    embeddings = np.zeros((G.number_of_nodes(), n_dim))
+    for i, node in enumerate(G.nodes()):
+        embeddings[i,:] = model.wv[str(node)]
 
 
