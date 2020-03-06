@@ -11,6 +11,7 @@ from scipy.sparse import csr_matrix
 from nltk.tokenize import TweetTokenizer
 from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import TfidfVectorizer
+sys.path.append('../utils')
 from utils_gnn import normalize_adjacency, accuracy, GNN
 sys.path.append('../')
 from preprocess import remove_duplicates, import_texts, generate_data, clean_host_texts

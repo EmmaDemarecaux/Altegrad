@@ -8,6 +8,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
 from nltk.corpus import stopwords
 from sklearn.pipeline import Pipeline
+sys.path.append('../utils')
 from utils_deepwalk import deepwalk
 sys.path.append('../')
 from preprocess import remove_duplicates, import_texts, generate_data, clean_host_texts
