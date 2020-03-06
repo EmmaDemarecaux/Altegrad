@@ -1,5 +1,7 @@
 import numpy as np
 import networkx as nx
+import sys
+sys.path.append('../')
 from gensim.models import Word2Vec
 from sklearn.linear_model import LogisticRegression
 import string
@@ -36,9 +38,7 @@ stpwords = stopwords.words('french')
 cleaned_train_data = clean_host_texts(data=train_data, tok=tokenizer, stpwds=stpwords, punct=punctuation)
 cleaned_test_data = clean_host_texts(data=test_data, tok=tokenizer, stpwds=stpwords, punct=punctuation)
 
-# LGR
-clf_lgr = Pipeline([('clf', LogisticRegression(solver='lbfgs',
-                                               multi_class='auto', max_iter=1000))])
+
 w = Word2Vec(size=128, window=8, min_count=0, sg=1, workers=8)
 cleaned_train_data = [k.split(' ') for k in cleaned_train_data]
 cleaned_test_data = [k.split(' ') for k in cleaned_test_data]
@@ -67,19 +67,32 @@ n_walks = 100
 walk_length = 200
 model = deepwalk(H, n_walks, walk_length, n_dim)
 
-embeddings = np.zeros((H.number_of_nodes(), n_dim))
+embeddings = np.zeros((G.number_of_nodes(), n_dim))
 for i, node in enumerate(H.nodes()):
-    embeddings[i, :] = model.wv[str(node)]
+    embeddings[int(node), :] = model.wv[str(node)]
 
 x_train = np.zeros((len(cleaned_train_data), embeddings_text_train.shape[1]+embeddings.shape[1]))
 for i in range(len(cleaned_train_data)):
     x_train[i] = np.concatenate((embeddings_text_train[i], embeddings[int(train_hosts[i])]))
 
-# Evaluate the model
-X_train, X_eval, Y_train, Y_eval = train_test_split(
-    x_train, y_train, test_size=0.2, random_state=42
-)
+x_test = np.zeros((len(cleaned_test_data), embeddings_text_test.shape[1]+embeddings.shape[1]))
+for i in range(len(cleaned_test_data)):
+    x_test[i] = np.concatenate((embeddings_text_test[i], embeddings[int(test_hosts[i])]))
+    
+# LGR
+clf_lgr = Pipeline([('clf', LogisticRegression(solver='lbfgs',
+                                               multi_class='auto', max_iter=5000))])
+clf_lgr.fit(x_train, y_train)
 
-clf_lgr.fit(X_train, Y_train)
-print(clf_lgr.score(X_eval, Y_eval))
-print(log_loss(Y_eval, clf_lgr.predict_proba(X_eval)))
+y_pred = clf_lgr.predict(x_test)
+
+# Write predictions to a file
+with open('../word2vec_deepwalk.csv', 'w') as csv_file:
+    writer = csv.writer(csv_file, delimiter=',')
+    lst = clf_lgr.classes_.tolist()
+    lst.insert(0, "Host")
+    writer.writerow(lst)
+    for i, test_host in enumerate(test_hosts):
+        lst = y_pred[i].tolist()
+        lst.insert(0, test_host)
+        writer.writerow(lst)

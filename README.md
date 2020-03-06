@@ -1,5 +1,6 @@
 ### Adavance Learning for Text and Graph Data (Altegrad 2020)
 >**Khaoula BELAHSEN - Aicha BOUJANDAR - Emma DEMARECAUX**
+************************
 >*Kaggle Challenge : French Web Domain Classification*
 
 ## Folder 1 : Data 

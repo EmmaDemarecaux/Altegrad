@@ -35,8 +35,7 @@ cleaned_train_data = clean_host_texts(data=train_data, tok=tokenizer, stpwds=stp
 cleaned_test_data = clean_host_texts(data=test_data, tok=tokenizer, stpwds=stpwords, punct=punctuation)
 
 
-# Model Logistic regression
-clf_lgr = LogisticRegression(solver='lbfgs', multi_class='auto', max_iter=1000)
+
 
 # TF-IDF
 tf = TfidfVectorizer(decode_error='ignore', min_df=0.03, max_df=0.5, 
@@ -44,51 +43,51 @@ tf = TfidfVectorizer(decode_error='ignore', min_df=0.03, max_df=0.5,
 x_train_or = tf.fit_transform(cleaned_train_data)
 x_train_or = x_train_or.toarray()
 
+
 # Graph
-G = nx.read_weighted_edgelist('../edgelist.txt', create_using=nx.DiGraph())
-n = len(train_hosts)
+G = nx.read_weighted_edgelist(data + 'edgelist.txt', create_using=nx.DiGraph())
+H = G.subgraph(train_hosts + test_hosts)
+n = H.number_of_nodes()
+n_hosts = len(train_hosts)
+
 n_dim = 128
 n_walks = 500
 walk_length = 100
-model = deepwalk(G, n_walks, walk_length, n_dim)
+model = deepwalk(H, n_walks, walk_length, n_dim)
 
 embeddings = np.zeros((G.number_of_nodes(), n_dim))
-for i, node in enumerate(G.nodes()):
-    embeddings[i, :] = model.wv[str(node)]
+for i, node in enumerate(H.nodes()):
+    embeddings[int(node), :] = model.wv[str(node)]
 
 x_train = np.zeros((x_train_or.shape[0], x_train_or.shape[1]+n_dim))
 for i in range(x_train_or.shape[0]):
     x_train[i] = np.concatenate((x_train_or[i], embeddings[int(train_hosts[i])]))
 
-# Evaluate the model
-X_train, X_eval, Y_train, Y_eval = train_test_split(
-    x_train, y_train, test_size=0.2, random_state=42
-)
 
-clf_lgr.fit(X_train, Y_train)
-print("Classifier score: ", clf_lgr.score(X_eval, Y_eval))
-print("Classifier multiclass loss: ", log_loss(Y_eval, clf_lgr.predict_proba(X_eval)))
+# LGR
+clf_lgr = Pipeline([('clf', LogisticRegression(solver='lbfgs',
+                                               multi_class='auto', max_iter=5000))])
+clf_lgr.fit(x_train, y_train)
 
 
 # Test data
-x_test_or = tf.transform(cleaned_test_data)   
-x_test_or = x_test_or .toarray()
+x_test_or = tf.transform(cleaned_test_data) 
+x_test_or = x_test_or.toarray() 
 x_test = np.zeros((x_test_or.shape[0], x_test_or.shape[1]+n_dim))
 for i in range(x_test_or.shape[0]):
     x_test[i] = np.concatenate((x_test_or[i], embeddings[int(test_hosts[i])]))
-    
-# Choosing classifier
-clf = clf_lgr
-clf.fit(x_train, y_train)
-y_pred = clf.predict_proba(x_test)
 
+    
+
+y_pred = clf_lgr.predict_proba(x_test)
 # Write predictions to a file
 with open('../tfidf_deepwalk.csv', 'w') as csv_file:
     writer = csv.writer(csv_file, delimiter=',')
-    lst = clf.classes_.tolist()
+    lst = clf_lgr.classes_.tolist()
     lst.insert(0, "Host")
     writer.writerow(lst)
     for i, test_host in enumerate(test_hosts):
-        lst = y_pred[i, :].tolist()
+        lst = y_pred[i].tolist()
         lst.insert(0, test_host)
         writer.writerow(lst)
+
