@@ -10,7 +10,7 @@ It contains the challenge data that was provided: `edgelist.txt`, `train.csv` an
 It contains the folder text which contains all the web domains texts.
 
 ## Folder 3: models 
-Each .py file contained in this file represents a model (except utils_deepwalk and utils_gnn). To generate the prediction file corresonding to a model, one needs to run the corresponding .py file. Here is a brief description of the files models (the models are detailed in the report):
+Each .py file contained in this file represents a model. To generate the prediction file corresonding to a model, one needs to run the corresponding .py file. Here is a brief description of the files models (the models are detailed in the report):
 * `graph baseline.py`: the graph model that was initially provided.
 * `text_baseline.py`: the text model model that was initially provided.
 * `tfidf_deepwalk.py`: apply a tfidf transformation on text data and the deepwalk method (contained in utils_deepwalk.py) to the graph data.
