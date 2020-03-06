@@ -36,7 +36,7 @@ def clean_host_texts(data, tok, stpwds, punct, verbosity=5):
             sub_cleaned_data in cleaned_data]
 
 
-def remove_duplicates(train_file='train.csv'):
+def remove_duplicates(train_file):
     with open(train_file, 'r') as f:
         train_data_ids = f.read().splitlines()
 
