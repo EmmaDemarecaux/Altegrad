@@ -19,13 +19,13 @@ train_hosts, y_train = remove_duplicates(train_file)
 
 # Load the textual content of a set of webpages for each host into the dictionary "text".
 # The encoding parameter is required since the majority of our text is french.
-filenames = os.listdir('text/text')
+filenames = os.listdir('../text/text')
 splittingtxt = '__________________________________________________________________'
 filenameformat = '#.txt'
 
 
 def newfout(inputfile, filenum):
-    filename = 'data/' + inputfile + filenameformat.replace('#', '_' + str(filenum))
+    filename = '../text_data/' + inputfile + filenameformat.replace('#', '_' + str(filenum))
     fout = open(filename, 'w')
     return fout
 
@@ -36,7 +36,7 @@ def split_train(filenames, splittingtxt, train_hosts):
     for filename in filenames:
         if filename in train_hosts:
             texts[filename] = []
-            file = open(os.path.join('../text/text/', filename), errors= 'ignore')
+            file = open(os.path.join('../text/text/', filename), errors='ignore')
             lines = file.readlines()
             filenum = 1
             fout = newfout(filename, filenum)
@@ -107,7 +107,7 @@ cleaned_train_data_txts = clean_host_texts(data=train_data_flat, tok=tokenizer,
                                            stpwds=stpwords_fr + stpwords_en, punct=punctuation)
 
 # Tests sets
-with open("test.csv", 'r') as f:
+with open(data + "test.csv", 'r') as f:
     test_hosts = f.read().splitlines()
     
 test_texts = split_test(filenames, splittingtxt, test_hosts)
@@ -150,7 +150,7 @@ for i in range(n):
     p = q
 
 # Write predictions to a file
-with open('separate_texts.csv', 'w') as csvfile:
+with open('../separate_texts.csv', 'w') as csvfile:
     writer = csv.writer(csvfile, delimiter=',')
     lst = clf.classes_.tolist()
     lst.insert(0, "Host")

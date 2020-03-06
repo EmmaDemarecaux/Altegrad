@@ -17,7 +17,7 @@ train_hosts, y_train = remove_duplicates(train_file)
 texts_path = '../text/text'
 texts = import_texts(texts_path)
 
-with open(data + '../test.csv', 'r') as f:
+with open(data + 'test.csv', 'r') as f:
     test_hosts = f.read().splitlines()
     
 train_data = generate_data(train_hosts, texts)
