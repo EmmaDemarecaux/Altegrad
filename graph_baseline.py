@@ -32,22 +32,22 @@ print(G.number_of_edges())
 X_train = np.zeros((len(train_hosts), 3))
 avg_neig_deg = nx.average_neighbor_degree(G, nodes=train_hosts)
 for i in range(len(train_hosts)):
-    X_train[i,0] = G.in_degree(train_hosts[i])
-    X_train[i,1] = G.out_degree(train_hosts[i])
-    X_train[i,2] = avg_neig_deg[train_hosts[i]]
+    X_train[i, 0] = G.in_degree(train_hosts[i])
+    X_train[i, 1] = G.out_degree(train_hosts[i])
+    X_train[i, 2] = avg_neig_deg[train_hosts[i]]
 
 # Create the test matrix. Use the same 3 features as above
 X_test = np.zeros((len(test_hosts), 3))
 avg_neig_deg = nx.average_neighbor_degree(G, nodes=test_hosts)
 for i in range(len(test_hosts)):
-    X_test[i,0] = G.in_degree(test_hosts[i])
-    X_test[i,1] = G.out_degree(test_hosts[i])
-    X_test[i,2] = avg_neig_deg[test_hosts[i]]
+    X_test[i, 0] = G.in_degree(test_hosts[i])
+    X_test[i, 1] = G.out_degree(test_hosts[i])
+    X_test[i, 2] = avg_neig_deg[test_hosts[i]]
 
 print("Train matrix dimensionality: ", X_train.shape)
 print("Test matrix dimensionality: ", X_test.shape)
 
-# Use logistic regression to classify the webpages of the test set
+# Use logistic regression to classify the web-pages of the test set
 clf = LogisticRegression(solver='lbfgs', multi_class='auto', max_iter=2000)
 clf.fit(X_train, y_train)
 y_pred = clf.predict_proba(X_test)
@@ -58,9 +58,7 @@ with open('graph_baseline.csv', 'w') as csvfile:
     lst = clf.classes_.tolist()
     lst.insert(0, "Host")
     writer.writerow(lst)
-    for i,test_host in enumerate(test_hosts):
-        lst = y_pred[i,:].tolist()
+    for i, test_host in enumerate(test_hosts):
+        lst = y_pred[i, :].tolist()
         lst.insert(0, test_host)
         writer.writerow(lst)
-        
-clf.score(X_train, y_train)

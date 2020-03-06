@@ -56,7 +56,7 @@ X_test = vec.transform(test_data)
 print("Train matrix dimensionality: ", X_train.shape)
 print("Test matrix dimensionality: ", X_test.shape)
 
-# Use logistic regression to classify the webpages of the test set
+# Use logistic regression to classify the web-pages of the test set
 clf = LogisticRegression(solver='lbfgs', multi_class='auto', max_iter=1000)
 clf.fit(X_train, y_train)
 print(clf.score(X_train, y_train))
@@ -69,7 +69,7 @@ with open('text_baseline.csv', 'w') as csvfile:
     lst = clf.classes_.tolist()
     lst.insert(0, "Host")
     writer.writerow(lst)
-    for i,test_host in enumerate(test_hosts):
-        lst = y_pred[i,:].tolist()
+    for i, test_host in enumerate(test_hosts):
+        lst = y_pred[i, :].tolist()
         lst.insert(0, test_host)
         writer.writerow(lst)

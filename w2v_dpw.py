@@ -1,27 +1,15 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Mar  2 11:56:19 2020
-
-@author: Khaoula Belahsen
-"""
-
 import numpy as np
 import networkx as nx
 from random import randint
 from gensim.models import Word2Vec
-from sklearn.linear_model import LogisticRegression
-
 import os
-import csv
 from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.linear_model import LogisticRegression
 import codecs
 import string
 from nltk.tokenize import TweetTokenizer
 from bs4 import BeautifulSoup
 import re
 from nltk.corpus import stopwords
-from nltk.stem.snowball import FrenchStemmer
 from sklearn.model_selection import train_test_split
 from sklearn.pipeline import Pipeline
 import pickle
@@ -31,7 +19,6 @@ from sklearn.ensemble import GradientBoostingClassifier
 
 
 def random_walk(G, node, walk_length):
-
     walk = [node]
     for i in range(walk_length):
       neighbors = list(G.neighbors(walk[-1]))
@@ -41,7 +28,6 @@ def random_walk(G, node, walk_length):
         break
     walk = [str(node) for node in walk]
     return walk
-
 
 
 def generate_walks(G, num_walks, walk_length):
@@ -143,14 +129,6 @@ punctuation = string.punctuation + '’“”.»«'
 stpwords = stopwords.words('french')
 cleaned_train_data = clean_host_texts(data=train_data, tok=tokenizer, stpwds=stpwords, punct=punctuation)
 
-# Saving cleaned_train_data
-with open('cleaned_train_data_kb.pkl', 'wb') as f:
-    pickle.dump(cleaned_train_data, f)
-    
-# Loading cleaned_train_data
-#with open('/content/drive/My Drive/AlteGrad/cleaned_train_data.pkl', 'rb') as f:
-#    cleaned_train_data = pickle.load(f)
-
 test_data = list()
 for host in test_hosts:
     if host in texts:
@@ -161,27 +139,13 @@ for host in test_hosts:
 # Preprocessing texts
 cleaned_test_data = clean_host_texts(data=test_data, tok=tokenizer, stpwds=stpwords, punct=punctuation)
 
-
-# Saving cleaned_test_data
-with open('cleaned_test_data_kb.pkl', 'wb') as f:
-    pickle.dump(cleaned_test_data, f)
-    
-# Loading cleaned_test_data
-# with open('/content/drive/My Drive/AlteGrad/cleaned_test_data.pkl', 'rb') as f:
-#    cleaned_test_data = pickle.load(f)
-    
-# GB
     
 clf_gb = Pipeline([('vect', TfidfVectorizer(decode_error='ignore', ngram_range=(1, 2))),
-                    ('clf', GradientBoostingClassifier())])
-
-#  ------------------------- Grid Search
- 
+                   ('clf', GradientBoostingClassifier())])
 clf_gb = clf_gb.fit(cleaned_train_data, y_train)
 
 clf_gb.fit(X_train, Y_train)
 print(clf_gb.score(X_eval, Y_eval))  
-
 
 # LGR
 # clf_lgr = Pipeline([('clf', LogisticRegression(solver='lbfgs',
@@ -193,43 +157,36 @@ cleaned_test_data = [k.split(' ') for k in cleaned_test_data]
 cleaned_data = cleaned_train_data+cleaned_test_data
 embeddings_words = w.build_vocab(cleaned_data)
 
-embeddings_text_train = np.zeros((len(cleaned_train_data),128))
-for i in range(len(cleaned_train_data)) :
-  for k in cleaned_train_data[i] :
-    embeddings_text_train[i] += w.wv[k]
+embeddings_text_train = np.zeros((len(cleaned_train_data), 128))
+for i in range(len(cleaned_train_data)):
+    for k in cleaned_train_data[i]:
+        embeddings_text_train[i] += w.wv[k]
 
-embeddings_text_test = np.zeros((len(cleaned_test_data),128))
-for i in range(len(cleaned_test_data)) :
-  for k in cleaned_test_data[i] :
-    embeddings_text_test[i] += w.wv[k]
+embeddings_text_test = np.zeros((len(cleaned_test_data), 128))
+for i in range(len(cleaned_test_data)):
+    for k in cleaned_test_data[i]:
+        embeddings_text_test[i] += w.wv[k]
 
 G = nx.read_weighted_edgelist('C:/Users/Asus/Desktop/Altegrad/projet/edgelist.txt', create_using=nx.DiGraph())
 n = len(train_hosts)
 n_dim = 3
 n_walks = 100
 walk_length = 200
-model = deepwalk(G,n_walks,walk_length,n_dim)
+model = deepwalk(G, n_walks, walk_length, n_dim)
 
 
 embeddings = np.zeros((G.number_of_nodes(), n_dim))
 for i, node in enumerate(G.nodes()):
-    embeddings[i,:] = model.wv[str(node)]
+    embeddings[i, :] = model.wv[str(node)]
 
-x_train = np.zeros((len(cleaned_train_data),embeddings_text_train.shape[1]+embeddings.shape[1]))
+x_train = np.zeros((len(cleaned_train_data), embeddings_text_train.shape[1]+embeddings.shape[1]))
 for i in range(len(cleaned_train_data)):
-    x_train[i] = np.concatenate((embeddings_text_train[i],embeddings[int(train_hosts[i])]))
-    
+    x_train[i] = np.concatenate((embeddings_text_train[i], embeddings[int(train_hosts[i])]))
 
 # Evaluate the model
 X_train, X_eval, Y_train, Y_eval = train_test_split(
-        x_train, y_train, test_size=0.2, random_state=42
-        )
-
-
-    
-# clf_lgr.fit(X_train, Y_train)
-# print(clf_lgr.score(X_eval, Y_eval))
-# print(log_loss(Y_eval, clf_lgr.predict_proba(X_eval)))
+    x_train, y_train, test_size=0.2, random_state=42
+)
 
 clf_gb.fit(X_train, Y_train)
 print(clf_gb.score(X_eval, Y_eval))  

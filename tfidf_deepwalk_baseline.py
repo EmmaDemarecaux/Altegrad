@@ -11,7 +11,6 @@ from nltk.corpus import stopwords
 from nltk.stem.snowball import FrenchStemmer
 from sklearn.model_selection import train_test_split
 from sklearn.pipeline import Pipeline
-import pickle
 import collections
 from sklearn.metrics import log_loss
 from deepwalk import deepwalk
@@ -61,7 +60,6 @@ for row in train_data:
         train_hosts.append(host)
         y_train.append(label.lower())
 
-
 # Load the textual content of a set of web-pages for each host into the dictionary "text".
 # The encoding parameter is required since the majority of our text is french.
 texts = dict()
@@ -69,7 +67,6 @@ file_names = os.listdir('text/text')
 for filename in file_names:
     with codecs.open(os.path.join('text/text/', filename), encoding="utf8", errors='ignore') as f: 
         texts[filename] = f.read().replace("\n", "").lower()
-
 
 # Get textual content of web hosts of the training set
 train_data = list()
@@ -79,23 +76,11 @@ for host in train_hosts:
     else:
         train_data.append('')
 
-
 # Preprocessing texts
 tokenizer = TweetTokenizer()
 punctuation = string.punctuation + '’“”.»«'
 stpwords = stopwords.words('french')
-#cleaned_train_data = clean_host_texts(data=train_data, tok=tokenizer, stpwds=stpwords, punct=punctuation)
-
-# Saving cleaned_train_data
-#with open('cleaned_train_data.pkl', 'wb') as f:
- #   pickle.dump(cleaned_train_data, f)
-    
-# Loading cleaned_train_data
-with open('cleaned_train_data.pkl', 'rb') as f:
-    cleaned_train_data = pickle.load(f)
-    
-    
-
+cleaned_train_data = clean_host_texts(data=train_data, tok=tokenizer, stpwds=stpwords, punct=punctuation)
 
 # LGR
 clf_lgr = Pipeline([('clf', LogisticRegression(solver='lbfgs',
@@ -104,31 +89,26 @@ tf = TfidfVectorizer(decode_error='ignore', min_df=0.03, max_df=0.5)
 x_train_or = tf.fit_transform(cleaned_train_data)
 x_train_or = x_train_or.toarray()
 
-
 G = nx.read_weighted_edgelist('edgelist.txt', create_using=nx.DiGraph())
 n = len(train_hosts)
 n_dim = 128
 n_walks = 500
 walk_length = 100
-model = deepwalk(G,n_walks,walk_length,n_dim)
-
+model = deepwalk(G, n_walks, walk_length, n_dim)
 
 embeddings = np.zeros((G.number_of_nodes(), n_dim))
 for i, node in enumerate(G.nodes()):
-    embeddings[i,:] = model.wv[str(node)]
+    embeddings[i, :] = model.wv[str(node)]
 
-x_train = np.zeros((x_train_or.shape[0],x_train_or.shape[1]+n_dim))
+x_train = np.zeros((x_train_or.shape[0], x_train_or.shape[1]+n_dim))
 for i in range(x_train_or.shape[0]):
-    x_train[i] = np.concatenate((x_train_or[i],embeddings[int(train_hosts[i])]))
-    
+    x_train[i] = np.concatenate((x_train_or[i], embeddings[int(train_hosts[i])]))
 
 # Evaluate the model
 X_train, X_eval, Y_train, Y_eval = train_test_split(
-        x_train, y_train, test_size=0.2, random_state=42
-        )
+    x_train, y_train, test_size=0.2, random_state=42
+)
 
-
-    
 clf_lgr.fit(X_train, Y_train)
 print(clf_lgr.score(X_eval, Y_eval))
 print(log_loss(Y_eval, clf_lgr.predict_proba(X_eval)))
@@ -148,24 +128,13 @@ for host in test_hosts:
         test_data.append('')
 
 # Preprocessing texts
-#cleaned_test_data = clean_host_texts(data=test_data, tok=tokenizer, stpwds=stpwords, punct=punctuation)
-
-
-# Saving cleaned_test_data
-#with open('cleaned_test_data.pkl', 'wb') as f:
- #   pickle.dump(cleaned_test_data, f)
-    
-# Loading cleaned_test_data
-with open('cleaned_test_data.pkl', 'rb') as f:
-    cleaned_test_data = pickle.load(f)
-    
-    
+cleaned_test_data = clean_host_texts(data=test_data, tok=tokenizer, stpwds=stpwords, punct=punctuation)
 
 x_test_or = tf.transform(cleaned_test_data)   
 x_test_or = x_test_or .toarray()
-x_test = np.zeros((x_test_or.shape[0],x_test_or.shape[1]+n_dim))
+x_test = np.zeros((x_test_or.shape[0], x_test_or.shape[1]+n_dim))
 for i in range(x_test_or.shape[0]):
-    x_test[i] = np.concatenate((x_test_or[i],embeddings[int(test_hosts[i])]))
+    x_test[i] = np.concatenate((x_test_or[i], embeddings[int(test_hosts[i])]))
     
 # Choosing classifier
 clf = clf_lgr
@@ -173,7 +142,7 @@ clf.fit(x_train, y_train)
 y_pred = clf.predict_proba(x_test)
 
 # Write predictions to a file
-with open('baseline_aicha.csv', 'w') as csv_file:
+with open('tfidf_deepwalk_baseline.csv', 'w') as csv_file:
     writer = csv.writer(csv_file, delimiter=',')
     lst = clf.classes_.tolist()
     lst.insert(0, "Host")
@@ -182,4 +151,3 @@ with open('baseline_aicha.csv', 'w') as csv_file:
         lst = y_pred[i, :].tolist()
         lst.insert(0, test_host)
         writer.writerow(lst)
-
