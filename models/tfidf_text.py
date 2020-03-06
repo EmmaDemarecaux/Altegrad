@@ -1,5 +1,7 @@
 import string
 import csv
+import sys
+sys.path.append('../')
 from nltk.tokenize import TweetTokenizer
 from nltk.corpus import stopwords
 from sklearn.model_selection import train_test_split
@@ -12,10 +14,10 @@ from preprocess import remove_duplicates, import_texts, generate_data, clean_hos
 data = '../data/'
 train_file = data + 'train.csv'
 train_hosts, y_train = remove_duplicates(train_file)
-texts_path = 'text/text'
+texts_path = '../text/text'
 texts = import_texts(texts_path)
 
-with open(data + 'test.csv', 'r') as f:
+with open(data + '../test.csv', 'r') as f:
     test_hosts = f.read().splitlines()
     
 train_data = generate_data(train_hosts, texts)

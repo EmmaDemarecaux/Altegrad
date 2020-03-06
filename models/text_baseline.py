@@ -25,9 +25,9 @@ with open(data + "test.csv", 'r') as f:
 # Load the textual content of a set of webpages for each host into the dictionary "text". 
 # The encoding parameter is required since the majority of our text is french.
 text = dict()
-filenames = os.listdir('text/text')
+filenames = os.listdir('../text/text')
 for filename in filenames:
-    with codecs.open(path.join('text/text/', filename), encoding='latin-1') as f: 
+    with codecs.open(path.join('../text/text/', filename), encoding='latin-1') as f: 
         text[filename] = f.read().replace("\n", "").lower()
 
 train_data = list()

@@ -1,94 +1,25 @@
 import networkx as nx
 import time
 import torch
-import torch.nn.functional as F
 import torch.optim as optim
-import torch.nn as nn
+import torch.nn.functional as F
 import csv
 import string
 import numpy as np
+import sys
+sys.path.append('../')
 from scipy.sparse import csr_matrix
 from nltk.tokenize import TweetTokenizer
 from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import TfidfVectorizer
 from preprocess import remove_duplicates, import_texts, generate_data, clean_host_texts
-
-
-def normalize_adjacency(a):
-    a_tilde = a + np.eye(a.shape[0])
-    d = np.sum(a_tilde, axis=1)
-    d = d.squeeze().tolist()[0]
-    d = np.power(d, -1/2)
-    d_tilde = np.diag(d)
-    a_normalized = np.dot(np.dot(d_tilde, a_tilde), d_tilde)
-    return a_normalized
-
-
-def accuracy(output, labels):
-    """Computes classification accuracy"""
-    predictions = output.max(1)[1].type_as(labels)
-    correct = predictions.eq(labels).double()
-    correct = correct.sum()
-    return correct / len(labels)
-
-
-class GNN(nn.Module):
-    """Simple GNN model"""
-    def __init__(self, n_feat, nh_1, nh_2, nc, dropout):
-        super(GNN, self).__init__()
-        self.fc1 = nn.Linear(n_feat, nh_1)
-        self.fc2 = nn.Linear(nh_1, nh_2)
-        self.fc3 = nn.Linear(nh_2, nc)
-        self.dropout = nn.Dropout(dropout)
-        self.relu = nn.ReLU()
-        self.logprob = nn.LogSoftmax(dim=1)
-
-    def forward(self, x_in, adja):
-        # message passing layer with h1 hidden units
-        x1 = self.fc1(x_in)
-        x1 = torch.mm(adja, x1)
-        a1 = self.relu(x1)
-        # dropout layer
-        a1 = self.dropout(a1)
-        # message passing layer with h2 hidden units
-        x2 = self.fc2(a1)
-        x2 = torch.mm(adja, x2)
-        a2 = self.relu(x2)
-        # fully-connected layer with nclass units
-        x = self.fc3(a2)
-        return self.logprob(x)
-    
-
-def train(nb_epochs, idx_train):
-    t = time.time()
-    model.train()
-    optimizer.zero_grad()
-    predictions = model(features, adj)
-    loss_train = F.nll_loss(predictions[idx_train], y[idx_train])
-    acc_train = accuracy(predictions[idx_train], y[idx_train])
-    loss_train.backward()
-    optimizer.step()
-
-    print('Epoch: {:03d}'.format(nb_epochs+1),
-          'loss_train: {:.4f}'.format(loss_train.item()),
-          'acc_train: {:.4f}'.format(acc_train.item()),
-          'time: {:.4f}s'.format(time.time() - t))
-    
-    
-def test(idx_test):
-    model.eval()
-    predictions = model(features, adj)
-    loss_test = F.nll_loss(predictions[idx_test], y[idx_test])
-    acc_test = accuracy(predictions[idx_test], y[idx_test])
-    print("Test set results:",
-          "loss= {:.4f}".format(loss_test.item()),
-          "accuracy= {:.4f}".format(acc_test.item()))
+from utils_gnn import normalize_adjacency, accuracy, GNN
     
 
 data = '../data/'
 train_file = data + 'train.csv'
 train_hosts, y_train = remove_duplicates(train_file)
-texts_path = 'text/text'
+texts_path = '../text/text'
 texts = import_texts(texts_path)
 
 with open(data + 'test.csv', 'r') as f:
@@ -133,7 +64,6 @@ dropout_rate = 0.4
 # Node embeddings
 vect = TfidfVectorizer(decode_error='ignore', sublinear_tf=True,
                        min_df=0.06, max_df=0.7, smooth_idf=True)
-# vect = TfidfVectorizer(decode_error='ignore', min_df=0.1, max_df=0.8)
 X_embed = vect.fit_transform(cleaned_train_data + cleaned_test_data)
 
 # Set the feature of all nodes
@@ -154,6 +84,33 @@ index_test = torch.LongTensor(index_test)
 # Creates the model and specifies the optimizer
 model = GNN(features.shape[1], n_hidden_1, n_hidden_2, n_class, dropout_rate)
 optimizer = optim.Adam(model.parameters(), lr=learning_rate, weight_decay=weight_decay)
+
+
+def train(nb_epochs, idx_train):
+    t = time.time()
+    model.train()
+    optimizer.zero_grad()
+    predictions = model(features, adj)
+    loss_train = F.nll_loss(predictions[idx_train], y[idx_train])
+    acc_train = accuracy(predictions[idx_train], y[idx_train])
+    loss_train.backward()
+    optimizer.step()
+
+    print('Epoch: {:03d}'.format(nb_epochs+1),
+          'loss_train: {:.4f}'.format(loss_train.item()),
+          'acc_train: {:.4f}'.format(acc_train.item()),
+          'time: {:.4f}s'.format(time.time() - t))
+    
+    
+def test(idx_test):
+    model.eval()
+    predictions = model(features, adj)
+    loss_test = F.nll_loss(predictions[idx_test], y[idx_test])
+    acc_test = accuracy(predictions[idx_test], y[idx_test])
+    print("Test set results:",
+          "loss= {:.4f}".format(loss_test.item()),
+          "accuracy= {:.4f}".format(acc_test.item()))
+
 
 # Train model
 t_total = time.time()

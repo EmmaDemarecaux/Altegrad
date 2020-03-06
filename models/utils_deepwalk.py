@@ -40,7 +40,7 @@ def deepwalk(g, num_walks, n, size):
 
 
 if __name__ == '__main__':
-    G = nx.read_weighted_edgelist('edgelist.txt', create_using=nx.DiGraph())
+    G = nx.read_weighted_edgelist('../data/edgelist.txt', create_using=nx.DiGraph())
     n_dim = 10
     n_walks = 10
     walk_length = 20
