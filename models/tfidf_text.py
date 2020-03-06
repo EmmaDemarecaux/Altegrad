@@ -1,7 +1,6 @@
 import string
 import csv
 import sys
-sys.path.append('../')
 from nltk.tokenize import TweetTokenizer
 from nltk.corpus import stopwords
 from sklearn.model_selection import train_test_split
@@ -9,6 +8,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.metrics import log_loss
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
+sys.path.append('../')
 from preprocess import remove_duplicates, import_texts, generate_data, clean_host_texts
 
 data = '../data/'
@@ -26,15 +26,19 @@ test_data = generate_data(test_hosts, texts)
 # Preprocessing texts
 tokenizer = TweetTokenizer()
 punctuation = string.punctuation + '’“”.»«…'
-stpwords = stopwords.words('french')
-cleaned_train_data = clean_host_texts(data=train_data, tok=tokenizer, stpwds=stpwords, punct=punctuation)
-cleaned_test_data = clean_host_texts(data=test_data, tok=tokenizer, stpwds=stpwords, punct=punctuation)
+stpwords_fr = stopwords.words('french')
+stpwords_en = stopwords.words('english')
+cleaned_train_data = clean_host_texts(data=train_data, tok=tokenizer, 
+                                      stpwds=stpwords_fr + stpwords_en, punct=punctuation)
+cleaned_test_data = clean_host_texts(data=test_data, tok=tokenizer, 
+                                     stpwds=stpwords_fr + stpwords_en, punct=punctuation)
 
 # Pipeline
 clf_lgr = Pipeline([
     ('vect', TfidfVectorizer(decode_error='ignore', sublinear_tf=True,
-                             min_df=0.06, max_df=0.7, smooth_idf=True)),
-    ('clf', LogisticRegression(solver='lbfgs', multi_class='auto', max_iter=1000))])
+                             min_df=0.06, max_df=0.9)),
+    ('clf', LogisticRegression(solver='lbfgs', multi_class='auto', 
+                               max_iter=100, C=4))])
         
 # Evaluate the model
 X_train, X_eval, Y_train, Y_eval = train_test_split(
@@ -44,8 +48,14 @@ clf_lgr.fit(X_train, Y_train)
 print("Classifier score: ", clf_lgr.score(X_eval, Y_eval))
 print("Classifier multiclass loss: ", log_loss(Y_eval, clf_lgr.predict_proba(X_eval)))
 
+# Choosing the model to make the predictions
+clf = Pipeline([
+    ('vect', TfidfVectorizer(decode_error='ignore', sublinear_tf=True,
+                             min_df=0.06, max_df=0.9)),
+    ('clf', LogisticRegression(solver='lbfgs', multi_class='auto', 
+                               max_iter=100, C=4))])
+
 # Choosing classifier
-clf = clf_lgr
 clf.fit(cleaned_train_data, y_train)
 y_pred = clf.predict_proba(cleaned_test_data)
 

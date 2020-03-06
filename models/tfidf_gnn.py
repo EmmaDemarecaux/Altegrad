@@ -7,13 +7,13 @@ import csv
 import string
 import numpy as np
 import sys
-sys.path.append('../')
 from scipy.sparse import csr_matrix
 from nltk.tokenize import TweetTokenizer
 from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import TfidfVectorizer
-from preprocess import remove_duplicates, import_texts, generate_data, clean_host_texts
 from utils_gnn import normalize_adjacency, accuracy, GNN
+sys.path.append('../')
+from preprocess import remove_duplicates, import_texts, generate_data, clean_host_texts
     
 
 data = '../data/'
@@ -31,9 +31,12 @@ test_data = generate_data(test_hosts, texts)
 # Preprocessing texts
 tokenizer = TweetTokenizer()
 punctuation = string.punctuation + '’“”.»«…'
-stpwords = stopwords.words('french')
-cleaned_train_data = clean_host_texts(data=train_data, tok=tokenizer, stpwds=stpwords, punct=punctuation)
-cleaned_test_data = clean_host_texts(data=test_data, tok=tokenizer, stpwds=stpwords, punct=punctuation)
+stpwords_fr = stopwords.words('french')
+stpwords_en = stopwords.words('english')
+cleaned_train_data = clean_host_texts(data=train_data, tok=tokenizer, 
+                                      stpwds=stpwords_fr + stpwords_en, punct=punctuation)
+cleaned_test_data = clean_host_texts(data=test_data, tok=tokenizer, 
+                                     stpwds=stpwords_fr + stpwords_en, punct=punctuation)
 
 # Processing labels
 n_class = len(set(y_train))
@@ -63,7 +66,7 @@ dropout_rate = 0.4
 
 # Node embeddings
 vect = TfidfVectorizer(decode_error='ignore', sublinear_tf=True,
-                       min_df=0.06, max_df=0.7, smooth_idf=True)
+                       min_df=0.06, max_df=0.7)
 X_embed = vect.fit_transform(cleaned_train_data + cleaned_test_data)
 
 # Set the feature of all nodes

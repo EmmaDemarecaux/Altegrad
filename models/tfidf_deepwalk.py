@@ -3,14 +3,13 @@ import string
 import networkx as nx
 import numpy as np
 import sys
-sys.path.append('../')
 from nltk.tokenize import TweetTokenizer
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
 from nltk.corpus import stopwords
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import log_loss
+from sklearn.pipeline import Pipeline
 from utils_deepwalk import deepwalk
+sys.path.append('../')
 from preprocess import remove_duplicates, import_texts, generate_data, clean_host_texts
 
 
@@ -30,19 +29,18 @@ test_data = generate_data(test_hosts, texts)
 # Preprocessing texts
 tokenizer = TweetTokenizer()
 punctuation = string.punctuation + '’“”.»«…'
-stpwords = stopwords.words('french')
-cleaned_train_data = clean_host_texts(data=train_data, tok=tokenizer, stpwds=stpwords, punct=punctuation)
-cleaned_test_data = clean_host_texts(data=test_data, tok=tokenizer, stpwds=stpwords, punct=punctuation)
-
-
-
+stpwords_fr = stopwords.words('french')
+stpwords_en = stopwords.words('english')
+cleaned_train_data = clean_host_texts(data=train_data, tok=tokenizer, 
+                                      stpwds=stpwords_fr + stpwords_en, punct=punctuation)
+cleaned_test_data = clean_host_texts(data=test_data, tok=tokenizer, 
+                                     stpwds=stpwords_fr + stpwords_en, punct=punctuation)
 
 # TF-IDF
 tf = TfidfVectorizer(decode_error='ignore', min_df=0.03, max_df=0.5, 
                      sublinear_tf=True, smooth_idf=True)
 x_train_or = tf.fit_transform(cleaned_train_data)
 x_train_or = x_train_or.toarray()
-
 
 # Graph
 G = nx.read_weighted_edgelist(data + 'edgelist.txt', create_using=nx.DiGraph())
@@ -63,12 +61,10 @@ x_train = np.zeros((x_train_or.shape[0], x_train_or.shape[1]+n_dim))
 for i in range(x_train_or.shape[0]):
     x_train[i] = np.concatenate((x_train_or[i], embeddings[int(train_hosts[i])]))
 
-
-# LGR
+# Logistic Regression Model
 clf_lgr = Pipeline([('clf', LogisticRegression(solver='lbfgs',
                                                multi_class='auto', max_iter=5000))])
 clf_lgr.fit(x_train, y_train)
-
 
 # Test data
 x_test_or = tf.transform(cleaned_test_data) 
@@ -76,8 +72,6 @@ x_test_or = x_test_or.toarray()
 x_test = np.zeros((x_test_or.shape[0], x_test_or.shape[1]+n_dim))
 for i in range(x_test_or.shape[0]):
     x_test[i] = np.concatenate((x_test_or[i], embeddings[int(test_hosts[i])]))
-
-    
 
 y_pred = clf_lgr.predict_proba(x_test)
 # Write predictions to a file
@@ -90,4 +84,3 @@ with open('../tfidf_deepwalk.csv', 'w') as csv_file:
         lst = y_pred[i].tolist()
         lst.insert(0, test_host)
         writer.writerow(lst)
-
