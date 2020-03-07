@@ -25,12 +25,32 @@ file_name_format = '#.txt'
 
 
 def new_f_out(input_file, file_num):
+    """
+    Function to create the file for each subtext of the original bigger text 
+
+    Input : 
+        - input_file : the file name str for the text which we seperate 
+        - file_num : index for the subtext 
+    Output :
+        - f_out : file where to write the subtext  
+    """
     filename = '../text_data/' + input_file + file_name_format.replace('#', '_' + str(file_num))
     f_out = open(filename, 'w')
     return f_out
 
 
 def split_train(file_names, splitting_text, train_hosts):
+    """
+    Function to create the enlarged training sets for subtexts and the labels 
+
+    Input : 
+        - file_names : path of the texts  
+        - splitting : splitting criterion
+        - train_hosts : the original texts 
+    Output :
+        - texts : the subtexts for training 
+        - y_train_text : their labels  
+    """
     texts = dict()
     y_train_text = list()  
     for filename in file_names:
@@ -61,6 +81,10 @@ def split_train(file_names, splitting_text, train_hosts):
 
 
 def split_test(file_names, splitting_text, test_hosts):
+    """
+    Does the same as split_train but on the test texts  
+    
+    """
     texts = dict()
     for filename in file_names:
         if filename in test_hosts:
