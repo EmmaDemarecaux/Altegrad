@@ -38,8 +38,8 @@ cleaned_test_data = clean_host_texts(data=test_data, tok=tokenizer,
                                      stpwds=stpwords_fr + stpwords_en, punct=punctuation)
 
 # TF-IDF
-tf = TfidfVectorizer(decode_error='ignore', min_df=0.03, max_df=0.5, 
-                     sublinear_tf=True, smooth_idf=True)
+tf = TfidfVectorizer(decode_error='ignore', sublinear_tf=True,
+                             min_df=0.06, max_df=0.9)
 x_train_or = tf.fit_transform(cleaned_train_data)
 x_train_or = x_train_or.toarray()
 
@@ -82,6 +82,6 @@ with open('../tfidf_deepwalk.csv', 'w') as csv_file:
     lst.insert(0, "Host")
     writer.writerow(lst)
     for i, test_host in enumerate(test_hosts):
-        lst = y_pred[i].tolist()
+        lst = y_pred[i,:].tolist()
         lst.insert(0, test_host)
         writer.writerow(lst)
