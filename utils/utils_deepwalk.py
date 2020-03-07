@@ -3,15 +3,7 @@ import networkx as nx
 from gensim.models import Word2Vec
 
 
-#This function is a weighted version of the function random_walk defined in lab5
 def random_walk(g, node_, n):
-    '''
-    Inputs :
-        g : the graph, nodes_ : the node from which the walk will be generated, n : length of the walk
-        
-    Output :
-        walk : the generated walk
-    '''
     walk = [node_]
     for _ in range(n):
         neighbors = list(g.neighbors(walk[-1]))
@@ -29,29 +21,15 @@ def random_walk(g, node_, n):
     return walk
 
 
-#This function was defined in the lab5 of the course
 def generate_walks(g, num_walks, n):
-    '''
-    Inputs :
-        g : the graph, num_walks : number of walks to be generated, n : length of the walks
-    Output :
-        the generated walks
-    '''
     walks = []
     for _ in range(num_walks):
         for node_ in g.nodes():
             walks.append(random_walk(g, node_, n))
     return walks
 
-#This function was defined in the lab5 of the course
+
 def deepwalk(g, num_walks, n, size):
-    '''
-    Inputs : 
-        g : the graph, num_walks : number of walks to be generated
-        n : length of the walks, size : the embedding dimension
-    Output :
-        The nodes embedding model
-    '''
     print("Generating walks")
     walks = generate_walks(g, num_walks, n)
     print("Training word2vec")
@@ -60,3 +38,13 @@ def deepwalk(g, num_walks, n, size):
     m.train(walks, total_examples=m.corpus_count, epochs=5)
     return m
 
+
+if __name__ == '__main__':
+    G = nx.read_weighted_edgelist('../data/edgelist.txt', create_using=nx.DiGraph())
+    n_dim = 10
+    n_walks = 10
+    walk_length = 20
+    model = deepwalk(G, n_walks, walk_length, n_dim)
+    embeddings = np.zeros((G.number_of_nodes(), n_dim))
+    for i, node in enumerate(G.nodes()):
+        embeddings[i, :] = model.wv[str(node)]

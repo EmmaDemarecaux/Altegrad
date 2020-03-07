@@ -9,11 +9,12 @@ from sklearn.metrics import log_loss
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
 sys.path.append('../')
-from preprocess import remove_duplicates, import_texts, generate_data, clean_host_texts
+from preprocess import get_train_data, import_texts, generate_data, clean_host_texts
+
 
 data = '../data/'
 train_file = data + 'train.csv'
-train_hosts, y_train = remove_duplicates(train_file)
+train_hosts, y_train = get_train_data(train_file)
 texts_path = '../text/text'
 texts = import_texts(texts_path)
 
@@ -46,7 +47,7 @@ X_train, X_eval, Y_train, Y_eval = train_test_split(
 )
 clf_lgr.fit(X_train, Y_train)
 print("Classifier score: ", clf_lgr.score(X_eval, Y_eval))
-print("Classifier multiclass loss: ", log_loss(Y_eval, clf_lgr.predict_proba(X_eval)))
+print("Classifier multi-class loss: ", log_loss(Y_eval, clf_lgr.predict_proba(X_eval)))
 
 # Choosing the model to make the predictions
 clf = Pipeline([

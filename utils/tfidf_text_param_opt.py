@@ -11,12 +11,12 @@ from sklearn.pipeline import Pipeline
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
 sys.path.append('../')
-from preprocess import remove_duplicates, import_texts, generate_data, clean_host_texts
+from preprocess import get_train_data, import_texts, generate_data, clean_host_texts
 
 
 data = '../data/'
 train_file = data + 'train.csv'
-train_hosts, y_train = remove_duplicates(train_file)
+train_hosts, y_train = get_train_data(train_file)
 texts_path = '../text/text'
 texts = import_texts(texts_path)
 

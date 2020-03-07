@@ -11,21 +11,19 @@ from sklearn.pipeline import Pipeline
 sys.path.append('../utils')
 from utils_deepwalk import deepwalk
 sys.path.append('../')
-from preprocess import remove_duplicates, import_texts, generate_data, clean_host_texts
+from preprocess import get_train_data, import_texts, generate_data, clean_host_texts
 
 
-#Generating Train data without duplicates and test data
 data = '../data/'
 train_file = data + 'train.csv'
-train_hosts, y_train = remove_duplicates(train_file) 
+train_hosts, y_train = get_train_data(train_file)
 texts_path = '../text/text'
 texts = import_texts(texts_path)
 
-
+# Train data
 with open(data + 'test.csv', 'r') as f:
     test_hosts = f.read().splitlines()
-
- 
+    
 train_data = generate_data(train_hosts, texts)
 test_data = generate_data(test_hosts, texts)
 
@@ -39,30 +37,27 @@ cleaned_train_data = clean_host_texts(data=train_data, tok=tokenizer,
 cleaned_test_data = clean_host_texts(data=test_data, tok=tokenizer, 
                                      stpwds=stpwords_fr + stpwords_en, punct=punctuation)
 
-# TF-IDF / fit and transform train data
+# TF-IDF
 tf = TfidfVectorizer(decode_error='ignore', sublinear_tf=True,
                      min_df=0.06, max_df=0.9)
 x_train_or = tf.fit_transform(cleaned_train_data)
 x_train_or = x_train_or.toarray()
 
-# Read the web domain graph and extract the subgraph of annotated nodes
+# Graph
 G = nx.read_weighted_edgelist(data + 'edgelist.txt', create_using=nx.DiGraph())
 H = G.subgraph(train_hosts + test_hosts)
 n = H.number_of_nodes()
 n_hosts = len(train_hosts)
 
-# Apply weighted version of DeepWalk algorithm on the subgraph H
 n_dim = 128
 n_walks = 500
 walk_length = 100
 model = deepwalk(H, n_walks, walk_length, n_dim)
 
-# Nodes embeddings (we set the embedding of nodes not belonging to H to zeros since they will not be used)
 embeddings = np.zeros((G.number_of_nodes(), n_dim))
 for i, node in enumerate(H.nodes()):
     embeddings[int(node), :] = model.wv[str(node)]
 
-# Train data features : mix of tf-idf and nodes embeddings
 x_train = np.zeros((x_train_or.shape[0], x_train_or.shape[1]+n_dim))
 for i in range(x_train_or.shape[0]):
     x_train[i] = np.concatenate((x_train_or[i], embeddings[int(train_hosts[i])]))
@@ -72,7 +67,7 @@ clf_lgr = Pipeline([('clf', LogisticRegression(solver='lbfgs',
                                                multi_class='auto', max_iter=5000))])
 clf_lgr.fit(x_train, y_train)
 
-# Test data : tf-idf transformation + creating the test features (mix of tf-idf features and embeddings)
+# Test data
 x_test_or = tf.transform(cleaned_test_data) 
 x_test_or = x_test_or.toarray() 
 x_test = np.zeros((x_test_or.shape[0], x_test_or.shape[1]+n_dim))
