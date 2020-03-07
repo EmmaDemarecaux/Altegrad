@@ -10,84 +10,85 @@ from sklearn.pipeline import Pipeline
 from sklearn.linear_model import LogisticRegression
 from nltk.tokenize import TweetTokenizer
 sys.path.append('../')
-from preprocess import remove_duplicates, clean_host_texts
+from preprocess import get_train_data, clean_host_texts
 
 
 data = '../data/'
 train_file = data + 'train.csv'
-train_hosts, y_train = remove_duplicates(train_file)
+train_hosts, y_train = get_train_data(train_file)
 
 # Load the textual content of a set of webpages for each host into the dictionary "text".
 # The encoding parameter is required since the majority of our text is french.
-filenames = os.listdir('../text/text')
-splittingtxt = '__________________________________________________________________'
-filenameformat = '#.txt'
+file_names = os.listdir('../text/text')
+splitting_text = '__________________________________________________________________'
+file_name_format = '#.txt'
 
 
-def newfout(inputfile, filenum):
-    filename = '../text_data/' + inputfile + filenameformat.replace('#', '_' + str(filenum))
-    fout = open(filename, 'w')
-    return fout
+def new_f_out(input_file, file_num):
+    filename = '../text_data/' + input_file + file_name_format.replace('#', '_' + str(file_num))
+    f_out = open(filename, 'w')
+    return f_out
 
 
-def split_train(filenames, splittingtxt, train_hosts):
+def split_train(file_names, splitting_text, train_hosts):
     texts = dict()
-    y_train_txt = list()  
-    for filename in filenames:
+    y_train_text = list()  
+    for filename in file_names:
         if filename in train_hosts:
             texts[filename] = []
             file = open(os.path.join('../text/text/', filename), errors='ignore')
             lines = file.readlines()
-            filenum = 1
-            fout = newfout(filename, filenum)
+            file_num = 1
+            f_out = new_f_out(filename, file_num)
 
             for line in lines:
-                if splittingtxt in line:
-                    fout.close()
-                    with codecs.open(os.path.join('../text_data/', filename + filenameformat.replace('#', '_' + str(filenum))),
+                if splitting_text in line:
+                    f_out.close()
+                    with codecs.open(os.path.join('../text_data/', filename + file_name_format.replace('#', '_' + str(file_num))),
                                      encoding="utf8", errors='ignore') as ff:
                         texts[filename].append(ff.read().replace("\n", "").lower())
-                    filenum += 1
-                    fout = newfout(filename, filenum)
+                    file_num += 1
+                    f_out = new_f_out(filename, file_num)
                 else:
-                    fout.write(line)
-            fout.close()
-            with codecs.open(os.path.join('../text_data/', filename + filenameformat.replace('#', '_' + str(filenum))),
+                    f_out.write(line)
+            f_out.close()
+            with codecs.open(os.path.join('../text_data/', filename + file_name_format.replace('#', '_' + str(file_num))),
                              encoding="utf8", errors='ignore') as ff:
                 texts[filename].append(ff.read().replace("\n", "").lower())
-            for _ in range(filenum):
-                y_train_txt.append(y_train[filename])
-    return texts, y_train_txt
+            for _ in range(file_num):
+                y_train_text.append(y_train[filename])
+    return texts, y_train_text
 
 
-def split_test(filenames, splittingtxt, test_hosts):
+def split_test(file_names, splitting_text, test_hosts):
     texts = dict()
-    for filename in filenames : 
-        if filename in test_hosts : 
+    for filename in file_names:
+        if filename in test_hosts:
             texts[filename] = []
             file = open(os.path.join('../text/text/', filename), errors='ignore')
             lines = file.readlines()
-            filenum = 1
-            fout = newfout(filename, filenum)
+            file_num = 1
+            f_out = new_f_out(filename, file_num)
 
             for line in lines:
-                if splittingtxt in line:
-                    fout.close()
-                    with codecs.open(os.path.join('../text_data/', filename + filenameformat.replace('#', '_' + str(filenum))),
+                if splitting_text in line:
+                    f_out.close()
+                    with codecs.open(os.path.join('../text_data/', filename + file_name_format.replace('#', '_' + str(file_num))),
                                      encoding="utf8", errors='ignore') as ff:
                         texts[filename].append(ff.read().replace("\n", "").lower())
-                    filenum += 1
-                    fout = newfout(filename, filenum)
+                    file_num += 1
+                    f_out = new_f_out(filename, file_num)
                 else:
-                    fout.write(line)
-            fout.close()
-            with codecs.open(os.path.join('../text_data/', filename + filenameformat.replace('#', '_' + str(filenum))),
+                    f_out.write(line)
+            f_out.close()
+            with codecs.open(os.path.join('../text_data/', filename + file_name_format.replace('#', '_' + str(file_num))),
                              encoding="utf8", errors='ignore') as ff:
                 texts[filename].append(ff.read().replace("\n", "").lower())
     return texts
 
 
-texts, y_train_txt = split_train(filenames, splittingtxt, train_hosts)
+# Train sets
+texts, y_train_txt = split_train(file_names, splitting_text, train_hosts)
 
 train_data_list = list()
 for k, v in enumerate(texts):
@@ -98,30 +99,28 @@ for sublist in train_data_list:
     for item in sublist:
         train_data_flat.append(item)
 
-# Preprocessing texts
-tokenizer = TweetTokenizer()
-punctuation = string.punctuation + '’“”.»«…'
-stpwords_fr = stopwords.words('french')
-stpwords_en = stopwords.words('english')
-cleaned_train_data_txts = clean_host_texts(data=train_data_flat, tok=tokenizer,
-                                           stpwds=stpwords_fr + stpwords_en, punct=punctuation)
-
 # Tests sets
 with open(data + "test.csv", 'r') as f:
     test_hosts = f.read().splitlines()
     
-test_texts = split_test(filenames, splittingtxt, test_hosts)
+test_texts = split_test(file_names, splitting_text, test_hosts)
 
 test_data_list = list()
 for k, v in enumerate(test_texts):
     test_data_list.append(test_texts[v])
 
-
 test_data_flat = []
 for sublist in test_data_list:
     for item in sublist:
         test_data_flat.append(item)
-        
+
+# Preprocessing texts
+tokenizer = TweetTokenizer()
+punctuation = string.punctuation + '’“”.»«…'
+stpwords_fr = stopwords.words('french')
+stpwords_en = stopwords.words('english')
+cleaned_train_data_texts = clean_host_texts(data=train_data_flat, tok=tokenizer,
+                                            stpwds=stpwords_fr + stpwords_en, punct=punctuation)
 cleaned_test_data = clean_host_texts(data=test_data_flat, tok=tokenizer,
                                      stpwds=stpwords_fr + stpwords_en, punct=punctuation)
 
@@ -132,7 +131,7 @@ clf_lgr = Pipeline([
     ('clf', LogisticRegression(solver='lbfgs', multi_class='auto',
                                max_iter=100, C=4))])
 clf = clf_lgr
-clf.fit(cleaned_train_data_txts, y_train_txt)
+clf.fit(cleaned_train_data_texts, y_train_txt)
 y_pred = clf.predict_proba(cleaned_test_data)
 
 indexes = []
@@ -155,7 +154,7 @@ with open('../separate_texts.csv', 'w') as csvfile:
     lst = clf.classes_.tolist()
     lst.insert(0, "Host")
     writer.writerow(lst)
-    for i,test_host in enumerate(test_hosts):
+    for i, test_host in enumerate(test_hosts):
         lst = y_pred_aggr[i, :].tolist()
         lst.insert(0, test_host)
         writer.writerow(lst)

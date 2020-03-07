@@ -6,7 +6,6 @@ import codecs
 from bs4 import BeautifulSoup
 import re
 from nltk.stem.snowball import FrenchStemmer
-import collections
 
 
 words_to_remove = ['aa', 'abonnement', 'abonnements', 'abonner', 'abonnez', 'abonné', 'abonnés', 'accueil', 'accède',
@@ -79,10 +78,10 @@ def clean_host_texts(data, tok, stpwds, punct, verbosity=5, remove_words=False):
         # converting article to lowercase already done
         temp = BeautifulSoup(host_text, 'lxml')
         text = temp.get_text()  # removing HTML formatting
-        text = text.replace('{html}', "")  # removing html
-        text = re.sub(r'http\S+', '', text)  # removing url
-        text = re.sub(r'\S*@\S*\s?', '', text)  # removing e-mail
-        text = re.sub(r'\[\S*.\S*\]', '', text)  # removing any character between []
+        text = text.replace('{html}', "")  # removing "html"
+        text = re.sub(r'http\S+', '', text)  # removing any url
+        text = re.sub(r'\S*@\S*\s?', '', text)  # removing any e-mail address
+        text = re.sub(r'\[\S*.\S*\]', '', text)  # removing any comment or image between square brackets
         text = re.sub(r'[^\s\.]+\.[^\s\.]+', '', text)  # removing any link 
         text = re.sub(r'[^\s\.]+\>', '', text)  # removing any string of the form string>
         text = text.translate(str.maketrans(punct, ' '*len(punct)))
@@ -107,22 +106,15 @@ def clean_host_texts(data, tok, stpwds, punct, verbosity=5, remove_words=False):
             sub_cleaned_data in cleaned_data]
 
 
-def remove_duplicates(train_file):
+def get_train_data(train_file):
     with open(train_file, 'r') as f:
         train_data_ids = f.read().splitlines()
-
-    train_data_ids = list(set(train_data_ids))
-    duplicates_to_drop = [item for item, count in
-                          collections.Counter([item.split(",")[0] for item
-                                               in train_data_ids]).items() if count > 1]
-    # Remove duplicates in training data: hosts + labels
     train_hosts = list()
     y_train = list()
     for row in train_data_ids:
         host, label = row.split(",")
-        if host not in duplicates_to_drop:
-            train_hosts.append(host)
-            y_train.append(label.lower())
+        train_hosts.append(host)
+        y_train.append(label.lower())
     return train_hosts, y_train 
 
 
