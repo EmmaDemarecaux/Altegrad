@@ -11,13 +11,13 @@ from sklearn.pipeline import Pipeline
 sys.path.append('../utils')
 from utils_deepwalk import deepwalk
 sys.path.append('../')
-from preprocess import remove_duplicates, import_texts, generate_data, clean_host_texts
+from preprocess import get_train_data, import_texts, generate_data, clean_host_texts
 
 
 #Generating train and test data
 data = '../data/'
 train_file = data + 'train.csv'
-train_hosts, y_train = remove_duplicates(train_file)
+train_hosts, y_train = get_train_data(train_file)
 texts_path = '../text/text'
 texts = import_texts(texts_path)
 

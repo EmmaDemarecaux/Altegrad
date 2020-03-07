@@ -11,13 +11,17 @@ from sklearn.pipeline import Pipeline
 sys.path.append('../utils')
 from utils_deepwalk import deepwalk
 sys.path.append('../')
-from preprocess import remove_duplicates, import_texts, generate_data, clean_host_texts
+from preprocess import get_train_data, import_texts, generate_data, clean_host_texts
 
 
 #Generating Train data without duplicates and test data
 data = '../data/'
 train_file = data + 'train.csv'
+<<<<<<< HEAD
 train_hosts, y_train = remove_duplicates(train_file) 
+=======
+train_hosts, y_train = get_train_data(train_file)
+>>>>>>> eb5b0202cfa2048eaa37b719af2ddb2f0767b005
 texts_path = '../text/text'
 texts = import_texts(texts_path)
 
@@ -41,7 +45,7 @@ cleaned_test_data = clean_host_texts(data=test_data, tok=tokenizer,
 
 # TF-IDF / fit and transform train data
 tf = TfidfVectorizer(decode_error='ignore', sublinear_tf=True,
-                             min_df=0.06, max_df=0.9)
+                     min_df=0.06, max_df=0.9)
 x_train_or = tf.fit_transform(cleaned_train_data)
 x_train_or = x_train_or.toarray()
 
@@ -87,6 +91,6 @@ with open('../tfidf_deepwalk.csv', 'w') as csv_file:
     lst.insert(0, "Host")
     writer.writerow(lst)
     for i, test_host in enumerate(test_hosts):
-        lst = y_pred[i,:].tolist()
+        lst = y_pred[i, :].tolist()
         lst.insert(0, test_host)
         writer.writerow(lst)
