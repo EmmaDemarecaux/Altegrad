@@ -2,7 +2,7 @@ import numpy as np
 import networkx as nx
 from gensim.models import Word2Vec
 
-# This function is a modified version of the function defined in Lab5 of the course
+# This function is a modified version of the function defined in Lab6 of the course
 def random_walk(g, node_, n):
     '''
     Inputs :
@@ -28,7 +28,7 @@ def random_walk(g, node_, n):
     return walk
 
 
-#This function was defined in Lab5 of the course
+#This function was defined in Lab6 of the course
 def generate_walks(g, num_walks, n):
     '''
     Inputs :
@@ -42,7 +42,7 @@ def generate_walks(g, num_walks, n):
             walks.append(random_walk(g, node_, n))
     return walks
 
-#This function was defined in Lab5 of the course
+#This function was defined in Lab6 of the course
 def deepwalk(g, num_walks, n, size):
     '''
     Inputs :
