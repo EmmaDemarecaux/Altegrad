@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 import re
 from nltk.stem.snowball import FrenchStemmer
 
-
+# Removing the text of the nodes which present some text errors such as:
 page_errors = ['the document has moved here',
                'the requested url was rejected',
                'you need to enable javascript to run this app',
@@ -53,6 +53,7 @@ page_errors = ['the document has moved here',
                ]
 
 
+# Function to detect text errors
 def is_page_error(text, errors):
     for error in errors:
         if error in text:
@@ -60,6 +61,7 @@ def is_page_error(text, errors):
     return False
     
 
+# main preprocessing function
 def clean_host_texts(data, tok, stpwds, punct, verbosity=5):
     cleaned_data = []
     for counter, host_text in enumerate(data):
@@ -89,6 +91,7 @@ def clean_host_texts(data, tok, stpwds, punct, verbosity=5):
             sub_cleaned_data in cleaned_data]
 
 
+# Getting train hosts and labels
 def get_train_data(train_file):
     with open(train_file, 'r') as f:
         train_data_ids = f.read().splitlines()
@@ -101,6 +104,7 @@ def get_train_data(train_file):
     return train_hosts, y_train 
 
 
+# Getting text data
 def import_texts(texts_path):
     texts = dict()
     file_names = os.listdir(texts_path)
@@ -109,16 +113,15 @@ def import_texts(texts_path):
             texts[filename] = f.read().replace('\n', '').lower()
     return texts
             
-            
+
 def generate_data(data_hosts, texts, remove_page_errors=True):
     """Get textual content of web hosts of the training set"""
     data = list()
     for host in data_hosts:
         if host in texts:
             to_write = texts[host]
-            if (remove_page_errors and 
-                is_page_error(to_write, page_errors) and 
-                len(to_write) < 2000):
+            # removing text with errors
+            if remove_page_errors and is_page_error(to_write, page_errors) and len(to_write) < 2000:
                 data.append('')
             else:
                 data.append(to_write)
