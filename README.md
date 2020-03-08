@@ -14,6 +14,7 @@ Each `.py` file contained in this folder represents a model. Here is a brief des
 * `graph baseline.py`: the graph model that was initially provided.
 * `text_baseline.py`: the text model model that was initially provided.
 * `tfidf_deepwalk.py`: apply a _TF-IDF_ transformation on the text data and the _deepwalk_ method (contained in `utils_deepwalk.py`) to the graph data.
+* `word2vec_deepwalk.py` : apply a _Word2Vec_ transformation on the text data and the _deepwalk_ method (contained in `utils_deepwalk.py`) to the graph data.
 * `tfidf_gnn.py`: apply a _TF-IDF_ transformation on the text data and the _GNN_ method (contained in `utils_gnn.py`) on the graph data.
 * `tfidf_text.py`: apply a _TF-IDF_ transformation on the text data followed by a _Logistic Regression Model_.
 
