@@ -53,4 +53,4 @@ In order to perform the optimisation:
  
 # Results
 
-Our best performing model on the Kaggle public leaderboard comes from the file `tfidf_text.py`: the multi-class loss is 1.03771. 
+Our best performing model on the Kaggle public leaderboard http://www.kaggle.com/c/fr-domain-classification comes from the file `tfidf_text.py`: the multi-class loss is 1.03771. 
