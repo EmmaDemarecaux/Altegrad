@@ -17,8 +17,8 @@ It contains the folder `text` which contains all the web domains texts.
 Each `.py` file contained in this folder represents a model. Here is a brief description of the files models (the models are detailed in the report):
 * `graph baseline.py`: the graph model that was initially provided.
 * `text_baseline.py`: the text model model that was initially provided.
-* `tfidf_deepwalk.py`: applies a _TF-IDF_ transformation on the text data and the _deepwalk_ method (contained in `utils_deepwalk.py`) on the graph data,  and apply a logistic regression model to the resulting features.
-* `word2vec_deepwalk.py` : applies a _Word2Vec_ transformation on the text data and the _deepwalk_ method (contained in `utils_deepwalk.py`) on the graph data, and apply a logistic regression model to the resulting features.
+* `tfidf_deepwalk.py`: applies a _TF-IDF_ transformation on the text data and the _Deepwalk_ method (contained in `utils_deepwalk.py`) on the graph data. It applies a _Logistic Regression_ model to the resulting features.
+* `word2vec_deepwalk.py` : applies a _Word2Vec_ transformation on the text data and the _Deepwalk_ method (contained in `utils_deepwalk.py`) on the graph data. It applies a _Logistic Regression_ model to the resulting features.
 * `tfidf_gnn.py`: applies a _TF-IDF_ transformation on the text data and the _GNN_ method (contained in `utils_gnn.py`) on the graph data.
 * `tfidf_text.py`: applies a _TF-IDF_ transformation on the text data followed by a _Logistic Regression_ model.
 * `separate_texts.py`: creates _subtexts_ in a `./data` folder and runs a _Logistic Regression_ model on the new data before aggregating the predictions.
