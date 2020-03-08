@@ -3,6 +3,10 @@
 ************************
 >*Kaggle Challenge: French Web Domain Classification*
 
+# Architecture of the project
+
+The file `preprocess.py` in the root directory contains the preprocessing steps applied on the text data and used by almost all models.
+
 ## Folder 1: data 
 It contains the challenge data that was provided: `edgelist.txt`, `train.csv` and `test.csv`.
 
@@ -47,6 +51,6 @@ In order to perform the optimisation:
     python3 tfidf_text_param_opt.py
     ```
  
-Finally, the file `preprocess.py` in the root directory contains the preprocessing steps applied on the text data and used by all the models.
+# Results
 
 Our best performing model on the Kaggle public leaderboard comes from the file `tfidf_text.py`: the multi-class loss is 1.03771. 
