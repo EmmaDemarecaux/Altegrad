@@ -17,6 +17,12 @@ Each .py file contained in this file represents a model. To generate the predict
 * `tfidf_gnn.py`: apply a tfidf transformation on text data and the gnn method (contained in utils_gnn.py) on the graph data.
 * `tfidf_text.py`: apply a tfidf transformation on text data.
 
+To get the prediction file corresponding to the model model, one needs to :
+1. Change the current working directory to models : cd models
+2. Run the model.py file using the command : python3 model.py
+3. The .csv prediction file will be saved in the principal directory
+
+
 ## Folder 4 : utils 
 It contains the following util files:
 * `utils_deepwalk.py`: contains the util functions to perform the deepwalk algortihm.
