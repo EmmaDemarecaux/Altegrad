@@ -11,7 +11,7 @@ from sklearn.linear_model import LogisticRegression
 sys.path.append('../')
 from preprocess import get_train_data, import_texts, generate_data, clean_host_texts
 
-
+# Generating Train data without duplicates and test data
 data = '../data/'
 train_file = data + 'train.csv'
 train_hosts, y_train = get_train_data(train_file)
@@ -34,14 +34,13 @@ cleaned_train_data = clean_host_texts(data=train_data, tok=tokenizer,
 cleaned_test_data = clean_host_texts(data=test_data, tok=tokenizer, 
                                      stpwds=stpwords_fr + stpwords_en, punct=punctuation)
 
-# Pipeline
+# Pipeline: TF-IFD + Logistic Regression
 clf_lgr = Pipeline([
-    ('vect', TfidfVectorizer(decode_error='ignore', sublinear_tf=True,
-                             min_df=0.06, max_df=0.9)),
-    ('clf', LogisticRegression(solver='lbfgs', multi_class='auto', 
-                               max_iter=100, C=4))])
-        
-# Evaluate the model
+    ('vect', TfidfVectorizer(decode_error='ignore', sublinear_tf=True, ngram_range=(1, 1),
+                             min_df=0.0149, max_df=0.9, binary=False, smooth_idf=True)),
+    ('clf', LogisticRegression(tol=1e-05, C=4.59))])
+
+# Evaluating the model on an evaluation set
 X_train, X_eval, Y_train, Y_eval = train_test_split(
     cleaned_train_data, y_train, test_size=0.2, random_state=42
 )
@@ -51,16 +50,13 @@ print("Classifier multi-class loss: ", log_loss(Y_eval, clf_lgr.predict_proba(X_
 
 # Choosing the model to make the predictions
 clf = Pipeline([
-    ('vect', TfidfVectorizer(decode_error='ignore', sublinear_tf=True,
-                             min_df=0.06, max_df=0.9)),
-    ('clf', LogisticRegression(solver='lbfgs', multi_class='auto', 
-                               max_iter=100, C=4))])
-
-# Choosing classifier
+    ('vect', TfidfVectorizer(decode_error='ignore', sublinear_tf=True, ngram_range=(1, 1),
+                             min_df=0.0149, max_df=0.9, binary=False, smooth_idf=True)),
+    ('clf', LogisticRegression(tol=1e-05, C=4.59))])
 clf.fit(cleaned_train_data, y_train)
 y_pred = clf.predict_proba(cleaned_test_data)
 
-# Write predictions to a file
+# Writing predictions to a file
 with open('../tfidf_text.csv', 'w') as csv_file:
     writer = csv.writer(csv_file, delimiter=',')
     lst = clf.classes_.tolist()

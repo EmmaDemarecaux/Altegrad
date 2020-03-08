@@ -15,8 +15,8 @@ sys.path.append('../utils')
 from utils_gnn import normalize_adjacency, accuracy, GNN
 sys.path.append('../')
 from preprocess import get_train_data, import_texts, generate_data, clean_host_texts
-    
 
+# Generating train data without duplicates and test data
 data = '../data/'
 train_file = data + 'train.csv'
 train_hosts, y_train = get_train_data(train_file)
@@ -44,7 +44,7 @@ n_class = len(set(y_train))
 class_dict = dict([(j, i) for (i, j) in enumerate(set(y_train))])
 y = np.array([class_dict[i] for i in y_train])
 
-# Create a directed, weighted graph
+# Reading the web domain graph and extracting the subgraph of annotated nodes
 G = nx.read_weighted_edgelist(data + 'edgelist.txt', create_using=nx.DiGraph())
 H = G.subgraph(train_hosts + test_hosts)
 n = H.number_of_nodes()
@@ -65,27 +65,27 @@ learning_rate = 0.05
 weight_decay = 1e-2
 dropout_rate = 0.4
 
-# Node embeddings
-vect = TfidfVectorizer(decode_error='ignore', sublinear_tf=True,
-                       min_df=0.06, max_df=0.9)
+# TF-IDF / fitting and transforming train data (node embedding)
+vect = TfidfVectorizer(decode_error='ignore', sublinear_tf=True, ngram_range=(1, 1),
+                       min_df=0.0149, max_df=0.9, binary=False, smooth_idf=True)
 X_embed = vect.fit_transform(cleaned_train_data + cleaned_test_data)
 
-# Set the feature of all nodes
+# Setting the feature of all nodes
 features_matrix = csr_matrix.toarray(X_embed)
 
-# Yields indices to split data into training and test sets
+# Creating indices to split data into training and test sets
 idx = np.random.RandomState(seed=42).permutation(n_hosts)
 index_train = idx[:int(0.8*n_hosts)]
 index_test = idx[int(0.8*n_hosts):]
 
-# Transforms the numpy matrices/vectors to torch tensors
+# Transforming the numpy matrices/vectors to torch tensors
 features = torch.FloatTensor(features_matrix)
 y = torch.LongTensor(y)
 adj = torch.FloatTensor(adj)
 index_train = torch.LongTensor(index_train)
 index_test = torch.LongTensor(index_test)
 
-# Creates the model and specifies the optimizer
+# Applying the GNN model on the subgraph H
 model = GNN(features.shape[1], n_hidden_1, n_hidden_2, n_class, dropout_rate)
 optimizer = optim.Adam(model.parameters(), lr=learning_rate, weight_decay=weight_decay)
 
@@ -116,7 +116,7 @@ def test(idx_test):
           "accuracy= {:.4f}".format(acc_test.item()))
 
 
-# Train model
+# Training the model
 t_total = time.time()
 for epoch in range(epochs):
     train(epoch, index_train)
@@ -124,17 +124,15 @@ print("Optimization Finished!")
 print("Total time elapsed: {:.4f}s".format(time.time() - t_total))
 print()
 
-# Testing
+# Testing the model
 test(index_test)
 
-# Train model on all the training data
+# Training the model on all the training data
 index_train_all = np.array(range(n_hosts))
 index_train_all = torch.LongTensor(index_train_all)
-
 model = GNN(features.shape[1], n_hidden_1, n_hidden_2, n_class, dropout_rate)
 optimizer = optim.Adam(model.parameters(), lr=learning_rate, weight_decay=weight_decay)
 
-# Train model
 t_total = time.time()
 for epoch in range(epochs):
     train(epoch, index_train_all)
@@ -146,7 +144,7 @@ preds = model(features, adj)
 preds = preds.exp().detach().numpy()
 result = preds[n_hosts:, :]
 
-# Write predictions to a file
+# Writing predictions to a file
 with open('../tfidf_gnn.csv', 'w') as csv_file:
     writer = csv.writer(csv_file, delimiter=',')
     lst = list(class_dict.keys())

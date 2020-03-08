@@ -3,9 +3,8 @@ import networkx as nx
 import numpy as np
 from sklearn.linear_model import LogisticRegression
 
+# Reading training data
 data = '../data/'
-
-# Read training data
 with open(data + "train.csv", 'r') as f:
     train_data = f.read().splitlines()
 
@@ -16,17 +15,16 @@ for row in train_data:
     train_hosts.append(host)
     y_train.append(label.lower())
 
-# Read test data
+# Reading test data
 with open(data + "test.csv", 'r') as f:
     test_hosts = f.read().splitlines()
 
 # Create a directed, weighted graph
 G = nx.read_weighted_edgelist(data + 'edgelist.txt', create_using=nx.DiGraph())
-
 print(G.number_of_nodes())
 print(G.number_of_edges())
 
-# Create the training matrix. Each row corresponds to a web host.
+# Creating the training matrix. Each row corresponds to a web host.
 # Use the following 3 features for each web host (unweighted degrees)
 # (1) out-degree of node
 # (2) in-degree of node
@@ -38,7 +36,7 @@ for i in range(len(train_hosts)):
     X_train[i, 1] = G.out_degree(train_hosts[i])
     X_train[i, 2] = avg_neig_deg[train_hosts[i]]
 
-# Create the test matrix. Use the same 3 features as above
+# Creating the test matrix. Use the same 3 features as above
 X_test = np.zeros((len(test_hosts), 3))
 avg_neig_deg = nx.average_neighbor_degree(G, nodes=test_hosts)
 for i in range(len(test_hosts)):
@@ -49,7 +47,7 @@ for i in range(len(test_hosts)):
 print("Train matrix dimensionality: ", X_train.shape)
 print("Test matrix dimensionality: ", X_test.shape)
 
-# Use logistic regression to classify the web-pages of the test set
+# Using logistic regression to classify the web pages of the test set
 clf = LogisticRegression(solver='lbfgs', multi_class='auto', max_iter=2000)
 clf.fit(X_train, y_train)
 y_pred = clf.predict_proba(X_test)

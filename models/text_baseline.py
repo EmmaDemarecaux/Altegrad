@@ -5,9 +5,8 @@ from sklearn.linear_model import LogisticRegression
 import codecs
 from os import path
 
+# Reading training data
 data = '../data/'
-
-# Read training data
 with open(data + "train.csv", 'r') as f:
     train_data = f.read().splitlines()
 
@@ -18,11 +17,11 @@ for row in train_data:
     train_hosts.append(host)
     y_train.append(label.lower())
 
-# Read test data
+# Reading test data
 with open(data + "test.csv", 'r') as f:
     test_hosts = f.read().splitlines()
 
-# Load the textual content of a set of webpages for each host into the dictionary "text". 
+# Loading the textual content of a set of web pages for each host into the dictionary "text".
 # The encoding parameter is required since the majority of our text is french.
 text = dict()
 filenames = os.listdir('../text/text')
@@ -37,14 +36,14 @@ for host in train_hosts:
     else:
         train_data.append('')
 
-# Create the training matrix. Each row corresponds to a web host and each column to a word present in at least 10 web
+# Creating the training matrix. Each row corresponds to a web host and each column to a word present in at least 10 web
 # hosts and at most 1000 web hosts. The value of each entry in a row is equal to the tf-idf weight of that word in the 
 # corresponding web host       
 
 vec = TfidfVectorizer(decode_error='ignore', strip_accents='unicode', encoding='latin-1', min_df=10, max_df=1000)
 X_train = vec.fit_transform(train_data)
 
-# Get textual content of web hosts of the test set
+# Getting textual content of web hosts of the test set
 test_data = list()
 for host in test_hosts:
     if host in text:
@@ -52,20 +51,19 @@ for host in test_hosts:
     else:
         test_data.append('')
 
-# Create the test matrix following the same approach as in the case of the training matrix
+# Creating the test matrix following the same approach as in the case of the training matrix
 X_test = vec.transform(test_data)
 
 print("Train matrix dimensionality: ", X_train.shape)
 print("Test matrix dimensionality: ", X_test.shape)
 
-# Use logistic regression to classify the web-pages of the test set
+# Using logistic regression to classify the web-pages of the test set
 clf = LogisticRegression(solver='lbfgs', multi_class='auto', max_iter=1000)
 clf.fit(X_train, y_train)
 print(clf.score(X_train, y_train))
-
 y_pred = clf.predict_proba(X_test)
 
-# Write predictions to a file
+# Writing predictions to a file
 with open('../text_baseline.csv', 'w') as csvfile:
     writer = csv.writer(csvfile, delimiter=',')
     lst = clf.classes_.tolist()

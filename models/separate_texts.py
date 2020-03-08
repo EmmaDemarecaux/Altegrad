@@ -12,12 +12,11 @@ from nltk.tokenize import TweetTokenizer
 sys.path.append('../')
 from preprocess import get_train_data, clean_host_texts
 
-
 data = '../data/'
 train_file = data + 'train.csv'
 train_hosts, y_train = get_train_data(train_file)
 
-# Load the textual content of a set of web pages for each host into the dictionary "text".
+# Loading the textual content of a set of web pages for each host into the dictionary "text".
 # The encoding parameter is required since the majority of our text is french.
 file_names = os.listdir('../text/text')
 splitting_text = '__________________________________________________________________'
@@ -150,10 +149,9 @@ cleaned_test_data = clean_host_texts(data=test_data_flat, tok=tokenizer,
 
 # Logistic Regression Model
 clf_lgr = Pipeline([
-    ('vect', TfidfVectorizer(decode_error='ignore', sublinear_tf=True,
-                             min_df=0.06, max_df=0.9)),
-    ('clf', LogisticRegression(solver='lbfgs', multi_class='auto',
-                               max_iter=100, C=4))])
+    ('vect', TfidfVectorizer(decode_error='ignore', sublinear_tf=True, ngram_range=(1, 1),
+                             min_df=0.0149, max_df=0.9, binary=False, smooth_idf=True)),
+    ('clf', LogisticRegression(tol=1e-05, C=4.59))])
 clf = clf_lgr
 clf.fit(cleaned_train_data_texts, y_train_txt)
 y_pred = clf.predict_proba(cleaned_test_data)

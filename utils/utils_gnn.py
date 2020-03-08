@@ -4,6 +4,16 @@ import torch.nn as nn
 
 
 def normalize_adjacency(a):
+    """
+    Given the adjacency matrix A of a graph, we normalize it as follows: A_hat = D_tilde^(-1/2) * A_tilde * D_tilde^(-1/2).
+    A_tilde = A + I; D_tilde is a diagonal matrix such taht D_tilde(ii) = sum_j A_tilde(ij)
+    The formula adds self-loops to the graph, and normalizes each row of the emerging matrix
+    such that the sum of its element is equal to 1.
+    Inputs :
+        a : the adjacency matrix of the graph
+    Output :
+        walk : The generated walk
+    """
     a_tilde = a + np.eye(a.shape[0])
     d = np.sum(a_tilde, axis=1)
     d = d.squeeze().tolist()[0]
