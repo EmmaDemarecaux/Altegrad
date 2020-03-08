@@ -13,9 +13,9 @@ It contains the folder `text` which contains all the web domains texts.
 Each `.py` file contained in this folder represents a model. Here is a brief description of the files models (the models are detailed in the report):
 * `graph baseline.py`: the graph model that was initially provided.
 * `text_baseline.py`: the text model model that was initially provided.
-* `tfidf_deepwalk.py`: apply a _TF-IDF_ transformation on the text data and the _deepwalk_ method (contained in `utils_deepwalk.py`) to the graph data.
-* `word2vec_deepwalk.py` : apply a _Word2Vec_ transformation on the text data and the _deepwalk_ method (contained in `utils_deepwalk.py`) to the graph data, and apply a logistic regression model to the resulting features.
-* `tfidf_gnn.py`: apply a _TF-IDF_ transformation on the text data and the _GNN_ method (contained in `utils_gnn.py`) on the graph data, and apply a logistic regression model to the resulting features.
+* `tfidf_deepwalk.py`: apply a _TF-IDF_ transformation on the text data and the _deepwalk_ method (contained in `utils_deepwalk.py`) on the graph data,  and apply a logistic regression model to the resulting features.
+* `word2vec_deepwalk.py` : apply a _Word2Vec_ transformation on the text data and the _deepwalk_ method (contained in `utils_deepwalk.py`) on the graph data, and apply a logistic regression model to the resulting features.
+* `tfidf_gnn.py`: apply a _TF-IDF_ transformation on the text data and the _GNN_ method (contained in `utils_gnn.py`) on the graph data.
 * `tfidf_text.py`: apply a _TF-IDF_ transformation on the text data followed by a _Logistic Regression Model_.
 
 To generate the prediction file corresonding to a model, one needs to run the corresponding `.py` file as follows:
