@@ -8,71 +8,59 @@ import re
 from nltk.stem.snowball import FrenchStemmer
 
 
-words_to_remove = ['aa', 'abonnement', 'abonnements', 'abonner', 'abonnez', 'abonné', 'abonnés', 'accueil', 'accède',
-                   'accès', 'accéder', 'accédez', 'accédé', 'accédés', 'achat', 'achats', 'acheter', 'achetez',
-                   'acheté', 'achetés', 'activer', 'activez', 'activé', 'activés', 'actualité', 'actualités', 'actus',
-                   'adresse', 'adresses', 'agence', 'aide', 'aides', 'ailleurs', 'ainsi', 'ajouter', 'ajoutez',
-                   'ajouté', 'ajoutés', 'aller', 'allez', 'allé', 'allés', 'alternate', 'ami', 'amis', 'annoncer',
-                   'annuler', 'août', 'aperçu', 'application', 'applications', 'après', 'archive', 'archives',
-                   'article', 'articles', 'astuce', 'astuces', 'auprès', 'auto', 'autre', 'avant', 'avantage',
-                   'avantages', 'avantagespour', 'avis', 'avismême', 'avril', 'bangui', 'bas', 'besoin', 'besoins',
-                   'bon', 'bonne', 'bonnes', 'bons', 'boulevard', 'boulevards', 'bureau', 'button', 'cadeau',
-                   'cadeaux', 'caractères', 'carte', 'cartes', 'catalogue', 'cataloguesproduit', 'catégorie',
-                   'catégories', 'cgu', 'cgv', 'champs', 'changer', 'changez', 'changé', 'changés', 'cher', 'cherche',
-                   'chercher', 'cherchez', 'cherché', 'cherchés', 'chers', 'chez', 'ci', 'click', 'clicks', 'client',
-                   'cliquant', 'cliquer', 'cliquez', 'cliqué', 'cliqués', 'code', 'codes', 'colis', 'collect',
-                   'collecter', 'collectez', 'collecté', 'collectés', 'comment', 'commentaire', 'commentaires',
-                   'commerciale', 'commerciales', 'commerciaux', 'communication', 'complète', 'compte', 'comptes',
-                   'condition', 'conditions', 'connaître', 'connecter', 'connectez', 'connecté', 'connectés',
-                   'conseillés', 'conseils', 'consommation', 'consommations', 'consultation', 'consultations',
-                   'consulter', 'contact', 'contacter', 'contactez', 'contacté', 'contactés', 'contenu', 'contenus',
-                   'cookies', 'coordonnées', 'copyright', 'créer', 'créez', 'créé', 'créés', 'days', 'dernier',
-                   'derniers', 'dernière', 'dernières', 'description', 'descriptions', 'design', 'dessous',
-                   'destockage', 'devez', 'diaporama', 'dimanche', 'donner', 'donnez', 'donné', 'données', 'droite',
-                   'droits', 'dès', 'décembre', 'déconnecter', 'déconnectez', 'déconnecté', 'déconnectés', 'découvrir',
-                   'déjà', 'détail', 'détails', 'détailsarticles', 'engagement', 'engagements', 'english', 'envoyer',
-                   'envoyez', 'envoyé', 'envoyés', 'etc', 'event', 'events', 'eventsarchives', 'exclu', 'exclue',
-                   'exclues', 'exclus', 'facebook', 'facilité', 'facilités', 'faire', 'faites', 'favoris', 'fermer',
-                   'fermez', 'fermé', 'fermésbutton', 'fidélité', 'fidélités', 'fr', 'frais', 'français', 'français',
-                   'française', 'french', 'futur', 'futurs', 'février', 'gauche', 'gif', 'google', 'group', 'guide',
-                   'guides', 'général', 'générale', 'générales', 'gérer', 'gérez', 'géré', 'gérés', 'haut', 'home',
-                   'html', 'ici', 'iframe', 'image', 'images', 'imprimer', 'information', 'informations', 'informer',
-                   'informez', 'informé', 'informés', 'inscription', 'inscriptions', 'inscrire', 'inscrit', 'inscrite',
-                   'inscrites', 'inscrits', 'inscriver', 'inscrivez', 'international', 'intranet', 'janvier', 'jeudi',
-                   'jour', 'jours', 'jpeg', 'juin', 'jusqu', 'laisser', 'laissez', 'laissé', 'laissés', 'lien', 'liens',
-                   'lieu', 'lifestyle', 'ligne', 'lire', 'liste', 'livraison', 'livraisons', 'livré', 'livrés', 'liés',
-                   'logo', 'lundi', 'légal', 'légale', 'légales', 'légales', 'légaux', 'magazine', 'magazines', 'mai',
-                   'mail', 'mails', 'main', 'mainsitetitle', 'mardi', 'marque', 'marques', 'mars', 'media', 'mention',
-                   'mentions', 'mentions', 'menu', 'menus', 'merci', 'mercredi', 'minus', 'mise', 'mme', 'modification',
-                   'modifications', 'modules', 'moins', 'mois', 'mot', 'mots', 'même', 'navigateur', 'navigation',
-                   'newsletter', 'newsletters', 'next', 'nl', 'nom', 'noms', 'non', 'note', 'notes', 'nouveautés',
-                   'novembre', 'nuit', 'nuits', 'numerik', 'octobre', 'offerte', 'offres', 'ok', 'opinion', 'opinions',
-                   'oublier', 'oubliez', 'oublié', 'oubliés', 'ouvrer', 'ouvrez', 'ouvré', 'pack', 'page', 'page',
-                   'pages', 'paiement', 'paiements', 'panier', 'paniers', 'paramètre', 'paramètres', 'paris', 'partir',
-                   'passe', 'payez', 'personne', 'personnel', 'personnelle', 'personnelles', 'personnels', 'personnes',
-                   'pexels', 'plan', 'plans', 'plus', 'plusplan', 'point', 'policy', 'populaire', 'populaires',
-                   'postal', 'postaux', 'pouvez', 'pouvoir', 'pratique', 'pratiques', 'prev', 'principal', 'principale',
-                   'privacy', 'privilégié', 'privilégiée', 'privilégiées', 'privilégiés', 'prix', 'pro', 'prochains',
-                   'produits', 'programme', 'programmes', 'promo', 'promotion', 'promotionnel', 'promotionnelle',
-                   'promotionnelles', 'promotionnels', 'promotions', 'propos', 'prénom', 'prénoms', 'publication',
-                   'publications', 'quantité', 'quantités', 'question', 'questions', 'rapide', 'recevez', 'recevoir',
-                   'recherche', 'rechercher', 'recherches', 'recherchez', 'recherché', 'recherchés', 'recrutement',
-                   'recrutements', 'recruter', 'relais', 'relation', 'relations', 'rendez', 'renseignement',
-                   'renseignements', 'responsabilité', 'responsabilités', 'restants', 'rester', 'restez', 'resté',
-                   'restés', 'retourmarques', 'roularta', 'rubrique', 'rubriques', 'rue', 'rues', 'récent', 'récents',
-                   'réf', 'répondons', 'réservation', 'réservations', 'réserver', 'réservez', 'réservé', 'réservés',
-                   'samedi', 'section', 'semaine', 'semaines', 'septembre', 'service', 'service', 'services', 'site',
-                   'sitecatégories', 'sites', 'soir', 'soirs', 'soirée', 'soirées', 'soldes', 'solutions', 'sorbonne',
-                   'souhaitez', 'soumettre', 'submit', 'suivante', 'suivez', 'supplémentaires', 'svg', 'syndiquer',
-                   'sécurisé', 'sécurisés', 'sérénité', 'tard', 'team', 'title', 'titre', 'titre', 'titres', 'toggle',
-                   'total', 'tous', 'tous', 'tout', 'toute', 'toutes', 'trouver', 'trouvez', 'trouvé', 'trouvés',
-                   'tweet', 'tweets', 'twitter', 'tél', 'télécharger', 'téléchargez', 'téléchargé', 'tôt', 'utile',
-                   'utiles', 'utilespublications', 'utiliser', 'utilisez', 'utilisé', 'valable', 'vendredi', 'venir',
-                   'vente', 'ville', 'voir', 'web', 'xml', 'zone', 'zones', 'économisez', 'éléments', 'évènement',
-                   'évènements', 'être']
+page_errors = ['the document has moved here',
+               'the requested url was rejected',
+               'you need to enable javascript to run this app',
+               '/tools/ disallow',
+               '(button)    (button)    (button)    (button)    (button)    (button)    (button)    (button)',
+               '301 moved permanently',
+               '403 forbidden',
+               'the requested url was not found on this server',
+               'not found   the requested url',
+               'was not found on this server.',
+               'des corrections sont nécessaires pour sa réouverture',
+               'plus disponible suite à un incident',
+               'you are being redirected',
+               'object moved permanently',
+               "forbidden   you don't have permission",
+               'refresh(0 sec)',
+               'error 403 go away',
+               'varnish cache server',
+               'go away  guru meditation',
+               'unable to complete your request',
+               'internal server error',
+               'the server encountered an internal error',
+               'frame: ort   click here',
+               'object moved   this document may be found here',
+               'moved permanently.   moved permanently.',
+               'ce document peut être consulté ici',
+               '\ufeff   [page%20parking.jpg]',
+               'ce site requiert un navigateur de version récente',
+               "page d'erreur",
+               '302 found',
+               'click here if you are not automatically redirected'
+               'redirect (policy_redirect)',
+               'contact your network support team',
+               'please enable js and disable any ad blocker',
+               'object moved to here',
+               'object moved   here',
+               'the document has been permanently moved',
+               '301moved permanently',
+               'nescafé dolce gusto',
+               'sign in   loading…',
+               'tapez ici vos mots c submit',
+               'continue on this website you will be providing your consent to our use'
+               ]
 
 
-def clean_host_texts(data, tok, stpwds, punct, verbosity=5, remove_words=False):
+def is_page_error(text, errors):
+    for error in errors:
+        if error in text:
+            return True
+    return False
+    
+
+def clean_host_texts(data, tok, stpwds, punct, verbosity=5):
     cleaned_data = []
     for counter, host_text in enumerate(data):
         # converting article to lowercase already done
@@ -82,18 +70,13 @@ def clean_host_texts(data, tok, stpwds, punct, verbosity=5, remove_words=False):
         text = re.sub(r'http\S+', '', text)  # removing any url
         text = re.sub(r'\S*@\S*\s?', '', text)  # removing any e-mail address
         text = re.sub(r'\[\S*.\S*\]', '', text)  # removing any comment or image between square brackets
-        text = re.sub(r'[^\s\.]+\.[^\s\.]+', '', text)  # removing any link 
         text = re.sub(r'[^\s\.]+\>', '', text)  # removing any string of the form string>
         text = text.translate(str.maketrans(punct, ' '*len(punct)))
         text = ''.join([l for l in text if not l.isdigit()])
         text = re.sub(' +', ' ', text)  # striping extra white space
         text = text.strip()  # striping leading and trailing white space
         tokens = tok.tokenize(text)  # tokenizing (splitting based on whitespace)
-        if remove_words:
-            wds_to_remove = stpwds + words_to_remove
-        else:
-            wds_to_remove = stpwds
-        tokens = [token for token in tokens if (token not in wds_to_remove) and (len(token) > 1)]
+        tokens = [token for token in tokens if (token not in stpwds) and (len(token) > 1)]
         stemmer = FrenchStemmer()   
         tokens_stemmed = []
         for token in tokens:
@@ -127,12 +110,18 @@ def import_texts(texts_path):
     return texts
             
             
-def generate_data(data_hosts, texts):
+def generate_data(data_hosts, texts, remove_page_errors=True):
     """Get textual content of web hosts of the training set"""
     data = list()
     for host in data_hosts:
         if host in texts:
-            data.append(texts[host])
+            to_write = texts[host]
+            if (remove_page_errors and 
+                is_page_error(to_write, page_errors) and 
+                len(to_write) < 2000):
+                data.append('')
+            else:
+                data.append(to_write)
         else:
             data.append('')  
     return data

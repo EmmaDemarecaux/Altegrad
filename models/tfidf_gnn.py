@@ -31,7 +31,7 @@ test_data = generate_data(test_hosts, texts)
 
 # Preprocessing texts
 tokenizer = TweetTokenizer()
-punctuation = string.punctuation + '’“”.»«…'
+punctuation = string.punctuation + '’“”.»«…°'
 stpwords_fr = stopwords.words('french')
 stpwords_en = stopwords.words('english')
 cleaned_train_data = clean_host_texts(data=train_data, tok=tokenizer, 
@@ -67,7 +67,7 @@ dropout_rate = 0.4
 
 # Node embeddings
 vect = TfidfVectorizer(decode_error='ignore', sublinear_tf=True,
-                       min_df=0.06, max_df=0.7)
+                       min_df=0.06, max_df=0.9)
 X_embed = vect.fit_transform(cleaned_train_data + cleaned_test_data)
 
 # Set the feature of all nodes

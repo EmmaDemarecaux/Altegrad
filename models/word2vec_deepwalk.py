@@ -13,7 +13,7 @@ from utils_deepwalk import deepwalk
 sys.path.append('../')
 from preprocess import get_train_data, import_texts, generate_data, clean_host_texts
 
-#Generating train and test data
+# Generating train and test data
 data = '../data/'
 train_file = data + 'train.csv'
 train_hosts, y_train = get_train_data(train_file)
@@ -28,7 +28,7 @@ test_data = generate_data(test_hosts, texts)
 
 # Preprocessing texts
 tokenizer = TweetTokenizer()
-punctuation = string.punctuation + '’“”.»«…'
+punctuation = string.punctuation + '’“”.»«…°'
 stpwords_fr = stopwords.words('french')
 stpwords_en = stopwords.words('english')
 cleaned_train_data = clean_host_texts(data=train_data, tok=tokenizer,
@@ -36,7 +36,7 @@ cleaned_train_data = clean_host_texts(data=train_data, tok=tokenizer,
 cleaned_test_data = clean_host_texts(data=test_data, tok=tokenizer,
                                      stpwds=stpwords_fr + stpwords_en, punct=punctuation)
 
-#Apply the word2vec model on the train and the test data
+# Apply the word2vec model on the train and the test data
 w = Word2Vec(size=128, window=8, min_count=0, sg=1, workers=8)
 cleaned_train_data = [k.split(' ') for k in cleaned_train_data]
 cleaned_test_data = [k.split(' ') for k in cleaned_test_data]
@@ -96,6 +96,6 @@ with open('../word2vec_deepwalk.csv', 'w') as csv_file:
     lst.insert(0, "Host")
     writer.writerow(lst)
     for i, test_host in enumerate(test_hosts):
-        lst = y_pred[i,:].tolist()
+        lst = y_pred[i, :].tolist()
         lst.insert(0, test_host)
         writer.writerow(lst)

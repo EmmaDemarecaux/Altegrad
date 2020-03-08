@@ -26,7 +26,7 @@ test_data = generate_data(test_hosts, texts)
 
 # Preprocessing texts
 tokenizer = TweetTokenizer()
-punctuation = string.punctuation + '’“”.»«…'
+punctuation = string.punctuation + '’“”.»«…°'
 stpwords_fr = stopwords.words('french')
 stpwords_en = stopwords.words('english')
 cleaned_train_data = clean_host_texts(data=train_data, tok=tokenizer, 

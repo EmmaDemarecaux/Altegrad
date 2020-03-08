@@ -17,7 +17,7 @@ data = '../data/'
 train_file = data + 'train.csv'
 train_hosts, y_train = get_train_data(train_file)
 
-# Load the textual content of a set of webpages for each host into the dictionary "text".
+# Load the textual content of a set of web pages for each host into the dictionary "text".
 # The encoding parameter is required since the majority of our text is french.
 file_names = os.listdir('../text/text')
 splitting_text = '__________________________________________________________________'
@@ -140,7 +140,7 @@ for sublist in test_data_list:
 
 # Preprocessing texts
 tokenizer = TweetTokenizer()
-punctuation = string.punctuation + '’“”.»«…'
+punctuation = string.punctuation + '’“”.»«…°'
 stpwords_fr = stopwords.words('french')
 stpwords_en = stopwords.words('english')
 cleaned_train_data_texts = clean_host_texts(data=train_data_flat, tok=tokenizer,

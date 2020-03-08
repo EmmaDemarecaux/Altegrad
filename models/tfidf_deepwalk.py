@@ -13,7 +13,7 @@ from utils_deepwalk import deepwalk
 sys.path.append('../')
 from preprocess import get_train_data, import_texts, generate_data, clean_host_texts
 
-#Generating Train data without duplicates and test data
+# Generating Train data without duplicates and test data
 data = '../data/'
 train_file = data + 'train.csv'
 train_hosts, y_train = get_train_data(train_file)
@@ -29,7 +29,7 @@ test_data = generate_data(test_hosts, texts)
 
 # Preprocessing texts
 tokenizer = TweetTokenizer()
-punctuation = string.punctuation + '’“”.»«…'
+punctuation = string.punctuation + '’“”.»«…°'
 stpwords_fr = stopwords.words('french')
 stpwords_en = stopwords.words('english')
 cleaned_train_data = clean_host_texts(data=train_data, tok=tokenizer, 
