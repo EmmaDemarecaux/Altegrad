@@ -15,7 +15,7 @@ from preprocess import get_train_data, import_texts, generate_data, clean_host_t
 
 # Generating train data without duplicates and test data
 data = '../data/'
-train_file = data + 'train.csv'
+train_file = data + 'train_noduplicates.csv'
 train_hosts, y_train = get_train_data(train_file)
 texts_path = '../text/text'
 texts = import_texts(texts_path)

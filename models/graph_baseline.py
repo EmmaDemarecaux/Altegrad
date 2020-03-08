@@ -5,7 +5,7 @@ from sklearn.linear_model import LogisticRegression
 
 # Reading training data
 data = '../data/'
-with open(data + "train.csv", 'r') as f:
+with open(data + "train_noduplicates.csv", 'r') as f:
     train_data = f.read().splitlines()
 
 train_hosts = list()

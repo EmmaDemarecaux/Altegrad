@@ -13,7 +13,7 @@ sys.path.append('../')
 from preprocess import get_train_data, clean_host_texts
 
 data = '../data/'
-train_file = data + 'train.csv'
+train_file = data + 'train_noduplicates.csv'
 train_hosts, y_train = get_train_data(train_file)
 
 # Loading the textual content of a set of web pages for each host into the dictionary "text".
