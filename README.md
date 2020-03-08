@@ -18,6 +18,8 @@ Each `.py` file contained in this folder represents a model. Here is a brief des
 * `tfidf_gnn.py`: apply a _TF-IDF_ transformation on the text data and the _GNN_ method (contained in `utils_gnn.py`) on the graph data.
 * `tfidf_text.py`: apply a _TF-IDF_ transformation on the text data followed by a _Logistic Regression Model_.
 
+* `separate_texts.py`: creates _subtexts_ in a _./data_ folder and  runs a _Logistic Regression Model_ on the new data before aggregating the predictions.
+
 To generate the prediction file corresonding to a model, one needs to run the corresponding `.py` file as follows:
 
 1. Change the current working directory to models:
