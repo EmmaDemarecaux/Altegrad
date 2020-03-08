@@ -66,7 +66,7 @@ for i in range(x_train_or.shape[0]):
     x_train[i] = np.concatenate((x_train_or[i], embeddings[int(train_hosts[i])]))
 
 # Logistic Regression Model
-clf_lgr = Pipeline([('clf', LogisticRegression(max_iter=1000))])
+clf_lgr = Pipeline([('clf', LogisticRegression(tol=1e-05, C=4.59))])
 clf_lgr.fit(x_train, y_train)
 
 # Test data : TF-IDF transformation + creating the test features (mix of TF-IDF features and embeddings)
