@@ -40,8 +40,8 @@ It contains the following util files:
 
 * `utils_deepwalk.py`: contains the util functions to perform the _Deepwalk_ algortihm.
 * `utils_gnn.py`: contains the util functions to perform the _GNN_ model.
-* `tfidf_text_param_opt.py`: contains the code to optimize the parameters of the _TF-IDF_ - _Logistic Regression_ model using `skopt` bayesian optimisation. 
-In order to perform the optimisation:
+* `tfidf_text_param_opt.py`: contains the code to optimize the parameters of the _TF-IDF_ - _Logistic Regression_ model using `skopt` bayesian optimisation. In order to perform the optimisation:
+
     i. Change the current working directory to `utils`:
     ```
     cd utils
