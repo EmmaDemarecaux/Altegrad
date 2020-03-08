@@ -25,7 +25,7 @@ Each `.py` file contained in this folder represents a model. Here is a brief des
 
 To generate the prediction file corresponding to a model, one needs to run the corresponding `.py` file as follows:
 
-1. Change the current working directory to models:
+1. Change the current working directory to `models`:
 ```
 cd models
 ```
@@ -38,11 +38,10 @@ python3 model.py
 ## Folder 4 : utils 
 It contains the following util files:
 
-* `utils_deepwalk.py`: contains the util functions to perform the _deepwalk_ algortihm.
-* `utils_gnn.py`: contains the util functions to perform a _GNN_.
-* `tfidf_text_param_opt.py`: contains the code to optimize the parameters of the _TF-IDF_ - _Logistic Regression_ model using `skopt` bayesian optimisation.
-In order to perform the optimisation:
-    i. Change the current working directory to models:
+* `utils_deepwalk.py`: contains the util functions to perform the _Deepwalk_ algortihm.
+* `utils_gnn.py`: contains the util functions to perform the _GNN_ model.
+* `tfidf_text_param_opt.py`: contains the code to optimize the parameters of the _TF-IDF_ - _Logistic Regression_ model using `skopt` bayesian optimisation. In order to perform the optimisation:
+    i. Change the current working directory to `utils`:
     ```
     cd utils
     ```
@@ -53,4 +52,4 @@ In order to perform the optimisation:
  
 # Results
 
-Our best performing model on the Kaggle public leaderboard http://www.kaggle.com/c/fr-domain-classification comes from the file `tfidf_text.py`: the multi-class loss is 1.03771. 
+Our best performing model on the Kaggle public leaderboard (http://www.kaggle.com/c/fr-domain-classification) comes from the model `tfidf_text.py`: the multi-class loss achieved is 1.03771. 
