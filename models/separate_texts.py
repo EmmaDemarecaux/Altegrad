@@ -9,18 +9,19 @@ from nltk.corpus import stopwords
 from sklearn.pipeline import Pipeline
 from sklearn.linear_model import LogisticRegression
 from nltk.tokenize import TweetTokenizer
-sys.path.append('../')
+
+sys.path.append("../")
 from preprocess import get_train_data, clean_host_texts
 
-data = '../data/'
-train_file = data + 'train_noduplicates.csv'
+data = "../data/"
+train_file = data + "train_noduplicates.csv"
 train_hosts, y_train = get_train_data(train_file)
 
 # Loading the textual content of a set of web pages for each host into the dictionary "text".
 # The encoding parameter is required since the majority of our text is french.
-file_names = os.listdir('../text/text')
-splitting_text = '__________________________________________________________________'
-file_name_format = '#.txt'
+file_names = os.listdir("../text/text")
+splitting_text = "__________________________________________________________________"
+file_name_format = "#.txt"
 
 
 def new_f_out(input_file, file_num):
@@ -33,8 +34,12 @@ def new_f_out(input_file, file_num):
     Output :
         - f_out : file where to write the subtext  
     """
-    filename = '../text_data/' + input_file + file_name_format.replace('#', '_' + str(file_num))
-    f_out = open(filename, 'w')
+    filename = (
+        "../text_data/"
+        + input_file
+        + file_name_format.replace("#", "_" + str(file_num))
+    )
+    f_out = open(filename, "w")
     return f_out
 
 
@@ -51,11 +56,11 @@ def split_train(file_names, splitting_text, train_hosts):
         - y_train_text : their labels  
     """
     texts = dict()
-    y_train_text = list()  
+    y_train_text = list()
     for filename in file_names:
         if filename in train_hosts:
             texts[filename] = []
-            file = open(os.path.join('../text/text/', filename), errors='ignore')
+            file = open(os.path.join("../text/text/", filename), errors="ignore")
             lines = file.readlines()
             file_num = 1
             f_out = new_f_out(filename, file_num)
@@ -63,16 +68,29 @@ def split_train(file_names, splitting_text, train_hosts):
             for line in lines:
                 if splitting_text in line:
                     f_out.close()
-                    with codecs.open(os.path.join('../text_data/', filename + file_name_format.replace('#', '_' + str(file_num))),
-                                     encoding="utf8", errors='ignore') as ff:
+                    with codecs.open(
+                        os.path.join(
+                            "../text_data/",
+                            filename
+                            + file_name_format.replace("#", "_" + str(file_num)),
+                        ),
+                        encoding="utf8",
+                        errors="ignore",
+                    ) as ff:
                         texts[filename].append(ff.read().replace("\n", "").lower())
                     file_num += 1
                     f_out = new_f_out(filename, file_num)
                 else:
                     f_out.write(line)
             f_out.close()
-            with codecs.open(os.path.join('../text_data/', filename + file_name_format.replace('#', '_' + str(file_num))),
-                             encoding="utf8", errors='ignore') as ff:
+            with codecs.open(
+                os.path.join(
+                    "../text_data/",
+                    filename + file_name_format.replace("#", "_" + str(file_num)),
+                ),
+                encoding="utf8",
+                errors="ignore",
+            ) as ff:
                 texts[filename].append(ff.read().replace("\n", "").lower())
             for _ in range(file_num):
                 y_train_text.append(y_train[filename])
@@ -88,7 +106,7 @@ def split_test(file_names, splitting_text, test_hosts):
     for filename in file_names:
         if filename in test_hosts:
             texts[filename] = []
-            file = open(os.path.join('../text/text/', filename), errors='ignore')
+            file = open(os.path.join("../text/text/", filename), errors="ignore")
             lines = file.readlines()
             file_num = 1
             f_out = new_f_out(filename, file_num)
@@ -96,16 +114,29 @@ def split_test(file_names, splitting_text, test_hosts):
             for line in lines:
                 if splitting_text in line:
                     f_out.close()
-                    with codecs.open(os.path.join('../text_data/', filename + file_name_format.replace('#', '_' + str(file_num))),
-                                     encoding="utf8", errors='ignore') as ff:
+                    with codecs.open(
+                        os.path.join(
+                            "../text_data/",
+                            filename
+                            + file_name_format.replace("#", "_" + str(file_num)),
+                        ),
+                        encoding="utf8",
+                        errors="ignore",
+                    ) as ff:
                         texts[filename].append(ff.read().replace("\n", "").lower())
                     file_num += 1
                     f_out = new_f_out(filename, file_num)
                 else:
                     f_out.write(line)
             f_out.close()
-            with codecs.open(os.path.join('../text_data/', filename + file_name_format.replace('#', '_' + str(file_num))),
-                             encoding="utf8", errors='ignore') as ff:
+            with codecs.open(
+                os.path.join(
+                    "../text_data/",
+                    filename + file_name_format.replace("#", "_" + str(file_num)),
+                ),
+                encoding="utf8",
+                errors="ignore",
+            ) as ff:
                 texts[filename].append(ff.read().replace("\n", "").lower())
     return texts
 
@@ -123,9 +154,9 @@ for sublist in train_data_list:
         train_data_flat.append(item)
 
 # Tests sets
-with open(data + "test.csv", 'r') as f:
+with open(data + "test.csv", "r") as f:
     test_hosts = f.read().splitlines()
-    
+
 test_texts = split_test(file_names, splitting_text, test_hosts)
 
 test_data_list = list()
@@ -139,19 +170,40 @@ for sublist in test_data_list:
 
 # Preprocessing texts
 tokenizer = TweetTokenizer()
-punctuation = string.punctuation + '’“”.»«…°'
-stpwords_fr = stopwords.words('french')
-stpwords_en = stopwords.words('english')
-cleaned_train_data_texts = clean_host_texts(data=train_data_flat, tok=tokenizer,
-                                            stpwds=stpwords_fr + stpwords_en, punct=punctuation)
-cleaned_test_data = clean_host_texts(data=test_data_flat, tok=tokenizer,
-                                     stpwds=stpwords_fr + stpwords_en, punct=punctuation)
+punctuation = string.punctuation + "’“”.»«…°"
+stpwords_fr = stopwords.words("french")
+stpwords_en = stopwords.words("english")
+cleaned_train_data_texts = clean_host_texts(
+    data=train_data_flat,
+    tok=tokenizer,
+    stpwds=stpwords_fr + stpwords_en,
+    punct=punctuation,
+)
+cleaned_test_data = clean_host_texts(
+    data=test_data_flat,
+    tok=tokenizer,
+    stpwds=stpwords_fr + stpwords_en,
+    punct=punctuation,
+)
 
 # Logistic Regression Model
-clf_lgr = Pipeline([
-    ('vect', TfidfVectorizer(decode_error='ignore', sublinear_tf=True, ngram_range=(1, 1),
-                             min_df=0.0149, max_df=0.9, binary=False, smooth_idf=True)),
-    ('clf', LogisticRegression(tol=1e-05, C=4.59))])
+clf_lgr = Pipeline(
+    [
+        (
+            "vect",
+            TfidfVectorizer(
+                decode_error="ignore",
+                sublinear_tf=True,
+                ngram_range=(1, 1),
+                min_df=0.0149,
+                max_df=0.9,
+                binary=False,
+                smooth_idf=True,
+            ),
+        ),
+        ("clf", LogisticRegression(tol=1e-05, C=4.59)),
+    ]
+)
 clf = clf_lgr
 clf.fit(cleaned_train_data_texts, y_train_txt)
 y_pred = clf.predict_proba(cleaned_test_data)
@@ -171,8 +223,8 @@ for i in range(n):
     p = q
 
 # Write predictions to a file
-with open('../separate_texts.csv', 'w') as csvfile:
-    writer = csv.writer(csvfile, delimiter=',')
+with open("../separate_texts.csv", "w") as csvfile:
+    writer = csv.writer(csvfile, delimiter=",")
     lst = clf.classes_.tolist()
     lst.insert(0, "Host")
     writer.writerow(lst)

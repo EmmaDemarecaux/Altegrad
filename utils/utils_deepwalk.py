@@ -17,10 +17,12 @@ def random_walk(g, node_, n):
         if len(neighbors) > 0:
             weights = list()
             for neigh in neighbors:
-                weights.append(g[walk[-1]][neigh]['weight'])
+                weights.append(g[walk[-1]][neigh]["weight"])
             weights = np.array(weights)
-            weights = weights/np.sum(weights)
-            indices = np.random.choice(np.arange(0, len(neighbors)), size=1, p=weights)[0]
+            weights = weights / np.sum(weights)
+            indices = np.random.choice(np.arange(0, len(neighbors)), size=1, p=weights)[
+                0
+            ]
             walk.append(neighbors[indices])
         else:
             break

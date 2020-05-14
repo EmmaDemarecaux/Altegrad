@@ -17,7 +17,7 @@ def normalize_adjacency(a):
     a_tilde = a + np.eye(a.shape[0])
     d = np.sum(a_tilde, axis=1)
     d = d.squeeze().tolist()[0]
-    d = np.power(d, -1/2)
+    d = np.power(d, -1 / 2)
     d_tilde = np.diag(d)
     a_normalized = np.dot(np.dot(d_tilde, a_tilde), d_tilde)
     return a_normalized
@@ -33,6 +33,7 @@ def accuracy(output, labels):
 
 class GNN(nn.Module):
     """Simple GNN model"""
+
     def __init__(self, n_feat, nh_1, nh_2, nc, dropout):
         super(GNN, self).__init__()
         self.fc1 = nn.Linear(n_feat, nh_1)

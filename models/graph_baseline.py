@@ -4,8 +4,8 @@ import numpy as np
 from sklearn.linear_model import LogisticRegression
 
 # Reading training data
-data = '../data/'
-with open(data + "train_noduplicates.csv", 'r') as f:
+data = "../data/"
+with open(data + "train_noduplicates.csv", "r") as f:
     train_data = f.read().splitlines()
 
 train_hosts = list()
@@ -16,11 +16,11 @@ for row in train_data:
     y_train.append(label.lower())
 
 # Reading test data
-with open(data + "test.csv", 'r') as f:
+with open(data + "test.csv", "r") as f:
     test_hosts = f.read().splitlines()
 
 # Create a directed, weighted graph
-G = nx.read_weighted_edgelist(data + 'edgelist.txt', create_using=nx.DiGraph())
+G = nx.read_weighted_edgelist(data + "edgelist.txt", create_using=nx.DiGraph())
 print(G.number_of_nodes())
 print(G.number_of_edges())
 
@@ -48,13 +48,13 @@ print("Train matrix dimensionality: ", X_train.shape)
 print("Test matrix dimensionality: ", X_test.shape)
 
 # Using logistic regression to classify the web pages of the test set
-clf = LogisticRegression(solver='lbfgs', multi_class='auto', max_iter=2000)
+clf = LogisticRegression(solver="lbfgs", multi_class="auto", max_iter=2000)
 clf.fit(X_train, y_train)
 y_pred = clf.predict_proba(X_test)
 
 # Write predictions to a file
-with open('../graph_baseline.csv', 'w') as csvfile:
-    writer = csv.writer(csvfile, delimiter=',')
+with open("../graph_baseline.csv", "w") as csvfile:
+    writer = csv.writer(csvfile, delimiter=",")
     lst = clf.classes_.tolist()
     lst.insert(0, "Host")
     writer.writerow(lst)
